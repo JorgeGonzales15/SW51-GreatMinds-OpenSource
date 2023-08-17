@@ -1,4 +1,4 @@
-![](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
+![](https://i.imgur.com/OV7AfWu.jpeg)
 
 Universidad Peruana de Ciencias Aplicadas
 

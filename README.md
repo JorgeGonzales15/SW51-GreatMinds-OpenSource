@@ -30,5 +30,15 @@ Agosto del 2023
 ---
 # Registro de Versiones del Informe
 
+| Versión | Fecha | Autor | Descripción de la modificación |
+| - | - | - | - |
+|  |  |  |  |
+|  |  |  |  |
+
+---
+#Project Repor Collaboration Insights
+
+Link de repositorio Github: 
+
 
 

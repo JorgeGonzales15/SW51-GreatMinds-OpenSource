@@ -1,4 +1,4 @@
-![](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/blob/main/img/UPC_logo_transparente.png)
+![](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
 
 Universidad Peruana de Ciencias Aplicadas
 

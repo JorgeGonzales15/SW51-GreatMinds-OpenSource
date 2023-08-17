@@ -36,7 +36,7 @@ Agosto del 2023
 |  |  |  |  |
 
 ---
-#Project Repor Collaboration Insights
+# Project Report Collaboration Insights
 
 Link de repositorio Github: 
 

@@ -102,8 +102,17 @@ del ABET – EAC - Student Outcome 3.
 
 ## 3.1. To-Be Scenario Mapping.
 ## 3.2. User Stories.
+
+| Epic/Story | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
+| - | - | - | - | - |
+|  |  |  |  |  |
+
 ## 3.3. Impact Mapping.
 ## 3.4. Product Backlog.
+
+| #Orden | User Story Id | Título | Descripción | Story Points (1 / 2 / 3 / 5 / 8) |
+| - | - | - | - | - |
+|  |  |  |  |  |
 
 # Capítulo IV: Product Design
 
@@ -152,9 +161,29 @@ del ABET – EAC - Student Outcome 3.
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint n
 #### 5.2.1.1. Sprint Planning n.
+
+| Sprint # |  | 
+| - | - | 
+| Sprint Planning Background |  |
+| Date |  |
+| Time |  |
+| Location |  |
+| Prepared By |  |
+
 #### 5.2.1.2. Sprint Backlog n.
 #### 5.2.1.3. Development Evidence for Sprint Review.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| - | - | - | - | - | - |
+|  |  |  |  |  |  |
+
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| - | - | - | - | - | - |
+|  |  |  |  |  |  |
+
+
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.

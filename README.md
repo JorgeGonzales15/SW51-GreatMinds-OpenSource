@@ -124,6 +124,7 @@ Para especificar dónde residen las problemáticas tenemos que observar el compo
 Los principales afectados por las problemáticas relacionadas al sector agrario, según el INEI (2022), en el segundo trimestre del año 2022, 4.1 millones de personas trabajaron en el sector agrícola. Como se puede apreciar, esta cifra es considerablemente alta para abarcar tanto a los productores de cultivos como a los exportadores o comercializadores.
 
 **¿Por qué? (Why)**
+
 Moreno (2022, como se citó en CEECI, 2022) resaltó las causas de los problemas estructurales del sector agrario, entre ellos está el bajo nivel de desarrollo competitivo, la baja integración de los productores en la cadena de valor, el alto índice de familias de productores con escaso acceso al mercado y el inadecuado uso de recursos naturales en la producción.
 
 **¿Cómo? (How)**
@@ -144,7 +145,16 @@ Luego de haber desarrollado las 5W’s y 2H’s se logró desarrollar una visió
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 #### 1.2.2.4. Lean UX Canvas.
 
+![canva](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/c0507000-b2bd-4708-b688-8caa5942e26e)
+
 ### 1.3. Segmentos objetivo.
+
+| Tipo de Usuario | Productores que deseen mejorar la calidad de sus cultivos | Exportadores que deseen comercializar productos de calidad | 
+| - | - | - |
+| Geografico | País: Perú / Zona residencial: Zonas rurales que cuentan con campos de cultivo | País: Perú / Zona residencial: Zona aledaña a campos de cultivo |  
+| Psicográfico | Clase Social: Media - Baja / Estilo de Vida: Deben ser personas con conocimientos familiares o técnicos de cultivos, que participen activamente en el cuidado de una parcela para obtener ganancias de la cosecha. | Clase social: No es relevante dado que pueden ser comerciantes independientes o entidades en conjunto. / Estilo de vida: Deben ser personas que se dedican a la compra/venta de productos agrícolas con contacto directo con los productores. |  
+| Demográfico | Edad: 20-50 / Nivel de Ingreso: No es relevante, pues está dirigido a cualquier persona pero que se dedique a la producción de cultivo | Edad: 20-50 / Nivel de ingreso: No es relevante. | 
+
 
 # Capítulo II: Requirements Elicitation & Analysis
 
@@ -184,10 +194,99 @@ Luego de haber desarrollado las 5W’s y 2H’s se logró desarrollar una visió
 
 ## 4.1. Style Guidelines.
 ### 4.1.1. General Style Guidelines.
+
+
+Mediante la aplicación Ayni se busca que los usuarios gocen de una interfaz que transmite formalidad, profesionalismo y la serenidad que transmiten los paisajes de campos de cultivo de Perú. Por ello, el equipo tomó la decisión de emplear recursos visuales que capten la atención de los segmentos objetivos y que sean fáciles de identificar. Como estrategia se utilizaron colores pasivos, con temperaturas frías (verde y azul) junto con fuentes tipográficas con diferentes tamaños y espaciados ligeramente amplios, con el propósito de generar placer visual y lograr que el texto sea más visible. Cabe destacar que no se emplearán texturas, pues se busca mantener un aspecto mini
+
+**Brand Overview**
+
+El producto solución Ayni, surge a partir de la necesidad de mejorar la calidad de los productos de cultivo a través de mejorar los procesos y el flujo de ganancias de los productos y de los comerciantes respectivamente. A partir de esto, se propuso desarrollar una aplicación web que facilitará la planificación de cultivos, entre otras funciones con el fin de atender las necesidades previamente mencionadas.
+
+**Brand Name**
+
+El nombre del producto es Ayni. Este nombre nació de la lengua quechua para referirse al trabajo común y a la reciprocidad, que es lo que se desea para los clientes, nosotros les damos una aplicación web eficiente para ayudar a sus rutinas de cultivo y ellos nos dan el reconocimiento por facilitarles la tarea. Por otro lado, el logo de Ayni representa la esperanza y la vida a través de una hoja verde.
+
+![Ayni Logo](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/ceb29e85-3c65-4758-85e6-feae0881ad60)
+
+
+**Colores**
+
+Colores primarios: El color primario empleado para el diseño del producto y para el logotipo es una escala de colores similares a la celeste aguamarina, el cual es una mezcla entre azul y verde que transmite balance, armonía, seguridad y novedad. Estas características permiten elaborar una interfaz no intrusiva, donde el fondo pasa desapercibido y como consecuencia, indirectamente otorga mayor prioridad al texto.
+
+![Colores primarios](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/4a45a2af-990a-44f4-b4f8-7db5d0fc5133)
+
+Colores secundarios: Como color secundario se seleccionó una escala de verdes, los cuales transmiten sentimientos tales como armonía, serenidad, sensación de crecimiento y están arraigados a conceptos como prestigio y bonanza económica, lo cual encaja a la perfección con el enfoque que buscamos potenciar de los agricultores.
+
+![Colores secundarios](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/4e048e5c-9a84-459d-9965-e4891e8f2e3b)
+
+Colores adicionales: Como colores adicionales se seleccionaron blanco, negro y dos tonalidades diferentes de rojo. Estos serán empleados dentro de la tipografía, botones y mensajes de la aplicación. El blanco también será empleado para algunos fondos que requieran que la visibilidad del texto resalte con mayor ímpetu.
+
+![Adicionales](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/f7790537-54c7-4226-92bc-11323d7cf5b0)
+
+**Tipografia:**
+
+El equipo seleccionó la fuente de letra Archivo, un estilo tradicional y fácil de leer. La separación del interletraje es de 0,15 px, el interlineado es de 0,5 px y el tamaño de la fuente varía dependiendo de la finalidad de uso, por ejemplo, para los títulos se opta por un tamaño de 56 px, y para el texto redactado por el usuario 27 px. 
+
+![Tipografia](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/2e9abaf9-db14-4c7f-b000-2a60df98a8c6)
+
+Tono de comunicación y lenguaje aplicado
+El tipo de lenguaje a emplear será serio y formal junto con entusiasmo y serenidad. Dado que se agregarán mejoras y pasos que captarán la atención del usuario. Asimismo, se agregaron elementos para perfeccionar la interfaz y diseño final para los clientes.
+
+
 ### 4.1.2. Web Style Guidelines.
 
 ## 4.2. Information Architecture.
+
+En la presente sección, se establecerá la estructura del software según cada segmento objetivo. Del mismo modo, los distintos elementos que se emplearán en la navegación dentro de la aplicación. 
+
 ### 4.2.1. Organization Systems.
+
+En el presente punto se indicará los grupos de información en los cuales se aplicarán los tipos de estructuración visual, además, se indicará para qué segmento objetivo está diseñado y que tipo de categorización se utilizará
+
+**Segmento: Productores que desean mejorar su producción**
+
+**Jerárquica:**
+
+Lista de productos: los productores podrán visualizar sus productos que se mostrarán de manera ordenada mediante una lista. Con ello, los exportadores podrán ver los productos que tienen los productores
+
+Lista de planificación de cultivo: Los productores luego de escoger un producto, se le mostrará sus planes de cultivo y asimismo empezar uno nuevo si no hay existentes. 
+
+Historial de calidad de cultivos: Los productores podrán ver y registrar la calidad de los productos luego del proceso de cultivo, asimismo las cantidades serán registradas y posteriormente aparecerán en el historial como reportes o informes con los detalles. Con ello, los exportadores podrán ver los informes de calidad y cantidad de los productores.
+
+Lista de los costos y ganancias: Los productores podrán gestionar sus costos y ganancias, visualizando una lista ordenada de costos separada de ganancias. Esta información puede registrarse si no hay existentes y los datos serán sumados según periodo de tiempo que introduzca el usuario o predeterminadamente en meses. 
+
+**Secuencial:**
+
+Atención de pedidos: En esta sección el productor puede atender los pedidos que realicen los exportadores de manera secuencial. Para ello, se deberá seguir ciertos pasos como la elección de aceptar el pedido o no, negociación de precio, selección de fecha, hora y lugar para la venta y la selección de método de pago.
+
+**Matricial:**
+
+Calendario de cultivo: En esta sección el usuario visualizará las acciones que debe realizar en ciertos días propios de cada plan de cultivo, también se presentará la opción de editar los horarios de los planes establecidos. Esta información se presentará en un calendario donde el usuario podrá visualizar los pasos seleccionando un dia.
+
+**Segmento: Exportadores o comerciantes que desean vender productos de calidad**
+
+**Jerárquica:**
+
+Búsqueda de productos: El comerciante será capaz de buscar productos asimismo revisar el reporte de calidad y cantidad del cultivo donde fue extraído.
+
+Calificación del servicio: El comerciante será capaz de realizar calificación en base a la producción que se pactó en la venta con el productor.
+
+Historial de compras: El comerciante será capaz de revisar sus compras pasadas asimismo la información detallada como precio, detalle de producto, peso, fecha, hora y lugar de la compra.
+
+**Secuencial:**
+
+Pedido de productos: En esta sección, se necesitaran realizar ciertos pasos como selección del producto, revisión de informe de cultivo, añadir propuesta de precio, añadir fecha, hora y lugar para el pedido. Este proceso es obligatorio para la elección de atender un pedido por parte del productor e indispensable para realizar una venta.
+
+Algunas de las funcionalidades ofrecidas van dirigidas a ambos segmentos objetivos, estas son:
+
+**Jerarquica:**
+
+Landing Page: En esta sección se presentará a los visitantes del sitio web estático y toda la información acerca del producto solución. Esta información se mostrará categorizada por secciones y organizada en base a su relevancia. Algunas de las secciones a presentar son: 
+
+**Matricial:**
+Menú de opciones: Tanto productores como exportadores contarán con un menú de opciones que le permita acceder a cada una de las funciones de Ayni. Estas se presentaron en una lista sin ningún orden en especifico, solo variara de acuerdo con el segmento al que pertenezca el usuario
+
+
 ### 4.2.2. Labeling Systems.
 ### 4.2.3. SEO Tags and Meta Tags
 ### 4.2.4. Searching Systems.

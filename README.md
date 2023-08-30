@@ -177,6 +177,8 @@ Luego de haber desarrollado las 5W’s y 2H’s se logró desarrollar una visió
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping.
+En esta parte se utilizó el “TO-BE Scenario Mapping” para ello se hizo una representación visual de cómo deberían ser los procesos después de implementar las mejoras y cambios sugeridos. Es una parte crucial de la metodología de mejora de procesos y ayuda a las organizaciones a visualizar cómo podrían ser sus operaciones optimizadas en el futuro.
+https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/364e9acb-a307-4de6-95f4-20148221907f
 ## 3.2. User Stories.
 
 | Epic/Story | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
@@ -184,6 +186,9 @@ Luego de haber desarrollado las 5W’s y 2H’s se logró desarrollar una visió
 |  |  |  |  |  |
 
 ## 3.3. Impact Mapping.
+Se utilizó el Impact Mapping para definir y visualizar los objetivos y resultados deseados en el proyecto para cada uno de los segmentos.
+https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/3ef9ef91-be98-451c-89b6-fae6e3ce98d5
+https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/659162bf-af13-4dab-8226-02ac018ed162
 ## 3.4. Product Backlog.
 
 | #Orden | User Story Id | Título | Descripción | Story Points (1 / 2 / 3 / 5 / 8) |

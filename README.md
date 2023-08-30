@@ -235,6 +235,11 @@ El tipo de lenguaje a emplear será serio y formal junto con entusiasmo y sereni
 
 ### 4.1.2. Web Style Guidelines.
 
+La página web está diseñada para mostrarse en el dispositivo que se esté usando, ya sea desde una computadora o dispositivo móvil, el sitio web estará disponible en ambas plataformas para proporcionar una mejor experiencia de usuario. Además, el patrón de diseño web usado es Flat Design, para que el usuario tenga una alta comprensión y una fácil interacción al momento de estar en la interfaz. 
+
+Se utilizará el patrón 
+
+
 ## 4.2. Information Architecture.
 
 En la presente sección, se establecerá la estructura del software según cada segmento objetivo. Del mismo modo, los distintos elementos que se emplearán en la navegación dentro de la aplicación. 
@@ -288,11 +293,98 @@ Menú de opciones: Tanto productores como exportadores contarán con un menú de
 
 
 ### 4.2.2. Labeling Systems.
+
+A continuación, el equipo mostrará el sistema de etiquetado que otorgará una descripción breve y clara de la información brindada por la Landing Page.
+
+**Los encabezados serán los siguientes:**
+
+- Inicio/Home: Sección preseleccionada por defecto que brindara una frase representativa y el logo de la aplicación, además brindara una idea principal del objetivo de esta.
+
+- Sobre nosotros/About Us: Sección donde el cliente obtiene información acerca del equipo de desarrollo, será capaz de visualizar nuestra misión, visión, quienes somos y qué hacemos.
+
+- Services/Funcionalidades: Sección dividida para cada segmento objetivo donde se mostrará las funcionalidades que otorga la aplicación para ellos.
+
+- Contactanos/Contact Us: Sección donde se muestran nuestros canales de comunicación.
+
+A continuación, el equipo mostrará el sistema de etiquetado que otorgará una descripción breve y clara de las funcionalidades brindadas por la aplicación web-
+
+**Los encabezados son los siguientes:**
+
+**Para productores:**
+
+- Inicio/Home: En esta página preseleccionada por defecto que presentará los productos que tiene en cultivo además de mostrar las fechas con actividades provenientes de los planes de cultivo. Finalmente, saldrá publicidad de proveedores de insumos.
+
+- Mis Productos/My Products: Página que muestra los productos existentes que están en proceso de cultivo. Además, si no hay productos existentes estará presente un botón para agregar uno.
+
+- Gestión financiera / Financial Management : Página donde el usuario podrá registrar y ver sus costos y ganancias, tendrá la opción de añadir costos y gastos junto con una descripción, fecha y hora, separadas en filas y columnas.
+
+- Mis Pedidos / My Orders: Página donde el usuario podrá ver y atender los pedidos que realicen los exportadores o comerciantes. 
+
+**Para comerciantes:**
+
+- Inicio/Home: Página preseleccionada por defecto que presentará el número de productos que se compró o publicidad, además de mostrar los pedidos que se acordaron recientemente.
+
+- Search Products / Buscar productos: Página donde el comerciante podrá buscar los productos que desea vender, además se hará el contacto con el productor y acordar el precio. 
+
+- Rate Products / Calificar productos: Página donde el comerciante podrá calificar los productos que compró a los productores. Esta calificación será en base a números.
+
 ### 4.2.3. SEO Tags and Meta Tags
+
+En esta sección, se presentarán las etiquetas que identificarán y diferenciarán al sitio web de los demás en internet. Gracias a ellos, se podrá encontrar a Ayni en los diversos buscadores.
+
+Para el sitio web estático:
+
+Tittle: Ayni
+
+Description: Ayni - GreatMinds Oficial Landing Page
+
+Keywords: harvest management, sell crops, harvest suppliers
+
+Authors: GreatMinds team
+
+Para la aplicación web:
+
+Tittle: Ayni
+
+Description: Ayni - GreatMinds Oficial Web Page
+
+Keywords: harvest management, sell crops, harvest suppliers, crop planning, 
+
+Authors: GreatMinds team
+
 ### 4.2.4. Searching Systems.
+
+En esta sección se presentarán los sistemas de búsqueda que se implementarán en la aplicación. Al hacer uso de esos sistemas, los usuarios podrán encontrar la información que requieran.
+
+En el sitio web estático, los usuarios podrán utilizar la barra de navegación para buscar la información acerca del producto solución, paralelas funcionalidades se hará uso interactivo de un botón donde se alternará entre “Para productores” y “Para comerciantes”
+
+**En la aplicación web:**
+
+**Segmento: Productores que desean mejorar la calidad de sus productos**
+
+- Mis productos: Esta sección le permitirá al productor realizar el seguimiento de sus cultivos. En esta sección luego el productor podrá realizar un plan de cultivo en la siguiente página luego de seleccionar el producto en “Mis productos”. En esta sección se podrá usar un buscador que contará con la función de filtro para los productos asimismo con la sección de planes de cultivo, donde se podrá realizar búsquedas de planes de cultivo predeterminado o hacer uno personalizado. Posteriormente, los resultados de esta búsqueda mostrarán una lista de lo deseado. 
+
+- Gestión de finanzas: Esta sección le permitirá al usuario realizar registros de sus costos y ganancias. Debido a ello, desde estos registros se pueden almacenar en días del calendario. Por defecto estos costos aparecerán en orden de origen, sin embargo, puede aplicar un filtro para ver entre días de un mes en específico. 
+
+- Mis pedidos: Esta sección le permitirá al usuario atender los pedidos que los comerciantes realicen, es de elección del productor atenderlos o no. Se mostrarán los pedidos en una lista según orden de origen predeterminadamente, pero estarán filtros para visualizar los pedidos según meses o días. 
+
+**Segmento: Exportadores o comerciantes que desean mejorar la calidad de sus ventas**
+
+- Búsqueda de productos: Esta sección es una de las más importantes para el flujo principal de la aplicación debido a ello, contará con un sistema de búsqueda mediante una barra para que los comerciantes busquen el producto en específico. En esta sección también se podrá acordar la venta, introducir un precio, fecha, hora y lugar. Posteriormente, se realiza la venta.
+
+
 ### 4.2.5. Navigation Systems.
 
+A continuación, el equipo mostrará los sistemas de navegación con los que contará Ayni para permitir a los usuarios navegar de manera rápida y segura a cualquier bloque de información.
+
+En el Landing Page, se cuenta con encabezados que representan a las diversas secciones que estarán presentes. Estas estarán ubicadas en la parte superior de la página como menú horizontal siempre presente a la hora de bajar y subir con el ratón. Para que el usuario no tenga que realizar una traslación de manera manual por toda la página para llegar a una sección, se podrá usar estos encabezados para ubicarse inmediatamente en el sector que se desee. Obviamente, el visitante tiene que haber leído el título del encabezado para asegurarse de que se ubicará en la zona adecuada. Gracias a esto, se genera una traslación fácil e intuitiva.
+
+En el caso de la aplicación web, se presenta un proceso similar para el menú principal, se utilizarán diversas opciones que presenta para trasladarse a otra página del sitio web. Estas opciones variarán de acuerdo al segmento objetivo al que pertenezca el usuario. Del mismo modo, se utilizan listados para los grupos de elementos, Dentro de estas listas podrán aplicar filtros que permitan a los usuarios navegar entre esas opciones.
+
+
 ## 4.3. Landing Page UI Design.
+
+En esta sección se mostrará el desarrollo visual del Landing Page. Para ello, se usuará la herramienta de diseño web Figma, debido a sus funciones y plugins que nos permite desarrollar el prototipo sin dificultades. Asimismo se evidenciará el uso de los Style Guidelines e Information architecture.
 ### 4.3.1. Landing Page Wireframe.
 ### 4.3.2. Landing Page Mock-up.
 
@@ -305,6 +397,10 @@ Menú de opciones: Tanto productores como exportadores contarán con un menú de
 
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
+
+![Contexto](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/63cb482a-5732-4eb3-b44d-892a6d9d3fc0)
+
+
 ### 4.6.2. Software Architecture Container Diagrams.
 ### 4.6.3. Software Architecture Components Diagrams.
 
@@ -319,9 +415,41 @@ Menú de opciones: Tanto productores como exportadores contarán con un menú de
 
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
+
+Utilizaremos principalmente como IDEs: Visual Studio Code o  WebStorm, cada una con su configuración debida para no causar conflictos con carpetas personalizadas de cada IDE. Más adelante se hará uso de IntelliJ IDEA para la implementación de las APIs.
+
+Como herramientas de desarrollo se hará uso de la última versión disponible de Node.js. Para el frontend, se usará el framework web Angular versión 13. El cual se instalará mediante nvm en su versión de Windows. Como framework de diseño se usará Angular Material UI. Finalmente, para el backend, se utilizará el lenguaje de programación de Java.
+
+Como herramientas SaSS, se usará GitHub como herramienta para colaboración de código. También usaremos Trello para la elaboración de los Product Backlog. Vertabelo, para la elaboración del diagrama de base de datos. Codegram, para la elaboración del diagrama de clases y LucidChart, para diagramas adicionales
+
+Para el desarrollo del landing page, se decidió con el equipo usar HTML, JS y CSS. Para llevarlo a cabo se eligieron diversas herramientas tecnológicas de las cuales el equipo ya está acostumbrado y tienen un cierto dominio. Estas herramientos son las siguientes:
+
+- Visual Studio Code: Es un editor de código gratuito, moderno y potente gracias a que cuenta con varias funciones y extensiones para trabajar con cualquier lenguaje de programación. Además es bastante conocida por todos los integrantes del equipo y debido a ello se decidió trabajar con Visual Studio Code. Para la instalación del programa, se puede  conseguir desde su página web oficial: una vez descargado se puede proceder con la instalación de forma rápida y fácil.
+
+- Git y Github: Se usaron estas herramientas por la razón de que hoy en día es un estándar usar Git para el control de versiones de software y se eligió GitHub por ser la plataforma más popular y fácil de usar para crear y manejar repositorios, tener funciones para ver cambios, commits, pull request, entre otros. El enlace de descarga del instalador de GitHub Desktop es 
+
+- Live Server: Finalmente, para acelerar el desarrollo del landing page, se usó esta extensión que sirve para visualizar los cambios inmediatamente después de alguna modificación en el código así se evita estar recargando la página, lo cual es un ahorro de tiempo y comodidad al desarrollar.
+
+
 ### 5.1.2. Source Code Management.
+
+Como mencionamos anteriormente, se utilizará GitHub para llevar un control de las versiones de desarrollo y poder trabajar de forma colaborativa. Para ello, se creó una organización llamada: [Github Organización](https://github.com/upc-pre-202302-GreatMinds-SW51) 
+
+Repositorio del landing page: [Repositorio Landing Page](https://github.com/Caszarjos/Ayni_Landing) 
+
+Repositorio Frontend:
+
+Repositorio Backend:
+
+
 ### 5.1.3. Source Code Style Guide & Conventions.
+
+Referente a las convenciones o estilos de programación, se seguirá la guía de estilos de Google para programar en HTML (Google HTML) y CSS (CSS Style Guide). En el caso de la implementación del frontend, se utilizará Options API para el Framework Vue.
+Respecto a las convenciones para el control de versiones en GitHub, se usará conventional commits tanto para las ramas como para los commits usando “<type>/<title>”. En cuanto a la creación de ramas, se usará features branches siguiendo el modelo de GitFlow con la misma nomenclatura descrita anteriormente. La rama principal será la rama main, que contendrá la versión de la aplicación desplegada. Además, todos los hotfixes se realizan en ella, para así poder tener los arreglos desplegados de forma automática.
+
 ### 5.1.4. Software Deployment Configuration.
+
+Para el despliegue del Landing Page se utilizará Netlify, para el despliegue automático y gracias a su integración con GitHub se irá actualizando con cada commit realizado y para el Frontend de la aplicación se usará Netlify. Finalmente, para el despliegue del RESTful API, se usará Azure Web App Service.
 
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint n
@@ -335,7 +463,13 @@ Menú de opciones: Tanto productores como exportadores contarán con un menú de
 | Location |  |
 | Prepared By |  |
 
-#### 5.2.1.2. Sprint Backlog n.
+#### 5.2.1.2. Sprint Backlog 1.
+
+Implementación del Landing Page acorde con las User Stories.
+
+![Sprint1](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/4985cc01-4127-47e5-ba71-5cad905133ff)
+
+
 #### 5.2.1.3. Development Evidence for Sprint Review.
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
@@ -344,12 +478,23 @@ Menú de opciones: Tanto productores como exportadores contarán con un menú de
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 
-| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
-| - | - | - | - | - | - |
-|  |  |  |  |  |  |
-
+Esta sección no fue posible integrar en la presente entrega debido a que el código realizado fue para el desarrollo de la landing page.
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
+
+En este apartado se hace presenta la implementación/despliegue de la landing page del producto solución Ayni.
+
+![Sprint Evidence Landing (1)](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/4da61194-1ee7-4012-a786-5dc804e68d2c)
+
+Link del video: [Video Evidencia](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EboHBmisglROmEJioyVBF5YBZ_Pr7cydTYr8pFi8njPn8A?e=SJBY3T) 
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+No se utilizó ningún servicio adicional, pues este primer Sprint solo consta de la implementación del landing page.
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+Como se mencionó, se utilizó Netlify para el despliegue automático del landing page con todos los cambios realizados por el equipo. Netlify se integra con nuestra organización en GitHub y luego con el repositorio, siendo la rama main la que utilizamos para el despliegue. El enlace es el siguiente: 
+[Ayni Landin Page](https://ayniladingpage.netlify.app/ )
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint.

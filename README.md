@@ -32,8 +32,7 @@ Agosto del 2023
 
 | Versión | Fecha | Autor | Descripción de la modificación |
 | - | - | - | - |
-|  |  |  |  |
-|  |  |  |  |
+| 1.00 | 08/09/2022 | Jorge Gonzales, Paolo Espejo, Miguel Huaman, Tatiana Paucar, Jose Zarate | Implementación de startup profile, solution profile, segmento objetivo, competidores, entervistas, needfinding, journey map, product backlog, entre otros. Asimismo, la implementación de Landing Page Wireframe, Landing Page Mockup, Information Architecture, Software Architecture Context Diagram, Class Diagram, Software Configuration Management, entre otros. |
 
 ---
 # Project Report Collaboration Insights
@@ -60,8 +59,8 @@ del ABET – EAC - Student Outcome 3.
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 | - | - | - |
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | | |
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | | |
+| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | **Jorge Gonzales - TB1:** Se ha definido el alcance del proyecto, la temática, y la delegación de tareas. <br> **Paolo Espejo -TB1:** Se realizaron las entrevistas comunicando oralmente las preguntas necesarias para obtener información por parte del segmento objetivo y se realizó el analisis de todas las entrevistas sustendando al equipo las funcionalidades que desean los usuarios. <br> **Tatiana Paucar - TB1:** Se propuso el Lean UX process al equipo y consultándolo entre todo el equipo se hizo el desarrollo de este. Asimismo, se propuso el modelado de diagrama de clases y de base de datos. <br> **Miguel Huaman -TB1:** Se propuso el needfinding y se comunicó las caracteristicas de desarrollo a todo el equipo. <br> **Jose Zarate - TB1:** Se propuso ideas para el capítulo de Requirements Specification y los mockups y wireframes de la landing page. | Se distribuyeron diferentes actividades para el desarrollo del trabajo para que cada integrante pueda desempeñarse en un área en específica, luego pudimos realizar las tareas asignadas. Para finalizar, todos los integrantes del equipo lograron comunicar oralmente sus ideas de manera eficaz |
+| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería. | **Jorge Gonzales - TB1:** Se realizaron propuestas escritas para los General Style Guidelines asimismo propuestas para los wireframes y mockups para la aplicación web. <br> **Paolo Espejo - TB1** Se realizó el planteamiento de las preguntas para las entrevistas y se hizo el analisis de estas. <br> **Tatiana Paucar - TB1:** Se plantearon en escrito el Lean UX Process y los diagramas de clases y de base de datos. <br> **Miguel Huaman - TB1:** Se plantearon los puntos del NeedFinding. <br> **Jose Zarate - TB1:** Se plantearon los mockups y wireframes de la landing page | Cada integrante desarrolló los items para esta entrega y comúnico sus aportes de manera escrita y formal para este sprint. |
 
 ---
 # Capítulo I: Introducción
@@ -151,9 +150,9 @@ Luego de haber desarrollado las 5W’s y 2H’s se logró desarrollar una visió
 
 | Tipo de Usuario | Productores que deseen mejorar la calidad de sus cultivos | Exportadores que deseen comercializar productos de calidad | 
 | - | - | - |
-| Geografico | País: Perú / Zona residencial: Zonas rurales que cuentan con campos de cultivo | País: Perú / Zona residencial: Zona aledaña a campos de cultivo |  
-| Psicográfico | Clase Social: Media - Baja / Estilo de Vida: Deben ser personas con conocimientos familiares o técnicos de cultivos, que participen activamente en el cuidado de una parcela para obtener ganancias de la cosecha. | Clase social: No es relevante dado que pueden ser comerciantes independientes o entidades en conjunto. / Estilo de vida: Deben ser personas que se dedican a la compra/venta de productos agrícolas con contacto directo con los productores. |  
-| Demográfico | Edad: 20-50 / Nivel de Ingreso: No es relevante, pues está dirigido a cualquier persona pero que se dedique a la producción de cultivo | Edad: 20-50 / Nivel de ingreso: No es relevante. | 
+| Geografico | País: Perú <br> Zona residencial: Zonas rurales que cuentan con campos de cultivo | País: Perú <br> Zona residencial: Zona aledaña a campos de cultivo |  
+| Psicográfico | Clase Social: Media - Baja <br> Estilo de Vida: Deben ser personas con conocimientos familiares o técnicos de cultivos, que participen activamente en el cuidado de una parcela para obtener ganancias de la cosecha. | Clase social: No es relevante dado que pueden ser comerciantes independientes o entidades en conjunto. <br> Estilo de vida: Deben ser personas que se dedican a la compra/venta de productos agrícolas con contacto directo con los productores. |  
+| Demográfico | Edad: 20-50 <br> Nivel de Ingreso: No es relevante, pues está dirigido a cualquier persona pero que se dedique a la producción de cultivo | Edad: 20-50 <br> Nivel de ingreso: No es relevante. | 
 
 
 # Capítulo II: Requirements Elicitation & Analysis
@@ -178,7 +177,7 @@ Luego de haber desarrollado las 5W’s y 2H’s se logró desarrollar una visió
 
 ## 3.1. To-Be Scenario Mapping.
 En esta parte se utilizó el “TO-BE Scenario Mapping” para ello se hizo una representación visual de cómo deberían ser los procesos después de implementar las mejoras y cambios sugeridos. Es una parte crucial de la metodología de mejora de procesos y ayuda a las organizaciones a visualizar cómo podrían ser sus operaciones optimizadas en el futuro.
-https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/364e9acb-a307-4de6-95f4-20148221907f
+![ToBe](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/364e9acb-a307-4de6-95f4-20148221907f)
 ## 3.2. User Stories.
 
 | Epic/Story | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
@@ -187,8 +186,8 @@ https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/3
 
 ## 3.3. Impact Mapping.
 Se utilizó el Impact Mapping para definir y visualizar los objetivos y resultados deseados en el proyecto para cada uno de los segmentos.
-https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/3ef9ef91-be98-451c-89b6-fae6e3ce98d5
-https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/659162bf-af13-4dab-8226-02ac018ed162
+![ImpactMap](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/3ef9ef91-be98-451c-89b6-fae6e3ce98d5)
+![ImpactMap](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/659162bf-af13-4dab-8226-02ac018ed162)
 ## 3.4. Product Backlog.
 
 | #Orden | User Story Id | Título | Descripción | Story Points (1 / 2 / 3 / 5 / 8) |
@@ -500,6 +499,6 @@ No se utilizó ningún servicio adicional, pues este primer Sprint solo consta d
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
 Como se mencionó, se utilizó Netlify para el despliegue automático del landing page con todos los cambios realizados por el equipo. Netlify se integra con nuestra organización en GitHub y luego con el repositorio, siendo la rama main la que utilizamos para el despliegue. El enlace es el siguiente: 
-[Ayni Landin Page](https://ayniladingpage.netlify.app/ )
+[Ayni Landin Page](https://aynilandingpage.netlify.app/)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.

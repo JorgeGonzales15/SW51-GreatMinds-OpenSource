@@ -222,6 +222,17 @@ Luego de haber desarrollado las 5W’s y 2H’s se logró desarrollar una visió
 
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
+
+El propósito de “Ayni” es proporcionar al sector agrícola una solución tecnológica integral que permita planificar, monitorear y optimizar de manera eficiente las diversas actividades realizadas durante todas las etapas de producción de los cultivos. Esta solución responde a la problemática de la ausencia de una planificación precisa que permita a los agricultores manejar sus cultivos de manera adecuada y lograr una cosecha fructífera.
+
+Actualmente, existen pocas aplicaciones de plataformas que ofrecen soluciones orientadas a la gestión de los cultivos en el sector agrícola. En ese sentido, nuestra plataforma busca ingresar al mercado como una alternativa diferenciadora, con el propósito de resolver los problemas a los que se enfrentan los productores agrícolas.
+
+Sin embargo, hemos observado un factor crítico que perjudica la productividad agrícola: la falta de una herramienta integrada que permita tomar decisiones de manera informada. Como consecuencia, se hace un uso ineficiente de los recursos naturales y el rendimiento del terreno se reduce.
+
+A partir de lo anterior, resulta posible plantear la principal interrogante que el proyecto propone resolver:
+
+##### ¿Cómo mejorar el proceso de cultivo y la gestión de los recursos en el sector agrícola?
+
 #### 1.2.2.2. Lean UX Assumptions.
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 #### 1.2.2.4. Lean UX Canvas.

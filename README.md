@@ -465,6 +465,60 @@ de comercio.</th>
 ## 2.2. Entrevistas.
 
 ### 2.2.1. Diseño de entrevistas.
+
+**Segmento Objetivo: Productores que quieren mejorar la calidad de sus ventas**
+- **Preguntas principales**
+  - En términos de cantidad, ¿considera que su producción es al por mayor o al por menor?
+  - ¿Qué es lo que normalmente siembra en sus terrenos?
+  - ¿Cómo es que vende lo que produce?
+  - ¿Usted define el precio de venta o lo que hacen sus compradores?
+  - Si el comprador es quien establece los precios, ¿considera que es adecuado?
+  - ¿Alguna vez ha vendido sus productos a un precio bajo solo para vender todo lo que tenía?
+  - ¿Le resulta difícil vender todo lo que produce?
+  - Si no logra vender todo lo cosechado, ¿qué hace con la cantidad sobrante?
+  - ¿Cuáles son sus objetivos a futuro con respecto a la producción de sus cultivos?
+  - ¿Cuáles son las principales frustraciones que ha enfrentado en su trabajo como agricultor?
+
+- **Preguntas de ámbito de gestión:**
+
+  - ¿Para usted es complicado manejar las fechas durante todo el proceso de siembra? ¿Qué dificultades tiene?
+  - ¿Se le olvidan las fechas en las que debe abonar o regar sus cosechas?
+  - ¿Cómo gestiona normalmente sus cosechas?
+  - ¿Qué datos considera importantes tener en cuenta para un seguimiento adecuado?
+  - ¿Cómo evaluar que sus productos tienen una calidad superior luego de la cosecha?
+  - ¿Qué tipo de dispositivos son de su preferencia o uso personal para el uso de programas o aplicaciones?
+  - ¿Qué plataformas o redes sociales utilizan regularmente para adquirir información?
+  - ¿Alguna vez ha usado una aplicación o programa que le ayude en la gestión?
+  - Si tuviera la oportunidad de usar una aplicación que le ayude a gestionar sus siembras con un seguimiento de fechas y recomendaciones, ¿la utilizaría?
+  - ¿Qué características considera importantes que deben incluirse en la aplicación?
+  - ¿Qué canales de comunicación prefiere utilizar si necesita ayuda y capacitación?
+  - ¿Cuál es el navegador que utiliza para acceder a internet?
+
+**Segmento Objetivo: Comerciantes que quieren mejorar la calidad de sus ventas**
+- **Preguntas principales**
+  - En términos de cantidad, ¿considera que sus ventas son al por mayor o al por menor?
+  - ¿Qué es lo que normalmente busca de los productos agrícolas?
+  - ¿Cómo es que compra lo que desea comerciar?
+  - ¿Usted define el precio de venta o lo hacen los productores?
+  - Si el vendedor es quien establece los precios, ¿considera que es adecuado?
+  - ¿Alguna vez ha comprado sus productos a un precio bajo solo para tener algo que vender?
+  - ¿Le resulta difícil comprar lo que se ofrece en el mercado actual?
+  - ¿Cuáles son sus objetivos a futuro con respecto a la exportación de productos agrícolas?
+  - ¿Cuáles son las principales frustraciones que ha enfrentado en su trabajo como exportador?
+- **Preguntas de ámbito de gestión**
+  - ¿Para usted es complicado encontrar a productores para comprar sus productos? ¿Qué dificultades tiene?
+  - ¿Se olvida de los pedidos que tiene pendiente a menudo?
+  - ¿Cómo gestiona normalmente sus exportaciones?
+  - ¿Qué datos considera importantes tener en cuenta para un seguimiento adecuado de la compra de productos?
+  - ¿Cómo evaluar que los productos tienen una calidad superior luego de su compra?
+  - ¿Qué tipo de dispositivos son de su preferencia o uso personal?
+  - ¿Qué plataformas o redes sociales utilizan regularmente para adquirir información?
+  - ¿Alguna vez ha usado una aplicación o programa que le ayude en la gestión?
+  - Si tuviera la oportunidad de usar una aplicación que le ayude a realizar la compra de productos para exportar, ¿la utilizaría?
+  - ¿Qué características considera importantes que deben incluirse en la aplicación?
+  - ¿Qué canales de comunicación prefiere utilizar si necesita ayuda y capacitación?
+  - ¿Cuál es el navegador que utiliza para acceder a internet?
+
 ### 2.2.2. Registro de entrevistas.
 ### 2.2.3. Análisis de entrevistas.
 

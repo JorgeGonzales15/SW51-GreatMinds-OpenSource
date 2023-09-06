@@ -620,6 +620,190 @@ La entrevistada es Juli Carrión, una mujer de 45 años que se dedica a ser asis
 
 ### 2.2.3. Análisis de entrevistas.
 
+**Segmento Objetivo: Productores que quieren mejorar la calidad de sus ventas**
+
+**Preguntas principales**
+
+  - **En términos de cantidad, ¿considera que su producción es al por mayor o al por menor?**
+  
+    - El 100% de nuestros entrevistados consideran que su cosecha está destinada a realizar ventas al por mayor, sin embargo, hay casos donde para terminar todo el producto deciden vender sus cosechas al por menor.
+
+- **¿Qué es lo que normalmente siembra en sus terrenos?**
+  
+  - Nuestros entrevistados tienen una variedad de cultivos entre los mencionados están el maíz, la palta, papas y zanahorias.
+
+- **¿Cómo es que vende lo que produce?**
+  
+  - El 40% de nuestros entrevistados ofrecen sus cultivos a los compradores que visitan su puesto de venta al momento de la cosecha o en fechas cercanas a esta y el 60% lo hacen mediante intermediarios.
+
+- **¿Usted define el precio de venta o lo que hacen sus compradores?**
+  
+  - El 100% menciona que el precio es dado por los compradores teniendo en cuenta el mercado.
+
+- **Si el comprador es quien establece los precios, ¿considera que es adecuado?**
+  
+  - El 60% consideran que el precio es adecuado porque lo definen dependiendo de la competencia existente en el mercado y el 40% dicen que el precio que le dan a veces es muy bajo por lo que no están de acuerdo.
+
+- **¿Alguna vez ha vendido sus productos a un precio bajo solo para vender todo lo que tenía?**
+  
+  - El 100% de nuestros entrevistados dicen que alguna vez los productos que les sobraron los vendieron a un precio bajo para terminarlo y obtener ganancias.
+
+- **¿Le resulta difícil vender todo lo que produce?**
+  
+  - El 40% de nuestros entrevistados dicen que no es tan complicado vender todo a sus compradores, mientras que el 60% mencionan que sí es complicado porque los compradores realizan una selección de los productos que quieren comprar.
+
+- **Si no logra vender todo lo cosechado, ¿qué hace con la cantidad sobrante?**
+  
+  - El 100% de nuestros entrevistados dicen que si se da el caso de sobrar productos lo venden al por menor en el mercado local.
+
+- **Cuáles son sus objetivos a futuro con respecto a la producción de sus cultivos?**
+  
+  - El 100% mencionan que siempre plantean como objetivo con cada nueva plantación el incrementar la productividad y poder obtener más ganancias.
+
+- **Cuáles son las principales frustraciones que ha enfrentado en su trabajo como agricultor?**
+  
+  - El 60% mencionan que las fallas mecánicas y la escasez de agua retrasaron su calendario además de que reduce la calidad de su producción, mientras que el 40% restante mencionan que lo peor que les pasa es que el clima no deja que sus cultivos prosperen.
+
+**Preguntas de ámbito de gestión:**
+
+- **¿Para usted es complicado manejar las fechas durante todo el proceso de siembra? ¿Qué dificultades tiene?**
+  
+  - Para el 60% de nuestros entrevistados si se le hace complicado el recordar las fechas porque tienen muchas a tener en cuenta y el 40% restante mencionan que no les resulta difícil porque ya tienen costumbre.
+
+- **¿Se le olvidan las fechas en las que debe abonar o regar sus cosechas?**
+  
+  - El 60% dicen que si se olvidaron una fecha importante que le afectó en un futuro, mientras que el 40% restante dicen que como llevan un cronograma definido es difícil que se les pase alguna fecha.
+
+- **¿Cómo gestiona normalmente sus cosechas?**
+  
+  - El 100% de nuestros entrevistados mencionan que tiene un proceso a seguir y generalmente se basan en conseguir una buena calidad para sus productos.
+
+- **¿Qué datos considera importantes tener en cuenta para un seguimiento adecuado?**
+  
+  - El 60% de nuestros entrevistados consideran que el tener un control de fechas es lo más importante para poder hacer un seguimiento continuo, mientras que el 40% restante mencionan que además de las fechas también es necesario tener en cuenta características de cada planta.
+
+- **¿Cómo evaluar que sus productos tienen una calidad superior luego de la cosecha?**
+  
+  - El 100% de nuestros entrevistados nos cuentan que para determinar que sí tuvieron una buena cosecha se basan en el tamaño del cultivo, el color y si no fueron afectados por plagas.
+
+- **¿Qué tipo de dispositivos son de su preferencia o uso personal para el uso de programas o aplicaciones?**
+  
+  - El 60% de nuestros entrevistados usan como principal herramienta su celular inteligente y el 40% restante además de hacer uso a los celulares también cuentan con laptops y herramientas especiales enfocadas en la agricultura.
+
+- **¿Qué plataformas o redes sociales utilizan regularmente para adquirir información?**
+  
+  - El 100% de nuestros entrevistados mencionan que su principal fuente de información es el sitio web “Youtube”.
+
+- **¿Alguna vez ha usado una aplicación o programa que le ayude en la gestión?**
+  
+  - El 40% de los entrevistados dicen que si uso aplicaciones como excel o word para ayudarse en la gestión, mientras que el 60% restante nunca usaron aplicaciones sino que se ayudaban con cuadernos o anotaciones.
+
+- **Si tuviera la oportunidad de usar una aplicación que le ayude a gestionar sus siembras con un seguimiento de fechas y recomendaciones, ¿la utilizaría?**
+  
+  - El 100% de nuestros entrevistados mencionan que si les ayudaría mucho porque tendrán una aplicación que les ayude con las fechas facilitandoles la gestión previniendo que no ocurra errores por olvidarse el cronograma además de que automatiza el proceso gestión que realizan.
+
+- **¿Qué características considera importantes que deben incluirse en la aplicación?**
+  
+  - El 100% de nuestros entrevistados consideran que necesitan tener cronogramas y una función que les ayude a identificar la etapa en la que se encuentra su cultivo.
+
+- **¿Qué canales de comunicación prefiere utilizar si necesita ayuda y capacitación?**
+  
+  - El 60% de los entrevistados consideran que los canales que prefieren usar son las llamadas y reuniones y el 40% restante además de eso, también le gustaría el uso de redes sociales y aplicaciones de videollamada.
+
+- **Cuál es el navegador que utiliza para acceder a internet?**
+  
+  - El 100% de nuestros entrevistados usan Google Chrome para hacer uso de internet.
+
+**Segmento Objetivo: Comerciantes que quieren mejorar la calidad de sus ventas**
+
+**Preguntas principales**
+
+  - **En términos de cantidad, ¿considera que sus ventas son al por mayor o al por menor?**
+  
+    - El 100% de los encuestados sostienen que sus ventas la hacen al por mayor, debido a cuestiones de dinero en las negociaciones.
+
+- **¿Qué es lo que normalmente busca de los productos agrícolas?**
+  
+  - El 60% de los encuestados nos dicen que buscan calidad, mientras que el otro 40% buscan buenos precios para proceder con su compra.
+
+- **¿Cómo es que compra lo que desea comerciar?**
+  
+  - El 100% de los encuestados sostienen que su compra es con contacto directo con el productos a través de una red social.
+
+- **¿Usted define el precio de venta o lo hacen los productores?**
+  
+  - El 80% de los encuestados dicen que el precio de venta lo definen los productores mientras que el 20% aseguran que sí lo definen los productores, no es rentable.
+
+- **Si el vendedor es quien establece los precios, ¿considera que es adecuado?**
+  
+  - El 60% de los encuestados sostienen que en base a su experiencia los precios son adecuados. Sin embargo, el 40% restante considera que el precio no es el adecuado.
+
+- **¿Alguna vez ha comprado sus productos a un precio bajo solo para tener algo que vender?**
+  
+  - El 100% asegura que sí, debido a la escasez de recursos financieros y la necesidad de generar ingresos.
+
+- **¿Le resulta difícil comprar lo que se ofrece en el mercado actual?**
+  
+  - El 100% sostiene que no debido a que hay varios contactos de productores y canales donde se puede contactar con ellos, además de la disponibilidad de productos de distintas calidades.
+
+- **Cuáles son sus objetivos a futuro con respecto a la exportación de productos agrícolas?**
+  
+  - El 100% de los encuestados desean mejorar su calidad de sus productos o formar una empresa reconocida a nivel nacional.
+
+- **Cuáles son las principales frustraciones que ha enfrentado en su trabajo como exportador?**
+  
+  - El 100% de los encuestados tienen como frustraciones experiencias relacionadas a estafas y retraso del pedido.
+
+**Preguntas de ámbito de gestión:**
+
+- **¿Para usted es complicado encontrar a productores para comprar sus productos? ¿Qué dificultades tiene?**
+  
+  - El 60% de los encuestados no tienen dificultades debido a la disponibilidad de los productos, mientras que el 40% presentan dificultades debido a los canales o plataformas donde encontrar productores.
+
+- **¿Se olvida de los pedidos que tiene pendiente a menudo?**
+  
+  - El 100% de los encuestados no presentan estos inconvenientes gracias a que usan aplicaciones de recordatorios de eventos o calendarios.
+
+- **¿Cómo gestiona normalmente sus exportaciones?**
+  
+  - El 60% de los encuestados dice que maneja sus ventas en programas como excel o a simple lápiz y papel para gestionar sus exportaciones. Mientras que el 40% restante no usa programas en específico.
+
+- **¿Qué datos considera importantes tener en cuenta para un seguimiento adecuado de la compra de productos?**
+  
+  - El 100% de los encuestados dice que es importante saber la fecha de salida de la producción, debido a que se puede estimar la llegada de este, asimismo contar con seguimiento a tiempo real.
+
+- **¿Cómo evaluar que los productos tienen una calidad superior luego de su compra?**
+  
+  - El 60% sostiene que los superiores del lugar de trabajo tienen procesos especiales para evaluar la calidad mientras que el 40% dice que evalúa la calidad con una muestra previa de la producción solicitada.
+
+- **¿Qué tipo de dispositivos son de su preferencia o uso personal?**
+  
+  - El 60% de los encuestados dice que usa computadoras o laptops, mientras que el 40% solo usa celulares.
+
+- **¿Qué plataformas o redes sociales utilizan regularmente para adquirir información?**
+  
+  - El 100% dice que no usa plataformas pero usan Facebook para buscar productos y contactar con los productores.
+
+- **¿Alguna vez ha usado una aplicación o programa que le ayude en la gestión?**
+  
+  - El 100% dice que no ha usado ninguna aplicación para la gestión de compras.
+
+- **Si tuviera la oportunidad de usar una aplicación que le ayude a realizar la compra de productos para exportar, ¿la utilizaría?**
+  
+  - El 100% de los encuestados dice que una aplicación con esta característica le ayudaría bastante en el proceso de compra debido a que sería en un entorno más formal que el contacto directo.
+
+- **¿Qué características considera importantes que deben incluirse en la aplicación?**
+  
+  - El 100% de los encuestados coincidieron que debe tener funcionalidades como la de contactar con el productor y seguimiento de la compra.
+
+- **¿Qué canales de comunicación prefiere utilizar si necesita ayuda y capacitación?**
+  
+  - El 60% de los encuestados sostiene que desearían canales de ayuda en Youtube de manera de videos tutoriales mientras que el 40% prefiere tutoriales dentro de la aplicación web.
+
+- **Cuál es el navegador que utiliza para acceder a internet?**
+  
+  - El 100% de los encuestados usan Google Chrome como navegador habitual en sus dispositivos.
+
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 

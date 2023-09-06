@@ -32,12 +32,23 @@ Agosto del 2023
 
 | Versión | Fecha | Autor | Descripción de la modificación |
 | - | - | - | - |
-| 1.00 | 08/09/2022 | Jorge Gonzales, Paolo Espejo, Miguel Huaman, Tatiana Paucar, Jose Zarate | Implementación de startup profile, solution profile, segmento objetivo, competidores, entervistas, needfinding, journey map, product backlog, entre otros. Asimismo, la implementación de Landing Page Wireframe, Landing Page Mockup, Information Architecture, Software Architecture Context Diagram, Class Diagram, Software Configuration Management, entre otros. |
+| 1.00 | 08/09/2022 | Jorge Gonzales, Paolo Espejo, Miguel Huaman, Tatiana Paucar, Jose Zarate | Implementación de startup profile, solution profile, segmento objetivo, competidores, entervistas, needfinding, journey map, product backlog, entre otros. Asimismo, la implementación de Landing Page Wireframe, Landing Page Mockup, Information Architecture, Software Architecture Context Diagram, Class Diagram, Software Configuration Management, entre otros. Todos estos puntos mencionados y más corresponden a los siguientes capitulos: Capítulo I: Introducción, Capítulo II: Requirements Elicitation & Analysis, Capítulo III: Requirements Specification, Capítulo IV: Product Design, Capítulo V: Product Implementation, Validation & Deployment (Hasta el punto 5.2.1.8 correspondiente al Sprint 1)|
 
 ---
 # Project Report Collaboration Insights
 
-Link de repositorio Github: [Github](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource)
+TB1: Se han desarrollado las actividades correspondientes para la entrega TB1 en el siguiente repositorio de Github dentro de la organización del equipo:
+Link de repositorio Github: (https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource)
+
+![commitsinformeopen](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/1665e68a-849a-4c87-887e-a5d7e17d6b6c)
+
+Como se evidencia, todos trabajaron en la presente entrega, usando Github se logró completar el informe con los siguientes capítulos: 
+
+- Capítulo I: Introducción
+- Capítulo II: Requirements Elicitation & Analysis
+- Capítulo III: Requirements Specification
+- Capítulo IV: Product Design
+- Capítulo V: Product Implementation, Validation & Deployment (Hasta el punto 5.2.1.8 correspondiente al Sprint 1)
 
 ---
 # Contenido 
@@ -49,8 +60,8 @@ Link de repositorio Github: [Github](https://github.com/upc-pre-202302-GreatMind
   - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
   - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
 - [1.2. Solution Profile](#12-solution-profile)
-  - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
-  - [1.2.2. Lean UX Process](#122-lean-ux-process)
+  - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
+  - [1.2.2 Lean UX Process](#122-lean-ux-process)
     - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
     - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
     - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
@@ -94,8 +105,8 @@ Link de repositorio Github: [Github](https://github.com/upc-pre-202302-GreatMind
 - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
   - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
   - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
-  - [4.4.2. Web Applications Mock-ups](#443-web-applications-mock-ups)
-  - [4.4.3. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
+  - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
+  - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
 - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
 - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
   - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
@@ -124,6 +135,9 @@ Link de repositorio Github: [Github](https://github.com/upc-pre-202302-GreatMind
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
 
+## [Conclusiones](#conclusiones)
+
+## [Referencias](#referencias)
 
 ---
 
@@ -158,15 +172,33 @@ Como misión se plantea “Incrementar la producción agrícola con eficiencia, 
 
 Mi nombre es Jorge Enrique Gonzales Carrión tengo 19 años de edad y curso el sexto ciclo de la carrera Ingeniería de Software. Me considero una persona con sentido de responsabilidad y la suficiente capacidad de trabajar en equipo aportando ideas innovadoras. Además, en cualidades me considero asertivo y colaborativo, puntos que pueden mejorar el proceso de elaboración de los distintos trabajos del curso. Finalmente, poseo conocimientos de programación que brindaron los ciclos anteriores al presente.
 
+![jroge](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/f2ae0bea-109a-48cb-abd8-47db542006c3)
+
+---
+
 Mi nombre es Tatiana Medalith Paucar De La Cruz, tengo 19 años y soy estudiante del quinto ciclo de la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona autodidacta, lo que me permite adquirir nuevos conocimientos de manera constante. Asimismo, me considero una persona bastante organizada y responsable en el ámbito académico. Además de ello, me gusta trabajar arduamente para lograr objetivos comunes dentro de un proyecto.
+
+![tatiana](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/b7b10f6f-9b4a-4969-903a-0f6a02f98e3b)
+
+---
 
 Mi nombre es Jose Daniel Zarate Castro y actualmente tengo 20 años. Soy un estudiante de Ingeniería de Software en el quinto ciclo de mi formación académica. Soy una persona muy orientada al trabajo en equipo y siempre estoy entusiasmado por colaborar y contribuir al máximo. Me considero un participante activo en cualquier proyecto o actividad que emprenda. Tengo una actitud empática hacia los demás y me esfuerzo por entender las necesidades y perspectivas de mis compañeros. En términos de conocimientos técnicos tengo conocimientos en Java, c# y Python.
 
+![jose](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/d666fad1-9ecc-434f-902a-ade49f2c63ad)
+
+---
+
 Mi nombre es Miguel Ángel Huamán Cataño, tengo 19 años y actualmente estoy estudiando el 5to ciclo de la carrera de Ingeniería de software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona responsable que es capaz de lograr lo que se propone. Además, siempre tengo una actitud positiva y respetuosa con las demás personas. Poseo los conocimientos de programación brindados por la universidad y sé lo básico de algunos otros lenguajes de programación , soy capaz de aprender rápidamente sobre ciertos temas gracias a mi buena lógica y capacidad de aprendizaje.
+
+![miguel](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/0ed846d6-bb18-4980-8871-ad2f983eb236)
+
+---
 
 Mi nombre es Paolo Andre Espejo Macuri, tengo 20 años de edad, estoy cursando el sexto ciclo de la carrera de Ingeniería de Software en la UPC. Soy hábil con las TICs y soy una persona creativa para proporcionar ideas innovadoras. Aprendo de forma rápida nuevos temas al practicarlos y se me da bien la programación y la solución de errores.
 
-![paolo](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/db493790-9513-4fc1-b5de-e335d63043fe)
+![paolo](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/386b5d22-7174-4557-a91f-721da4c3cea4)
+
+---
 
 ## 1.2. Solution Profile
 
@@ -340,7 +372,7 @@ cuando recibamos los fondos por brindar la publicidad a los proveedores de insum
 
 **Ayni:**
 
-![Ayni]()
+![logo1](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/651be919-2573-45a3-b741-2d630f9debe6)
 
 Es una solución tecnológica integral en el campo agrícola, enfocada en elevar la eficiencia mediante la gestión agrícola y la dinámica de compra y venta. Su propuesta única radica en la eliminación de intermediarios, permitiendo a agricultores y comerciantes conectarse directamente para maximizar ingresos. Además, ofrece herramientas para la planificación y el monitoreo de actividades diarias, junto con la gestión de costos e ingresos.
 
@@ -1684,7 +1716,7 @@ Para el desarrollo del landing page, se decidió con el equipo usar HTML, JS y C
 
 Como mencionamos anteriormente, se utilizará GitHub para llevar un control de las versiones de desarrollo y poder trabajar de forma colaborativa. Para ello, se creó una organización llamada: [Github Organización](https://github.com/upc-pre-202302-GreatMinds-SW51) 
 
-Repositorio del landing page: [Repositorio Landing Page]() 
+Repositorio del landing page: [Repositorio Landing Page](https://github.com/upc-pre-202302-GreatMinds-SW51/Ayni_LandingPageOfficial/tree/Release/1.0) 
 
 Repositorio pruebas de aceptación: [Github](https://github.com/upc-pre-202302-GreatMinds-SW51/acceptance-test-opensource) 
 
@@ -1729,7 +1761,7 @@ Implementación del Landing Page acorde con las User Stories.
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 | - | - | - | - | - | - |
 | Ayni_LandingPageOfficial | develop | d172a5f | feature: Creación de Landing  | - | 03/09/2023 |
-| Ayni_LandingPageOfficial  | develop |  | feature: Benefits Section  | - | 06/09/2023 |
+| Ayni_LandingPageOfficial  | develop | ce9ff1b | feature/Benefits-section  | - | 06/09/2023 |
 | Ayni_LandingPageOfficial  | develop | 8d3c4bf | feature/FunctionalitiesSection  | - | 05/09/2023 |
 | Ayni_LandingPageOfficial  | develop | 47539a0 | Feature/aboutUsSection  | - | 05/09/2023 |
 | Ayni_LandingPageOfficial  | develop | d8597c1 | feature/footer-responsive-callToActionSection  | - | 05/09/2023 |
@@ -1756,3 +1788,32 @@ Como se mencionó, se utilizó Netlify para el despliegue automático del landin
 [Ayni Landin Page](https://aynilandingpage.netlify.app/)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+Las actividades para el presente Sprint se repartieron en base a las secciones de la landing page que se plantearon como equipo previamente, para ello, se realizaron primero los styles en un archivo aparte .css y luego entre todo el equipo se desarrolló el index.html. De esta manera, el desarrollo de la landing page fue organizada y eficiente. A continuación, se mostrarán las evidencias de los commits:
+
+![commitsopenlanding](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/29bb038a-a3f8-4af5-836c-5daacc57995b)
+
+![commitslandingopennet](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/04c9b1bb-5cb3-46b5-9cd0-435367c79865)
+
+# Conclusiones
+
+- En conclusión, en este entregable se ha definidio la idea de negocio para el proyecto, asimismo, la problemática que se busca solucionar y a raiz de ello se utilizaron herramientas y artefactos para los puntos de este entregable, tales como: 5W's y 2H's, Lean Ux, Entrevistas, As-Is y To-Be Scenario Mapping, entre otros. Todos estos artefactos sirvieron para identificar las caracteristicas que deben estar presentes en el futuro del desarrollo de la aplicación web para satisfacer a la problematica planteada.
+  
+- Por otro lado, se definieron los General Style Guidelines que sirvieron de base para diseños los Wireframes y Mock-ups de la aplicación web y de la landing page, donde se evidenciaran todos los principios que se propusieron para el futuro desarrollo de la aplicación web.
+
+- Se desarrolló la Landing Page en base al Sprint presentado en esta entrega, donde todos los integrantes del equipo desarrollaron secciones que componen la Landing, de esta manera los usuarios pueden visitar la landing page para posteriormente acceder a la aplicación web.
+  
+
+# Referencias
+
+COMEXPERU (2020). PROBLEMAS DEL SECTOR AGRÍCOLA EXPLICARÍAN LOS MENORES INGRESOS DE LOS PRODUCTORES - Sociedad de Comercio Exterior del Perú. Recuperado de https://www.comexperu.org.pe/articulo/problemas-del-sector-agricola-explicarian-los-menores-ingresos-de-los-productores
+
+INEI (2022). Comportamiento de los indicadores de mercado laboral a Nivel Nacional. Recuperado de https://m.inei.gob.pe/media/MenuRecursivo/boletines/03-informe-tecnico-empleo-nacional-abr-may-jun-2022.pdf 
+
+MINAGRI (s.f). PROBLEMAS TIPO DE LA AGRICULTURA PERUANA. Recuperado de https://www.midagri.gob.pe/portal/22-sector-agrario/vision-general/190-problemas-en-la-agricultura-peruana
+
+COEECI (2022). Problemático del agro en el Perú: Impactos a los agricultores y propuestas de acción. Recuperado de https://coeeci.org.pe/problematica-del-agro-en-el-peru-impactos-a-los-agricultores-y-propuestas-de-accion/
+
+El Comercio (2023). CCL: sector agro perdería hasta S/50,8 millones diarios por lluvias e inundaciones. Recuperado de https://elcomercio.pe/economia/peru/ccl-sector-agro-perderia-hasta-s-508-millones-diarios-por-lluvias-huaicos-e-inundaciones-camara-de-comercio-de-lima-peru-ciclon-yaku-noticia/
+
+Congreso de la Reública (2020). Boletín Social N°30. Gobierno estima pérdidas por S/1,611 millones en el sector agropecuario este año por efecto de cuarentena. Recuperado de https://www.congreso.gob.pe/Docs/Otamdegrl/files/boletinsocial/bs_30_julio_2020.pdf

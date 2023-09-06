@@ -164,6 +164,9 @@ Mi nombre es Jose Daniel Zarate Castro y actualmente tengo 20 años. Soy un estu
 
 Mi nombre es Miguel Ángel Huamán Cataño, tengo 19 años y actualmente estoy estudiando el 5to ciclo de la carrera de Ingeniería de software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona responsable que es capaz de lograr lo que se propone. Además, siempre tengo una actitud positiva y respetuosa con las demás personas. Poseo los conocimientos de programación brindados por la universidad y sé lo básico de algunos otros lenguajes de programación , soy capaz de aprender rápidamente sobre ciertos temas gracias a mi buena lógica y capacidad de aprendizaje.
 
+Mi nombre es Paolo Andre Espejo Macuri, tengo 20 años de edad, estoy cursando el sexto ciclo de la carrera de Ingeniería de Software en la UPC. Soy hábil con las TICs y soy una persona creativa para proporcionar ideas innovadoras. Aprendo de forma rápida nuevos temas al practicarlos y se me da bien la programación y la solución de errores.
+
+![paolo](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/db493790-9513-4fc1-b5de-e335d63043fe)
 
 ## 1.2. Solution Profile
 

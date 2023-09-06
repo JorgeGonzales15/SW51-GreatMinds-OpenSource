@@ -305,19 +305,19 @@ La interfaz de nuestro producto debe ser sencilla e intuitiva para simplificar  
 **Sabremos que hemos tenido éxito**
 cuando nuestra aplicación se vuelva parte de su rutina para cosechar.
 
-**Creemos que** los agricultores necesitan gestionar sus costos e ingresos.
+- **Creemos que** los agricultores necesitan gestionar sus costos e ingresos.
 **Sabremos que hemos tenido éxito**
 cuando nuestra aplicación ayude a la economía de los clientes y maximizar la calidad de sus productos
 
-**Creemos que** los comerciantes o exportadores necesitan comprar productos de calidad y contacto directo con los productores
-**Sabremos que hemos tenido éxito**
+- **Creemos que** los comerciantes o exportadores necesitan comprar productos de calidad y contacto directo con los productores
+  **Sabremos que hemos tenido éxito**
 cuando nuestra aplicación se vuelva el principal medio de comercio entre productores y comerciantes
 
-**Creemos que** los comerciantes deben calificar los productos que compraron 
+- **Creemos que** los comerciantes deben calificar los productos que compraron 
 **Sabremos que hemos tenido éxito**
 cuando las calificaciones sustenten la calidad de los productos de los productores dentro de la aplicación
 
-**Creemos que** generamos ganancias por publicidad de insumos para agricultura dentro de la aplicación
+- **Creemos que** generamos ganancias por publicidad de insumos para agricultura dentro de la aplicación
 **Sabremos que hemos tenido éxito**
 cuando recibamos los fondos por brindar la publicidad a los proveedores de insumos
 

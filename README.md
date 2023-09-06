@@ -234,10 +234,93 @@ Sin embargo, hemos observado un factor crítico que perjudica la productividad a
 
 A partir de lo anterior, resulta posible plantear la principal interrogante que el proyecto propone resolver:
 
-##### ¿Cómo mejorar el proceso de cultivo y la gestión de los recursos en el sector agrícola?
+**¿Cómo mejorar el proceso de cultivo y la gestión de los recursos en el sector agrícola?**
 
 #### 1.2.2.2. Lean UX Assumptions.
+
+**Business Outcomes:**
+
+Incremento de las transacciones de compra de productos agrícolas en un 30%.
+Incrementar el número de usuarios de la plataforma de un 40%
+Obtener ganancias a partir de los anuncios de insumos publicados en la plataforma.
+
+**Users:**
+
+Productores agrícolas que desean gestionar eficientemente sus cultivos
+Personas que deseen comprar los productos agrícolas para uso propio o distribución
+
+**User Outcomes & Benefits:**
+
+- Productores:
+Acceso a un mercado más amplio de compradores de productos agrícolas.
+Aumento de la eficiencia en la gestión del inventario.
+Posibilidad de obtener retroalimentación por parte de los compradores, para mejorar la calidad de sus productos.
+
+- Comercializadores:
+Simplicidad en la búsqueda de productos agrícolas y la comparación entre ellas.
+Seguridad y eficiencia a la hora de realizar el proceso de compra.
+Posibilidad de tener acceso a toda la información detallada del producto.
+
+**Features Assumptions**
+- Imágenes e información detallada  sobre los productos agrícolas ofrecidos en línea
+- Función de reseña y calificación hacia los productos adquiridos
+- Sección para ingresar los gastos, ingresos y a partir de ello, estimar las ganancias.
+- Calendario agrícola que muestra las actividades a realizar
+- Anuncios de insumos agrícolas
+
+**User Assumptions**
+
+1. **¿Quién es el usuario?**
+Los usuarios de nuestra plataforma son pequeños y medianos agricultores que desean mejorar la gestión de sus cultivos. Asimismo, también está dirigido a las personas interesadas en comprar productos frescos y de calidad directamente de los productores.
+2. **¿Dónde encaja nuestro producto en su trabajo o vida?**
+Nuestro producto encaja en la vida diaria de los agricultores, debido a que les brinda una herramienta digital que les permite planificar, registrar y dar un seguimiento a todas las actividades agrícolas de manera más eficiente. Por otro lado, los compradores pueden encontrar y adquirir diversos productos agrícolas de buena calidad en nuestra plataforma.
+3. **¿Qué problemas tiene nuestro producto? ¿Evitar?**
+Nuestro producto puede enfrentar algunos desafíos como la percepción de ser compleja de usar por algunos agricultores. Para evitar ello, la interfaz debe lucir sencilla e interactiva. Además, se pueden incluir tutoriales acerca de la funcionalidad de la aplicación. 
+4. **¿Cuándo y cómo es nuestro producto? ¿Usado?**
+Nuestra aplicación está diseñada para ser utilizada por el agricultor durante todo el proceso de cultivo, que va desde la siembra hasta la cosecha y posterior venta de los productos. Asimismo, es útil para programar actividades, registrar datos importantes y recibir reportes. Los compradores podrán buscar productos y realizar pedidos.
+
+5. **¿Qué características son importantes?**
+ Algunas funcionalidades importantes en la aplicación serán la programación de actividades, el registro de los gastos y las ganancias, la gestión de los insumos, control de plagas, reportes detallados en base a la información ingresada, entre otros. Por otro lado, los compradores podrán utilizar la aplicación para buscar productos agrícolas  de buena calidad, obtener información acerca de estos, realizar pedidos y acceder a un sistema de calificación y reseñas.
+
+6. **¿Cómo debe verse nuestro producto y cómo comportarse?**
+La interfaz de nuestro producto debe ser sencilla e intuitiva para simplificar  su uso. Además, el tiempo de respuesta de las funcionalidades debe ser rápido para que el usuario no pierda interés al momento de utilizar la aplicación.
+
+
+**Business Assumptions**
+
+1. **Creemos que nuestros clientes necesitan** una mejor planificación de sus actividades agrícolas para maximizar la eficiencia de sus cultivos.
+2. **Estas necesidades se pueden resolver con una** aplicación web que brinda la posibilidad de gestionar adecuadamente los procesos agrícolas y que permite la compra de productos agrícolas.
+3. **El valor #1 que mi cliente quiere de mi servicio** es la capacidad de aumentar su eficiencia al organizarse mejor mediante la aplicación y una dinámica de compra y venta sencilla.
+4. **El cliente también puede obtener beneficios adicionales como** el acceso directo a los mercados mediante un sistema de compra entre los consumidores y productores. Gracias a ello, los productores pueden obtener mayores ingresos. 
+5. **Voy a adquirir la mayoría de mis clientes** mediante el marketing de boca a boca, o el anuncio mediante redes sociales o la radio.
+6. **Haré dinero a través de** la publicación de anuncios por parte de personas que quieran ofrecer servicios o productos destinados a los agricultores, tales como fertilizantes u otros pesticidas.
+7. **Mi competencia principal en el mercado** serán otras aplicaciones que ofrecen un servicio similar al planteado para este proyecto.
+8. **Los venceremos debido a la simplicidad** de uso de nuestra aplicación y a la combinación de funcionalidades únicas que permiten combatir con problemas específicos, como el control de plagas, entre otros.
+9. **El mayor riesgo es que** los agricultores y los compradores no utilicen la aplicación por considerarla demasiado compleja de usar o simplemente resistirse al cambio.
+10. **Resolveremos esto a través de** la agregación de funcionalidades útiles para ambos segmentos objetivos.
+
 #### 1.2.2.3. Lean UX Hypothesis Statements.
+
+- **Creemos que** los agricultores necesitan organizar sus actividades diarias. 
+**Sabremos que hemos tenido éxito**
+cuando nuestra aplicación se vuelva parte de su rutina para cosechar.
+
+**Creemos que** los agricultores necesitan gestionar sus costos e ingresos.
+**Sabremos que hemos tenido éxito**
+cuando nuestra aplicación ayude a la economía de los clientes y maximizar la calidad de sus productos
+
+**Creemos que** los comerciantes o exportadores necesitan comprar productos de calidad y contacto directo con los productores
+**Sabremos que hemos tenido éxito**
+cuando nuestra aplicación se vuelva el principal medio de comercio entre productores y comerciantes
+
+**Creemos que** los comerciantes deben calificar los productos que compraron 
+**Sabremos que hemos tenido éxito**
+cuando las calificaciones sustenten la calidad de los productos de los productores dentro de la aplicación
+
+**Creemos que** generamos ganancias por publicidad de insumos para agricultura dentro de la aplicación
+**Sabremos que hemos tenido éxito**
+cuando recibamos los fondos por brindar la publicidad a los proveedores de insumos
+
 #### 1.2.2.4. Lean UX Canvas.
 
 ![canva](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/c0507000-b2bd-4708-b688-8caa5942e26e)

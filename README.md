@@ -964,6 +964,7 @@ En esta sección, se buscarán las necesidades implícitas y explícitas de las 
 
 ### 2.3.1. User Personas.
 
+Se realiza las User Persona, personaje ficticio para reflejar al cliente ideal, estos user persona son creados en base a la investigación de capitulos previos para identificar a los diferentes tipos de clientes que podrían usar el producto solución. Se utilizó la herramienta UXPressia.
 
 Pequeños y medianos agricultores
 
@@ -973,7 +974,6 @@ Comerciantes o exportadores
 
 ![UserPersona2](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/263751302-80e7ff52-e36b-4bac-93f6-f09c7e0daa5f.png)
 
-Link para visualización de los user persona:
 
 
 ### 2.3.2. User Task Matrix.
@@ -1580,6 +1580,11 @@ En esta sección, se presenta el diseño viusal y de interacción en formato de 
 ---
 
 ### 4.4.3. Web Applications User Flow Diagrams.
+
+En esta sección, se presentaran los User Flows, donde se mostrarán las rutas Happy y Unhappy que los usuarios pueden tener al momento de usar la aplicación web. Cabe resaltar que los Happy Paths están represetnadas con flechas en color verde y los Unhappy con flechas de color rojo. Se utilizó la herramienta LucidChart.
+
+Link de Lucidchart:[UserFlow Lucidchart](https://lucid.app/lucidchart/edcb2519-faf5-4a02-8d32-e782a99ffa7f/edit?viewport_loc=-781%2C342%2C12102%2C5535%2C0_0&invitationId=inv_78155e1b-bf61-45ea-9bb8-16f59f2af020)
+
 
 **User Goal:** Como agricultor, quiero llevar un registro de los insumos agrícolas utilizados para analizarlo y tomar decisiones de acuerdo a ello.
 

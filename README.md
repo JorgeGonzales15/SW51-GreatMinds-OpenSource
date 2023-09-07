@@ -139,6 +139,8 @@ Como se evidencia, todos trabajaron en la presente entrega, usando Github se log
 
 ## [Referencias](#referencias)
 
+## [Anexos](#anexos)
+
 ---
 
 # Student Outcome
@@ -1961,3 +1963,8 @@ COEECI (2022). Problemático del agro en el Perú: Impactos a los agricultores y
 El Comercio (2023). CCL: sector agro perdería hasta S/50,8 millones diarios por lluvias e inundaciones. Recuperado de https://elcomercio.pe/economia/peru/ccl-sector-agro-perderia-hasta-s-508-millones-diarios-por-lluvias-huaicos-e-inundaciones-camara-de-comercio-de-lima-peru-ciclon-yaku-noticia/
 
 Congreso de la Reública (2020). Boletín Social N°30. Gobierno estima pérdidas por S/1,611 millones en el sector agropecuario este año por efecto de cuarentena. Recuperado de https://www.congreso.gob.pe/Docs/Otamdegrl/files/boletinsocial/bs_30_julio_2020.pdf
+
+
+# Anexos
+
+Video Exposición TB1: [Microsoft Streams](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EfGXv140UdJAj5qJjl92k4MBiX5R0c1zXJI3MsotH5xepg?e=qk0X0x)

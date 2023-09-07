@@ -644,11 +644,17 @@ de comercio.</th>
 Entrevistado 1:
 
 Nombre y apellidos: Jerónimo Vilcamiza Saldaña
+
 Edad: 41 años
+
 Distrito: El carmen - Chincha
+
 Url: [Video Microsoft Teams](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EXc-uBMZqwpIlzsRikopK7QByS0Aly3640gv24rnaIIqgg?e=nq1dGR)
+
 Inicio: 0:00 
+
 Fin: 7:43
+
 Duración: 7:43
 
 ![entrevista1](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/8a677388-1d07-4e19-b9b4-0decb701f59a)
@@ -659,11 +665,17 @@ El entrevistado fue Don Gerónimo Vilcamiza Saldaña, él es un agricultor de 41
 Entrevistado 2:
 
 Nombre y apellidos: Gian Ismael Castillón Paucar
+
 Edad: 28 años
+
 Distrito: El carmen - Chincha
+
 Url: [Video Microsoft Teams](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EXc-uBMZqwpIlzsRikopK7QByS0Aly3640gv24rnaIIqgg?e=nq1dGR)
+
 Inicio: 7:43
+
 Fin: 18:53
+
 Duración: 11:10
 
 ![entrevista2](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/dcc9c0b5-2698-4a89-9afd-f3418cba35a2)
@@ -675,11 +687,17 @@ El entrevistado fue Gian Castillón Paucar, un jóven de 28 años que se dedica 
 Entrevistado 3:
 
 Nombre y apellidos: Rolando Salvatierra
+
 Edad: 50
+
 Región: Junín 
+
 Url: [Video Microsoft Teams](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EXc-uBMZqwpIlzsRikopK7QByS0Aly3640gv24rnaIIqgg?e=nq1dGR)
+
 Inicio: 18:53
+
 Fin: 27:02
+
 Duración: 08:09
 
 ![entrevsitado3](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/dc54cc29-50a7-46f8-8929-9ca4a2a5bc83)
@@ -693,11 +711,17 @@ Resumen de la entrevista:
 Entrevistado 4: 
 
 Nombre y apellidos: André Luna
+
 Edad: 25
+
 Distrito: Lince - Lima
+
 Url: [Video Microsoft Teams](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EXc-uBMZqwpIlzsRikopK7QByS0Aly3640gv24rnaIIqgg?e=nq1dGR)
+
 Inicio: 27:02
+
 Fin: 35:37
+
 Duración: 08:35
 
 ![entrevistado4](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/289905bc-abd5-4a1a-994b-9855c7e7e673)
@@ -709,11 +733,17 @@ El entrevistado fue Andre Luna, un joven de 25 años que se dedica a ser asisten
 Entrevistado 5:
 
 Nombre y apellidos: Favio Onofre
+
 Edad: 24
+
 Distrito: Santiago de Surco - Lima
+
 Url: [Video Microsoft Teams](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EXc-uBMZqwpIlzsRikopK7QByS0Aly3640gv24rnaIIqgg?e=nq1dGR)
+
 Inicio: 35:37
+
 Fin: 44:03
+
 Duración: 08:26
 
 ![entrevistado5](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/1db9b603-0d51-4cd1-a8f1-a06507ad8ec9)
@@ -724,11 +754,17 @@ El entrevistado es Favio Onofre, un joven de 25 años que se dedica a ser asiste
 Entrevistado 6:
 
 Nombre y apellidos: Juli Carrión
+
 Edad: 45
+
 Distrito: Surco - Lima
+
 Url: [Video Microsoft Teams](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EXc-uBMZqwpIlzsRikopK7QByS0Aly3640gv24rnaIIqgg?e=nq1dGR)
-Inicio:44:03
+
+Inicio: 44:03
+
 Fin: 48:53
+
 Duración: 04:50
 
 ![entrevsitado 6](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/0a0a8d9e-5582-49dc-9bf7-1976f0e1cad1)
@@ -923,6 +959,9 @@ La entrevistada es Juli Carrión, una mujer de 45 años que se dedica a ser asis
   - El 100% de los encuestados usan Google Chrome como navegador habitual en sus dispositivos.
 
 ## 2.3. Needfinding.
+
+En esta sección, se buscarán las necesidades implícitas y explícitas de las personas o segmentos para poder diseñar y adaptar el producto solución de manera apropiada.
+
 ### 2.3.1. User Personas.
 
 
@@ -935,8 +974,6 @@ Comerciantes o exportadores
 ![UserPersona2](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/263751302-80e7ff52-e36b-4bac-93f6-f09c7e0daa5f.png)
 
 Link para visualización de los user persona:
-
-[<u>https://www.canva.com/design/DAFgyK-40QQ/jKAjVHUZpaVKD71oZ6i3qA/edit?utm_content=DAFgyK-40QQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton</u>](https://www.canva.com/design/DAFgyK-40QQ/jKAjVHUZpaVKD71oZ6i3qA/edit?utm_content=DAFgyK-40QQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 ### 2.3.2. User Task Matrix.
@@ -959,9 +996,6 @@ Link para visualización de los user persona:
 | Acceder a reportes detallados    | Often      | Medium      |
 | Realizar ventas                  | Often      | High        |
 
-Link para la visualización de los User Task Matrix:
-
-[<u>https://www.canva.com/design/DAFgyK-40QQ/jKAjVHUZpaVKD71oZ6i3qA/edit?utm_content=DAFgyK-40QQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton</u>](https://www.canva.com/design/DAFgyK-40QQ/jKAjVHUZpaVKD71oZ6i3qA/edit?utm_content=DAFgyK-40QQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 **Tareas con Mayor Frecuencia e Importancia:**
 
@@ -1010,7 +1044,7 @@ Proporciona una representación detallada de cada paso que los usuarios
 realizan, sus emociones, puntos de contacto y puntos de fricción a lo
 largo del proceso. Esto permite comprender mejor cómo los usuarios
 interactúan con la aplicación, identificar oportunidades de mejora y
-alinear el diseño con sus necesidades reales.
+alinear el diseño con sus necesidades reales. Se utilizó la herramienta UXPressia.
 
 Segmento 1: Agricultores
 
@@ -1036,7 +1070,7 @@ Se utilizó un "AS-IS Scenario Mapping" para comprender y documentar la
 situación actual o el estado actual de las interacciones de los usuarios
 con la plataforma. Este enfoque permite capturar de manera detallada
 cómo los usuarios se enfrentan a la aplicación en su forma actual, sus
-acciones, emociones y puntos de fricción.
+acciones, emociones y puntos de fricción. Se utilizó la herramienta Miro.
 
 ![As-is](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/263751316-cc05531c-4789-4988-9ea7-a930a1f3aa9c.png)
 
@@ -1048,8 +1082,10 @@ Visualización de los As-Is Scenario Mapping:
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping.
-En esta parte se utilizó el “TO-BE Scenario Mapping” para ello se hizo una representación visual de cómo deberían ser los procesos después de implementar las mejoras y cambios sugeridos. Es una parte crucial de la metodología de mejora de procesos y ayuda a las organizaciones a visualizar cómo podrían ser sus operaciones optimizadas en el futuro.
+En esta parte se utilizó el “TO-BE Scenario Mapping” para ello se hizo una representación visual de cómo deberían ser los procesos después de implementar las mejoras y cambios sugeridos. Es una parte crucial de la metodología de mejora de procesos y ayuda a las organizaciones a visualizar cómo podrían ser sus operaciones optimizadas en el futuro. Se utilizó la herramienta Miro.
+
 ![ToBe](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/364e9acb-a307-4de6-95f4-20148221907f)
+
 ## 3.2. User Stories.
 
 |Epic ID|Título de épica|Descripción de la épica|
@@ -1081,9 +1117,11 @@ En esta parte se utilizó el “TO-BE Scenario Mapping” para ello se hizo una 
 
 
 ## 3.3. Impact Mapping.
-Se utilizó el Impact Mapping para definir y visualizar los objetivos y resultados deseados en el proyecto para cada uno de los segmentos.
+Se utilizó el Impact Mapping para definir y visualizar los objetivos y resultados deseados en el proyecto para cada uno de los segmentos. Se utilizó la herramienta UXPressia.
+
 ![ImpactMap](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/3ef9ef91-be98-451c-89b6-fae6e3ce98d5)
 ![ImpactMap](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/659162bf-af13-4dab-8226-02ac018ed162)
+
 ## 3.4. Product Backlog.
 
 | #Orden | User Story Id | Título | Descripción | Story Points (1 / 2 / 3 / 5 / 8) |
@@ -1301,6 +1339,7 @@ En el caso de la aplicación web, se presenta un proceso similar para el menú p
 ## 4.3. Landing Page UI Design.
 
 En esta sección se mostrará el desarrollo visual del Landing Page. Para ello, se usuará la herramienta de diseño web Figma, debido a sus funciones y plugins que nos permite desarrollar el prototipo sin dificultades. Asimismo se evidenciará el uso de los Style Guidelines e Information architecture.
+
 ### 4.3.1. Landing Page Wireframe.
 
 ![wireframe landing2](https://user-images.githubusercontent.com/104078975/265294361-ba30a39c-91f2-4854-aae4-14e8560d2aa4.png) 
@@ -1373,7 +1412,9 @@ Finalmente, aquí es un vistazo general a los mockups y wireframes:
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
-En esta sección, se presentan los wireflows de la aplicación guiándose de las historias de usuario
+En esta sección, se presentan los wireflows de la aplicación guiándose de las historias de usuario en la herramienta LucidChart.
+
+Link de Lucidchar: [Wireflows LucidChart](https://lucid.app/lucidchart/aa72d3cf-f994-4a82-9ad8-044f3b9fc331/edit?viewport_loc=676%2C-2242%2C15341%2C7356%2C0_0&invitationId=inv_0da86b32-9131-4d2a-9317-1d95207a50e7)
 
 **Usar Goal:** Como usuario, quiero poder registrarme en la aplicación para acceder a las funcionalidades disponibles.
 
@@ -1382,7 +1423,7 @@ En esta sección, se presentan los wireflows de la aplicación guiándose de las
 - Si accede a registrarse, se mostrará la pantalla de registro. Puede regresar a iniciar sesión o continuar
 - Finalmente, se accede a la pantalla de selección de roles si es que se registra, para que acceda a la aplicación.
 
-![Wireflow 1](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/69d3a980-ed25-4bec-8c8c-74fda207a54c)
+![wirefrlow 1 ld](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/9d53b467-cf0c-4e75-aae8-0206c9668001)
 
 ---
 
@@ -1394,7 +1435,7 @@ En esta sección, se presentan los wireflows de la aplicación guiándose de las
 - Luego, se mostrará un dashboard para la planificación de cultivo, donde se irá introduciendo pasos para la planificación
 - Finalmente, se mostrará el calendario de la planificación donde el usuario podrá introducir eventos
 
-![Wireflow 2](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/2359dd6a-fd0e-430f-bcc1-ed1deeaa0002)
+![wireflow 2 ld](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/bfce0ee5-bfe7-4f79-b8ab-12d7d1a71a6d)
 
 ---
 
@@ -1406,7 +1447,7 @@ En esta sección, se presentan los wireflows de la aplicación guiándose de las
 - Si el usuario le da click al botón “Ver más”, se mostrarán a detalle los costos o ganancias según haya elegido previamente
 - Si el usuario le da click a “Registrar” en la sección que escogió, se mostrará la pantalla de registro.
 
-![wireflow3](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/1d79971f-c505-424f-a5f8-40bda7b30f3f)
+![wireflow 3 ld](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/3ac1f604-0b0e-4ff7-95d6-a74cc3888d63)
 
 ---
 
@@ -1417,7 +1458,7 @@ En esta sección, se presentan los wireflows de la aplicación guiándose de las
 - Luego el usuario da click al botón de “Insumos”
 - Le aparecerá la pantalla de los insumos usados ya registrados en el producto
 
-![wireflow 4](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/93fc2e8f-2b7c-4173-bc4c-42d1731ee347)
+![wireflow 4 ld](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/92807fa0-63cd-4cd3-aff6-173f1af75702)
 
 ---
 
@@ -1428,7 +1469,17 @@ En esta sección, se presentan los wireflows de la aplicación guiándose de las
 - Luego, se mostrará la pantalla de pedidos con las listas de los pedidos pendientes
 - Al seleccionar un pedido, el productor puede darle al botón de aceptar o rechazar pedido
 
-![WIREFLOW 5](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/59d72b29-dabd-4ac3-80f6-a563e07aa88e)
+![wireflow 5 ld](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/c4ca075b-227c-4063-a9e8-8b3fb43487c7)
+
+---
+
+**User Goal:** Como usuario deseo encontrar los productos de manera rápida para no perder tiempo
+
+**Task Flow:**
+- Primero el usuario debe encotnrarse en una de las paginas de inicio o en secciones con paginación
+- Luego, el usuario deberá escribir lo que desea en el input y luego darle click al icono de la lupa, en caso de paginación escoger la pagina deseada.
+
+![wireflow 6 ld](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/0e2b2c0c-ff4b-4830-8320-a711f3b29fb9)
 
 ---
 
@@ -1441,7 +1492,7 @@ En esta sección, se presentan los wireflows de la aplicación guiándose de las
 - Primero el usuario tiene que estar en la sección “Buscar Productos” 
 - Luego se mostrará la pantalla con los productos disponibles y una descripción
 
-![wireflow 6](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/ecc5275a-0845-40dc-943a-c064bb27dede)
+![wireflow 7 ld](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/f78109c8-122d-438a-a1d6-3465570d817a)
 
 ---
 
@@ -1452,7 +1503,7 @@ En esta sección, se presentan los wireflows de la aplicación guiándose de las
 - Luego debe seleccionar el producto que desee comprar
 - Se debe dar click en comprar y aparecerá la pantalla de dashboard donde debe completar datos para la compra
 
-![wireflow7](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/e12dacfd-6766-498f-976b-62bfb2a7271c)
+![wireflow 8 ld](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/cfbc9cdd-f6cc-4307-8b9d-e9a9f5de5c75)
 
 ---
 
@@ -1464,7 +1515,7 @@ En esta sección, se presentan los wireflows de la aplicación guiándose de las
 - Seleccionar un producto y luego se le mostrará el estado de su compra e información
 - Si hace click en el botón “Ver estado” podrá ver detalladamente el estado actual del producto
 
-![wireflow 9](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/903e2d87-a0fc-4586-813c-bb6bf76109f8)
+![wireflow 9 ld](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/a4fd64ee-27c1-4c18-81a8-996b8a2818cc)
 
 ---
 
@@ -1474,7 +1525,7 @@ En esta sección, se presentan los wireflows de la aplicación guiándose de las
 - Primero el usuario debe estar en la sección “Calificaciones” 
 - En la siguiente pantalla se mostrará información de los productos que compró y una calificación en estrellas
 
-![wireflow8](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/6b8f6c3a-b029-49ae-8815-8bcc50cff9ce)
+![wireflow 10 ld](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/8e486e78-ed01-4ede-9846-453b3c3618ca)
 
 ---
 
@@ -1536,7 +1587,10 @@ En esta sección, se presenta el diseño viusal y de interacción en formato de 
 - Primero se tiene que seleccionar un producto
 - Luego el usuario da click al botón de “Insumos”
 - Le aparecerá la pantalla de los insumos usados ya registrados en el producto
-![user flow mis productos e insumos](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/2440130a-15a4-4bc8-9fa7-9ad51cfd5cba)
+- Si el usuario desea editar los insumos puede hacerlo mediante inputs
+- Finalmente se le mostrará una pantalla de guardado o una pantalla de eliminación de cultivo si así lo quiere (Unhapy Path)
+
+![userflow1 ld](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/8a65fbfa-9e2b-4f4d-9a15-8a4947ab97cb)
 
 ---
 
@@ -1547,8 +1601,10 @@ En esta sección, se presenta el diseño viusal y de interacción en formato de 
 - Primero el usuario debe estar en la pestaña de “Mis compras”
 - Seleccionar un producto y luego se le mostrará el estado de su compra e información
 - Si hace click en el botón “Ver estado” podrá ver detalladamente el estado actual del producto
+- Si el usuario lo desea puede cancelar su compra (Unhappy Path)
 
-![user flow seguimiento](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/86d99c6e-7108-49d1-9bee-8e1b27320c12)
+![userflow2 ld](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/bcd167da-4798-4e6a-ba6a-def0127df6b9)
+
 
 ---
 
@@ -1558,8 +1614,9 @@ En esta sección, se presenta el diseño viusal y de interacción en formato de 
 - Primero el usuario debe estar en la pantalla de buscar productos
 - Luego debe seleccionar el producto que desee comprar
 - Se debe dar click en comprar y aparecerá la pantalla de dashboard donde debe completar datos para la compra
+- Si el usuario lo desea puede cancelar la compra con el botón "Cancelar compra" (Unhappy Path)
   
-![USERFLOW COMPRA](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/37aebbb8-db27-4be4-889a-320952d738dd)
+![userflow3 ld](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/bf758eb8-87d1-41f7-bb8d-39d0b0a10ad7)
 
 ---
 
@@ -1571,29 +1628,19 @@ En esta sección, se presenta el diseño viusal y de interacción en formato de 
 - Si el usuario le da click al botón “Ver más”, se mostrarán a detalle los costos o ganancias según haya elegido previamente
 - Si el usuario le da click a “Registrar” en la sección que escogió, se mostrará la pantalla de registro.
 
-![userflow costos](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/26417dae-0fe5-415a-99eb-538ce4215e48)
+![userflow 4 ld](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/f306cfc6-4e57-4053-8a73-5801161c8f7f)
 
 ---
 
-**Usar Goal:** Como usuario, quiero poder registrarme en la aplicación para acceder a las funcionalidades disponibles.
-
-**Task Flow:**
-- Primero se observará la pantalla de inicio de sesión, en esta se puede o iniciar o registrarse
-- Si accede a registrarse, se mostrará la pantalla de registro. Puede regresar a iniciar sesión o continuar
-- Finalmente, se accede a la pantalla de selección de roles si es que se registra, para que acceda a la aplicación.
-  
-![userflow login](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/f07df25b-1a9a-475d-a610-24a3aec2e290)
-
----
 
 **User Goal:** Como usuario deseo ver los pedidos que tengo de manera rápida y fácil en una pantalla 
 
 **Task Flow:**
 - Primero el usuario tiene que estar en la sección del header “Mis pedidos”
 - Luego, se mostrará la pantalla de pedidos con las listas de los pedidos pendientes
-- Al seleccionar un pedido, el productor puede darle al botón de aceptar o rechazar pedido
+- Al seleccionar un pedido, el productor puede darle al botón de aceptar (Happy Path) o rechazar pedido (Unhappy Path)
 
-![userflow pedidos](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/26e1f55c-aa33-4d03-a2d4-d3f4c048bf0c)
+![userflow 5 ld](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/904e93d2-9184-40da-838f-c4e635e1915d)
 
 ---
 
@@ -1604,8 +1651,9 @@ En esta sección, se presenta el diseño viusal y de interacción en formato de 
 - Si presiona el botón de “Añadir nuevo producto”, se mostrará la pantalla para rellenar los datos del cultivo 
 - Luego, se mostrará un dashboard para la planificación de cultivo, donde se irá introduciendo pasos para la planificación
 - Finalmente, se mostrará el calendario de la planificación donde el usuario podrá introducir eventos
+- Si el usuario quiere eliminar el cultivo, le debe dar al botón "Elminar cultivo" (Unhappy Path)
   
-![userflow planifiación con agregado](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/274e9055-5147-4fed-8316-005be3413716)
+![userflow 6 ld](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/3152792e-b890-435d-9d18-59ed2c68452a)
 
 ---
 
@@ -1615,8 +1663,9 @@ En esta sección, se presenta el diseño viusal y de interacción en formato de 
 **Task Flow:**
 - Primero el usuario debe estar en la sección “Calificaciones” 
 - En la siguiente pantalla se mostrará información de los productos que compró y una calificación en estrellas
+- Si el usuario no desea dejar califcación simplemente retrocede a la sección de Inicio/Home (Unhappy Path)
 
-![user flow clasificación](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/ea2b5759-35d2-4e39-9cb7-f53ede138d12)
+![userflow 7 ld](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/42b85ca4-d60b-4ba6-b2d4-748c094cfbfc)
 
 ---
 
@@ -1723,8 +1772,14 @@ Repositorio pruebas de aceptación: [Github](https://github.com/upc-pre-202302-G
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
-Referente a las convenciones o estilos de programación, se seguirá la guía de estilos de Google para programar en HTML (Google HTML) y CSS (CSS Style Guide). En el caso de la implementación del frontend, se utilizará Options API para el Framework Vue.
-Respecto a las convenciones para el control de versiones en GitHub, se usará conventional commits tanto para las ramas como para los commits usando “<type>/<title>”. En cuanto a la creación de ramas, se usará features branches siguiendo el modelo de GitFlow con la misma nomenclatura descrita anteriormente. La rama principal será la rama main, que contendrá la versión de la aplicación desplegada. Además, todos los hotfixes se realizan en ella, para así poder tener los arreglos desplegados de forma automática.
+Referente a las convenciones o estilos de programación, se seguirá la guía de estilos de Google para programar en HTML (Google HTML), CSS (CSS Style Guide) y JavaScript (JS) en el caso de la landing page. En el caso de la implementación del frontend, se utilizará Angular Framework utilizando HTML5, CSS3 y JavaScript para aspectos estáticos de templates y TypeScript como lenguaje de programación.
+
+Para el almacenamiento y control de versiones de código se utilizará GIT gestionado desde 
+GitHub aplicando GitFlow Workflow, Conventional Commits y Semantic Versioning. Además, todos los hotfixes se realizan en ella, para así poder tener los arreglos desplegados de forma automática. 
+
+El lenguaje de diseño de Landing Page y Web Applications estará basado en Material Design. Como biblioteca de componentes de UI se utilizará Angular Material.
+
+Para el desarrollo de Web Services, se realizará bajo RESTful API architectural style y se hará uso de Spring Boot Framework, utilizando Java como lenguaje de Programación. 
 
 ### 5.1.4. Software Deployment Configuration.
 

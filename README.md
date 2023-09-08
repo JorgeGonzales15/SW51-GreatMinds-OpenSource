@@ -16,7 +16,7 @@ Profesor: Velasquez Nuñez, Angel Augusto
 
 **Startup: GreatMinds**
 
-**Producto:**
+**Producto: Ayni**
 
 **Integrantes:**
 - Espejo Macuri, Paolo Andre

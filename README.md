@@ -134,6 +134,15 @@ Como se evidencia, todos trabajaron en la presente entrega, usando Github se log
     - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+  - [5.2.2. Sprint 2](#522-sprint-2)
+    - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+    - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
+    - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+    - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+    - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+    - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+    - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+    - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
 
 ## [Conclusiones](#conclusiones)
 
@@ -1940,6 +1949,60 @@ Las actividades para el presente Sprint se repartieron en base a las secciones d
 ![commitsopenlanding](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/29bb038a-a3f8-4af5-836c-5daacc57995b)
 
 ![commitslandingopennet](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/04c9b1bb-5cb3-46b5-9cd0-435367c79865)
+
+## 5.2. Landing Page, Services & Applications Implementation
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2.
+
+| Sprint # | 2 | 
+| - | - | 
+| **Sprint Planning Background** | - |
+| Date | 2023 - 09 - 19 |
+| Time | 19:00 PM |
+| Location | Virtual via Google Meet |
+| Prepared By | Gonzales Carrión, Jorge Enrique |
+| Attendees (to planning meeting) | Gonzales Carrión, Jorge Enrique / Espejo Macuri, Paolo Andre / Paucar De La Cruz, Tatiana Medalith / Huaman Cataño, Miguel Ángel / Zarate Castro, Jose Daniel |
+| Sprint 1 - Review Summary | Se realizó la landing page implementado con css y html, a raiz de los mockups de diseño|
+| Sprint 1 - Retrospective Summary  | No aplica (Es el primer Sprint) |
+| **Sprint Goal & User Stories** | - |
+| Sprint 2 Goal| El objetivo del presente Sprint es en desarrollar el fronted de la aplicación web y corregir los errores del sprint anterior|
+| Sprint 2 - Velocity | El equipo puede aceptar 20 Story Points|
+| Sprint 2 - Story Points | La suma de los Story Points de los User Sotires que se atenderá es (llenar)|
+
+#### 5.2.2.2. Sprint Backlog 2.
+
+
+#### 5.2.2.3. Development Evidence for Sprint Review.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| - | - | - | - | - | - |
+|  | develop |  | feature:   | - |  |
+|  | develop |  | feature: | - |  |
+|  | develop |  | feature: | - | |
+|   | develop |  | Feature:  | - |  |
+|   | develop |  | feature: | - | |
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| - | - | - | - | - | - |
+|  | develop |  | feature:   | - |  |
+|  | develop |  | feature: | - |  |
+|  | develop |  | feature: | - | |
+|   | develop |  | Feature:  | - |  |
+|   | develop |  | feature: | - | |
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
+
 
 # Conclusiones
 

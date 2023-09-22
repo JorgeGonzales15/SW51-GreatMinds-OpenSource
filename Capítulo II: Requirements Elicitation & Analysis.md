@@ -292,7 +292,7 @@ Duración: 7:43
 ![entrevista1](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/8a677388-1d07-4e19-b9b4-0decb701f59a)
 
 Resumen de la entrevista:
-El entrevistado fue Don Gerónimo Vilcamiza Saldaña, él es un agricultor de 41 años que reside en el distrito de El Carmen, en la provincia de Chincha. Él nos menciona que  posee un terreno, donde normalmente cultiva maíz o palto. Asimismo, menciona que  indica que al momento de la cosecha, ofrece sus productos al por mayor a los intermediarios. En algunas ocasiones acepta precios bajos con el fin de no desperdiciar sus productos. No obstante, si eso sucede, comercializa sus productos en el mercado local.
+El entrevistado fue Don Gerónimo Vilcamiza Saldaña, él es un agricultor de 41 años que reside en el distrito de El Carmen, en la provincia de Chincha. Él nos menciona que  posee un terreno, donde normalmente cultiva maíz o palto. Asimismo, menciona que  indica que al momento de la cosecha, ofrece sus productos al por mayor a los intermediarios. En algunas ocasiones acepta precios bajos con el fin de no desperdiciar sus productos. No obstante, si eso sucede, comercializa sus productos en el mercado local. Por último, el dispositivo que más usa es el celular con sistema operativo Android y el browser que frecuenta es Google Chrome.
 
 Entrevistado 2:
 
@@ -314,7 +314,7 @@ Duración: 11:10
 
 Resumen de la entrevista:
 
-El entrevistado fue Gian Castillón Paucar, un jóven de 28 años que se dedica a la agricultura desde muy temprana edad, al igual que toda su familia. Se considera una persona perseverante, responsable y dedicada. Su principal cultivo es la palta y la pitahaya. Gian menciona que el precio es definido por los compradores y que ello generalmente se basa en la calidad del producto y la dinámica del mercado. Si no logra vender todos sus productos, lo ofrece en el mercado local. A futuro, planea obtener mayor producción de sus plantas de palto. Sin embargo, a veces enfrenta desafíos, como la falla de los motores, lo cual desencadena una alteración en el cronograma de riego. Gian nos comenta también que a veces es complicado organizarse, por ello utiliza un programa de excel y word para anotar las fechas de todas sus actividades agrícolas. Por último, la creación de una aplicación web que le ayude a organizarse le parece una gran idea. Sin embargo, cree que la aplicación debería brindar información adicional sobre los procesos de crecimiento de su planta.
+El entrevistado fue Gian Castillón Paucar, un jóven de 28 años que se dedica a la agricultura desde muy temprana edad, al igual que toda su familia. Se considera una persona perseverante, responsable y dedicada. Su principal cultivo es la palta y la pitahaya. Gian menciona que el precio es definido por los compradores y que ello generalmente se basa en la calidad del producto y la dinámica del mercado. Si no logra vender todos sus productos, lo ofrece en el mercado local. A futuro, planea obtener mayor producción de sus plantas de palto. Sin embargo, a veces enfrenta desafíos, como la falla de los motores, lo cual desencadena una alteración en el cronograma de riego. Gian nos comenta también que a veces es complicado organizarse, por ello utiliza un programa de excel y word para anotar las fechas de todas sus actividades agrícolas. Por último, la creación de una aplicación web que le ayude a organizarse le parece una gran idea. Sin embargo, cree que la aplicación debería brindar información adicional sobre los procesos de crecimiento de su planta. Por último, el entrevistado nos contó que el browser que más usa es Google Chrome y el dispositivo que más usa es el celular con sistema operativo Android y una laptop con sistema operativo Windows.
 
 Entrevistado 3:
 
@@ -336,7 +336,7 @@ Duración: 08:09
 
 Resumen de la entrevista:
 
- El entrevistado fue Rolando Salvatierra un agricultor de 50 años del departamento de Junín. Como agricultor considera que sus cosechas son enfocadas a una producción al por mayor, con respecto a sus sembríos son realizados dependiendo a la temporada del año siendo los principales productos maíces, papas y zanahorias. La venta de sus productos se efectúa cuando el comprador va hacia ellos ofreciéndo un precio según el mercado, además, comenta que hubo veces en donde sus productos no fueron vendidos en su totalidad y para poder terminar sus ventas tuvo que venderlas a un precio menor al promedio según el mercado. Con respecto a la gestión de sus sembríos no se le hace complicado porque lleva años en el rubro, sin embargo, también hay veces en que se le olvida las fechas de ciertas actividades por lo que considera que la aplicación le ayudaría mucho para poder tener una cosecha de calidad y considera que el uso de las redes sociales y servicio de videollamadas como Zoom son una buena forma de capacitación para el uso de la app.
+ El entrevistado fue Rolando Salvatierra un agricultor de 50 años del departamento de Junín. Como agricultor considera que sus cosechas son enfocadas a una producción al por mayor, con respecto a sus sembríos son realizados dependiendo a la temporada del año siendo los principales productos maíces, papas y zanahorias. La venta de sus productos se efectúa cuando el comprador va hacia ellos ofreciéndo un precio según el mercado, además, comenta que hubo veces en donde sus productos no fueron vendidos en su totalidad y para poder terminar sus ventas tuvo que venderlas a un precio menor al promedio según el mercado. Con respecto a la gestión de sus sembríos no se le hace complicado porque lleva años en el rubro, sin embargo, también hay veces en que se le olvida las fechas de ciertas actividades por lo que considera que la aplicación le ayudaría mucho para poder tener una cosecha de calidad y considera que el uso de las redes sociales y servicio de videollamadas como Zoom son una buena forma de capacitación para el uso de la app. Por último, el dispositivo que más usa es su celular con sistema operativo Android y el navegador que frecuenta usar es Google Chrome.
 
 **Segmento Objetivo: Comerciantes que quieren mejorar la calidad de sus ventas**
 
@@ -360,7 +360,7 @@ Duración: 08:35
 
 Resumen de entrevista:
 
-El entrevistado fue Andre Luna, un joven de 25 años que se dedica a ser asistente en un grupo de comercio de frutas y verduras desde hace unos años. Andre menciona que los precios son bien definidos por los productores y que se basa en la calidad de producto, la disponibilidad del producto y la temporada en la cual son cultivadas. A futuro se plantea crear una empresa o marca propia de comercio de productos agrícolas con reconocimiento a nivel nacional. SIn embargo, a veces tiene frustraciones como la desorganización e incumplimiento de los productores en lo acordado. André nos comentó que utilizó programas para manejar ventas o reuniones usando excel, pero que no es lo suficientemente eficiente para cumplir todas sus funciones de asistente de comerciante. Por último, la creación de una aplicación web que responda a sus principales inconvenientes para organizarse le parece una idea innovadora. Sin embargo, el desea que la principal funcionalidad sea la de buscar productos y poder hacer una compra con contacto directo con el vendedor.
+El entrevistado fue Andre Luna, un joven de 25 años que se dedica a ser asistente en un grupo de comercio de frutas y verduras desde hace unos años. Andre menciona que los precios son bien definidos por los productores y que se basa en la calidad de producto, la disponibilidad del producto y la temporada en la cual son cultivadas. A futuro se plantea crear una empresa o marca propia de comercio de productos agrícolas con reconocimiento a nivel nacional. SIn embargo, a veces tiene frustraciones como la desorganización e incumplimiento de los productores en lo acordado. André nos comentó que utilizó programas para manejar ventas o reuniones usando excel, pero que no es lo suficientemente eficiente para cumplir todas sus funciones de asistente de comerciante. Por último, la creación de una aplicación web que responda a sus principales inconvenientes para organizarse le parece una idea innovadora. Sin embargo, el desea que la principal funcionalidad sea la de buscar productos y poder hacer una compra con contacto directo con el vendedor. Por último, el entrevistado nos dijo que el dispositivo que más usa es una laptop con sistema operativo Windows y el browser que más usa es Google Chrome.
 
 Entrevistado 5:
 
@@ -381,7 +381,7 @@ Duración: 08:26
 ![entrevistado5](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/1db9b603-0d51-4cd1-a8f1-a06507ad8ec9)
 
 Resumen de entrevista:
-El entrevistado es Favio Onofre, un joven de 25 años que se dedica a ser asistente en un comercio familiar de venta de productos agrícolas. Favio nos comenta que la calidad es la prioridad de los productos que vende de tipo al por mayor, debido a ello en su lugar de trabajo tienen un proceso de calidad por el cual someten al producto a una serie de pasos. Por otro lado, nos dice que los precios se negocian según los acuerdos de los productores dado que ellos son los que generan la ganancia. A futuro quiere mejorar la calidad de los productos que vende siendo reconocido a nivel internacional. También, nos comentó que los inconvenientes que presentó en su trabajo fueron la desorganización de las compras o el contacto de proveedor. Por último, la creación de una aplicación web ayudaría mucho a su trabajo ya que facilita el contacto con los productores para concretar ventas.
+El entrevistado es Favio Onofre, un joven de 25 años que se dedica a ser asistente en un comercio familiar de venta de productos agrícolas. Favio nos comenta que la calidad es la prioridad de los productos que vende de tipo al por mayor, debido a ello en su lugar de trabajo tienen un proceso de calidad por el cual someten al producto a una serie de pasos. Por otro lado, nos dice que los precios se negocian según los acuerdos de los productores dado que ellos son los que generan la ganancia. A futuro quiere mejorar la calidad de los productos que vende siendo reconocido a nivel internacional. También, nos comentó que los inconvenientes que presentó en su trabajo fueron la desorganización de las compras o el contacto de proveedor. Por último, la creación de una aplicación web ayudaría mucho a su trabajo ya que facilita el contacto con los productores para concretar ventas. Por último, nos dijo que el navegador que más usa es Google Chrome y que el dispositivo que más usa en el trabajo de asistente de comercio de agricultura es una laptop.
 
 Entrevistado 6:
 
@@ -402,7 +402,7 @@ Duración: 04:50
 ![entrevsitado 6](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/0a0a8d9e-5582-49dc-9bf7-1976f0e1cad1)
 
 Resumen de entrevista: 
-La entrevistada es Juli Carrión, una mujer de 45 años que se dedica a ser asistente en un pequeño comercio de venta de productos agrícolas. Juli nos dice que vende sus productos al por mayor. Además, que gestiona sus ventas de manera tradicional pero conservando la preferencia por la calidad de los productos que compra para posteriormente vender. Lamentablemente, tuvo que optar por decisiones tales como vender a bajo precio lo que le sobraba de productos, eso refleja una mala manera de gestionar los productos. Relacionado a ello, tuvo experiencias malas de que los proveedores de productos a veces no cumplen con su parte del trato incluso poniendo precios muy altos en la negociación. Sin embargo, ella piensa que una aplicación web que le ayude a comprar productos y hacerles un seguimiento, arreglaría sus problemas para sus ventas. Por último, nos dice que su dispositivo de preferencia es el celular, y el navegador que más usa es Google Chrome.
+La entrevistada es Juli Carrión, una mujer de 45 años que se dedica a ser asistente en un pequeño comercio de venta de productos agrícolas. Juli nos dice que vende sus productos al por mayor. Además, que gestiona sus ventas de manera tradicional pero conservando la preferencia por la calidad de los productos que compra para posteriormente vender. Lamentablemente, tuvo que optar por decisiones tales como vender a bajo precio lo que le sobraba de productos, eso refleja una mala manera de gestionar los productos. Relacionado a ello, tuvo experiencias malas de que los proveedores de productos a veces no cumplen con su parte del trato incluso poniendo precios muy altos en la negociación. Sin embargo, ella piensa que una aplicación web que le ayude a comprar productos y hacerles un seguimiento, arreglaría sus problemas para sus ventas. Por último, nos dice que su dispositivo de preferencia es el celular, y el navegador que más usa es Google Chrome. 
 
 ### 2.2.3. Análisis de entrevistas.
 
@@ -600,33 +600,106 @@ Se realiza las User Persona, personaje ficticio para reflejar al cliente ideal, 
 
 Pequeños y medianos agricultores
 
-![UserPersona1](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/263751299-3402707f-97d9-4385-8d61-a5d0d7955ce3.png)
+![Maria Gracia](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/b128bf90-b9a8-411d-aaca-c4b31133359a)
 
 Comerciantes o exportadores
 
-![UserPersona2](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/263751302-80e7ff52-e36b-4bac-93f6-f09c7e0daa5f.png)
-
+![Carlos Martínez](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/31ecb0d7-00c2-4334-90d6-e5b0a8a924d4)
 
 
 ### 2.3.2. User Task Matrix.
 
+A continuación, se muestra el User Task Matrix para los siguientes segmentos objetivo:
+Agricultores que desean mejorar la calidad de sus productos y comerciantes que desean mejorar la calidad de sus ventas.
 
-| COMERCIALIZADORES             | FRECUENCIA | IMPORTANCIA |
-|-------------------------------|------------|-------------|
-| Explorar productos agrícolas  | Always     | High        |
-| Realizar pedidos de productos | Often      | High        |
-| Gestionar pedidos y entregas  | Always     | Medium      |
-| Evaluar calidad de productos  | Always     | High        |
-| Evaluar demanda y tendencias  | Often      | High        |
+<table>
+  <tr>
+    <th></th>
+    <td colspan="2">COMERCIANTES</td>
+    <td colspan="2">AGRICULTORES</td>
+  </tr>
+  <tr>
+    <td>TASK</td>
+    <td>FREQUENCY</td>
+    <td>IMPORTANCE</td>
+    <td>FREQUENCY</td>
+    <td>IMPORTANCE</td>
+  </tr>
+  <tr>
+    <td>Buscar productos de calidad para comerciar</td>
+    <td>Always </td>
+    <td>High</td>
+    <td>Rare</td>
+    <td>Low</td>
+  </tr>
+  <tr>
+    <td>Coordinar contratos con proveedores de productos</td>
+    <td>Often</td>
+    <td>High</td>
+    <td>Rare</td>
+    <td>Low</td>
+  </tr>
+  <tr>
+    <td>Registrar pedidos y entregas de productos </td>
+    <td>Always</td>
+    <td>Medium</td>
+    <td>Always</td>
+    <td>Medium</td>
+  </tr>
+  <tr>
+    <td>Evaluar calidad de productos</td>
+    <td>Always</td>
+    <td>High</td>
+    <td>Always</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Evaluar demanda y tendencias</td>
+    <td>Often</td>
+    <td>High</td>
+    <td>Always</td>
+    <td>Medium</td>
+  </tr>
+  <tr>
+    <td>Planificar siembra de cultivos en cuadernos</td>
+    <td>Rare</td>
+    <td>Low</td>
+    <td>Always</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Gestionar sus ganancias en cuadernos</td>
+    <td>Often</td>
+    <td>Low</td>
+    <td>Often</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Gestionar insumos agrícolas</td>
+    <td>Rare</td>
+    <td>Low</td>
+    <td>Always</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Mitigar plagas con alterntivas caseras</td>
+    <td>Rare</td>
+    <td>Low</td>
+    <td>Always</td>
+    <td>Medium</td>
+  </tr>
+  <tr>
+    <td>Vender y comprar sus productos informalmente</td>
+    <td>Often</td>
+    <td>High</td>
+    <td>Often</td>
+    <td>High</td>
+  </tr>
+</table>
 
-| AGRICULTORES                     | FRECUENCIA | IMPORTANCIA |
-|----------------------------------|------------|-------------|
-| Planificar actividades agrícolas | Always     | High        |
-| Control de costos y ganancias    | Often      | High        |
-| Gestionar insumos agrícolas      | Always     | High        |
-| Monitoreo de plagas              | Always     | Medium      |
-| Acceder a reportes detallados    | Often      | Medium      |
-| Realizar ventas                  | Often      | High        |
+
+
+
 
 
 **Tareas con Mayor Frecuencia e Importancia:**
@@ -709,5 +782,3 @@ acciones, emociones y puntos de fricción. Se utilizó la herramienta Miro.
 Visualización de los As-Is Scenario Mapping:
 
 [<u>https://miro.com/app/board/uXjVMQLNH9s=/?share_link_id=67585397072</u>](https://miro.com/app/board/uXjVMQLNH9s=/?share_link_id=67585397072)
-
-

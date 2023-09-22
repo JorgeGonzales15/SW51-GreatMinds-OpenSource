@@ -440,7 +440,7 @@ En esta sección, se presentaran los User Flows, donde se mostrarán las rutas H
 Link de Lucidchart:[UserFlow Lucidchart](https://lucid.app/lucidchart/edcb2519-faf5-4a02-8d32-e782a99ffa7f/edit?viewport_loc=-781%2C342%2C12102%2C5535%2C0_0&invitationId=inv_78155e1b-bf61-45ea-9bb8-16f59f2af020)
 
 
-**User Goal:** Como agricultor, quiero llevar un registro de los insumos agrícolas utilizados para analizarlo y tomar decisiones de acuerdo a ello.
+**User Goal:** Registrar los insumos agrícolas utilizados en un cultivo
 
 **Task Flow:**
 - Primero se tiene que seleccionar un producto
@@ -453,7 +453,7 @@ Link de Lucidchart:[UserFlow Lucidchart](https://lucid.app/lucidchart/edcb2519-f
 
 ---
 
-**User Goal:** Como comercializador, quiero poder observar el estado de los pedidos y entregas para poder sentirme más tranquilo
+**User Goal:** Observar el estado de los pedidos realizados
 
 **Task Flow:**
 
@@ -467,7 +467,7 @@ Link de Lucidchart:[UserFlow Lucidchart](https://lucid.app/lucidchart/edcb2519-f
 
 ---
 
-**Usar Goal:** Como comercializador, quiero poder realizar los pedidos de productos agrícolas para poder realizar las entregas
+**Usar Goal:** Realizar pedidos de productos agrícolas
 
 **Task Flow:**
 - Primero el usuario debe estar en la pantalla de buscar productos
@@ -479,7 +479,7 @@ Link de Lucidchart:[UserFlow Lucidchart](https://lucid.app/lucidchart/edcb2519-f
 
 ---
 
-**User Goal:** Como agricultor, quiero registrar los gastos y las ganancias relacionadas con las actividades agrícolas para poder llevar un control financiero.
+**User Goal:** Registrar costos y ganancias de mis productos
 
 **Task Flow:**
 - Primero se está en la pantalla de “Gestión Financiera”
@@ -492,7 +492,7 @@ Link de Lucidchart:[UserFlow Lucidchart](https://lucid.app/lucidchart/edcb2519-f
 ---
 
 
-**User Goal:** Como usuario deseo ver los pedidos que tengo de manera rápida y fácil en una pantalla 
+**User Goal:** Visualizar los pedidos existentes
 
 **Task Flow:**
 - Primero el usuario tiene que estar en la sección del header “Mis pedidos”
@@ -503,7 +503,7 @@ Link de Lucidchart:[UserFlow Lucidchart](https://lucid.app/lucidchart/edcb2519-f
 
 ---
 
-**User Goal:** Como agricultor, quiero ingresar los datos correspondientes para la planificación de las actividades agrícolas. 
+**User Goal:** Añadir cultivos y realizar plan de cultivo de este mismo
 
 **Task Flow:**
 - Primero se está en la pantalla de “Mis productos”
@@ -517,7 +517,7 @@ Link de Lucidchart:[UserFlow Lucidchart](https://lucid.app/lucidchart/edcb2519-f
 ---
 
 
-**User Goal:** Como comercializador, quiero acceder a las calificaciones y reseñas dejadas por los agricultores para saber sobre la valoración de mis servicios
+**User Goal:** Calificar los productos que se recibieron
 
 **Task Flow:**
 - Primero el usuario debe estar en la sección “Calificaciones” 
@@ -556,7 +556,20 @@ Link del prototipo: [Figma](https://www.figma.com/proto/tniolYyFGnxJ4QF4BLTZt8/A
 
 ### 4.6.3. Software Architecture Components Diagrams.
 
-![structurizr-85725-Componente](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/3f1545c7-7a40-42dc-9923-592d5562595e)
+Authentication Context:
+![authentication context](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/cd4f351e-2ec7-4540-9286-51eb25ac3781)
+
+Planification Context:
+![planification context](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/08eab9bb-6305-4076-8434-cce03fdbb389)
+
+Shopping Context:
+![Shopping context](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/3327d4cf-c7b1-4f0c-ae42-4c74da4fcfb4)
+
+Finance Context:
+![Finance context](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/a3cb977a-e23e-447e-9c29-7c85a3013a43)
+
+Rates Context:
+![Rates context](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/2bdd2692-2dd2-4d89-98fb-adf60e1e7e7c)
 
 ## 4.7. Software Object-Oriented Design.
 
@@ -596,6 +609,6 @@ En esta sección, se definirán las tablas y relaciones necesarias para almacena
 
 En esta sección, se presentará el diagrama de la base de datos, que muestra la estructura y las relaciones entre las tablas. 
 
-![Database](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/ed2afd37-93ad-4fc7-b96d-8026b8e66c3e)
+![Ayni-2023-09-20_20-58](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/1b9bc309-9286-4b29-9ef8-cbbc110e1223)
 
 Link para visualizar el diagrama de base de datos: [Vertabelo](https://my.vertabelo.com/doc/lh2wueyLIyZXQviphxQgyZACCtfJVtKs)

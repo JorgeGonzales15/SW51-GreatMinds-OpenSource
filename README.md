@@ -70,7 +70,7 @@ Para la elaboración del informe se realizaron actividades tales como:
     - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-problem-statements)
     - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
     - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
-- [1.3. Segmentos objetivo](#13-segmentos-objetivo)
+- [1.3. Segmentos objetivo](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/blob/develop/Cap%C3%ADtulo%20I:%20Introducci%C3%B3n.md#13-segmentos-objetivo)
 
 ## [Capítulo II: Requirements Elicitation & Analysis](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/blob/develop/Cap%C3%ADtulo%20II:%20Requirements%20Elicitation%20%26%20Analysis.md)
 - [2.1. Competidores](#21-competidores)

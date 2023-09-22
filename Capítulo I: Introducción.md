@@ -97,7 +97,7 @@ Luego de haber desarrollado las 5W’s y 2H’s se logró desarrollar una visió
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
 
-El propósito de “Ayni” es proporcionar al sector agrícola una solución tecnológica integral que permita planificar, monitorear y optimizar de manera eficiente las diversas actividades realizadas durante todas las etapas de producción de los cultivos. Esta solución responde a la problemática de la ausencia de una planificación precisa que permita a los agricultores manejar sus cultivos de manera adecuada y lograr una cosecha fructífera.
+El propósito de “Ayni” es proporcionar a los agricultores una solución tecnológica integral que permita planificar, monitorear y optimizar de manera eficiente las diversas actividades realizadas durante todas las etapas de producción de los cultivos. Por otro lado, el propósito para los comerciantes de productos agricolas es brindar una plataforma donde puedan comprar, calificar y monitorear los productos elegidos que han sido publicados por los agricultores dentro de la aplicación. Esta solución responde a la problemática de la informalidad del proceso de cultivo y la intermediación de entidades abusivas en la compra/venta de las cosechas.
 
 Actualmente, existen pocas aplicaciones de plataformas que ofrecen soluciones orientadas a la gestión de los cultivos en el sector agrícola. En ese sentido, nuestra plataforma busca ingresar al mercado como una alternativa diferenciadora, con el propósito de resolver los problemas a los que se enfrentan los productores agrícolas.
 
@@ -172,29 +172,80 @@ La interfaz de nuestro producto debe ser sencilla e intuitiva para simplificar  
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
-- **Creemos que** los agricultores necesitan organizar sus actividades diarias. 
-**Sabremos que hemos tenido éxito**
-cuando nuestra aplicación se vuelva parte de su rutina para cosechar.
+A continuación, se plantearán las hipótesis que proponen una solución a la problemática dentro de las funcionalidades de la aplicación web. Cada una de estas hipótesis será especifica y medible para que se pueda sustentar el éxito de manera objetiva. Cabe resaltar que las metricas actuales son iguales a promedios generales de aplicaciones ya existentes.
 
-- **Creemos que** los agricultores necesitan gestionar sus costos e ingresos.
-**Sabremos que hemos tenido éxito**
-cuando nuestra aplicación ayude a la economía de los clientes y maximizar la calidad de sus productos
+### Hipótesis 1:
+*Creemos que los agricultores necesitan organizar sus actividades diarias.*
+*Sabremos que hemos tenido éxito cuando nuestra aplicación se vuelva parte de su rutina para cosechar.*
 
-- **Creemos que** los comerciantes o exportadores necesitan comprar productos de calidad y contacto directo con los productores
-  **Sabremos que hemos tenido éxito**
-cuando nuestra aplicación se vuelva el principal medio de comercio entre productores y comerciantes
+**Métricas:**
+1. *Frecuencia de Uso Diario:* Porcentaje de usuarios activos diariamente en la aplicación.
+   - Métrica actual: 20%
+   - Meta deseada: 50%
 
-- **Creemos que** los comerciantes deben calificar los productos que compraron 
-**Sabremos que hemos tenido éxito**
-cuando las calificaciones sustenten la calidad de los productos de los productores dentro de la aplicación
+2. *Retención a Largo Plazo:* Porcentaje de usuarios que siguen utilizando la aplicación después de 3 meses.
+   - Métrica actual: 30%
+   - Meta deseada: 40%
 
-- **Creemos que** generamos ganancias por publicidad de insumos para agricultura dentro de la aplicación
-**Sabremos que hemos tenido éxito**
-cuando recibamos los fondos por brindar la publicidad a los proveedores de insumos
+---
+
+### Hipótesis 2:
+*Creemos que los agricultores necesitan gestionar sus costos e ingresos.*
+*Sabremos que hemos tenido éxito cuando nuestra aplicación ayude a la economía de los clientes y maximice la calidad de sus productos.*
+
+**Métricas:**
+1. *Ahorro de Costos:* Porcentaje de agricultores que informan un ahorro mensual en sus operaciones.
+   - Métrica actual: 10%
+   - Meta deseada: 25%
+
+2. *Aumento en la Calidad de los Productos:* Medido por la calificación promedio de los productos en la plataforma.
+   - Métrica actual: 3.5 (en una escala de 1 a 5)
+   - Meta deseada: 4.0
+
+---
+
+### Hipótesis 3:
+*Creemos que los comerciantes o exportadores necesitan comprar productos de calidad y contacto directo con los productores.*
+*Sabremos que hemos tenido éxito cuando nuestra aplicación se vuelva el principal medio de comercio entre productores y comerciantes.*
+
+**Métricas:**
+1. *Volumen de Compras Mensuales:* Número de compras completadas a través de la aplicación web.
+   - Métrica actual: 100
+   - Meta deseada: 300
+
+2. *Porcentaje de Retención de Clientes Comerciantes:* Porcentaje de comerciantes que realizan al menos una compra mensualmente.
+   - Métrica actual: 40%
+   - Meta deseada: 60%
+
+---
+
+### Hipótesis 4:
+*Creemos que los comerciantes deben calificar los productos que compraron.*
+*Sabremos que hemos tenido éxito cuando las calificaciones sustenten la calidad de los productos de los productores dentro de la aplicación.*
+
+**Métricas:**
+1. *Número de Calificaciones Mensuales:* Cantidad de calificaciones emitidas por los comerciantes.
+   - Métrica actual: 50
+   - Meta deseada: 150
+
+2. *Calificación Promedio de los Productos:* Medida en una escala de 1 a 5.
+   - Métrica actual: 4.2
+   - Meta deseada: 4.5
+
+---
+
+### Hipótesis 5:
+*Creemos que generamos ganancias por publicidad de insumos para agricultura dentro de la aplicación.*
+*Sabremos que hemos tenido éxito cuando recibamos los fondos por brindar la publicidad a los proveedores de insumos.*
+
+**Métricas:**
+1. *Ingresos por Publicidad Mensuales:* Ganancias generadas a través de acuerdos de publicidad con proveedores de insumos.
+   - Métrica actual: $500
+   - Meta deseada: $1000
 
 #### 1.2.2.4. Lean UX Canvas.
 
-![canva](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/c0507000-b2bd-4708-b688-8caa5942e26e)
+![canvaarreglado](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/cfb98ad8-d848-46c6-9a5d-813196cdc767)
 
 ### 1.3. Segmentos objetivo.
 
@@ -202,4 +253,4 @@ cuando recibamos los fondos por brindar la publicidad a los proveedores de insum
 | - | - | - |
 | Geografico | País: Perú <br> Zona residencial: Zonas rurales que cuentan con campos de cultivo | País: Perú <br> Zona residencial: Zona aledaña a campos de cultivo |  
 | Psicográfico | Clase Social: Media - Baja <br> Estilo de Vida: Deben ser personas con conocimientos familiares o técnicos de cultivos, que participen activamente en el cuidado de una parcela para obtener ganancias de la cosecha. | Clase social: No es relevante dado que pueden ser comerciantes independientes o entidades en conjunto. <br> Estilo de vida: Deben ser personas que se dedican a la compra/venta de productos agrícolas con contacto directo con los productores. |  
-| Demográfico | Edad: 20-50 <br> Nivel de Ingreso: No es relevante, pues está dirigido a cualquier persona pero que se dedique a la producción de cultivo | Edad: 20-50 <br> Nivel de ingreso: No es relevante. |
+| Demográfico | Edad: 20-50 <br> Nivel de Ingreso: No es relevante, pues está dirigido a cualquier persona pero que se dedique a la producción de cultivo | Edad: 20-50 <br> Nivel de ingreso: No es relevante. | 

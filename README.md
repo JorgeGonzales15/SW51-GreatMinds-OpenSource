@@ -39,6 +39,7 @@ Agosto del 2023
 | 1.40 | 01/09/2023 | Espejo Macuri, Paolo Andre | Se realizaron las preguntas para las entrevistas para ambos sectores y participó de entrevistador en el registro de entrevistas. Se realizó el análisis de entrevistas. Se realizó mockups y wireframes.|
 | 1.50 | 04/09/2023 | Gonzales Carrión, Jorge Enrique | Se realizó el registro de commits y contenido del capítulo 5. |
 | 2.00 | 19/09/2023 | Gonzales Carrión, Jorge Enrique - Espejo Macuri, Paolo André | Se realizaron las correcciones del primer entregable |
+| 2.10 | 19/09/2023 | Gonzales Carrión, Jorge Enrique - Espejo Macuri, Paolo André | Se realizó la documentación del Sprint 2|
 ---
 # Project Report Collaboration Insights
 

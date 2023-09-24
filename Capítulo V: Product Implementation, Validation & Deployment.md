@@ -59,6 +59,8 @@ Repositorio del landing page: [Repositorio Landing Page](https://github.com/upc-
 
 Repositorio pruebas de aceptación: [Github](https://github.com/upc-pre-202302-GreatMinds-SW51/acceptance-test-opensource) 
 
+Repositorio Frontend: [Github](https://github.com/upc-pre-202302-GreatMinds-SW51/AyniFrontend) 
+
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
@@ -204,46 +206,77 @@ Las actividades para el presente Sprint se repartieron en base a las secciones d
 | Prepared By | Gonzales Carrión, Jorge Enrique |
 | Attendees (to planning meeting) | Gonzales Carrión, Jorge Enrique / Espejo Macuri, Paolo Andre / Paucar De La Cruz, Tatiana Medalith / Huaman Cataño, Miguel Ángel / Zarate Castro, Jose Daniel |
 | Sprint 1 - Review Summary | Se realizó la landing page implementado con css y html, a raiz de los mockups de diseño|
-| Sprint 1 - Retrospective Summary  | No aplica (Es el primer Sprint) |
+| Sprint 1 - Retrospective Summary  | Mejorar en puntos de la documentación del informe |
 | **Sprint Goal & User Stories** | - |
 | Sprint 2 Goal| El objetivo del presente Sprint es en desarrollar el fronted de la aplicación web y corregir los errores del sprint anterior|
-| Sprint 2 - Velocity | El equipo puede aceptar 20 Story Points|
-| Sprint 2 - Story Points | La suma de los Story Points de los User Sotires que se atenderá es (llenar)|
+| Sprint 2 - Velocity | El equipo puede aceptar 28 Story Points|
+| Sprint 2 - Story Points | La suma de los Story Points de los User Sotires que se atenderá es (26)|
 
 #### 5.2.2.2. Sprint Backlog 2.
 
+
+<table><tr><th valign="top">Sprint 2</th><th colspan="7" valign="top">Sprint: Implementar el frontend de las principales historias de usuario del product backlog </th></tr>
+<tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
+<tr><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Description</td><td valign="top">Estimation (Hours)</td><td valign="top">Assigned To</td><td valign="top"><p>Status </p><p>(To-do / </p><p>InProcess / </p><p>To Review / </p><p>Done)</p></td></tr>
+<tr><td rowspan="3" valign="top">HU-08</td><td rowspan="3" valign="top">Planificar actividades agrícolas</td><td valign="top">08\.1</td><td valign="top">Implementar fake-api</td><td valign="top">Implementar fake api para posts o gets de entidades</td><td valign="top">3</td><td valign="top">Miguel Huaman</td><td valign="top">Done</td></tr>
+<tr><td valign="top">08\.2</td><td valign="top">Implementar estilos </td><td valign="top">Diseñar la página con los Styles Guidelines definidos</td><td valign="top">4</td><td valign="top">Miguel Huaman</td><td valign="top">Done</td></tr>
+<tr><td valign="top">08\.3</td><td valign="top">Implementar stepper </td><td valign="top">El stepper consta de 3 pasos y cada uno es de un componente</td><td valign="top">4</td><td valign="top">Miguel Huaman</td><td valign="top">Done</td></tr>
+<tr><td rowspan="3" valign="top">HU-04</td><td rowspan="3" valign="top">Realizar pedidos de productos</td><td valign="top">08\.1</td><td valign="top">Implementar fake-api</td><td valign="top">Implementar fake api para posts o gets de entidades</td><td valign="top">3</td><td valign="top">Paolo Espejo</td><td valign="top">Done</td></tr>
+<tr><td valign="top">08\.2</td><td valign="top">Implementar estilos </td><td valign="top">Diseñar la página con los Styles Guidelines definidos</td><td valign="top">2</td><td valign="top">Paolo Espejo</td><td valign="top">Done</td></tr>
+<tr><td valign="top">08\.3</td><td valign="top">Implementar stepper </td><td valign="top">El stepper consta de 3 pasos y cada uno es de un componente</td><td valign="top">5</td><td valign="top">Paolo Espejo</td><td valign="top">Done</td></tr>
+<tr><td rowspan="3" valign="top">HU-03</td><td rowspan="3" valign="top">Explorar productos agrícolas</td><td valign="top">03\.1</td><td valign="top">Implementar estilos</td><td valign="top">Diseñar los estilos para las páginas</td><td valign="top">2</td><td valign="top">Tatiana Paucar</td><td valign="top">Done</td></tr>
+<tr><td valign="top">03\.2</td><td valign="top">Implementar formularios</td><td valign="top">Implementar formularios para añadir cultivos</td><td valign="top">5</td><td valign="top">Tatiana Paucar</td><td valign="top">Done</td></tr>
+<tr><td valign="top">03\.3</td><td valign="top">Implementar página de productos</td><td valign="top">Implementar cars para explorar los productos agrícolas</td><td valign="top">4</td><td valign="top">Tatiana Paucar</td><td valign="top">Done</td></tr>
+<tr><td rowspan="3" valign="top">HU-09</td><td rowspan="3" valign="top">Registro de gastos y ganancias</td><td valign="top">09\.1</td><td valign="top">Implementar estilos </td><td valign="top">Diseñar los estilos para las páginas</td><td valign="top">2</td><td valign="top">Jorge Gonzales Carrión</td><td valign="top">Done</td></tr>
+<tr><td valign="top">09\.2</td><td valign="top">Implementar las listas de costos y ganancias</td><td valign="top">Implementar con las listbox con el framework requerido</td><td valign="top">5</td><td valign="top">Jorge Gonzales Carrión</td><td valign="top">Done</td></tr>
+<tr><td valign="top">09\.3</td><td valign="top">Cards con información de costos y gastos</td><td valign="top">Implementar cards con la información de costos y gatos</td><td valign="top">5</td><td valign="top">Jorge Gonzales Carrión</td><td valign="top">Done</td></tr>
+<tr><td valign="top">HU-21</td><td valign="top">Sección principal (“Home”)</td><td valign="top">21\.1</td><td valign="top">Paginas de “Home”</td><td valign="top">Implementar páginas de “Home”</td><td valign="top">4</td><td valign="top">Jose Zarate</td><td valign="top">Done</td></tr>
+<tr><td valign="top">HU-01</td><td valign="top">Registro de cuenta</td><td valign="top">01\.1</td><td valign="top">Pantallas de registro de cuentas</td><td valign="top">Implementar  inicio de sesión mediante componentes</td><td valign="top">3</td><td valign="top">Jose Zarate</td><td valign="top">Done</td></tr>
+<tr><td valign="top">HU-02</td><td valign="top">Inicio de sesión</td><td valign="top">02\.2</td><td valign="top">Pantallas de inicio de sesión</td><td valign="top">Implementar  inicio de sesión mediante componentes</td><td valign="top">3</td><td valign="top">Jose Zarate</td><td valign="top">Done</td></tr>
+</table>
 
 #### 5.2.2.3. Development Evidence for Sprint Review.
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 | - | - | - | - | - | - |
-|  | develop |  | feature:   | - |  |
-|  | develop |  | feature: | - |  |
-|  | develop |  | feature: | - | |
-|   | develop |  | Feature:  | - |  |
-|   | develop |  | feature: | - | |
+| AyniFrontend | main | f72191e | chore: added needed dependencies.  | - | 17/09/2023 |
+| AyniFrontend | costs-and-bills | f72191e1d38ec6b319a070dd0ff2c66d80882a2c | chore: added needed dependencies. | - | 17/09/2023  |
+| AyniFrontend | costs-and-bills | 33821e3e9b2172520a52dec2090713debd1b83bd | feat: added cost and bills list and buttons | - | 22/09/2023 |
+| AyniFrontend  | costs-and-bills | 05a1af9a8568f2fea4c5c07c0db379cc9fec4d54 | feat: added cost and bills list and buttons  | - | 22/09/2023 |
+| AyniFrontend  | costs-and-bills | 50d946806224632d9d594a00afc72523b0a62dd0  | feat: added dialog form and tables | - | 22/09/2023 |
+|  AyniFrontend | costs-and-bills | 3a0a88800907d71aaae8aa5a076d91e9604d894c  | feat: added cost section and forms | - | 22/09/2023 |
+|  AyniFrontend | costs-and-bills | bc8bcd139aaddc1813ccd354210b263c9b21240a  | feat: added gain section and forms | - | 23/09/2023 |
+|  AyniFrontend | authentication-and-home | 2063194841636d0ace1c50064abcfc228f83443d  | feat: added signin, signup, select-rol, homeFarmer, homeMerchant | - | 23/09/2023 |
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review.
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 | - | - | - | - | - | - |
-|  | develop |  | feature:   | - |  |
-|  | develop |  | feature: | - |  |
-|  | develop |  | feature: | - | |
-|   | develop |  | Feature:  | - |  |
-|   | develop |  | feature: | - | |
+| acceptance-test-opensource | main | ff04b60f38a2f5157aec9d71c8d9cb8bc3bcbce0 | Acceptance_test_09.feature | - | 24/09/2023 |
+| acceptance-test-opensource | main | 1b8f502ac39a84eb36e9daabe146e4785a29b679 | Acceptance_test_07.feature | - | 24/09/2023 |
+| acceptance-test-opensource  | main | da19cab55fbe622c1cf312f3c455d590749e0fab  | Acceptance_test_05.feature  | - | 24/09/2023 |
+| acceptance-test-opensource  | main | ee834b68b361b308a321bd84c69d99820f2e9e73 | Acceptance_test_06.feature | - | 24/09/2023 |
+| acceptance-test-opensource  | main | ec958e25d1fa3812cbd9cccdcafab75177a14183 | Acceptance_test_08.feature | - | 24/09/2023 |
+| acceptance-test-opensource  | main | 011f4284b937951603bbe2bf2b24e7619fe17dc1 | Acceptance_test_10.feature | - | 24/09/2023 |
+| acceptance-test-opensource  | main | d1d5a6a523a196a7640e64a08a2ce1e7bc313da3 | Acceptance_test_11.feature | - | 24/09/2023 |
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 
+En este apartado se hace presenta la ejecución del frontend del producto solución Ayni.
+
+![Captura de pantalla 2023-09-24 160516](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/a423317b-faca-4c14-aef7-e55a1b9805ea)
+
+Link del video: [Video Evidencia]() 
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
+No se utilizó ningún servicio adicional, pues este Sprint solo consta de la implementación de pantallas con fake API.
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
-
+Se usará netlify para el despliegue del frontend con todos los avances del equipo. De esta manera todo lo plasmado en la rama develop dentro del repositorio Frontend se reflejará en el deploy. El enlace es el siguiente:
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
-
+Las actividades para el presente Sprint se repartieron en base a la priorización de historias de usuario dentro del producto backlog referidas a las funcionalidades principales de la aplicación web, para ello, se realizaron primero branches por features abordados dentro del sprint para que cada integrante trabaje en esas branches y luego realice el push para ver los cambios. De esta manera, el desarrollo del frontend fue organizada y eficiente. A continuación, se mostrarán las evidencias de los commits:
 
 # Conclusiones
 
@@ -252,7 +285,8 @@ Las actividades para el presente Sprint se repartieron en base a las secciones d
 - Por otro lado, se definieron los General Style Guidelines que sirvieron de base para diseños los Wireframes y Mock-ups de la aplicación web y de la landing page, donde se evidenciaran todos los principios que se propusieron para el futuro desarrollo de la aplicación web.
 
 - Se desarrolló la Landing Page en base al Sprint presentado en esta entrega, donde todos los integrantes del equipo desarrollaron secciones que componen la Landing, de esta manera los usuarios pueden visitar la landing page para posteriormente acceder a la aplicación web.
-  
+
+-Se desarrolló una avance del frontend en base al Sprint presentado en esta entrega, donde todos los integrantes del equipo de desarrollaron features priorizados dentro del producto backlog, se puede hacer un desarrollo del frontend sin importar el backend al usar una fake api.
 
 # Referencias
 

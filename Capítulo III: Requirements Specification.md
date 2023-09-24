@@ -51,8 +51,8 @@ Segmento objetivo: Comerciantes que desean mejorar la calidad de sus ventas
 |02|HU-04|Realizar pedidos de productos|Como comercializador, quiero poder realizar los pedidos de productos agrícolas para poder realizar las entregas|8|
 |03|HU-03|Explorar productos agrícolas|Como comercializador quiero observar los productos disponibles para poder realizar los pedidos|3|
 |04|HU-09|Registro de gastos y ganancias|Como agricultor, quiero registrar los gastos y las ganancias relacionadas con las actividades agrícolas para poder llevar un control financiero|3|
-|05|HU-01|Registro de cuenta|Como usuario, quiero poder registrarme en la aplicación para acceder a las funcionalidades disponibles.|2|
-|06|HU-21|Sección principal ("Home")|Como usuario del segmento productor o del segmento comerciante, deseo que luego de iniciar sesión me redirija a una sección "Home" para ver en es pantalla mis actividades recientes|2|
+|05|HU-21|Sección principal ("Home")|Como usuario del segmento productor o del segmento comerciante, deseo que luego de iniciar sesión me redirija a una sección "Home" para ver en es pantalla mis actividades recientes|2|
+|06|HU-01|Registro de cuenta|Como usuario, quiero poder registrarme en la aplicación para acceder a las funcionalidades disponibles.|2|
 |07|HU-02|Inicio de sesión|Como usuario, quiero iniciar sesión para poder ingresar a mi cuenta|3|
 |08|HU-07|Observar registro de pedidos y entregas realizadas|Como comercializador, quiero observar los pedidos y entregas realizadas, para poder tomar decisiones de acuerdo al análisis de los registros|2|
 |09|HU-12|Atender pedidos|Como usuario deseo ver los pedidos que tengo de manera rápida y fácil en una pantalla|8|

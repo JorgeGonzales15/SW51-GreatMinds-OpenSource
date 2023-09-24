@@ -239,26 +239,25 @@ Las actividades para el presente Sprint se repartieron en base a las secciones d
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 | - | - | - | - | - | - |
-| AyniFrontend | main | f72191e | chore: added needed dependencies.  | - | 17/09/2023 |
-| AyniFrontend | costs-and-bills | f72191e1d38ec6b319a070dd0ff2c66d80882a2c | chore: added needed dependencies. | - | 17/09/2023  |
-| AyniFrontend | costs-and-bills | 33821e3e9b2172520a52dec2090713debd1b83bd | feat: added cost and bills list and buttons | - | 22/09/2023 |
-| AyniFrontend  | costs-and-bills | 05a1af9a8568f2fea4c5c07c0db379cc9fec4d54 | feat: added cost and bills list and buttons  | - | 22/09/2023 |
-| AyniFrontend  | costs-and-bills | 50d946806224632d9d594a00afc72523b0a62dd0  | feat: added dialog form and tables | - | 22/09/2023 |
-|  AyniFrontend | costs-and-bills | 3a0a88800907d71aaae8aa5a076d91e9604d894c  | feat: added cost section and forms | - | 22/09/2023 |
-|  AyniFrontend | costs-and-bills | bc8bcd139aaddc1813ccd354210b263c9b21240a  | feat: added gain section and forms | - | 23/09/2023 |
-|  AyniFrontend | authentication-and-home | 2063194841636d0ace1c50064abcfc228f83443d  | feat: added signin, signup, select-rol, homeFarmer, homeMerchant | - | 23/09/2023 |
+| AyniFrontend | costs-and-bills | f72191e| chore: added needed dependencies. | - | 17/09/2023  |
+| AyniFrontend | costs-and-bills | 33821e3 | feat: added cost and bills list and buttons | - | 22/09/2023 |
+| AyniFrontend  | costs-and-bills | 05a1af9 | feat: added cost and bills list and buttons  | - | 22/09/2023 |
+| AyniFrontend  | costs-and-bills | 50d9468 | feat: added dialog form and tables | - | 22/09/2023 |
+|  AyniFrontend | costs-and-bills | 3a0a888  | feat: added cost section and forms | - | 22/09/2023 |
+|  AyniFrontend | costs-and-bills | bc8bcd1 | feat: added gain section and forms | - | 23/09/2023 |
+|  AyniFrontend | authentication-and-home | 2063194 | feat: added signin, signup, select-rol, homeFarmer, homeMerchant | - | 23/09/2023 |
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review.
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 | - | - | - | - | - | - |
-| acceptance-test-opensource | main | ff04b60f38a2f5157aec9d71c8d9cb8bc3bcbce0 | Acceptance_test_09.feature | - | 24/09/2023 |
-| acceptance-test-opensource | main | 1b8f502ac39a84eb36e9daabe146e4785a29b679 | Acceptance_test_07.feature | - | 24/09/2023 |
-| acceptance-test-opensource  | main | da19cab55fbe622c1cf312f3c455d590749e0fab  | Acceptance_test_05.feature  | - | 24/09/2023 |
-| acceptance-test-opensource  | main | ee834b68b361b308a321bd84c69d99820f2e9e73 | Acceptance_test_06.feature | - | 24/09/2023 |
-| acceptance-test-opensource  | main | ec958e25d1fa3812cbd9cccdcafab75177a14183 | Acceptance_test_08.feature | - | 24/09/2023 |
-| acceptance-test-opensource  | main | 011f4284b937951603bbe2bf2b24e7619fe17dc1 | Acceptance_test_10.feature | - | 24/09/2023 |
-| acceptance-test-opensource  | main | d1d5a6a523a196a7640e64a08a2ce1e7bc313da3 | Acceptance_test_11.feature | - | 24/09/2023 |
+| acceptance-test-opensource | main | ff04b60 | Acceptance_test_09.feature | - | 24/09/2023 |
+| acceptance-test-opensource | main | 1b8f502 | Acceptance_test_07.feature | - | 24/09/2023 |
+| acceptance-test-opensource  | main | da19cab  | Acceptance_test_05.feature  | - | 24/09/2023 |
+| acceptance-test-opensource  | main | ee834b6 | Acceptance_test_06.feature | - | 24/09/2023 |
+| acceptance-test-opensource  | main | ec958e2 | Acceptance_test_08.feature | - | 24/09/2023 |
+| acceptance-test-opensource  | main | 011f428 | Acceptance_test_10.feature | - | 24/09/2023 |
+| acceptance-test-opensource  | main | d1d5a6a | Acceptance_test_11.feature | - | 24/09/2023 |
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 

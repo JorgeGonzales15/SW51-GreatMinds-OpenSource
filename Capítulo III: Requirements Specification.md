@@ -33,7 +33,7 @@ En esta parte se utilizó el “TO-BE Scenario Mapping” para ello se hizo una 
 |HU-18|Autenticación de usuarios|Como developer quiero implementar un sistema de autenticación de usuarios para garantizar que solo los usuarios autorizados puedan acceder a los recursos del API |<p>Escenario 01: Autenticación exitosa</p><p>Dado que el usuario proporciona credenciales válidas</p><p>Cuando realiza una solicitud POST a /auth con nombre de usuario y contraseña</p><p>` `Entonces el API devuelve un código de estado 200 y un token de acceso</p><p>Escenario 02: Autenticación fallida</p><p>Dado que el usuario proporciona credenciales inválidas</p><p>Cuando realiza una solicitud POST a /auth con nombre de usuario y contraseña incorrectos</p><p>Entonces el API devuelve un código de estado 401 Unauthorized</p>|EP01|
 |HU-19|Obtención de recursos|Como developer quiero permitir a los usuarios obtener información sobre recursos existentes a través del API|<p>Escenario: Obtención exitosa de un recurso</p><p>Dado que el usuario proporciona un identificador válido</p><p>Cuando realiza una solicitud GET</p><p>Entonces el API devuelve un código de estado 200 OK y los detalles del recurso</p><p>Escenario: Obtención de un recurso inexistente</p><p>Dado que el usuario proporciona un identificador no existente</p><p>Cuando realiza una solicitud GET</p><p>Entonces el API devuelve un código de estado 404 Not Found</p>|EP02|
 |HU-20|Creación de recursos|Como developer quiero permitir a los usuarios crear nuevos recursos a través del API|<p>Escenario: Creación exitosa de un recurso</p><p>Dado que el usuario proporciona datos válidos</p><p>Cuando realiza una solicitud POST</p><p>` `Entonces el API devuelve un código de estado 201 Created y el recurso creado</p><p>Escenario: Fallo en la creación de un recurso</p><p>Dado que el usuario proporciona datos inválidos o incompletos</p><p>Cuando realiza una solicitud POST con los datos incorrectos</p><p>Entonces el API devuelve un código de estado 400 Bad Request y un mensaje de error descriptivo</p>|EP02|
-
+|HU-21|Sección principal ("Home")|Como usuario del segmento productor o del segmento comerciante, deseo que luego de iniciar sesión me redirija a una sección "Home" para ver en es pantalla mis actividades recientes |<p>Escenario: Redireccionamiento a pantalla "Home" </p><p>Dado que el usuario se encuentra fuera de la aplicación web</p><p>Cuando inicie sesión de manera correcta</p><p>Entonces se le redirecciona a la pantalla de "Home"</p><p>Escenario: Fallo en la redirección a "Home"</p><p>Dado que el usuario se encuentra fuera de la aplicación</p><p>Cuando inicie sesión con credenciales inválidas</p><p>Entonces no le permitirá el redireccionamiento a "Home"</p>|EP01|
 
 ## 3.3. Impact Mapping.
 Se utilizó el Impact Mapping para definir y visualizar los objetivos y resultados deseados en el proyecto para cada uno de los segmentos. Se utilizó la herramienta UXPressia.
@@ -52,18 +52,19 @@ Segmento objetivo: Comerciantes que desean mejorar la calidad de sus ventas
 |03|HU-03|Explorar productos agrícolas|Como comercializador quiero observar los productos disponibles para poder realizar los pedidos|3|
 |04|HU-09|Registro de gastos y ganancias|Como agricultor, quiero registrar los gastos y las ganancias relacionadas con las actividades agrícolas para poder llevar un control financiero|3|
 |05|HU-01|Registro de cuenta|Como usuario, quiero poder registrarme en la aplicación para acceder a las funcionalidades disponibles.|2|
-|06|HU-02|Inicio de sesión|Como usuario, quiero iniciar sesión para poder ingresar a mi cuenta|3|
-|07|HU-07|Observar registro de pedidos y entregas realizadas|Como comercializador, quiero observar los pedidos y entregas realizadas, para poder tomar decisiones de acuerdo al análisis de los registros|2|
-|08|HU-12|Atender pedidos|Como usuario deseo ver los pedidos que tengo de manera rápida y fácil en una pantalla|8|
-|09|HU10|Gestión de Insumos Agrícolas|Como agricultor, quiero llevar un registro de los insumos agrícolas utilizados para analizarlo y tomar decisiones de acuerdo con ello|3|
-|10|HU-05|Seguimiento de Pedidos y Entregas|Como comercializador, quiero poder observar el estado de los pedidos y entregas para poder sentirme más tranquilo|8|
-|11|HU-06|Acceder a Calificaciones y Reseñas|Como comercializador, quiero acceder a las calificaciones y reseñas dejadas por los agricultores para saber sobre la valoración de mis servicios|2|
-|12|HU-11|Control de Plagas|Como agricultor, quiero tener herramientas para identificar y controlar las plagas para que no puedan afectar mis cultivos|3|
-|13|HU-13|Visualización de características de la aplicación web|Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo|5|
-|14|HU-14|Landing Page responsive|Como usuario deseo visitar la landing page desde cualquier dispositivo|8|
-|15|HU-15|Botón Call to Action|Como usuario deseo ir a la aplicación web desde un solo botón|5|
-|16|HU-16|Visualización de botones y texto amplia y notoria|Como usuario deseo ver los botones y la información de las secciones o pantalla para una mejor navegación|3|
-|17|HU-17|Sistemas de búsqueda y paginación|Como usuario deseo encontrar los productos de manera rápida para no perder tiempo|5|
-|18|HU-18|Autenticación de usuarios|Como developer quiero implementar un sistema de autenticación de usuarios para garantizar que solo los usuarios autorizados puedan acceder a los recursos del API |5|
-|19|HU-19|Obtención de recursos|Como developer quiero permitir a los usuarios obtener información sobre recursos existentes a través del API|2|
-|20|HU-20|Creación de recursos|Como developer quiero permitir a los usuarios crear nuevos recursos a través del API|2|
+|06|HU-21|Sección principal ("Home")|Como usuario del segmento productor o del segmento comerciante, deseo que luego de iniciar sesión me redirija a una sección "Home" para ver en es pantalla mis actividades recientes|2|
+|07|HU-02|Inicio de sesión|Como usuario, quiero iniciar sesión para poder ingresar a mi cuenta|3|
+|08|HU-07|Observar registro de pedidos y entregas realizadas|Como comercializador, quiero observar los pedidos y entregas realizadas, para poder tomar decisiones de acuerdo al análisis de los registros|2|
+|09|HU-12|Atender pedidos|Como usuario deseo ver los pedidos que tengo de manera rápida y fácil en una pantalla|8|
+|10|HU10|Gestión de Insumos Agrícolas|Como agricultor, quiero llevar un registro de los insumos agrícolas utilizados para analizarlo y tomar decisiones de acuerdo con ello|3|
+|11|HU-05|Seguimiento de Pedidos y Entregas|Como comercializador, quiero poder observar el estado de los pedidos y entregas para poder sentirme más tranquilo|8|
+|12|HU-06|Acceder a Calificaciones y Reseñas|Como comercializador, quiero acceder a las calificaciones y reseñas dejadas por los agricultores para saber sobre la valoración de mis servicios|2|
+|13|HU-11|Control de Plagas|Como agricultor, quiero tener herramientas para identificar y controlar las plagas para que no puedan afectar mis cultivos|3|
+|14|HU-13|Visualización de características de la aplicación web|Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo|5|
+|15|HU-14|Landing Page responsive|Como usuario deseo visitar la landing page desde cualquier dispositivo|8|
+|16|HU-15|Botón Call to Action|Como usuario deseo ir a la aplicación web desde un solo botón|5|
+|17|HU-16|Visualización de botones y texto amplia y notoria|Como usuario deseo ver los botones y la información de las secciones o pantalla para una mejor navegación|3|
+|18|HU-17|Sistemas de búsqueda y paginación|Como usuario deseo encontrar los productos de manera rápida para no perder tiempo|5|
+|19|HU-18|Autenticación de usuarios|Como developer quiero implementar un sistema de autenticación de usuarios para garantizar que solo los usuarios autorizados puedan acceder a los recursos del API |5|
+|20|HU-19|Obtención de recursos|Como developer quiero permitir a los usuarios obtener información sobre recursos existentes a través del API|2|
+|21|HU-20|Creación de recursos|Como developer quiero permitir a los usuarios crear nuevos recursos a través del API|2|

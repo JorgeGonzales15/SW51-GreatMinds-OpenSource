@@ -40,6 +40,9 @@ Agosto del 2023
 | 1.50 | 04/09/2023 | Gonzales Carrión, Jorge Enrique | Se realizó el registro de commits y contenido del capítulo 5. |
 | 2.00 | 19/09/2023 | Gonzales Carrión, Jorge Enrique - Espejo Macuri, Paolo André | Se realizaron las correcciones del primer entregable |
 | 2.10 | 19/09/2023 | Gonzales Carrión, Jorge Enrique - Espejo Macuri, Paolo André | Se realizó la documentación del Sprint 2|
+| 2.11 | 25/09/2023 |  |  |
+| 2.12 | 25/09/2023 |  |  |
+| 2.13 | 25/09/2023 |  |  |
 ---
 # Project Report Collaboration Insights
 

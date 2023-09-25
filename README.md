@@ -56,7 +56,16 @@ Para la elaboración del informe se realizaron actividades tales como:
 - Se realizaron branches dentro del repositorio del informe para separar el README.md principal en capitulos.
 
 ![commitsinformeopen](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/1665e68a-849a-4c87-887e-a5d7e17d6b6c)
- 
+
+TP: Se han desarrollado las actividades correspondientes para la entrega TP en el siguiente repositorio de Guthub dentro de la organización del equipo:
+Link de repositorio Github: (https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource)
+
+Para la elaboración del informe se realizaron actividades tales como:
+- Corregir las observaciones brindadas, tales como: definir la problemática mejor, agregar métricas a los hypothesis statements, añadir dispositivos y canales de distribución al resumen de entrevistas y user persona, mejorar el User Task Matrix, agregar technicals user stories y más escenarios, priorizar el product backlog, mejorar el diagrama de componentes por bounded context, mejorar las nomenclaturas dentro del modelo de diagrama de base de datos.
+- Planificar el alcance y objetivo del Sprint 2
+- Realizar el sprint backlog 2 para lograr el objetivo de implementar frontend
+- Organizar el repositorio del informe por branches de capítulos
+- Realizar los puntos correspondientes al Sprint 2, tales como: Development Evidece, Testing Suite Evidence, Execution Evidence, Software Deployment Evidence y Team Collaboration Insights
 
 ---
 # Contenido 

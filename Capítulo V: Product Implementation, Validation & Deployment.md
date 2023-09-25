@@ -246,6 +246,24 @@ Las actividades para el presente Sprint se repartieron en base a las secciones d
 |  AyniFrontend | costs-and-bills | 3a0a888  | feat: added cost section and forms | - | 22/09/2023 |
 |  AyniFrontend | costs-and-bills | bc8bcd1 | feat: added gain section and forms | - | 23/09/2023 |
 |  AyniFrontend | authentication-and-home | 2063194 | feat: added signin, signup, select-rol, homeFarmer, homeMerchant | - | 23/09/2023 |
+|  AyniFrontend | sales-and-crops | c4ae259 | chore: fixed | - | 24/09/2023 |
+|  AyniFrontend | sales-and-crops | 795bf7a | feat: Added db.json and routes.json | - | 24/09/2023 |
+|  AyniFrontend | sales-and-crops | e36a1d3 | feat: Added base service | - | 24/09/2023 |
+|  AyniFrontend | sales-and-crops | 46cf7dd | feat: Added sales service and model | - | 24/09/2023 |
+|  AyniFrontend | sales-and-crops | fe26b1d | feat: Added sales step 1 component | - | 24/09/2023 |
+|  AyniFrontend | sales-and-crops | 095a3e9 | feat: Added sales step 2 component | - | 24/09/2023 |
+|  AyniFrontend | sales-and-crops | a8970e6 | feat: Added sales step 3 component | - | 24/09/2023 |
+|  AyniFrontend | sales-and-crops | fed6477 | feat: Added sales dialog component | - | 24/09/2023 |
+|  AyniFrontend | sales-and-crops | c2594d7 | feat: Added sales stepper component | - | 24/09/2023 |
+|  AyniFrontend | sales-and-crops | db081c5 | feat: Added crops service and model | - | 24/09/2023 |
+|  AyniFrontend | sales-and-crops | e4eb751 | feat: Added crops step 1 component | - | 24/09/2023 |
+|  AyniFrontend | sales-and-crops | bd5a01a | feat: Added crops step 2 component | - | 24/09/2023 |
+|  AyniFrontend | sales-and-crops | d542212 | feat: Added crops step 3 component | - | 24/09/2023 |
+|  AyniFrontend | sales-and-crops | fd2f671 | feat: Added crops dialog component | - | 24/09/2023 |
+|  AyniFrontend | sales-and-crops | 252bca9 | feat: Added crops stepper component | - | 24/09/2023 |
+|  AyniFrontend | explore-and-add-products | 75ac20c | chored: added more products for db.json | - | 25/09/2023 |
+|  AyniFrontend | explore-and-add-products | 50f48d2 | feat(shopping): added product model and services | - | 25/09/2023 |
+|  AyniFrontend | explore-and-add-products | 9e76d00 | feat(shopping): added products page and product details page | - | 25/09/2023 |
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review.
 

@@ -291,15 +291,30 @@ No se utilizó ningún servicio adicional, pues este Sprint solo consta de la im
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
-![image](https://user-images.githubusercontent.com/104078975/270460711-314e1f64-4df0-4a81-83a6-a282c390dc67.png)
 
-Se usará netlify para el despliegue del frontend con todos los avances del equipo. De esta manera todo lo plasmado en la rama develop dentro del repositorio Frontend se reflejará en el deploy. El enlace es el siguiente:
+Ejecutamos el comando “ng build” en la ruta de nuestro projecto en angular, nos muestra lo siguiente:
 
-Link: [Netlify](https://ayni-frontend.netlify.app/signin) 
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/59453bc9-dac5-4ec4-9a75-7e5d6a3bced2)
 
-Asimismo, se utilizó JSONPlaceholder para alojar la fake API que se utilizó para desarrollar el frontend. Sin embargo, existía una limitación de 5 entidades disponibles, por lo cual se recortaron las posibildiades de hacer metodos para todas las páginas realizadas. El enlace es el siguiente:
+Se genera la carpeta dist:
 
-Link: [JSONPlaceholder](https://my-json-server.typicode.com/JorgeGonzales15/AyniDBPrueba) 
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/de612d0d-f8dc-4880-a0bf-fde275b96aa8)
+
+Se añade el archivo “netlify.toml” para que netlify pueda entender las rutas de nuestro programa en angular con la siguiente configuración:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/85f73994-0a0a-44f3-ad92-46e12988be51)
+
+Por último, vamos a netlify a la sección que nos permite desplegar nuestra aplicación manualmente para evitar errores:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/0a454407-893f-4f98-87e0-0148f38ccf95)
+
+Y pasamos la carpeta que se encuentra dentro de la carpeta dist generada en nuestro proyecto:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/7b51f439-869e-42b1-89fb-b72966cd289d)
+
+De esta manera el avance del Sprint 2 queda desplegado, a continuación se mostrará la evidencia del despliegue junto con la fecha que se realizó:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/4b49ccb0-3bb6-4ca5-8387-161d80b16049)
 
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.

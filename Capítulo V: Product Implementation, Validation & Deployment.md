@@ -47,6 +47,7 @@ Git: Git es un sistema de control de versiones distribuido. Aunque no es un prog
 
 GitHub: GitHub es una plataforma de desarrollo colaborativo que utiliza el sistema de control de versiones Git. Se utiliza para alojar, revisar y colaborar en proyectos de desarrollo de software, lo que facilita la colaboración entre desarrolladores.
 
+
 **Software Testing:**
 
 Lenguaje Gherkin: El lenguaje Gherkin es un lenguaje de dominio específico utilizado para escribir pruebas de aceptación en un formato legible por humanos. Se utiliza junto con herramientas de prueba de comportamiento, como Cucumber, para automatizar pruebas funcionales.
@@ -60,6 +61,8 @@ Repositorio del landing page: [Repositorio Landing Page](https://github.com/upc-
 Repositorio pruebas de aceptación: [Github](https://github.com/upc-pre-202302-GreatMinds-SW51/acceptance-test-opensource) 
 
 Repositorio Frontend: [Github](https://github.com/upc-pre-202302-GreatMinds-SW51/AyniFrontend) 
+
+Repositorio de uso para usar el servicio de JSONPlaceholder: [Github](https://github.com/JorgeGonzales15/AyniDBPrueba) 
 
 
 ### 5.1.3. Source Code Style Guide & Conventions.
@@ -218,16 +221,16 @@ Las actividades para el presente Sprint se repartieron en base a las secciones d
 <table><tr><th valign="top">Sprint 2</th><th colspan="7" valign="top">Sprint: Implementar el frontend de las principales historias de usuario del product backlog </th></tr>
 <tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
 <tr><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Description</td><td valign="top">Estimation (Hours)</td><td valign="top">Assigned To</td><td valign="top"><p>Status </p><p>(To-do / </p><p>InProcess / </p><p>To Review / </p><p>Done)</p></td></tr>
-<tr><td rowspan="3" valign="top">HU-08</td><td rowspan="3" valign="top">Planificar actividades agrícolas</td><td valign="top">08\.1</td><td valign="top">Implementar fake-api</td><td valign="top">Implementar fake api para posts o gets de entidades</td><td valign="top">3</td><td valign="top">Miguel Huaman</td><td valign="top">Done</td></tr>
+<tr><td rowspan="3" valign="top">HU-08</td><td rowspan="3" valign="top">Planificar actividades agrícolas</td><td valign="top">08\.1</td><td valign="top">Implementar fake-api</td><td valign="top">Implementar fake api para posts o gets de entidades</td><td valign="top">4</td><td valign="top">Miguel Huaman</td><td valign="top">Done</td></tr>
 <tr><td valign="top">08\.2</td><td valign="top">Implementar estilos </td><td valign="top">Diseñar la página con los Styles Guidelines definidos</td><td valign="top">4</td><td valign="top">Miguel Huaman</td><td valign="top">Done</td></tr>
 <tr><td valign="top">08\.3</td><td valign="top">Implementar stepper </td><td valign="top">El stepper consta de 3 pasos y cada uno es de un componente</td><td valign="top">4</td><td valign="top">Miguel Huaman</td><td valign="top">Done</td></tr>
-<tr><td rowspan="3" valign="top">HU-04</td><td rowspan="3" valign="top">Realizar pedidos de productos</td><td valign="top">08\.1</td><td valign="top">Implementar fake-api</td><td valign="top">Implementar fake api para posts o gets de entidades</td><td valign="top">3</td><td valign="top">Paolo Espejo</td><td valign="top">Done</td></tr>
-<tr><td valign="top">08\.2</td><td valign="top">Implementar estilos </td><td valign="top">Diseñar la página con los Styles Guidelines definidos</td><td valign="top">2</td><td valign="top">Paolo Espejo</td><td valign="top">Done</td></tr>
+<tr><td rowspan="3" valign="top">HU-04</td><td rowspan="3" valign="top">Realizar pedidos de productos</td><td valign="top">08\.1</td><td valign="top">Implementar fake-api</td><td valign="top">Implementar fake api para posts o gets de entidades</td><td valign="top">4</td><td valign="top">Paolo Espejo</td><td valign="top">Done</td></tr>
+<tr><td valign="top">08\.2</td><td valign="top">Implementar estilos </td><td valign="top">Diseñar la página con los Styles Guidelines definidos</td><td valign="top">4</td><td valign="top">Paolo Espejo</td><td valign="top">Done</td></tr>
 <tr><td valign="top">08\.3</td><td valign="top">Implementar stepper </td><td valign="top">El stepper consta de 3 pasos y cada uno es de un componente</td><td valign="top">5</td><td valign="top">Paolo Espejo</td><td valign="top">Done</td></tr>
-<tr><td rowspan="3" valign="top">HU-03</td><td rowspan="3" valign="top">Explorar productos agrícolas</td><td valign="top">03\.1</td><td valign="top">Implementar estilos</td><td valign="top">Diseñar los estilos para las páginas</td><td valign="top">2</td><td valign="top">Tatiana Paucar</td><td valign="top">Done</td></tr>
+<tr><td rowspan="3" valign="top">HU-03</td><td rowspan="3" valign="top">Explorar productos agrícolas</td><td valign="top">03\.1</td><td valign="top">Implementar estilos</td><td valign="top">Diseñar los estilos para las páginas</td><td valign="top">4</td><td valign="top">Tatiana Paucar</td><td valign="top">Done</td></tr>
 <tr><td valign="top">03\.2</td><td valign="top">Implementar formularios</td><td valign="top">Implementar formularios para añadir cultivos</td><td valign="top">5</td><td valign="top">Tatiana Paucar</td><td valign="top">Done</td></tr>
 <tr><td valign="top">03\.3</td><td valign="top">Implementar página de productos</td><td valign="top">Implementar cars para explorar los productos agrícolas</td><td valign="top">4</td><td valign="top">Tatiana Paucar</td><td valign="top">Done</td></tr>
-<tr><td rowspan="3" valign="top">HU-09</td><td rowspan="3" valign="top">Registro de gastos y ganancias</td><td valign="top">09\.1</td><td valign="top">Implementar estilos </td><td valign="top">Diseñar los estilos para las páginas</td><td valign="top">2</td><td valign="top">Jorge Gonzales Carrión</td><td valign="top">Done</td></tr>
+<tr><td rowspan="3" valign="top">HU-09</td><td rowspan="3" valign="top">Registro de gastos y ganancias</td><td valign="top">09\.1</td><td valign="top">Implementar estilos </td><td valign="top">Diseñar los estilos para las páginas</td><td valign="top">4</td><td valign="top">Jorge Gonzales Carrión</td><td valign="top">Done</td></tr>
 <tr><td valign="top">09\.2</td><td valign="top">Implementar las listas de costos y ganancias</td><td valign="top">Implementar con las listbox con el framework requerido</td><td valign="top">5</td><td valign="top">Jorge Gonzales Carrión</td><td valign="top">Done</td></tr>
 <tr><td valign="top">09\.3</td><td valign="top">Cards con información de costos y gastos</td><td valign="top">Implementar cards con la información de costos y gatos</td><td valign="top">5</td><td valign="top">Jorge Gonzales Carrión</td><td valign="top">Done</td></tr>
 <tr><td valign="top">HU-21</td><td valign="top">Sección principal (“Home”)</td><td valign="top">21\.1</td><td valign="top">Paginas de “Home”</td><td valign="top">Implementar páginas de “Home”</td><td valign="top">4</td><td valign="top">Jose Zarate</td><td valign="top">Done</td></tr>
@@ -279,21 +282,75 @@ Las actividades para el presente Sprint se repartieron en base a las secciones d
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 
-En este apartado se hace presenta la ejecución del frontend del producto solución Ayni.
+El producto del desarrollo del presente sprint, está reflejado en el siguiente video, donde se muestra todo lo logrado en este sprint. A continuación el link del video:
 
-![Captura de pantalla 2023-09-24 160516](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/a423317b-faca-4c14-aef7-e55a1b9805ea)
+![image](https://user-images.githubusercontent.com/104078975/270459815-4b5cf797-da63-4a83-9355-9fe4c0ad2370.png)
 
-Link del video: [Video Evidencia]() 
+Link del video: [Video Evidencia](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EaDY_7OrBVNGsjAXORTlPisBfycb7Bn6bKcMeajAVDzhJw?e=Dcavps) 
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
-No se utilizó ningún servicio adicional, pues este Sprint solo consta de la implementación de pantallas con fake API.
+| Endpoint | Detalles |
+| - | - | 
+| /signin| Como ruta default tenemos esta, que a la vez es la pantalla de inicio de sesión | 
+| /signup | En esta ruta se muestra la pantalla de registro de usuario | 
+| /select-rol  | En este endpoint se muestra la pantalla relacionada a la selección de roles | 
+| /finance  | En este endpoint se muestra la pantalla relacionada la vista previa de costos y ganancias del tipo usuario agricultor | 
+| /costs  | En este endpoint se muestra la pantalla relacionada la vista a detalle de los costos generados del tipo usuario agricultor | 
+| /bills  | En este endpoint se muestra la pantalla relacionada la vista a detalle de las ganancias generados del tipo usuario agricultor | 
+| /products  | En este endpoint se muestra la pantalla relacionada la vista previa de los productos del del tipo usuario agricultor | 
+| /product-details  | En este endpoint se muestra la pantalla relacionada la vista a detalle de un producto seleccionado del tipo usuario agricultor | 
+| /farmer-home  | En este endpoint se muestra lo correspondiente a funcionalidades para el rol de agricultor | 
+| /merchant-home  | En este endpoint se muestra lo correspondiente a funcionalidades para el rol de comerciante | 
+| /sales  | Este endpoint corresponde al procedimiento de compra de pedido del tipo de usuario comerciante |
+
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
-Se usará netlify para el despliegue del frontend con todos los avances del equipo. De esta manera todo lo plasmado en la rama develop dentro del repositorio Frontend se reflejará en el deploy. El enlace es el siguiente:
+
+Para realizar el proceso de despliegue de lo desarrollado en el Sprint 2, a continuación se detallará paso a paso el procedimiento del despliegue:
+
+Ejecutamos el comando “ng build” en la ruta de nuestro projecto en angular, nos muestra lo siguiente:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/59453bc9-dac5-4ec4-9a75-7e5d6a3bced2)
+
+Se genera la carpeta dist:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/de612d0d-f8dc-4880-a0bf-fde275b96aa8)
+
+Se añade el archivo “netlify.toml” para que netlify pueda entender las rutas de nuestro programa en angular con la siguiente configuración:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/85f73994-0a0a-44f3-ad92-46e12988be51)
+
+Por último, vamos a netlify a la sección que nos permite desplegar nuestra aplicación manualmente para evitar errores:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/0a454407-893f-4f98-87e0-0148f38ccf95)
+
+Y pasamos la carpeta que se encuentra dentro de la carpeta dist generada en nuestro proyecto:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/7b51f439-869e-42b1-89fb-b72966cd289d)
+
+De esta manera el avance del Sprint 2 queda desplegado, a continuación se mostrará la evidencia del despliegue junto con la fecha que se realizó:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/4b49ccb0-3bb6-4ca5-8387-161d80b16049)
+
+Adicionalmente, se usó JSONPlaceholder para albergar los datos dentro del archivo "db.json", que durante el desarrollo del sprint se trabajó como "localhost:XXXX", gracias a JSONPlaceholder se podrá realizar el método GET cuando la aplicación esté desplegada. A continuación el link:
+
+Link del JSONPlaceholder: [JSONPlaceholder](https://my-json-server.typicode.com/JorgeGonzales15/AyniDBPrueba) 
+
+Finalmente, se logró desplegar con exito todo el desarrollo trabajado en el Sprint2. A continuación el link:
+
+Link del frontend desplegado: [Netlify](https://ayni-frontend.netlify.app/signin) 
+
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 Las actividades para el presente Sprint se repartieron en base a la priorización de historias de usuario dentro del producto backlog referidas a las funcionalidades principales de la aplicación web, para ello, se realizaron primero branches por features abordados dentro del sprint para que cada integrante trabaje en esas branches y luego realice el push para ver los cambios. De esta manera, el desarrollo del frontend fue organizada y eficiente. A continuación, se mostrarán las evidencias de los commits:
+
+![Pulse sprint2](https://user-images.githubusercontent.com/104078975/270454769-9d9e3b8f-20c0-494f-82e9-6894ed4acd68.png) 
+
+Network:
+
+![network sprint2](https://user-images.githubusercontent.com/104078975/270454953-c1cbf6c8-dfbc-4afa-809f-f26872b563df.png)
+![Network2 srpint2](https://user-images.githubusercontent.com/104078975/270455044-3c869d76-e568-4568-981b-f46ff2f0b0e0.png)
 
 # Conclusiones
 
@@ -303,7 +360,7 @@ Las actividades para el presente Sprint se repartieron en base a la priorizació
 
 - Se desarrolló la Landing Page en base al Sprint presentado en esta entrega, donde todos los integrantes del equipo desarrollaron secciones que componen la Landing, de esta manera los usuarios pueden visitar la landing page para posteriormente acceder a la aplicación web.
 
--Se desarrolló una avance del frontend en base al Sprint presentado en esta entrega, donde todos los integrantes del equipo de desarrollaron features priorizados dentro del producto backlog, se puede hacer un desarrollo del frontend sin importar el backend al usar una fake api.
+- Se desarrolló una avance del frontend en base al Sprint presentado en esta entrega, donde todos los integrantes del equipo de desarrollaron features priorizados dentro del producto backlog, se puede hacer un desarrollo del frontend sin importar el backend al usar una fake api.
 
 # Referencias
 
@@ -323,3 +380,5 @@ Congreso de la Reública (2020). Boletín Social N°30. Gobierno estima pérdida
 # Anexos
 
 Video Exposición TB1: [Microsoft Streams](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EfGXv140UdJAj5qJjl92k4MBiX5R0c1zXJI3MsotH5xepg?e=qk0X0x)
+
+Video Exposición TP: [Microsoft Streams](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EQPFOrKXordClMuFSr95AvYBJKBR76KKGIh9Pg8WC_oJ-A?e=WruxwM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)

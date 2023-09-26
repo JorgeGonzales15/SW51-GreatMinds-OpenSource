@@ -47,6 +47,7 @@ Git: Git es un sistema de control de versiones distribuido. Aunque no es un prog
 
 GitHub: GitHub es una plataforma de desarrollo colaborativo que utiliza el sistema de control de versiones Git. Se utiliza para alojar, revisar y colaborar en proyectos de desarrollo de software, lo que facilita la colaboración entre desarrolladores.
 
+
 **Software Testing:**
 
 Lenguaje Gherkin: El lenguaje Gherkin es un lenguaje de dominio específico utilizado para escribir pruebas de aceptación en un formato legible por humanos. Se utiliza junto con herramientas de prueba de comportamiento, como Cucumber, para automatizar pruebas funcionales.
@@ -60,6 +61,8 @@ Repositorio del landing page: [Repositorio Landing Page](https://github.com/upc-
 Repositorio pruebas de aceptación: [Github](https://github.com/upc-pre-202302-GreatMinds-SW51/acceptance-test-opensource) 
 
 Repositorio Frontend: [Github](https://github.com/upc-pre-202302-GreatMinds-SW51/AyniFrontend) 
+
+Repositorio de uso para usar el servicio de JSONPlaceholder: [Github](https://github.com/JorgeGonzales15/AyniDBPrueba) 
 
 
 ### 5.1.3. Source Code Style Guide & Conventions.
@@ -279,7 +282,7 @@ Las actividades para el presente Sprint se repartieron en base a las secciones d
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 
-En este apartado se hace presenta la ejecución del frontend del producto solución Ayni.
+El producto del desarrollo del presente sprint, está reflejado en el siguiente video, donde se muestra todo lo logrado en este sprint. A continuación el link del video:
 
 ![image](https://user-images.githubusercontent.com/104078975/270459815-4b5cf797-da63-4a83-9355-9fe4c0ad2370.png)
 
@@ -287,10 +290,24 @@ Link del video: [Video Evidencia](https://upcedupe-my.sharepoint.com/:v:/g/perso
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
-No se utilizó ningún servicio adicional, pues este Sprint solo consta de la implementación de pantallas con fake API.
+| Endpoint | Detalles |
+| - | - | 
+| /signin| Como ruta default tenemos esta, que a la vez es la pantalla de inicio de sesión | 
+| /signup | En esta ruta se muestra la pantalla de registro de usuario | 
+| /select-rol  | En este endpoint se muestra la pantalla relacionada a la selección de roles | 
+| /finance  | En este endpoint se muestra la pantalla relacionada la vista previa de costos y ganancias del tipo usuario agricultor | 
+| /costs  | En este endpoint se muestra la pantalla relacionada la vista a detalle de los costos generados del tipo usuario agricultor | 
+| /bills  | En este endpoint se muestra la pantalla relacionada la vista a detalle de las ganancias generados del tipo usuario agricultor | 
+| /products  | En este endpoint se muestra la pantalla relacionada la vista previa de los productos del del tipo usuario agricultor | 
+| /product-details  | En este endpoint se muestra la pantalla relacionada la vista a detalle de un producto seleccionado del tipo usuario agricultor | 
+| /farmer-home  | En este endpoint se muestra lo correspondiente a funcionalidades para el rol de agricultor | 
+| /merchant-home  | En este endpoint se muestra lo correspondiente a funcionalidades para el rol de comerciante | 
+| /sales  | Este endpoint corresponde al procedimiento de compra de pedido del tipo de usuario comerciante |
+
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
+Para realizar el proceso de despliegue de lo desarrollado en el Sprint 2, a continuación se detallará paso a paso el procedimiento del despliegue:
 
 Ejecutamos el comando “ng build” en la ruta de nuestro projecto en angular, nos muestra lo siguiente:
 
@@ -315,6 +332,14 @@ Y pasamos la carpeta que se encuentra dentro de la carpeta dist generada en nues
 De esta manera el avance del Sprint 2 queda desplegado, a continuación se mostrará la evidencia del despliegue junto con la fecha que se realizó:
 
 ![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/4b49ccb0-3bb6-4ca5-8387-161d80b16049)
+
+Adicionalmente, se usó JSONPlaceholder para albergar los datos dentro del archivo "db.json", que durante el desarrollo del sprint se trabajó como "localhost:XXXX", gracias a JSONPlaceholder se podrá realizar el método GET cuando la aplicación esté desplegada. A continuación el link:
+
+Link del JSONPlaceholder: [JSONPlaceholder](https://my-json-server.typicode.com/JorgeGonzales15/AyniDBPrueba) 
+
+Finalmente, se logró desplegar con exito todo el desarrollo trabajado en el Sprint2. A continuación el link:
+
+Link del frontend desplegado: [Netlify](https://ayni-frontend.netlify.app/signin) 
 
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
@@ -355,3 +380,5 @@ Congreso de la Reública (2020). Boletín Social N°30. Gobierno estima pérdida
 # Anexos
 
 Video Exposición TB1: [Microsoft Streams](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EfGXv140UdJAj5qJjl92k4MBiX5R0c1zXJI3MsotH5xepg?e=qk0X0x)
+
+Video Exposición TP: [Microsoft Streams](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EQPFOrKXordClMuFSr95AvYBJKBR76KKGIh9Pg8WC_oJ-A?e=WruxwM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)

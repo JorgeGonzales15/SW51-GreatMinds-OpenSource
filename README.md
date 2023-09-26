@@ -42,7 +42,7 @@ Agosto del 2023
 | 2.10 | 19/09/2023 | Gonzales Carrión, Jorge Enrique - Espejo Macuri, Paolo André | Se realizó la documentación del Sprint 2|
 | 2.11 | 25/09/2023 | Huaman Catano, Miguel Angel | Se realizó la planificación de cultivo en el frontend |
 | 2.12 | 25/09/2023 | Paucar De La Cruz, Tatiana Medalith | Se realizó la implementación de vistas de listas de productos que maneja el agricultor |
-| 2.13 | 25/09/2023 |  |  |
+| 2.13 | 25/09/2023 | Zarate Castro, Jose Daniel | Se realizó la explicación paso a paso del proceso de deployment de lo avanzado en el Sprint 2 |
 ---
 # Project Report Collaboration Insights
 

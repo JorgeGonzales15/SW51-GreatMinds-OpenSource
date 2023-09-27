@@ -346,6 +346,8 @@ Link del frontend desplegado: [Netlify](https://ayni-frontend.netlify.app/signin
 Las actividades para el presente Sprint se repartieron en base a la priorización de historias de usuario dentro del producto backlog referidas a las funcionalidades principales de la aplicación web, para ello, se realizaron primero branches por features abordados dentro del sprint para que cada integrante trabaje en esas branches y luego realice el push para ver los cambios. De esta manera, el desarrollo del frontend fue organizada y eficiente. A continuación, se mostrarán las evidencias de los commits:
 
 ![Pulse sprint2](https://user-images.githubusercontent.com/104078975/270454769-9d9e3b8f-20c0-494f-82e9-6894ed4acd68.png) 
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/18806c49-8062-49bf-a64f-5011509b9cee)
+
 
 Network:
 

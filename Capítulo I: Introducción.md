@@ -35,7 +35,9 @@ Mi nombre es Miguel Ángel Huamán Cataño, tengo 19 años y actualmente estoy e
 
 Mi nombre es Paolo Andre Espejo Macuri, tengo 20 años de edad, estoy cursando el sexto ciclo de la carrera de Ingeniería de Software en la UPC. Soy hábil con las TICs y soy una persona creativa para proporcionar ideas innovadoras. Aprendo de forma rápida nuevos temas al practicarlos y se me da bien la programación y la solución de errores.
 
-![paolo](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/386b5d22-7174-4557-a91f-721da4c3cea4)
+![lolo (1)](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/5f1175df-e03c-4d5a-9cd0-be7f807ed27f)
+
+
 
 ---
 

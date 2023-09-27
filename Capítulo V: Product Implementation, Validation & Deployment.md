@@ -292,17 +292,11 @@ Link del video: [Video Evidencia](https://upcedupe-my.sharepoint.com/:v:/g/perso
 
 | Endpoint | Detalles |
 | - | - | 
-| /signin| Como ruta default tenemos esta, que a la vez es la pantalla de inicio de sesión | 
-| /signup | En esta ruta se muestra la pantalla de registro de usuario | 
-| /select-rol  | En este endpoint se muestra la pantalla relacionada a la selección de roles | 
-| /finance  | En este endpoint se muestra la pantalla relacionada la vista previa de costos y ganancias del tipo usuario agricultor | 
-| /costs  | En este endpoint se muestra la pantalla relacionada la vista a detalle de los costos generados del tipo usuario agricultor | 
-| /bills  | En este endpoint se muestra la pantalla relacionada la vista a detalle de las ganancias generados del tipo usuario agricultor | 
-| /products  | En este endpoint se muestra la pantalla relacionada la vista previa de los productos del del tipo usuario agricultor | 
-| /product-details  | En este endpoint se muestra la pantalla relacionada la vista a detalle de un producto seleccionado del tipo usuario agricultor | 
-| /farmer-home  | En este endpoint se muestra lo correspondiente a funcionalidades para el rol de agricultor | 
-| /merchant-home  | En este endpoint se muestra lo correspondiente a funcionalidades para el rol de comerciante | 
-| /sales  | Este endpoint corresponde al procedimiento de compra de pedido del tipo de usuario comerciante |
+| order-details| En este endpoint se almacena los detalles de los pedidos realizados por usuarios comerciantes | 
+| order-payment| En este endpoint se almacena los detalles del pago de los pedidos realizados por usuarios comerciantes | 
+| products | En este endpoint se almacena los detalles de los productos agrícolas | 
+| activities | En este endpoint se almacena los detalles de las actividades agrícolas relacionadas a un cultivo | 
+| sales | En este endpoint se almacena los detalles de la venta del pedido al momento de registrar los datos | 
 
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.

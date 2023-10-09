@@ -354,6 +354,187 @@ Network:
 ![network sprint2](https://user-images.githubusercontent.com/104078975/270454953-c1cbf6c8-dfbc-4afa-809f-f26872b563df.png)
 ![Network2 srpint2](https://user-images.githubusercontent.com/104078975/270455044-3c869d76-e568-4568-981b-f46ff2f0b0e0.png)
 
+### 5.2.3. Sprint 3
+#### 5.2.3.1. Sprint Planning 3.
+
+| Sprint # | 3 | 
+| - | - | 
+| **Sprint Planning Background** | - |
+| Date | 2023 - 10 - 20 |
+| Time | 19:00 PM |
+| Location | Virtual via Google Meet |
+| Prepared By | Gonzales Carrión, Jorge Enrique |
+| Attendees (to planning meeting) | Gonzales Carrión, Jorge Enrique / Espejo Macuri, Paolo Andre / Paucar De La Cruz, Tatiana Medalith / Huaman Cataño, Miguel Ángel / Zarate Castro, Jose Daniel |
+| Sprint 2 - Review Summary | Se realizó un avance de Web Applications |
+| Sprint 2 - Retrospective Summary  | Añadir el enlace a Web Applications mediante el botón Call To Action de la Landing Page. <br> Mejorar el diseño de Web Applications. <br> Corregir la documentación |
+| **Sprint Goal & User Stories** | - |
+| Sprint 3 Goal| Desarrollar la primera versión de Web Services y mejorar Web Applications |
+| Sprint 3 - Velocity | El equipo puede aceptar XX Story Points|
+| Sprint 3 - Story Points | La suma de los Story Points de los User Sotires que se atenderá es (XX)|
+
+#### 5.2.2.2. Sprint Backlog 3.
+
+
+
+#### 5.2.3.3. Development Evidence for Sprint Review.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| - | - | - | - | - | - |
+| AyniFrontend |  | | | - |   |
+| AyniFrontend |  | | | - |   |
+| AyniFrontend |  | | | - |   |
+| AyniFrontend |  | | | - |   |
+| AyniFrontend |  | | | - |   |
+| AyniFrontend |  | | | - |   |
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| - | - | - | - | - | - |
+| acceptance-test-opensource | main |  | | - | |
+| acceptance-test-opensource | main |  | | - | |
+| acceptance-test-opensource | main |  | | - | |
+| acceptance-test-opensource | main |  | | - | |
+| acceptance-test-opensource | main |  | | - | |
+| acceptance-test-opensource | main |  | | - | |
+| acceptance-test-opensource | main |  | | - | |
+| acceptance-test-opensource | main |  | | - | |
+
+#### 5.2.3.5. Execution Evidence for Sprint Review.
+
+El producto del desarrollo del presente sprint, está reflejado en el siguiente video, donde se muestra todo lo logrado en este sprint. A continuación el link del video:
+
+
+
+Link del video: [Video Evidencia]() 
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+| Endpoint | Detalles |
+| - | - | 
+| | | 
+
+
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+
+
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+
+## 5.3. Validation Interviews.
+
+En esta sección, se registra las actividades correspondientes a las entrevistas de validación del proyecto. Estas entrevistas van dirigidas a ambos segmentos objetivos donde se evidencia la interacción con el landing page y con las aplicaciones.
+
+### 5.3.1. Diseño de Entrevistas.
+
+
+
+### 5.3.2. Registro de Entrevistas.
+
+
+
+
+### 5.3.3. Evaluaciones según herísticas.
+
+**UX Heuristics & Principles Evaluation**
+--- 
+
+**Usability – Inclusive Design – Information Architecture**
+
+**CARRERA : Ingeniería de Software**
+
+**CURSO : Desarrollo de Aplicaciones Open Source**
+
+**SECCIÓN : SW51**
+
+**PROFESORES : Todos**
+
+**AUDITOR :** 
+
+**CLIENTE(S) :** 
+
+
+- **SITE o APP A EVALUAR:**
+
+sdasd
+
+- **TAREAS A EVALUAR:**
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Desktop landing page
+   1. Información y descripción de la aplicación y sus funcionalidades
+   1. Visualización de planes de pago y precio de la aplicación
+   1. Visualización de botón de descarga de la aplicación
+   1. Header y footer apropiado para la landing page
+   1. Etc.
+1. Mobile App Wireframes
+   1. Registro de nuevo usuario
+   1. Inicio de sesión de usuario existente
+   1. Pestañas de navegación dentro de la aplicación
+   1. Botones interactivos y de uso intuitivo
+   1. Búsqueda de temas académicos
+   1. Navegación y orientación dentro de la realidad virtual
+   1. Apertura y visualización de libros académicos
+   1. Visualización de perfil de usuario
+   1. Creación y navegación dentro de aula
+   1. Opción de cargar material educativo dentro de la aplicación
+   1. Mensajes que orienten al usuario sobre el estado del sistema
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. Desktop landing page
+   1. Formulario para crear cuenta o iniciar sesión
+   1. Redes sociales asociadas a la startup
+   1. Política de privacidad y condiciones de uso
+1. Mobile App Wireframes
+   1. Ventanas emergentes
+   1. Notificaciones de la aplicación
+   1. Opción de cambio de idioma
+   1. Política de privacidad y condiciones de uso
+
+- **ESCALA DE SEVERIDAD:**
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+
+
+- **TABLA RESUMEN:**
+
+
+
+
+
+- **DESCRIPCIÓN DE PROBLEMAS:**
+
+
+
+1. **Desktop Landing Page**
+
+***PROBLEMA #1:** El formato de diseño elegido para los botones “Ver más” es inconsistente*
+
+***Severidad:** 1*
+
+*Heurística violada: Usabilidad - Consistencia y estándares*
+
+***Problema:***
+
+*El formato de diseño elegido para los botones “Ver más” es inconsistente dentro de todas las secciones de la landing page. Esto incluye el tamaño de la letra, color, bordes del botón e iconografía que permite identificarlos. Como consecuencia, esto puede provocar que potencialmente los usuarios se desorienten y no puedan diferenciar el texto de un botón con el cual pueden interactuar.*
+
+***Recomendación:**
+Utilizar el mismo estilo de botones para mostrar más información en todas las secciones, de manera que el usuario se familiarice mejor con el Landing Page.*
+
+
+
+## 5.4. Video About-the-Product.
+
+
+
+
+
 # Conclusiones
 
 - En conclusión, en este entregable se ha definidio la idea de negocio para el proyecto, asimismo, la problemática que se busca solucionar y a raiz de ello se utilizaron herramientas y artefactos para los puntos de este entregable, tales como: 5W's y 2H's, Lean Ux, Entrevistas, As-Is y To-Be Scenario Mapping, entre otros. Todos estos artefactos sirvieron para identificar las caracteristicas que deben estar presentes en el futuro del desarrollo de la aplicación web para satisfacer a la problematica planteada.
@@ -384,3 +565,5 @@ Congreso de la Reública (2020). Boletín Social N°30. Gobierno estima pérdida
 Video Exposición TB1: [Microsoft Streams](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EfGXv140UdJAj5qJjl92k4MBiX5R0c1zXJI3MsotH5xepg?e=qk0X0x)
 
 Video Exposición TP: [Microsoft Streams](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EQPFOrKXordClMuFSr95AvYBJKBR76KKGIh9Pg8WC_oJ-A?e=WruxwM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+Video Exposición TB2: [Microsoft Streams]()

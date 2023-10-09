@@ -424,11 +424,72 @@ Link del video: [Video Evidencia]()
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
 
+
+
+
 ## 5.3. Validation Interviews.
 
 En esta sección, se registra las actividades correspondientes a las entrevistas de validación del proyecto. Estas entrevistas van dirigidas a ambos segmentos objetivos donde se evidencia la interacción con el landing page y con las aplicaciones.
 
 ### 5.3.1. Diseño de Entrevistas.
+
+**Segmento Objetivo: Productores que quieren mejorar la calidad de sus ventas**
+- **Presentación del entrevistado**
+  - ¿Cuál es tu nombre?
+  - ¿Qué edad tienes?
+  - ¿Hace cuánto se dedica a la agricultura?
+- **Explicación de los alcances de la demostración**
+  - Landing Page
+  - Prinipales tareas en la aplicación
+- **Navegación a través de la aplicación web**
+  **User Flow: 
+  - El usuario ingresa a landing page
+  - Busca el botón call to action
+  - Se redirige a la sección de registro de usuarios y llena los campos solicitados
+  - Selecciona su rol 
+  - Se redirige a la sección de Home
+  - Ingresa a la sección "Mis Productos"
+  - Añade un cultivo
+  - Crea un plan de cultivo
+  - Ingresa los campos solicitados en el stepper
+  - Ingresa sus fechas importantes en el calendario
+- **Preguntas principales**
+  - ¿Consideras atractiva la manera en la que el producto Ayni está promocionado en la Landing Page?
+  - ¿Consideras que el landing page ofrece toda la información necesaria para tener un entendimiento adecuado del funcionamento, propósito y funcionalidades ofrecidas por la apliación?
+  - ¿Resulta agradable a la vista la manera en la que la información está presentada?
+  - ¿Qué dispositivo utilizaste para acceder al Landing Page? ¿La página presenta  algún tipo de inconveniente de diseño que impida navegar de manera fluida?
+  - Del 1 al 10 ¿Cómo calificarías el diseño de la Landing Page?
+  - Con respecto a la aplicación, ¿considera que es complicado añadir un cultivo?
+  - 
+
+
+
+**Segmento Objetivo: Comerciantes que quieren mejorar la calidad de sus ventas**
+- **Presentación del entrevistado**
+  - ¿Cuál es tu nombre?
+  - ¿Qué edad tienes?
+  - ¿Hace cuánto se dedica a la venta de productos agrícolas?
+- **Explicación de los alcances de la demostración**
+  - Landing Page
+  - Prinipales tareas en la aplicación
+- **Navegación a través de la aplicación web**
+  - El usuario ingresa a landing page
+  - Busca el botón call to action
+  - Se redirige a la sección de registro de usuarios y llena los campos solicitados
+  - Selecciona su rol 
+  - Se redirige a la sección de Home
+  - Ingresa a la sección "Buscar productos"
+  - Selecciona un cultivo
+  - Hace click en el botón "Comprar"
+  - Ingresa los campos solicitados en el stepper
+  - Confirma la compra
+- **Preguntas principales**
+  - ¿Consideras atractiva la manera en la que el producto Ayni está promocionado en la Landing Page?
+  - ¿Consideras que el landing page ofrece toda la información necesaria para tener un entendimiento adecuado del funcionamento, propósito y funcionalidades ofrecidas por la apliación?
+  - ¿Resulta agradable a la vista la manera en la que la información está presentada?
+  - ¿Qué dispositivo utilizaste para acceder al Landing Page? ¿La página presenta  algún tipo de inconveniente de diseño que impida navegar de manera fluida?
+  - Del 1 al 10 ¿Cómo calificarías el diseño de la Landing Page?
+  - 
 
 
 

@@ -442,7 +442,8 @@ En esta sección, se registra las actividades correspondientes a las entrevistas
   - Landing Page
   - Prinipales tareas en la aplicación
 - **Navegación a través de la aplicación web**
-  **User Flow: 
+  
+  **User Flow: Añadir cultivo y plan de cultivo**
   - El usuario ingresa a landing page
   - Busca el botón call to action
   - Se redirige a la sección de registro de usuarios y llena los campos solicitados
@@ -460,7 +461,13 @@ En esta sección, se registra las actividades correspondientes a las entrevistas
   - ¿Qué dispositivo utilizaste para acceder al Landing Page? ¿La página presenta  algún tipo de inconveniente de diseño que impida navegar de manera fluida?
   - Del 1 al 10 ¿Cómo calificarías el diseño de la Landing Page?
   - Con respecto a la aplicación, ¿considera que es complicado añadir un cultivo?
-  - 
+  - ¿Los cultivos que son añadidos contienen lo que necesitas saber sobre ellas para su correcto sembrío? ¿Qué otros apartados le gustaría visualizar?
+  - ¿Qué opina acerca de la distribución de secciones?
+  - ¿Cómo describiría nuestra aplicación web en pocas palabras?
+  - ¿Qué características específicas desea usted que agreguemos a la aplicación web?
+  - ¿Utiliza actualmente una aplicación web para administrar sus sembríos u obtener información sobre sus plantas? De ser así, ¿Qué características logra diferenciar entra esa aplicación y la nuestra?
+  - ¿De todas las características evidenciadas en la aplicación web, cuál cree que debería mejorarse? ¿Por qué?
+  - ¿Considera que el diseño es adecuado?
 
 
 
@@ -473,6 +480,8 @@ En esta sección, se registra las actividades correspondientes a las entrevistas
   - Landing Page
   - Prinipales tareas en la aplicación
 - **Navegación a través de la aplicación web**
+  
+  **User Flow: Comprar un producto**
   - El usuario ingresa a landing page
   - Busca el botón call to action
   - Se redirige a la sección de registro de usuarios y llena los campos solicitados
@@ -489,7 +498,14 @@ En esta sección, se registra las actividades correspondientes a las entrevistas
   - ¿Resulta agradable a la vista la manera en la que la información está presentada?
   - ¿Qué dispositivo utilizaste para acceder al Landing Page? ¿La página presenta  algún tipo de inconveniente de diseño que impida navegar de manera fluida?
   - Del 1 al 10 ¿Cómo calificarías el diseño de la Landing Page?
-  - 
+  - Con respecto a la aplicación, ¿considera que es complicado encontrar un cultivo?
+  - ¿Los cultivos que son mostrados contienen lo que necesitas saber sobre ellas para incentivar su compra? ¿Qué otros apartados le gustaría visualizar?
+  - ¿Qué opina acerca de la distribución de secciones?
+  - ¿Cómo describiría nuestra aplicación web en pocas palabras?
+  - ¿Qué características específicas desea usted que agreguemos a la aplicación web?
+  - ¿Utiliza actualmente una aplicación web para administrar sus ventas u obtener información sobre los productos agrícolas? De ser así, ¿Qué características logra diferenciar entra esa aplicación y la nuestra?
+  - ¿De todas las características evidenciadas en la aplicación web, cuál cree que debería mejorarse? ¿Por qué?
+  - ¿Considera que el diseño es adecuado?
 
 
 

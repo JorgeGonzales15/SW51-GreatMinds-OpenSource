@@ -237,10 +237,6 @@ Finalmente, aquí es un vistazo general a los mockups y wireframes:
 **Pantallas relacionadas a la planfiicación de cultivos:**
 ![wireframe cultivo](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/26aff367-713e-47af-ac40-941afd604609)
 
----
-
-**Pantallas relacionas a la gestión de insumos:**
-![wireframe insumos](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/ed379d33-7bc0-45dc-8499-875fbf9802a4)
 
 ---
 
@@ -303,16 +299,6 @@ Link de Lucidchar: [Wireflows LucidChart](https://lucid.app/lucidchart/aa72d3cf-
 
 ![wireflow 3 ld](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/3ac1f604-0b0e-4ff7-95d6-a74cc3888d63)
 
----
-
-**User Goal:** Como agricultor, quiero llevar un registro de los insumos agrícolas utilizados para analizarlo y tomar decisiones de acuerdo a ello.
-
-**Task Flow:**
-- Primero se tiene que seleccionar un producto
-- Luego el usuario da click al botón de “Insumos”
-- Le aparecerá la pantalla de los insumos usados ya registrados en el producto
-
-![wireflow 4 ld](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/92807fa0-63cd-4cd3-aff6-173f1af75702)
 
 ---
 
@@ -407,11 +393,6 @@ En esta sección, se presenta el diseño viusal y de interacción en formato de 
 
 ---
 
-**Pantallas relacionas a la gestión de insumos:**
-![mockup insumos y detalle de producto](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/275a6282-c9df-451a-ba40-29be05ea4545)
-
----
-
 **Pantallas relacionadas a la atención de pedidos:**
 ![mockup atencios de pedidos](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/f19367a9-de9f-447a-9fce-55cd1fac4b12)
 
@@ -438,18 +419,6 @@ En esta sección, se presenta el diseño viusal y de interacción en formato de 
 En esta sección, se presentaran los User Flows, donde se mostrarán las rutas Happy y Unhappy que los usuarios pueden tener al momento de usar la aplicación web. Cabe resaltar que los Happy Paths están represetnadas con flechas en color verde y los Unhappy con flechas de color rojo. Se utilizó la herramienta LucidChart.
 
 Link de Lucidchart:[UserFlow Lucidchart](https://lucid.app/lucidchart/edcb2519-faf5-4a02-8d32-e782a99ffa7f/edit?viewport_loc=-781%2C342%2C12102%2C5535%2C0_0&invitationId=inv_78155e1b-bf61-45ea-9bb8-16f59f2af020)
-
-
-**User Goal:** Registrar los insumos agrícolas utilizados en un cultivo
-
-**Task Flow:**
-- Primero se tiene que seleccionar un producto
-- Luego el usuario da click al botón de “Insumos”
-- Le aparecerá la pantalla de los insumos usados ya registrados en el producto
-- Si el usuario desea editar los insumos puede hacerlo mediante inputs
-- Finalmente se le mostrará una pantalla de guardado o una pantalla de eliminación de cultivo si así lo quiere (Unhapy Path)
-
-![userflow1 ld](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/8a65fbfa-9e2b-4f4d-9a15-8a4947ab97cb)
 
 ---
 

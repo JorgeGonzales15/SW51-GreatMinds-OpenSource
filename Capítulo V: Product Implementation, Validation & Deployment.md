@@ -54,15 +54,15 @@ Lenguaje Gherkin: El lenguaje Gherkin es un lenguaje de dominio específico util
 
 ### 5.1.2. Source Code Management.
 
-Como mencionamos anteriormente, se utilizará GitHub para llevar un control de las versiones de desarrollo y poder trabajar de forma colaborativa. Para ello, se creó una organización llamada: [Github Organización](https://github.com/upc-pre-202302-GreatMinds-SW51) 
+Como mencionamos anteriormente, se utilizará GitHub para llevar un control de las versiones de desarrollo y poder trabajar de forma colaborativa. Para ello, se creó una organización llamada: (https://github.com/upc-pre-202302-GreatMinds-SW51) 
 
-Repositorio del landing page: [Repositorio Landing Page](https://github.com/upc-pre-202302-GreatMinds-SW51/Ayni_LandingPageOfficial/tree/Release/1.0) 
+Repositorio del landing page: (https://github.com/upc-pre-202302-GreatMinds-SW51/Ayni_LandingPageOfficial/tree/Release/1.0) 
 
-Repositorio pruebas de aceptación: [Github](https://github.com/upc-pre-202302-GreatMinds-SW51/acceptance-test-opensource) 
+Repositorio pruebas de aceptación: (https://github.com/upc-pre-202302-GreatMinds-SW51/acceptance-test-opensource) 
 
-Repositorio Frontend: [Github](https://github.com/upc-pre-202302-GreatMinds-SW51/AyniFrontend) 
+Repositorio Frontend: (https://github.com/upc-pre-202302-GreatMinds-SW51/AyniFrontend) 
 
-Repositorio de uso para usar el servicio de JSONPlaceholder: [Github](https://github.com/JorgeGonzales15/AyniDBPrueba) 
+Repositorio de uso para usar el servicio de JSONPlaceholder: (https://github.com/JorgeGonzales15/AyniDBPrueba) 
 
 
 ### 5.1.3. Source Code Style Guide & Conventions.
@@ -177,7 +177,7 @@ En este apartado se hace presenta la implementación/despliegue de la landing pa
 
 ![Sprint Evidence Landing (1)](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/4da61194-1ee7-4012-a786-5dc804e68d2c)
 
-Link del video: [Video Evidencia](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EboHBmisglROmEJioyVBF5YBZ_Pr7cydTYr8pFi8njPn8A?e=SJBY3T) 
+Link del video: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EboHBmisglROmEJioyVBF5YBZ_Pr7cydTYr8pFi8njPn8A?e=SJBY3T) 
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
@@ -186,7 +186,7 @@ No se utilizó ningún servicio adicional, pues este primer Sprint solo consta d
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
 Como se mencionó, se utilizó Netlify para el despliegue automático del landing page con todos los cambios realizados por el equipo. Netlify se integra con nuestra organización en GitHub y luego con el repositorio, siendo la rama main la que utilizamos para el despliegue. El enlace es el siguiente: 
-[Ayni Landin Page](https://aynilandingpage.netlify.app/)
+(https://aynilandingpage.netlify.app/)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
@@ -286,7 +286,7 @@ El producto del desarrollo del presente sprint, está reflejado en el siguiente 
 
 ![image](https://user-images.githubusercontent.com/104078975/270459815-4b5cf797-da63-4a83-9355-9fe4c0ad2370.png)
 
-Link del video: [Video Evidencia](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EaDY_7OrBVNGsjAXORTlPisBfycb7Bn6bKcMeajAVDzhJw?e=Dcavps) 
+Link del video: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EaDY_7OrBVNGsjAXORTlPisBfycb7Bn6bKcMeajAVDzhJw?e=Dcavps) 
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
@@ -335,11 +335,11 @@ De esta manera el avance del Sprint 2 queda desplegado, a continuación se mostr
 
 Adicionalmente, se usó JSONPlaceholder para albergar los datos dentro del archivo "db.json", que durante el desarrollo del sprint se trabajó como "localhost:XXXX", gracias a JSONPlaceholder se podrá realizar el método GET cuando la aplicación esté desplegada. A continuación el link:
 
-Link del JSONPlaceholder: [JSONPlaceholder](https://my-json-server.typicode.com/JorgeGonzales15/AyniDBPrueba) 
+Link del JSONPlaceholder: (https://my-json-server.typicode.com/JorgeGonzales15/AyniDBPrueba) 
 
 Finalmente, se logró desplegar con exito todo el desarrollo trabajado en el Sprint2. A continuación el link:
 
-Link del frontend desplegado: [Netlify](https://ayni-frontend.netlify.app/signin) 
+Link del frontend desplegado: (https://ayni-frontend.netlify.app/signin) 
 
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
@@ -374,6 +374,27 @@ Network:
 
 #### 5.2.2.2. Sprint Backlog 3.
 
+<table><tr><th valign="top">Sprint 3</th><th colspan="7" valign="top">Implementar nueva versión de frontend y las principales technical stories referidas al backend</th></tr>
+<tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
+<tr><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Description</td><td valign="top">Estimation (Hours)</td><td valign="top">Assigned To</td><td valign="top"><p>Status </p><p>(To-do / </p><p>InProcess / </p><p>To Review / </p><p>Done)</p></td></tr>
+<tr><td rowspan="2" valign="top">HU-06</td><td rowspan="2" valign="top">Acceder a Calificaciones y Reseñas</td><td valign="top">06\.1</td><td valign="top">Implementar vistas con estilos</td><td valign="top">Realizar los estilos para los componentes creados</td><td valign="top">4</td><td valign="top">Miguel Huaman</td><td valign="top">Done</td></tr>
+<tr><td valign="top">06\.2</td><td valign="top">Implementar calificaciones </td><td valign="top">Realizar los componentes relacionados a las calificaciones</td><td valign="top">4</td><td valign="top">Miguel Huaman</td><td valign="top">Done</td></tr>
+<tr><td rowspan="3" valign="top">HU-05</td><td rowspan="3" valign="top">Seguimiento de Pedidos y Entregas</td><td valign="top">05\.1</td><td valign="top">Implementar vistas con estilos</td><td valign="top">Realizar los estilos para los componentes creados</td><td valign="top">4</td><td valign="top">Paolo Espejo</td><td valign="top">Done</td></tr>
+<tr><td valign="top">05\.2</td><td valign="top">Implementar stepper</td><td valign="top">El stepper consta de 3 pasos y cada uno es de un componente</td><td valign="top">4</td><td valign="top">Paolo Espejo</td><td valign="top">Done</td></tr>
+<tr><td valign="top">05\.3</td><td valign="top">Implementar cards</td><td valign="top">Implementar componentes tipo cards para la visualización de información</td><td valign="top">4</td><td valign="top">Paolo Espejo</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top">HU-09</td><td rowspan="2" valign="top">Atender pedidos</td><td valign="top">09\.1</td><td valign="top">Implementar vistas con estilos</td><td valign="top">Realizar los estilos para los componentes creados</td><td valign="top">4</td><td valign="top">Tatiana Paucar</td><td valign="top">Done</td></tr>
+<tr><td valign="top">09\.2</td><td valign="top">Implementar cards</td><td valign="top">Implementar componentes tipo cards para la visualización de información</td><td valign="top">4</td><td valign="top">Tatiana Paucar</td><td valign="top">Done</td></tr>
+<tr><td valign="top">HU-12</td><td valign="top">Botón Call To Action</td><td valign="top">12\.1</td><td valign="top">Implementar vinculación al botón call to action </td><td valign="top">Realizar la vinculación en HTTP del botón call to action dentro de la landing page </td><td valign="top">2</td><td valign="top">Jose Zarate</td><td valign="top">Done</td></tr>
+<tr><td valign="top">HU-14</td><td valign="top">Sistemas de búsqueda y paginación</td><td valign="top">14\.1</td><td valign="top">Implementar paginación y barras de búsquedas en las secciones de la app web</td><td valign="top">Implementar componentes de paginación y barras de búsquedas en las secciones de la app web</td><td valign="top">4</td><td valign="top">Jorge Gonzales</td><td valign="top">Done</td></tr>
+<tr><td valign="top">TS-03</td><td valign="top">Post User</td><td valign="top">T03.1</td><td valign="top">Implementar la creación de usuarios</td><td valign="top">Desarrollar la creación de usuarios dentro del backend</td><td valign="top">4</td><td valign="top">Jose Zarate</td><td valign="top">Done</td></tr>
+<tr><td valign="top">TS-04</td><td valign="top">Get User</td><td valign="top">T04.1</td><td valign="top">Implementar la obtención de usuarios</td><td valign="top">Desarrollar la obtención de usuarios dentro del backend</td><td valign="top">4</td><td valign="top">Jose Zarate</td><td valign="top">Done</td></tr>
+<tr><td valign="top">TS-05</td><td valign="top">Post Crops</td><td valign="top">T05.1</td><td valign="top">Implementar la creación de cultivos</td><td valign="top">Desarrollar la creación de cultivos dentro del backend</td><td valign="top">4</td><td valign="top">Paolo Espejo</td><td valign="top">Done</td></tr>
+<tr><td valign="top">TS-06</td><td valign="top">Get Crops</td><td valign="top">T06.1</td><td valign="top">Implementar la obtención de cultivos</td><td valign="top">Desarrollar la obtención de cultivos dentro del backend</td><td valign="top">4</td><td valign="top">Paolo Espejo</td><td valign="top">Done</td></tr>
+<tr><td valign="top">TS-07</td><td valign="top">Get cost by user</td><td valign="top">T07.1</td><td valign="top">Implementar la obtención de costos por usuario</td><td valign="top">Desarrollar la obtención de costos dentro del backend</td><td valign="top">4</td><td valign="top">Tatiana Paucar</td><td valign="top">Done</td></tr>
+<tr><td valign="top">TS-08</td><td valign="top">Post costs</td><td valign="top">T08.1</td><td valign="top">Implementar la creación de costos por usuario</td><td valign="top">Desarrollar la creación de costos dentro del backend</td><td valign="top">4</td><td valign="top">Tatiana Paucar</td><td valign="top">Done</td></tr>
+<tr><td valign="top">TS-09</td><td valign="top">Get profits by user</td><td valign="top">T09.1</td><td valign="top">Implementar la obtención de ganancias por usuario</td><td valign="top">Desarrollar la obtención de ganancias dentro del backend</td><td valign="top">4</td><td valign="top">Jorge Gonzales </td><td valign="top">Done</td></tr>
+<tr><td valign="top">TS-10</td><td valign="top">Post profits</td><td valign="top">T10.1</td><td valign="top">Implementar la creación de ganancias por usuario</td><td valign="top">Desarrollar la creación de ganancias dentro del backend</td><td valign="top">4</td><td valign="top">Jorge Gonzales</td><td valign="top">Done</td></tr>
+</table>
 
 
 #### 5.2.3.3. Development Evidence for Sprint Review.
@@ -406,7 +427,7 @@ El producto del desarrollo del presente sprint, está reflejado en el siguiente 
 
 
 
-Link del video: [Video Evidencia]() 
+Link del video: () 
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
@@ -511,10 +532,89 @@ En esta sección, se registra las actividades correspondientes a las entrevistas
 
 ### 5.3.2. Registro de Entrevistas.
 
+** Segmento Objetivo: Productores que quieren mejorar la calidad de sus ventas **
+
+Nombre y apellidos: Lissane Mareni
+
+Edad: 19
+
+Distrito: San Juan de Miraflores - Lima
+
+Url: ()
+
+Inicio: 
+
+Fin: 
+
+Duración: 11:49
 
 
+
+Lissane nos brindó su sincera opinión acerca de la landing page y aplicación web, con respecto a la landing page, nos resaltó el diseño atractivo y eficiente de las secciones asimismo con el orden de estas, sin embargo considera que debe tener más relevancia las funcionalidades mostradas incluyendo capturas de pantalla de la aplicación web. Pese a ello, la landing page resultó agradable visualmente para ella, calificándola con un 8 de 10. Por otro lado, con respecto a la aplicación web, no consideró dificil la navegación del flujo de añadir un cultivo, asimismo, está conforme con la distribución de las secciones de la barra de navegación. Sin embargo, cree que se debería mejorar el formulario de añadir un cultivo, donde deberían poner mas datos para el registro. Finalmente, le parecio bueno el diseño de la apliación web, pero sería aún mucho mejor si se mejoraran las observaciones que nos compartió.
+
+** Segmento Objetivo: Comerciantes que quieren mejorar la calidad de sus ventas **
+
+Nombre y apellidos: Andre Luna
+
+Edad: 25
+
+Distrito: Lince - Lima
+
+Url: ()
+
+Inicio: 
+
+Fin: 
+
+Duración: 12:22
+
+
+
+Al analizar la entrevista, Andre nos menciona que las vistas son atracticas y logradas para el propósito de la aplicación que se desea ofrecer, además, le resulta muy facilmente navegar en ella al ser intuitiva y las secciones le parecen bien distribuidas, con respecto a la información brindada acerca de las funcionalidades, considera que es adecuada. No tuvo problemas para abrir la landing page en su dispositivo móvil, debido a ello, calificó la landing page con un 8 de 10. Por otro lado, con respecto a la aplicación web, nos brindó una sugerencia con respecto a la creación de un perfil propio del usuario donde proporcione teléfonos de contacto. De esta manera facilitaria aún más el contacto con el agricultor. De la misma manera, nos dejó sugerencias acerca de la tipografía y de el tamaño de algunos botones. Finalmente, indica que, si bien la aplicación web le parece muy buena, todavia cree que se puede mejorar añadiendo funciones y pulir un poco más las vistas. 
+
+Nombre y apellidos: Favio Onofre
+
+Edad: 21
+
+Distrito: Lince - Lima
+
+Url: ()
+
+Inicio: 
+
+Fin: 
+
+Duración: 09:28
+
+
+
+Favio nos proporcionó su tiempo para que visite la landing page y las web applications de Ayni. Asimismo, nos proprocionó su opiniones acerca del diseño de ambas, lo cual le pareció bueno y adecuado, asimismo con la información brindada acerca delas funcionalidades ofrecidas de la aplicación web dentro de  la landing page, resultadole agradable a la vista. Por otro lado, pudo acceder a la alnding page desde su navegador web sin problema, brindandonos su apreciación con 8 puntos de 10. Sin embargo, mencionó que dentro de la landing page hay algunas cosas para mejorar, como el tamaño de los botones y la cantidad de información brindada siendo un poco excedente. Por otro lado, en la aplicación web, mencionó que desea que la información brindada acerca de los cultivos sea más detallada, con secciones de clima o altura. Finalmente, resaltó que la distribución de las secciones es correcta y de igual manera los colores, pues refleja caracteristicas propias de la agricultura brindando un ambiente ameno. 
+
+Nombre y apellidos: Juli Carrión
+
+Edad: 45
+
+Distrito: Surco - Lima
+
+Url: ()
+
+Inicio: 
+
+Fin: 
+
+Duración: 11:49
+
+
+
+
+Juli nos brindó su sincera opinión acerca de la landing page y aplicación web, con respecto a la landing page, nos felicitó por la distribución y promoción del producto dentro de las secciones, tambien considera que ofrece lo necario en cuando información de funcionalidades pero recomendaría reducir un poco del texto y poner las funcionalidades de manera más específica. Sin embargo, le resultó agradable la navegación por las secciones puntuando con un 8 de 10 la landing page. Por otro lado, con respecto a la aplicación web, le resultó nada complicado encontrar y seleccionar un cultivo para comprar, además la distribución de las secciones es buena dado que resume las funcionalidades que ofrecen. Tambien, consdera que no debe añadirse caracteristicas dado que siente que está completa para sus necesidades como comerciante. Sin embargo, cree que la sección de estado de compra debería mostrar más información. Finalmente, resume la aplicación web como muy buena, intuitiva y efectiva, con un diseño adecuado.
 
 ### 5.3.3. Evaluaciones según herísticas.
+
+**UX Heuristics & Principles Evaluation**
+--- 
+
+En esta sección se realizará el reporte de Heurísticas de usabilidad que se ecnotnraron en la realización de la valdiación con posibles usuarios según su segmento.
 
 **UX Heuristics & Principles Evaluation**
 --- 
@@ -529,14 +629,14 @@ En esta sección, se registra las actividades correspondientes a las entrevistas
 
 **PROFESORES : Todos**
 
-**AUDITOR :** 
+**AUDITOR : Equipo de desarrollo Greatminds ** 
 
-**CLIENTE(S) :** 
+**CLIENTE(S) : Ayni ** 
 
 
 - **SITE o APP A EVALUAR:**
 
-sdasd
+Ayni - Aplicación de gestión agrícola. 
 
 - **TAREAS A EVALUAR:**
 
@@ -544,39 +644,20 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 
 1. Desktop landing page
    1. Información y descripción de la aplicación y sus funcionalidades
-   1. Visualización de planes de pago y precio de la aplicación
-   1. Visualización de botón de descarga de la aplicación
-   1. Header y footer apropiado para la landing page
-   1. Etc.
-1. Mobile App Wireframes
+   2. Visualización de botón call to action y redirección a web applications
+   3. Header y footer apropiado para la landing page
+1. Web Applications
    1. Registro de nuevo usuario
-   1. Inicio de sesión de usuario existente
-   1. Pestañas de navegación dentro de la aplicación
-   1. Botones interactivos y de uso intuitivo
-   1. Búsqueda de temas académicos
-   1. Navegación y orientación dentro de la realidad virtual
-   1. Apertura y visualización de libros académicos
-   1. Visualización de perfil de usuario
-   1. Creación y navegación dentro de aula
-   1. Opción de cargar material educativo dentro de la aplicación
-   1. Mensajes que orienten al usuario sobre el estado del sistema
-
-No están incluidas en esta versión de la evaluación las siguientes tareas:
-
-1. Desktop landing page
-   1. Formulario para crear cuenta o iniciar sesión
-   1. Redes sociales asociadas a la startup
-   1. Política de privacidad y condiciones de uso
-1. Mobile App Wireframes
-   1. Ventanas emergentes
-   1. Notificaciones de la aplicación
-   1. Opción de cambio de idioma
-   1. Política de privacidad y condiciones de uso
+   2. Inicio de sesión de usuario existente
+   3. Botones interactivos y de uso intuitivo
+   4. Creación de cultivos
+   5. Navegación y orientación dentro de las secciones
+   6. Proceso de compra de cultivo
+   7. Visualización de cultivos
 
 - **ESCALA DE SEVERIDAD:**
 
 Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
-
 
 
 - **TABLA RESUMEN:**
@@ -589,20 +670,110 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 
 
-1. **Desktop Landing Page**
+1. **Web Application**
 
-***PROBLEMA #1:** El formato de diseño elegido para los botones “Ver más” es inconsistente*
+***PROBLEMA #1:** El formato de diseño elegido para los botones es inconsistente*
 
 ***Severidad:** 1*
 
 *Heurística violada: Usabilidad - Consistencia y estándares*
 
 ***Problema:***
+Botones en sección "My Shopping"
 
-*El formato de diseño elegido para los botones “Ver más” es inconsistente dentro de todas las secciones de la landing page. Esto incluye el tamaño de la letra, color, bordes del botón e iconografía que permite identificarlos. Como consecuencia, esto puede provocar que potencialmente los usuarios se desorienten y no puedan diferenciar el texto de un botón con el cual pueden interactuar.*
+
+Botones en sección "Find Products"
+
+
+
+
+*El formato de diseño elegido para los botones “Buy” es inconsistente a comparación de todas las secciones de la aplicación web. Esto incluye el color y bordes del botón que permite identificarlos. Como consecuencia, esto puede provocar que potencialmente los usuarios se desorienten y no puedan diferenciar el texto de un botón con el cual pueden interactuar.*
 
 ***Recomendación:**
-Utilizar el mismo estilo de botones para mostrar más información en todas las secciones, de manera que el usuario se familiarice mejor con el Landing Page.*
+Utilizar el mismo estilo de botones para mostrar más información en todas las secciones, de manera que el usuario se familiarice mejor con la aplicación web.*
+
+***PROBLEMA #2:** Al estar en una de las secciones, resulta imposible de diferenciar entre estos debido a que la barra de navegación no indica en qué sección se encuentra el usuario*
+
+***Severidad:** 1*
+
+*Heurística violada: Usabilidad - Reconocer antes que recordar*
+
+***Problema:***
+
+Barra de navegación:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/cbbfa595-2a68-4619-8a4c-fa66067715cc)
+
+
+*Dentro de las secciones que se ofrecen para ambos roles, no existe ningún indicador resaltante que permita indicar al usuario en qué sección se encuentra, potencialmente provocando que se desubique.*
+
+***Recomendación:**
+Resaltar con un cuadro de color resaltante la sección que se seleccione dentro de la barra de navegación, con la finalidad de orientar al usuario.*
+
+***PROBLEMA #3:** No existe un apartado de edición de perfil*
+
+***Severidad:** 2*
+
+*Heurística violada: Usabilidad - Control de usuario y libertad*
+
+***Problema:***
+
+
+
+*Dentro de la barra de navegación no hay un apartado de edición de perfil, esto ocasiona que el usuario no brinde y proporcione datos quepeuden llegar a ser relevantes, como teléfono de contacto entre otros campos.*
+
+***Recomendación:**
+Implementar un boton o apartado para editar perfil de usuario.*
+
+***PROBLEMA #4:** En el inicio de sesión, la card de contenido no resalta diferencia del fondo*
+
+***Severidad:** 1*
+
+*Heurística violada: Usabilidad - Diseño estético y minimalista*
+
+***Problema:***
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/409272f0-0261-4092-bccf-3331e5c190c8)
+
+
+*En la pantalla de login, el contenido dento de la card principal de la página, no es notable visualmente ya que no tiene un color que lo diferencie del fondo principal, por lo que el usuario puede forzar la vista y descontrarse para realizar un inicio de sesión exitoso.*
+
+***Recomendación:**
+Cambiar el color de la card contenedora de los campos de inicio de sesión*
+
+***PROBLEMA #5:** Inconsistencia en tamaño de tipografía *
+
+***Severidad:** 2*
+
+*Heurística violada: Usabilidad - Consistencia y estándares*
+
+***Problema:***
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/ba79cecd-1ba0-489c-a18e-f8eeb0a91a3a)
+
+*En las pantallas de home para ambos roles, existe una incosistencia en el tamaño de la tipografía, lo que ocasiona insatisfacción visual al usuario al momento de navegar por las pantallas de home*
+
+
+***Recomendación:**
+Corregir la tipografía en todas las secciones de un tamaño equivalente*
+
+
+2. **Landing Page**
+
+***PROBLEMA #1:**  *
+
+***Severidad:** 3*
+
+*Heurística violada: Information Architecture - Is it credible?*
+
+***Problema:***
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/62d39d65-9fa9-4d98-859a-cf2b655faad0)
+
+*En la sección de funcionalidades, algunas de estas ya no se están implementando, por lo que el usuario puede ser confundido al querer usar esas caracteristicas*
+
+***Recomendación:**
+Corregir las funcionalidades mostradas en las listas de la sección*
 
 
 

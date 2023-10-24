@@ -64,6 +64,7 @@ Repositorio Frontend: (https://github.com/upc-pre-202302-GreatMinds-SW51/AyniFro
 
 Repositorio de uso para usar el servicio de JSONPlaceholder: (https://github.com/JorgeGonzales15/AyniDBPrueba) 
 
+Repositorio de Backend: ()
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
@@ -423,6 +424,10 @@ Network:
 | acceptance-test-opensource  | main | 25f8bb8 | Acceptance_test_15.feature | - | 22/10/2023 |
 | acceptance-test-opensource  | main | 340fa4d | Acceptance_test_16.feature | - | 22/10/2023 |
 | acceptance-test-opensource  | main | 42ef576 | Acceptance_test_17.feature | - | 22/10/2023 |
+| acceptance-test-opensource  | main | 8bd179d | Acceptance_test_18.feature | - | 22/10/2023 |
+| acceptance-test-opensource  | main | 2e7324e | Acceptance_test_19.feature | - | 22/10/2023 |
+| acceptance-test-opensource  | main | f53c5ff | Acceptance_test_20.feature | - | 22/10/2023 |
+| acceptance-test-opensource  | main | d068d9e | Acceptance_test_21.feature | - | 22/10/2023 |
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 

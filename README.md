@@ -12,7 +12,7 @@ Sección SW51
 
 Profesor: Velasquez Nuñez, Angel Augusto
 
-***INFORME DE TRABAJO FINAL - TB1***
+***INFORME DE TRABAJO FINAL - TB2***
 
 **Startup: GreatMinds**
 
@@ -25,7 +25,7 @@ Profesor: Velasquez Nuñez, Angel Augusto
 - Paucar De La Cruz, Tatiana Medalith
 - Zarate Castro, Jose Daniel
 
-Agosto del 2023
+Octubre del 2023
 
 ---
 # Registro de Versiones del Informe

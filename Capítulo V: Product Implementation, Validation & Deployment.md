@@ -431,6 +431,9 @@ Network:
 | acceptance-test-opensource  | main | 2e7324e | Acceptance_test_19.feature | - | 22/10/2023 |
 | acceptance-test-opensource  | main | f53c5ff | Acceptance_test_20.feature | - | 22/10/2023 |
 | acceptance-test-opensource  | main | d068d9e | Acceptance_test_21.feature | - | 22/10/2023 |
+| acceptance-test-opensource  | main | 98e9c8f | Acceptance_test_22.feature | - | 22/10/2023 |
+| acceptance-test-opensource  | main | 4c36856 | Acceptance_test_23.feature | - | 22/10/2023 |
+| acceptance-test-opensource  | main | 040368c | Acceptance_test_24.feature | - | 22/10/2023 |
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 

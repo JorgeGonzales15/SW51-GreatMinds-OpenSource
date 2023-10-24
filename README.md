@@ -46,6 +46,7 @@ Octubre del 2023
 | 2.14 | 25/09/2023 | Espejo Macuri, Paolo Andre | Se documentaron los comits realizados y correciones del documento |
 | 3.1 | 23/10/2023 | Espejo Macuri, Paolo Andre | Se documentaron los comits realizados e implementacion de nueva version de web applications |
 | 3.2 | 23/10/2023 | Zarate Castro, Jose Daniel | Se documentaron los comits realizados |
+| 3.3 | 23/10/2023 | Miguel Huaman | Se actualizo el punto Source Code Management y se documentarion commits realizados |
 ---
 # Project Report Collaboration Insights
 

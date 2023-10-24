@@ -401,12 +401,12 @@ Network:
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 | - | - | - | - | - | - |
-| AyniFrontend |  | | | - |   |
-| AyniFrontend |  | | | - |   |
-| AyniFrontend |  | | | - |   |
-| AyniFrontend |  | | | - |   |
-| AyniFrontend |  | | | - |   |
-| AyniFrontend |  | | | - |   |
+| AyniFrontend | feature/orders | dcf13e6 | feat: Added route for orders and updated JSON file | - | 13/10/2023  |
+| AyniFrontend | feature/orders | af2e797 | feat(users): Created model and service for users | - | 13/10/2023  |
+| AyniFrontend | feature/orders | e68a489 | feat(orders): Created model and service for orders | - | 13/10/2023 |
+| AyniFrontend | feature/orders | 938eeb9 | feat(orders): Added order requests component | - | 13/10/2023 |
+| AyniFrontend | feature/orders | e80c0c3 | feat(orders): Added order dialog component | - | 13/10/2023 |
+| AyniFrontend | feature/orders | 0014a4c | feat: added custom pagination | - | 14/10/2023 |
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 

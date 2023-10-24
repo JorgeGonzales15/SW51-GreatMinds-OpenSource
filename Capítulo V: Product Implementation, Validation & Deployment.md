@@ -412,14 +412,9 @@ Network:
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 | - | - | - | - | - | - |
-| acceptance-test-opensource | main |  | | - | |
-| acceptance-test-opensource | main |  | | - | |
-| acceptance-test-opensource | main |  | | - | |
-| acceptance-test-opensource | main |  | | - | |
-| acceptance-test-opensource | main |  | | - | |
-| acceptance-test-opensource | main |  | | - | |
-| acceptance-test-opensource | main |  | | - | |
-| acceptance-test-opensource | main |  | | - | |
+| acceptance-test-opensource  | main | 1c64cba | Acceptance_test_12.feature | - | 22/10/2023 |
+| acceptance-test-opensource  | main | cc93580 | Acceptance_test_13.feature | - | 22/10/2023 |
+| acceptance-test-opensource  | main | d5abf52 | Acceptance_test_14.feature | - | 22/10/2023 |
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 

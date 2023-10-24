@@ -45,6 +45,7 @@ Octubre del 2023
 | 2.13 | 25/09/2023 | Zarate Castro, Jose Daniel | Se realizó la explicación paso a paso del proceso de deployment de lo avanzado en el Sprint 2 |
 | 2.14 | 25/09/2023 | Espejo Macuri, Paolo Andre | Se documentaron los comits realizados y correciones del documento |
 | 3.1 | 23/10/2023 | Espejo Macuri, Paolo Andre | Se documentaron los comits realizados e implementacion de nueva version de web applications |
+| 3.2 | 23/10/2023 | Zarate Castro, Jose Daniel | Se documentaron los comits realizados |
 ---
 # Project Report Collaboration Insights
 

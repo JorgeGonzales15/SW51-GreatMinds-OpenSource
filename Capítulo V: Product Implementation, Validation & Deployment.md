@@ -412,7 +412,10 @@ Network:
 | AyniFrontend | feature/rates | 69904a9 | Update app.module.ts | - | 17/10/2023 |
 | AyniFrontend | feature/rates | 16924cf | Update app-routing.module.ts | - | 17/10/2023 |
 | AyniFrontend | feature/rates | 23c8c3e | Update navigation.component.ts | - | 17/10/2023 |
-| AyniFrontend |  |  |  | - |  |
+| AyniFrontend | feature/purchases | e55bf2e | feat: Added cancel dialog component | - | 18/10/2023 |
+| AyniFrontend | feature/purchases | 3e1943b | refactor: Folder changed | - | 18/10/2023 |
+| AyniFrontend | feature/purchases | 53bcb24 | feat: Added purchase card content | - | 18/10/2023 |
+| AyniFrontend | feature/purchases | 5ffc8ac | feat: Added purchases main content component | - | 18/10/2023 |
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 

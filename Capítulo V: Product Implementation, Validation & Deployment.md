@@ -416,6 +416,7 @@ Network:
 | AyniFrontend | feature/purchases | 3e1943b | refactor: Folder changed | - | 18/10/2023 |
 | AyniFrontend | feature/purchases | 53bcb24 | feat: Added purchase card content | - | 18/10/2023 |
 | AyniFrontend | feature/purchases | 5ffc8ac | feat: Added purchases main content component | - | 18/10/2023 |
+| AyniFrontend | feature/purchases | cc82f5c | feat: Added Progress Bar Module and fixed problems | - | 21/10/2023 |
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 

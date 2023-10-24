@@ -407,6 +407,11 @@ Network:
 | AyniFrontend | feature/orders | 938eeb9 | feat(orders): Added order requests component | - | 13/10/2023 |
 | AyniFrontend | feature/orders | e80c0c3 | feat(orders): Added order dialog component | - | 13/10/2023 |
 | AyniFrontend | feature/orders | 0014a4c | feat: added custom pagination | - | 14/10/2023 |
+| AyniFrontend | feature/rates | a80c3c6 | Add files via upload | - | 17/10/2023 |
+| AyniFrontend | feature/rates | 69904a9 | Update app.module.ts | - | 17/10/2023 |
+| AyniFrontend | feature/rates | 16924cf | Update app-routing.module.ts | - | 17/10/2023 |
+| AyniFrontend | feature/rates | 23c8c3e | Update navigation.component.ts | - | 17/10/2023 |
+| AyniFrontend |  |  |  | - |  |
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 
@@ -415,6 +420,9 @@ Network:
 | acceptance-test-opensource  | main | 1c64cba | Acceptance_test_12.feature | - | 22/10/2023 |
 | acceptance-test-opensource  | main | cc93580 | Acceptance_test_13.feature | - | 22/10/2023 |
 | acceptance-test-opensource  | main | d5abf52 | Acceptance_test_14.feature | - | 22/10/2023 |
+| acceptance-test-opensource  | main | 25f8bb8 | Acceptance_test_15.feature | - | 22/10/2023 |
+| acceptance-test-opensource  | main | 340fa4d | Acceptance_test_16.feature | - | 22/10/2023 |
+| acceptance-test-opensource  | main | 42ef576 | Acceptance_test_17.feature | - | 22/10/2023 |
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 

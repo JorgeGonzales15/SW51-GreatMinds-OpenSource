@@ -567,6 +567,42 @@ Duración: 11:49
 
 Lissane nos brindó su sincera opinión acerca de la landing page y aplicación web, con respecto a la landing page, nos resaltó el diseño atractivo y eficiente de las secciones asimismo con el orden de estas, sin embargo considera que debe tener más relevancia las funcionalidades mostradas incluyendo capturas de pantalla de la aplicación web. Pese a ello, la landing page resultó agradable visualmente para ella, calificándola con un 8 de 10. Por otro lado, con respecto a la aplicación web, no consideró dificil la navegación del flujo de añadir un cultivo, asimismo, está conforme con la distribución de las secciones de la barra de navegación. Sin embargo, cree que se debería mejorar el formulario de añadir un cultivo, donde deberían poner mas datos para el registro. Finalmente, le parecio bueno el diseño de la apliación web, pero sería aún mucho mejor si se mejoraran las observaciones que nos compartió.
 
+Nombre y apellidos: Cristel Flores
+
+Edad: 29
+
+Distrito: Chincha - Ica
+
+Url: ()
+
+Inicio: 
+
+Fin: 
+
+Duración: 9 : 56
+
+
+
+En la entrevista, Cristel Flores menciona que el diseño de la página podría mejorar en términos de tonalidades y tamaño de letra, y se señaló la falta de información detallada sobre los planes de pago. Ella también calificó el diseño de la landing page con un 5 sobre 10 y mencionó que se encontró un problema en la sección de inicio de sesión que solo permitía crear una cuenta nueva en lugar de iniciar sesión. Para la aplicación web, Cristel sugirió simplificar la adición de cultivos y personalizar los campos según el tipo de cultivo. Además, propuso incluir información sobre la fecha de siembra y el potencial de cosecha. Asimismo, sugirió mejorar las notificaciones y la interfaz de usuario. Finalmente, mencionó que no utiliza ninguna aplicación de gestión de agricultura.
+
+Nombre y apellidos: Jesus Orellana
+
+Edad: 31
+
+Distrito: Chincha - Ica
+
+Url: ()
+
+Inicio: 
+
+Fin: 
+
+Duración: 12 : 14
+
+
+
+Jesús elogia la página web que se le presenta y la considera interesante y beneficiosa para los pequeños productores. Asimismo, él menciona que la aplicación web Ayni es fácil de usar y práctica, especialmente la función para agregar cultivos. Sin embargo, sugiere agregar información adicional, como la especie vegetal y variedad de plantas, y sugiere incorporar imágenes deslizantes para mejorar el diseño. Jesús no utiliza ninguna otra aplicación para administrar sus plantas y no ve ninguna característica específica que deba mejorarse en la aplicación web aparte de lo mencionado anteriormente. En general, está satisfecho con la distribución de las secciones en la aplicación.
+
 ** Segmento Objetivo: Comerciantes que quieren mejorar la calidad de sus ventas **
 
 Nombre y apellidos: Andre Luna

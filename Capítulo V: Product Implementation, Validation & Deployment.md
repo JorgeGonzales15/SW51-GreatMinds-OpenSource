@@ -370,10 +370,10 @@ Network:
 | Sprint 2 - Retrospective Summary  | Añadir el enlace a Web Applications mediante el botón Call To Action de la Landing Page. <br> Mejorar el diseño de Web Applications. <br> Corregir la documentación |
 | **Sprint Goal & User Stories** | - |
 | Sprint 3 Goal| Desarrollar la primera versión de Web Services y mejorar Web Applications |
-| Sprint 3 - Velocity | El equipo puede aceptar XX Story Points|
-| Sprint 3 - Story Points | La suma de los Story Points de los User Sotires que se atenderá es (XX)|
+| Sprint 3 - Velocity | El equipo puede aceptar 42 Story Points|
+| Sprint 3 - Story Points | La suma de los Story Points de los User Sotires que se atenderá es (40)|
 
-#### 5.2.2.2. Sprint Backlog 3.
+#### 5.2.3.2. Sprint Backlog 3.
 
 <table><tr><th valign="top">Sprint 3</th><th colspan="7" valign="top">Implementar nueva versión de frontend y las principales technical stories referidas al backend</th></tr>
 <tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
@@ -454,7 +454,31 @@ Link del video: ()
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
+Para realizar el proceso de despliegue de lo desarrollado en el Sprint 3 con respecto a la neuva versión de Web Applications, a continuación se detallará paso a paso el procedimiento del despliegue:
 
+Ejecutamos el comando “ng build” en la ruta de nuestro projecto en angular, nos muestra lo siguiente:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/59453bc9-dac5-4ec4-9a75-7e5d6a3bced2)
+
+Se genera la carpeta dist:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/de612d0d-f8dc-4880-a0bf-fde275b96aa8)
+
+Se añade el archivo “netlify.toml” para que netlify pueda entender las rutas de nuestro programa en angular con la siguiente configuración:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/85f73994-0a0a-44f3-ad92-46e12988be51)
+
+Por último, vamos a netlify a la sección que nos permite desplegar nuestra aplicación manualmente para evitar errores:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/0a454407-893f-4f98-87e0-0148f38ccf95)
+
+Y pasamos la carpeta que se encuentra dentro de la carpeta dist generada en nuestro proyecto:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/7b51f439-869e-42b1-89fb-b72966cd289d)
+
+De esta manera el avance del Sprint 3 queda desplegado:
+
+Link de nueva versión de frontend: 
 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
@@ -710,10 +734,32 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 
 Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
+|**Nivel:**|**Descripción**|
+| :- | :- |
+|**1**|<p>Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco </p><p>frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</p>|
+|**2**|<p>Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de </p><p>superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente </p><p>reléase</p>|
+|**3**|<p>Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es </p><p>importante que sean corregidos y se les debe asignar una prioridad alta.</p>|
+|**4**|<p>Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de </p><p>la herramienta. Es imperativo que sea corregido antes del lanzamiento</p>|
+
+
 
 - **TABLA RESUMEN:**
 
+1. **Web Application**
 
+|*#*|*Problema*|*Escala de severidad*|*Heurística/Principio violada(o)*|
+| :-: | :-: | :-: | :-: |
+|*1*|*El formato de diseño elegido para los botones es inconsistente*|*1*|*Usabilidad - Consistencia y estándares*|
+|*2*|*Al estar en una de las secciones, resulta imposible de diferenciar entre estos debido a que la barra de navegación no indica en qué sección se encuentra el usuario*|*1*|*Usabilidad - Reconocer antes que recordar*|
+|*3*|*No existe un apartado de edición de perfil*|*2*|*Usabilidad - Control de usuario y libertad*|
+|*4*|*En el inicio de sesión, la card de contenido no resalta diferencia del fondo*|*1*|*Usabilidad - Diseño estético y minimalista*|
+|*5*|*Inconsistencia en tamaño de tipografía*|*2*|*Usabilidad - Consistencia y estándares*|
+
+2. **Landing page**
+
+|*#*|*Problema*|*Escala de severidad*|*Heurística/Principio violada(o)*|
+| :-: | :-: | :-: | :-: |
+|*1*|*El contenido de funcionalidades no se actualiza periódicamente*|*3*|*Information Architecture - Is it credible?*|
 
 
 
@@ -734,7 +780,6 @@ Botones en sección "My Shopping"
 
 
 Botones en sección "Find Products"
-
 
 
 
@@ -768,8 +813,6 @@ Resaltar con un cuadro de color resaltante la sección que se seleccione dentro 
 *Heurística violada: Usabilidad - Control de usuario y libertad*
 
 ***Problema:***
-
-
 
 *Dentro de la barra de navegación no hay un apartado de edición de perfil, esto ocasiona que el usuario no brinde y proporcione datos quepeuden llegar a ser relevantes, como teléfono de contacto entre otros campos.*
 
@@ -811,7 +854,7 @@ Corregir la tipografía en todas las secciones de un tamaño equivalente*
 
 2. **Landing Page**
 
-***PROBLEMA #1:**  *
+***PROBLEMA #1:**  El contenido de funcionalidades no se actualiza periodicamente*
 
 ***Severidad:** 3*
 

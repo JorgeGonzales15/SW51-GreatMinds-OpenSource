@@ -58,7 +58,7 @@ A continuación, se mostrará la herramienta Product Backlog, lista de trabajo o
 | :-: | :-: | :-: | :-: | :-: |
 |01|HU-10|Visualización de características de la aplicación web en Landing Page|Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo|5|
 |02|HU-11|Landing Page responsive|Como usuario deseo visitar la landing page desde cualquier dispositivo|8|
-|03|HU-12|Botón Call to Action|Como usuario deseo ir a la aplicación web desde un solo botón desde la landing page|5|
+|03|HU-12|Botón Call to Action|Como usuario deseo ir a la aplicación web desde un solo botón desde la landing page|1|
 |04|HU-07|Planificar actividades agrícolas|Como agricultor, quiero ingresar los datos correspondientes para la planificación de las actividades agrícolas|5|
 |05|HU-04|Realizar pedidos de productos|Como comercializador, quiero poder realizar los pedidos de productos agrícolas para poder realizar las entregas|8|
 |06|HU-03|Explorar productos agrícolas|Como comercializador quiero observar los productos disponibles para poder realizar los pedidos|3|
@@ -66,8 +66,8 @@ A continuación, se mostrará la herramienta Product Backlog, lista de trabajo o
 |08|HU-15|Sección principal ("Home")|Como usuario del segmento productor o del segmento comerciante, deseo que luego de iniciar sesión me redirija a una sección "Home" para ver en es pantalla mis actividades recientes|2|
 |09|HU-01|Selección de roles|Como usuario, quiero elegir un rol en la aplicación para acceder a las funcionalidades disponibles según el rol que escoja (Productor o Comerciante).|2|
 |10|HU-02|Inicio de sesión|Como usuario, quiero iniciar sesión para poder ingresar a mi cuenta|3|
-|11|HU-09|Atender pedidos|Como usuario deseo ver los pedidos que tengo de manera rápida y fácil en una pantalla|8|
-|12|HU-05|Seguimiento de Pedidos y Entregas|Como comercializador, quiero poder observar el estado de los pedidos y entregas para poder sentirme más tranquilo|8|
+|11|HU-09|Atender pedidos|Como usuario deseo ver los pedidos que tengo de manera rápida y fácil en una pantalla|3|
+|12|HU-05|Seguimiento de Pedidos y Entregas|Como comercializador, quiero poder observar el estado de los pedidos y entregas para poder sentirme más tranquilo|5|
 |13|HU-06|Acceder a Calificaciones y Reseñas|Como comercializador, quiero acceder a las calificaciones y reseñas dejadas por los agricultores para saber sobre la valoración de mis servicios|2|
 |14|TS-03|Post User|Como desarrollador que trabaja en la aplicación Ayni, quiero registrar a un nuevo usuario mediante una API para visualizar los usuarios afiliados a nuestra aplicación|5|
 |15|TS-04|Get User|Como desarrollador parte del equipo de GreatMinds, quiero obtener la información de un usuario mediante una API para mostrarla en la aplicación|3|
@@ -78,7 +78,7 @@ A continuación, se mostrará la herramienta Product Backlog, lista de trabajo o
 |20|TS-09|Get profits by user|Como desarrollador de  la aplicación Ayni<br>Quiero obtener la información de las ganancias de un usuario mediante una API<br>Para mostrarla en la aplicación |5|
 |21|TS-10|Post profits|Como desarrollador que trabaja en la aplicación Ayni<br>Quiero registrar una nueva ganancia mediante un API<br>Para mantener el registro de ganancias|3|
 |22|HU-13|Visualización de botones y texto amplia y notoria|Como usuario deseo ver los botones y la información de las secciones o pantalla para una mejor navegación|3|
-|23|HU-14|Sistemas de búsqueda y paginación|Como usuario deseo encontrar los productos de manera rápida para no perder tiempo|5|
+|23|HU-14|Sistemas de búsqueda y paginación|Como usuario deseo encontrar los productos de manera rápida para no perder tiempo|1|
 |24|TS-01|Obtención de recursos|Como developer quiero permitir a los usuarios obtener información sobre recursos existentes a través del API|2|
 |25|TS-02|Creación de recursos|Como developer quiero permitir a los usuarios crear nuevos recursos a través del API|2|
 

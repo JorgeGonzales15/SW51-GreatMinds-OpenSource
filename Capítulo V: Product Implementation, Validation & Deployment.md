@@ -446,9 +446,7 @@ Link del video: ()
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
-| Endpoint | Detalles |
-| - | - | 
-| | | 
+
 
 
 
@@ -478,7 +476,9 @@ Y pasamos la carpeta que se encuentra dentro de la carpeta dist generada en nues
 
 De esta manera el avance del Sprint 3 queda desplegado:
 
-Link de nueva versión de frontend: 
+Link de nueva versión de Landing Page: (https://ayni-landing-page.netlify.app/)
+
+Link de nueva versión de frontend: (https://ayni-frontend-open.netlify.app/signin)
 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
@@ -579,35 +579,20 @@ Edad: 19
 
 Distrito: San Juan de Miraflores - Lima
 
-Url: ()
+Url: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/Ef_UGsnZQFlCkeu_tTZTGF8B1DlxtM8i4hIh3PbnOAEOFw?e=PUmGMQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
-Inicio: 
+Inicio: 0:00
 
-Fin: 
+Fin: 11:35
 
-Duración: 11:49
+Duración: 11:35
 
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/09e0ddc2-0697-414c-9129-479b27d8701d)
 
 
 Lissane nos brindó su sincera opinión acerca de la landing page y aplicación web, con respecto a la landing page, nos resaltó el diseño atractivo y eficiente de las secciones asimismo con el orden de estas, sin embargo considera que debe tener más relevancia las funcionalidades mostradas incluyendo capturas de pantalla de la aplicación web. Pese a ello, la landing page resultó agradable visualmente para ella, calificándola con un 8 de 10. Por otro lado, con respecto a la aplicación web, no consideró dificil la navegación del flujo de añadir un cultivo, asimismo, está conforme con la distribución de las secciones de la barra de navegación. Sin embargo, cree que se debería mejorar el formulario de añadir un cultivo, donde deberían poner mas datos para el registro. Finalmente, le parecio bueno el diseño de la apliación web, pero sería aún mucho mejor si se mejoraran las observaciones que nos compartió.
 
-Nombre y apellidos: Cristel Flores
 
-Edad: 29
-
-Distrito: Chincha - Ica
-
-Url: ()
-
-Inicio: 
-
-Fin: 
-
-Duración: 9 : 56
-
-
-
-En la entrevista, Cristel Flores menciona que el diseño de la página podría mejorar en términos de tonalidades y tamaño de letra, y se señaló la falta de información detallada sobre los planes de pago. Ella también calificó el diseño de la landing page con un 5 sobre 10 y mencionó que se encontró un problema en la sección de inicio de sesión que solo permitía crear una cuenta nueva en lugar de iniciar sesión. Para la aplicación web, Cristel sugirió simplificar la adición de cultivos y personalizar los campos según el tipo de cultivo. Además, propuso incluir información sobre la fecha de siembra y el potencial de cosecha. Asimismo, sugirió mejorar las notificaciones y la interfaz de usuario. Finalmente, mencionó que no utiliza ninguna aplicación de gestión de agricultura.
 
 Nombre y apellidos: Jesus Orellana
 
@@ -615,17 +600,38 @@ Edad: 31
 
 Distrito: Chincha - Ica
 
-Url: ()
+Url: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/Ef_UGsnZQFlCkeu_tTZTGF8B1DlxtM8i4hIh3PbnOAEOFw?e=PUmGMQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
-Inicio: 
+Inicio: 11:35
 
-Fin: 
+Fin: 23:45
 
-Duración: 12 : 14
+Duración: 12 : 10
 
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/649de3d1-5ffa-4205-98d0-aef514df6e13)
 
 
 Jesús elogia la página web que se le presenta y la considera interesante y beneficiosa para los pequeños productores. Asimismo, él menciona que la aplicación web Ayni es fácil de usar y práctica, especialmente la función para agregar cultivos. Sin embargo, sugiere agregar información adicional, como la especie vegetal y variedad de plantas, y sugiere incorporar imágenes deslizantes para mejorar el diseño. Jesús no utiliza ninguna otra aplicación para administrar sus plantas y no ve ninguna característica específica que deba mejorarse en la aplicación web aparte de lo mencionado anteriormente. En general, está satisfecho con la distribución de las secciones en la aplicación.
+
+
+Nombre y apellidos: Cristel Flores
+
+Edad: 29
+
+Distrito: Chincha - Ica
+
+Url: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/Ef_UGsnZQFlCkeu_tTZTGF8B1DlxtM8i4hIh3PbnOAEOFw?e=PUmGMQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+Inicio: 23:45
+
+Fin: 33:41
+
+Duración: 9 : 56
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/ec1bc4ff-97bb-404e-95eb-306ee36a4e5a)
+
+
+En la entrevista, Cristel Flores menciona que el diseño de la página podría mejorar en términos de tonalidades y tamaño de letra, y se señaló la falta de información detallada sobre los planes de pago. Ella también calificó el diseño de la landing page con un 5 sobre 10 y mencionó que se encontró un problema en la sección de inicio de sesión que solo permitía crear una cuenta nueva en lugar de iniciar sesión. Para la aplicación web, Cristel sugirió simplificar la adición de cultivos y personalizar los campos según el tipo de cultivo. Además, propuso incluir información sobre la fecha de siembra y el potencial de cosecha. Asimismo, sugirió mejorar las notificaciones y la interfaz de usuario. Finalmente, mencionó que no utiliza ninguna aplicación de gestión de agricultura.
 
 ** Segmento Objetivo: Comerciantes que quieren mejorar la calidad de sus ventas **
 
@@ -635,14 +641,15 @@ Edad: 25
 
 Distrito: Lince - Lima
 
-Url: ()
+Url: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/Ef_UGsnZQFlCkeu_tTZTGF8B1DlxtM8i4hIh3PbnOAEOFw?e=PUmGMQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
-Inicio: 
+Inicio: 33:41
 
-Fin: 
+Fin: 45:51
 
 Duración: 12:22
 
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/7eb31de0-e67b-418b-a44c-346ddd6a7cc9)
 
 
 Al analizar la entrevista, Andre nos menciona que las vistas son atracticas y logradas para el propósito de la aplicación que se desea ofrecer, además, le resulta muy facilmente navegar en ella al ser intuitiva y las secciones le parecen bien distribuidas, con respecto a la información brindada acerca de las funcionalidades, considera que es adecuada. No tuvo problemas para abrir la landing page en su dispositivo móvil, debido a ello, calificó la landing page con un 8 de 10. Por otro lado, con respecto a la aplicación web, nos brindó una sugerencia con respecto a la creación de un perfil propio del usuario donde proporcione teléfonos de contacto. De esta manera facilitaria aún más el contacto con el agricultor. De la misma manera, nos dejó sugerencias acerca de la tipografía y de el tamaño de algunos botones. Finalmente, indica que, si bien la aplicación web le parece muy buena, todavia cree que se puede mejorar añadiendo funciones y pulir un poco más las vistas. 
@@ -653,14 +660,15 @@ Edad: 21
 
 Distrito: Lince - Lima
 
-Url: ()
+Url: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/Ef_UGsnZQFlCkeu_tTZTGF8B1DlxtM8i4hIh3PbnOAEOFw?e=PUmGMQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
-Inicio: 
+Inicio: 44:51
 
-Fin: 
+Fin: 55:27
 
 Duración: 09:28
 
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/19901ea5-adea-4b6e-913f-1d409ec06763)
 
 
 Favio nos proporcionó su tiempo para que visite la landing page y las web applications de Ayni. Asimismo, nos proprocionó su opiniones acerca del diseño de ambas, lo cual le pareció bueno y adecuado, asimismo con la información brindada acerca delas funcionalidades ofrecidas de la aplicación web dentro de  la landing page, resultadole agradable a la vista. Por otro lado, pudo acceder a la alnding page desde su navegador web sin problema, brindandonos su apreciación con 8 puntos de 10. Sin embargo, mencionó que dentro de la landing page hay algunas cosas para mejorar, como el tamaño de los botones y la cantidad de información brindada siendo un poco excedente. Por otro lado, en la aplicación web, mencionó que desea que la información brindada acerca de los cultivos sea más detallada, con secciones de clima o altura. Finalmente, resaltó que la distribución de las secciones es correcta y de igual manera los colores, pues refleja caracteristicas propias de la agricultura brindando un ambiente ameno. 
@@ -671,15 +679,15 @@ Edad: 45
 
 Distrito: Surco - Lima
 
-Url: ()
+Url: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/Ef_UGsnZQFlCkeu_tTZTGF8B1DlxtM8i4hIh3PbnOAEOFw?e=PUmGMQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
-Inicio: 
+Inicio: 55:27
 
-Fin: 
+Fin: 01:03:02
 
 Duración: 11:49
 
-
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/1428b3de-2338-464b-91bb-9058567bedc3)
 
 
 Juli nos brindó su sincera opinión acerca de la landing page y aplicación web, con respecto a la landing page, nos felicitó por la distribución y promoción del producto dentro de las secciones, tambien considera que ofrece lo necario en cuando información de funcionalidades pero recomendaría reducir un poco del texto y poner las funcionalidades de manera más específica. Sin embargo, le resultó agradable la navegación por las secciones puntuando con un 8 de 10 la landing page. Por otro lado, con respecto a la aplicación web, le resultó nada complicado encontrar y seleccionar un cultivo para comprar, además la distribución de las secciones es buena dado que resume las funcionalidades que ofrecen. Tambien, consdera que no debe añadirse caracteristicas dado que siente que está completa para sus necesidades como comerciante. Sin embargo, cree que la sección de estado de compra debería mostrar más información. Finalmente, resume la aplicación web como muy buena, intuitiva y efectiva, con un diseño adecuado.
@@ -776,14 +784,17 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 *Heurística violada: Usabilidad - Consistencia y estándares*
 
 ***Problema:***
-Botones en sección "My Shopping"
+Botones en sección "Sign In y Sign Up"
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/9ed0ca37-09d7-45c7-b111-b614739c209e)
 
 
-Botones en sección "Find Products"
+Botones en sección "Financial Management"
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/a145e2c6-d273-4e4e-9bfc-73b8c11b22f8)
 
 
-
-*El formato de diseño elegido para los botones “Buy” es inconsistente a comparación de todas las secciones de la aplicación web. Esto incluye el color y bordes del botón que permite identificarlos. Como consecuencia, esto puede provocar que potencialmente los usuarios se desorienten y no puedan diferenciar el texto de un botón con el cual pueden interactuar.*
+*El formato de diseño elegido para los botones “Sign In” es inconsistente a comparación de todas las secciones de la aplicación web. Esto incluye el color y bordes del botón que permite identificarlos. Como consecuencia, esto puede provocar que potencialmente los usuarios se desorienten y no puedan diferenciar el texto de un botón con el cual pueden interactuar.*
 
 ***Recomendación:**
 Utilizar el mismo estilo de botones para mostrar más información en todas las secciones, de manera que el usuario se familiarice mejor con la aplicación web.*
@@ -873,8 +884,16 @@ Corregir las funcionalidades mostradas en las listas de la sección*
 
 ## 5.4. Video About-the-Product.
 
+A continuación, se mostrará el Video About the Product, donde se mostrará las carácteristicas de la Landing Page para los segmentos objetivos interesados. De igual manera, la aplicación web será mostrada en su nueva versión del Sprint #3, abarcando muchas más funcionalidades para ser expuestas en este video. Finalmente, también incluye un testimonio de uso realizado en una entrevista de validación:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/582e24d7-4221-4bb3-a38d-39a876d69ce6)
 
 
+Link: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/Echgms5rbepHnsyhy31ZYW8BSf-ggaZUfXAQpmJLpkg_3w?e=tazdiw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19) 
+
+Por último, se agregó una sección con el Video About The Product dentro del landing page:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/a0a9708c-6fae-4642-9a18-880c1433a42e)
 
 
 # Conclusiones
@@ -887,6 +906,11 @@ Corregir las funcionalidades mostradas en las listas de la sección*
 
 - Se desarrolló una avance del frontend en base al Sprint presentado en esta entrega, donde todos los integrantes del equipo de desarrollaron features priorizados dentro del producto backlog, se puede hacer un desarrollo del frontend sin importar el backend al usar una fake api.
 
+- Se desarrollo una nueva version de Web Applications en base al Sprint presentado en la entrega TB2, corrigiendo y anadiendo features para una mejor experiencia de usuario y para una mejor conexion con los Web Services.
+
+- Se desarrollo la primera version de Web Services, donde como principal base tenemos la logica de negocio orientada al producto solucion, se implementaron operaciones de features de mantenimiento, sin embargo, se planificaron en algunos features incluir logica de negocio. Por otro lado, la implementacion fue un poco complicada, debido a que se tenia que usar dependencias e inyecciones.
+
+  
 # Referencias
 
 COMEXPERU (2020). PROBLEMAS DEL SECTOR AGRÍCOLA EXPLICARÍAN LOS MENORES INGRESOS DE LOS PRODUCTORES - Sociedad de Comercio Exterior del Perú. Recuperado de https://www.comexperu.org.pe/articulo/problemas-del-sector-agricola-explicarian-los-menores-ingresos-de-los-productores

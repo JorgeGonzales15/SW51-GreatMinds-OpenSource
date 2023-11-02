@@ -295,14 +295,10 @@ Link del video: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_up
 | - | - | 
 | /signin| Como ruta default tenemos esta, que a la vez es la pantalla de inicio de sesión | 
 | /signup | En esta ruta se muestra la pantalla de registro de usuario | 
-| /select-rol  | En este endpoint se muestra la pantalla relacionada a la selección de roles | 
 | /finance  | En este endpoint se muestra la pantalla relacionada la vista previa de costos y ganancias del tipo usuario agricultor | 
 | /costs  | En este endpoint se muestra la pantalla relacionada la vista a detalle de los costos generados del tipo usuario agricultor | 
 | /bills  | En este endpoint se muestra la pantalla relacionada la vista a detalle de las ganancias generados del tipo usuario agricultor | 
 | /products  | En este endpoint se muestra la pantalla relacionada la vista previa de los productos del del tipo usuario agricultor | 
-| /product-details  | En este endpoint se muestra la pantalla relacionada la vista a detalle de un producto seleccionado del tipo usuario agricultor | 
-| /farmer-home  | En este endpoint se muestra lo correspondiente a funcionalidades para el rol de agricultor | 
-| /merchant-home  | En este endpoint se muestra lo correspondiente a funcionalidades para el rol de comerciante | 
 | /sales  | Este endpoint corresponde al procedimiento de compra de pedido del tipo de usuario comerciante |
 
 
@@ -460,9 +456,6 @@ Como parte de las evidencias del sprint review, se demuestran mediante una tabla
 | AyniBackend | feature/products | 5724216 | feat: Added product controller | - | 01/11/2023 |
 
 
-
-
-
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
@@ -499,12 +492,19 @@ En el sprint 3 se alcanzó a desarrollar una primera versión del backend y una 
 
 ![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/2b42778c-0c00-4de5-9b3c-9c41768c395f)
 
+- Backend: 
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/1e5c5cb7-4daf-4d00-ad9b-0ab776d1124a)
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/f53d5a38-10a6-4de4-bd72-50addf84b6e2)
+
 
 
 El producto del desarrollo del presente sprint, está reflejado en el siguiente video, donde se muestra todo lo logrado en este sprint. A continuación el link del video:
 
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/7ab15a2c-cf6e-46c2-b3e9-1d74e9469b00)
 
-Link del video: () 
+
+Link del video: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EQmd9iN-XUZFlTSUv43r9R8BMQFlmJ6z_OfzMRm2Ehdf6g?e=6EZtcH) 
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
@@ -515,23 +515,41 @@ Commits relacionados con documentación:
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 | - | - | - | - | - | - |
 | AyniBackend | feature/crops | 7a92d41 | feat: Added open api dependency | - | 01/11/2023 |
+| AyniBackend | develop | 22e41ae | docs: added open api configuration bean | - | 02/11/2023 |
 
-| Acciones | Endpoint | Detalles | Enlace |
-| - | - | - | - | 
-| POST y GET | /signin | En este endpoint se puede iniciar sesión y obtener sus datos | |
-| POST | /signup | En este endpoint se puede crear el usuario  | |
-| POST | /transactions  | En este endpoint se puede realizar el registro de una transacción, de tipo costo o gasto, de igual manera obtenerlos, actualizarlos y borrarlos| |
-| GET | /transactions  | En este endpoint se puede realizar la obtención de un registro de costo o ganancia | |
-| UPDATE | /transactions  | En este endpoint se puede realizar la actualización de una transacción de tipo costo o gasto | |
-| DELETE | /transactions  | En este endpoint se puede realizar la eliminación de una transacción, de tipo costo o gasto | |
-| POST | /products  | En este endpoint se puede utilizar para registrar un producto | |
-| GET | /products  | En este endpoint se puede utilizar para obtener un producto | |
-| POST | /crops  | En este endpoint se puede utilizar para registrar un cultivo | |
-| GET | /crops  | En este endpoint se puede utilizar para obtener un cultivo | |
-| POST | /orders  | En este endpoint se puede utilizar para registrar una orden | |
-| GET | /orders  | En este endpoint se puede utilizar para obtener una orden | |
+| Acciones | Endpoint | Detalles | Enlace | Datos de muestra |
+| - | - | - | - | - |
+| POST | /api/auth/signin | En este endpoint se puede iniciar sesión | http://localhost:8080/swagger-ui/index.html#/Authentication/authenticateUser | username: "Juan" <br> "password: contrasenia" |
+| POST | /api/auth/signup | En este endpoint se puede crear el usuario  | http://localhost:8080/swagger-ui/index.html#/Authentication/registerUser | username: "Juan" <br> email: "Juan@gmail.com" <br> "role: farmer" <br> "password: contrasenia" |
+| POST | /api/v1/transactions  | En este endpoint se puede realizar el registro de una transacción, de tipo costo o gasto, de igual manera obtenerlos, actualizarlos y borrarlos| http://localhost:8080/swagger-ui/index.html#/Transactions/createTransaction |  "costName": "gasolina", "description": "3 galones de gasolina", "type": "costo", "price": 500, "quantity": 3 |
+| GET | /api/v1/transactions  | En este endpoint se puede realizar la obtención de todos los registros de costos o ganancias | http://localhost:8080/swagger-ui/index.html#/Transactions/getAllTransactions | - |
+| GET | /api/v1/transactions/{transationId}  | En este endpoint se puede realizar la obtención de un registros de costos o ganancias por id | http://localhost:8080/swagger-ui/index.html#/Transactions/getTransactionById | transactionId: 1 |
+| PUT | /api/v1/transactions/{transationId}  | En este endpoint se puede realizar la actualización de una transacción de tipo costo o gasto | http://localhost:8080/swagger-ui/index.html#/Transactions/updateTransaction | transaction Id: 1 // "costName": "gasolina", "description": "3 galones de gasolina", "type": "costo", "price": 500, "quantity": 3|
+| DELETE | /api/v1/transactions/{transationId}  | En este endpoint se puede realizar la eliminación de una transacción, de tipo costo o gasto | http://localhost:8080/swagger-ui/index.html#/Transactions/deleteTransaction | transactionId: 1 |
+| POST | api/v1//products  | En este endpoint se puede utilizar para registrar un producto | http://localhost:8080/swagger-ui/index.html#/Product/createProduct |   "name": "Cultivo fresco de manzana", "description": "Manzanas frescas", "distance": "12", "depth": "5 centimetros", "weather": "19 centigrados", "groundType": "buena caldad", "season": "verano", "imageUrl": "string" |
+| GET | api/v1/products  | En este endpoint se puede utilizar para obtener todos los productos | http://localhost:8080/swagger-ui/index.html#/Product/getAllProducts | - |
+| GET | api/v1/products/{productId}  | En este endpoint se puede utilizar para obtener todos un producto por Id | http://localhost:8080/swagger-ui/index.html#/Product/getProductById | productId: 1 |
+| POST | api/v1/crops  | En este endpoint se puede utilizar para registrar un cultivo | http://localhost:8080/swagger-ui/index.html#/Crops/createCrop | "name": "Papa", "undergrowth": true, "fertilize": true, "oxygenate": true, "line": true, "hole": true, "watered": 32, "pestCleaning": 1,"productId": 1 |
+| GET | api/v1/crops  | En este endpoint se puede utilizar para obtener todos los cultivo | http://localhost:8080/swagger-ui/index.html#/Crops/getAllCrops | - |
+| GET | api/v1/crops/{cropId}  | En este endpoint se puede utilizar para un cultivo por Id | http://localhost:8080/swagger-ui/index.html#/Crops/getCropById | cropId: 1 |
+| GET | api/v1/crops/{cropId}   | En este endpoint se puede utilizar para obtener todos los cultivos por id un producto | http://localhost:8080/swagger-ui/index.html#/Crops/getAllCropsByProductId | productId: 1 |
+| POST | api/v1/orders  | En este endpoint se puede utilizar para registrar una orden | http://localhost:8080/swagger-ui/index.html#/Orders/createOrder |   "description": "Papayas muy buenas", "totalPrice": 15, "quantity": 3, "paymentMethod": "mastercard", "status": "On Package", "saleId": 1, "orderedBy": 1, "acceptedBy": 2, "orderedDate": "2023-11-02T13:16:02.798Z" |
+| GET | api/v1/orders  | En este endpoint se puede utilizar para obtener todas las ordenes | http://localhost:8080/swagger-ui/index.html#/Orders/getAllOrders | - |
+| GET | api/v1/orders/{orderId}  | En este endpoint se puede utilizar para obtener una orden por Id | http://localhost:8080/swagger-ui/index.html#/Orders/getOrderById | orderId: 1 |
+| PUT | api/v1/orders/orders/{orderId}  | En este endpoint se puede actualizar una orden por Id | http://localhost:8080/swagger-ui/index.html#/Orders/updateOrder | orderId: 1 |
+| DELETE | api/v1/orders/orders/{orderId}  | En este endpoint se puede eliminar una orden por Id | http://localhost:8080/swagger-ui/index.html#/Orders/deleteOrder | orderId: 1 |
+| POST | api/v1/sales  | En este endpoint se puede utilizar para registrar una venta | http://localhost:8080/swagger-ui/index.html#/Sales/createSale |   "name": "Venta de camote", "description": "buena venta", "unitPrice": 24, "quantity": 2, "imageUrl": "string" |
+| GET | api/v1/sales  | En este endpoint se puede utilizar para obtener todas las ventas | http://localhost:8080/swagger-ui/index.html#/Sales/getAllSales | - |
+| GET | api/v1/sales/{salesId}  | En este endpoint se puede utilizar para obtener una venta por Id | http://localhost:8080/swagger-ui/index.html#/Sales/getSaleById | saleId: 1 |
 
+Capturas de documentación: 
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/6478df6e-33a3-4f45-81cb-0e16214e5ed3)
 
+Registro de una venta:
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/a3ecaf14-280f-4dd7-9cb0-98561748f0e9)
+
+Registro de un producto:
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/a6ed3e07-37e0-4e2c-af54-88fc2f1ba8ce)
 
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
@@ -558,22 +576,55 @@ Y pasamos la carpeta que se encuentra dentro de la carpeta dist generada en nues
 
 ![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/7b51f439-869e-42b1-89fb-b72966cd289d)
 
-De esta manera el avance del Sprint 3 queda desplegado:
+De esta manera el avance del Sprint 3 queda desplegado
 
 Link de nueva versión de Landing Page: (https://ayni-landingpage.netlify.app/)
 
 Link de nueva versión de frontend: (https://ayni-frontend-open.netlify.app/signin)
 
-Para el despliegue del backend se usó Railway, primero se creó un servicio para hostear la base de datos:
+Para el despliegue del backend, se usó primero Railway, donde se creó un servicio para el hosting de la base de datos:
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/2a81fc01-e9c9-4635-977d-b3fd157e6149)
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/7d19ef8d-0430-402c-995e-9426115fc817)
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/83204b39-8d10-4e59-9f5c-0a93f5f6042e)
 
 
 
+Luego, se usó Zeaburn para el despliegue del backend, primero se crea un espacio de trabajo:
 
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/4ea95978-1a3f-4204-bdd8-1b21940aa217)
+
+
+Posteriormente, se vincula con Github para realizar el deploy y este es el resultado:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/f727dda6-8891-4a2f-adf8-0f55bbba22c0)
+
+Sin embargo, solo da 7 días de prueba para hacer deploys. Por lo tanto, se buscarán mejores alternativas
+
+
+El link es el siguiente: (https://ayni-api.zeabur.app/swagger-ui/index.html#)
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
+
+| Alumno | Actividad | 
+| - | - | 
+| Espejo Macuri, Paolo Andre  | Desarrollo de backend, mejora y adición de vistas de frontend | 
+| Gonzales Carrión, Jorge Enrique  | Desarrollo de backend y despliegue | 
+| Huaman Catano, Miguel Angel  | Desarrollo de backend, adición de vistas de frontend | 
+| Paucar De La Cruz, Tatiana Medalith  | Desarrollo de backend, mejora y adición de vistas de frontend | 
+| Zarate Castro, Jose Daniel  | Desarrollo de backend y despliegue frontend| 
+
+
+Repositorio Frontend:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/91c515b6-ac50-47a6-af98-1697531a52e3)
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/054f1a3f-a2df-420e-9c6a-cb77fad4d7cc)
+
+
+Repositorio Backend:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/b29afa00-db8c-4f78-991b-07587fcfa604)
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/5afc0c44-1d04-4a28-af8a-87417f2ee600)
 
 
 
@@ -1019,8 +1070,8 @@ Congreso de la Reública (2020). Boletín Social N°30. Gobierno estima pérdida
 
 # Anexos
 
-Video Exposición TB1: [Microsoft Streams](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EfGXv140UdJAj5qJjl92k4MBiX5R0c1zXJI3MsotH5xepg?e=qk0X0x)
+Video Exposición TB1: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EfGXv140UdJAj5qJjl92k4MBiX5R0c1zXJI3MsotH5xepg?e=qk0X0x)
 
-Video Exposición TP: [Microsoft Streams](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EQPFOrKXordClMuFSr95AvYBJKBR76KKGIh9Pg8WC_oJ-A?e=WruxwM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+Video Exposición TP: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EQPFOrKXordClMuFSr95AvYBJKBR76KKGIh9Pg8WC_oJ-A?e=WruxwM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
-Video Exposición TB2: [Microsoft Streams]()
+Video Exposición TB2: ()

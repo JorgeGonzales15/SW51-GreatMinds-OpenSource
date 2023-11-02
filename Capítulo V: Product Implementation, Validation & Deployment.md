@@ -54,16 +54,17 @@ Lenguaje Gherkin: El lenguaje Gherkin es un lenguaje de dominio específico util
 
 ### 5.1.2. Source Code Management.
 
-Como mencionamos anteriormente, se utilizará GitHub para llevar un control de las versiones de desarrollo y poder trabajar de forma colaborativa. Para ello, se creó una organización llamada: [Github Organización](https://github.com/upc-pre-202302-GreatMinds-SW51) 
+Como mencionamos anteriormente, se utilizará GitHub para llevar un control de las versiones de desarrollo y poder trabajar de forma colaborativa. Para ello, se creó una organización llamada: (https://github.com/upc-pre-202302-GreatMinds-SW51) 
 
-Repositorio del landing page: [Repositorio Landing Page](https://github.com/upc-pre-202302-GreatMinds-SW51/Ayni_LandingPageOfficial/tree/Release/1.0) 
+Repositorio del landing page: (https://github.com/upc-pre-202302-GreatMinds-SW51/Ayni_LandingPageOfficial/tree/Release/1.0) 
 
-Repositorio pruebas de aceptación: [Github](https://github.com/upc-pre-202302-GreatMinds-SW51/acceptance-test-opensource) 
+Repositorio pruebas de aceptación: (https://github.com/upc-pre-202302-GreatMinds-SW51/acceptance-test-opensource) 
 
-Repositorio Frontend: [Github](https://github.com/upc-pre-202302-GreatMinds-SW51/AyniFrontend) 
+Repositorio Frontend: (https://github.com/upc-pre-202302-GreatMinds-SW51/AyniFrontend) 
 
-Repositorio de uso para usar el servicio de JSONPlaceholder: [Github](https://github.com/JorgeGonzales15/AyniDBPrueba) 
+Repositorio de uso para usar el servicio de JSONPlaceholder: (https://github.com/JorgeGonzales15/AyniDBPrueba) 
 
+Repositorio de Backend: (https://github.com/upc-pre-202302-GreatMinds-SW51/AyniBackend)
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
@@ -177,7 +178,7 @@ En este apartado se hace presenta la implementación/despliegue de la landing pa
 
 ![Sprint Evidence Landing (1)](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/4da61194-1ee7-4012-a786-5dc804e68d2c)
 
-Link del video: [Video Evidencia](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EboHBmisglROmEJioyVBF5YBZ_Pr7cydTYr8pFi8njPn8A?e=SJBY3T) 
+Link del video: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EboHBmisglROmEJioyVBF5YBZ_Pr7cydTYr8pFi8njPn8A?e=SJBY3T) 
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
@@ -186,7 +187,7 @@ No se utilizó ningún servicio adicional, pues este primer Sprint solo consta d
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
 Como se mencionó, se utilizó Netlify para el despliegue automático del landing page con todos los cambios realizados por el equipo. Netlify se integra con nuestra organización en GitHub y luego con el repositorio, siendo la rama main la que utilizamos para el despliegue. El enlace es el siguiente: 
-[Ayni Landin Page](https://aynilandingpage.netlify.app/)
+(https://aynilandingpage.netlify.app/)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
@@ -221,7 +222,7 @@ Las actividades para el presente Sprint se repartieron en base a las secciones d
 <table><tr><th valign="top">Sprint 2</th><th colspan="7" valign="top">Sprint: Implementar el frontend de las principales historias de usuario del product backlog </th></tr>
 <tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
 <tr><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Description</td><td valign="top">Estimation (Hours)</td><td valign="top">Assigned To</td><td valign="top"><p>Status </p><p>(To-do / </p><p>InProcess / </p><p>To Review / </p><p>Done)</p></td></tr>
-<tr><td rowspan="3" valign="top">HU-08</td><td rowspan="3" valign="top">Planificar actividades agrícolas</td><td valign="top">08\.1</td><td valign="top">Implementar fake-api</td><td valign="top">Implementar fake api para posts o gets de entidades</td><td valign="top">4</td><td valign="top">Miguel Huaman</td><td valign="top">Done</td></tr>
+<tr><td rowspan="3" valign="top">HU-07</td><td rowspan="3" valign="top">Planificar actividades agrícolas</td><td valign="top">08\.1</td><td valign="top">Implementar fake-api</td><td valign="top">Implementar fake api para posts o gets de entidades</td><td valign="top">4</td><td valign="top">Miguel Huaman</td><td valign="top">Done</td></tr>
 <tr><td valign="top">08\.2</td><td valign="top">Implementar estilos </td><td valign="top">Diseñar la página con los Styles Guidelines definidos</td><td valign="top">4</td><td valign="top">Miguel Huaman</td><td valign="top">Done</td></tr>
 <tr><td valign="top">08\.3</td><td valign="top">Implementar stepper </td><td valign="top">El stepper consta de 3 pasos y cada uno es de un componente</td><td valign="top">4</td><td valign="top">Miguel Huaman</td><td valign="top">Done</td></tr>
 <tr><td rowspan="3" valign="top">HU-04</td><td rowspan="3" valign="top">Realizar pedidos de productos</td><td valign="top">08\.1</td><td valign="top">Implementar fake-api</td><td valign="top">Implementar fake api para posts o gets de entidades</td><td valign="top">4</td><td valign="top">Paolo Espejo</td><td valign="top">Done</td></tr>
@@ -230,10 +231,10 @@ Las actividades para el presente Sprint se repartieron en base a las secciones d
 <tr><td rowspan="3" valign="top">HU-03</td><td rowspan="3" valign="top">Explorar productos agrícolas</td><td valign="top">03\.1</td><td valign="top">Implementar estilos</td><td valign="top">Diseñar los estilos para las páginas</td><td valign="top">4</td><td valign="top">Tatiana Paucar</td><td valign="top">Done</td></tr>
 <tr><td valign="top">03\.2</td><td valign="top">Implementar formularios</td><td valign="top">Implementar formularios para añadir cultivos</td><td valign="top">5</td><td valign="top">Tatiana Paucar</td><td valign="top">Done</td></tr>
 <tr><td valign="top">03\.3</td><td valign="top">Implementar página de productos</td><td valign="top">Implementar cars para explorar los productos agrícolas</td><td valign="top">4</td><td valign="top">Tatiana Paucar</td><td valign="top">Done</td></tr>
-<tr><td rowspan="3" valign="top">HU-09</td><td rowspan="3" valign="top">Registro de gastos y ganancias</td><td valign="top">09\.1</td><td valign="top">Implementar estilos </td><td valign="top">Diseñar los estilos para las páginas</td><td valign="top">4</td><td valign="top">Jorge Gonzales Carrión</td><td valign="top">Done</td></tr>
+<tr><td rowspan="3" valign="top">HU-08</td><td rowspan="3" valign="top">Registro de gastos y ganancias</td><td valign="top">09\.1</td><td valign="top">Implementar estilos </td><td valign="top">Diseñar los estilos para las páginas</td><td valign="top">4</td><td valign="top">Jorge Gonzales Carrión</td><td valign="top">Done</td></tr>
 <tr><td valign="top">09\.2</td><td valign="top">Implementar las listas de costos y ganancias</td><td valign="top">Implementar con las listbox con el framework requerido</td><td valign="top">5</td><td valign="top">Jorge Gonzales Carrión</td><td valign="top">Done</td></tr>
 <tr><td valign="top">09\.3</td><td valign="top">Cards con información de costos y gastos</td><td valign="top">Implementar cards con la información de costos y gatos</td><td valign="top">5</td><td valign="top">Jorge Gonzales Carrión</td><td valign="top">Done</td></tr>
-<tr><td valign="top">HU-21</td><td valign="top">Sección principal (“Home”)</td><td valign="top">21\.1</td><td valign="top">Paginas de “Home”</td><td valign="top">Implementar páginas de “Home”</td><td valign="top">4</td><td valign="top">Jose Zarate</td><td valign="top">Done</td></tr>
+<tr><td valign="top">HU-18</td><td valign="top">Sección principal (“Home”)</td><td valign="top">21\.1</td><td valign="top">Paginas de “Home”</td><td valign="top">Implementar páginas de “Home”</td><td valign="top">4</td><td valign="top">Jose Zarate</td><td valign="top">Done</td></tr>
 <tr><td valign="top">HU-01</td><td valign="top">Selección de roles</td><td valign="top">01\.1</td><td valign="top">Pantallas de selección de roles</td><td valign="top">Implementar la selección de roles mediante componentes</td><td valign="top">4</td><td valign="top">Jose Zarate</td><td valign="top">Done</td></tr>
 <tr><td valign="top">HU-02</td><td valign="top">Inicio de sesión</td><td valign="top">02\.2</td><td valign="top">Pantallas de inicio de sesión</td><td valign="top">Implementar inicio de sesión mediante componentes</td><td valign="top">4</td><td valign="top">Jose Zarate</td><td valign="top">Done</td></tr>
 </table>
@@ -286,7 +287,7 @@ El producto del desarrollo del presente sprint, está reflejado en el siguiente 
 
 ![image](https://user-images.githubusercontent.com/104078975/270459815-4b5cf797-da63-4a83-9355-9fe4c0ad2370.png)
 
-Link del video: [Video Evidencia](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EaDY_7OrBVNGsjAXORTlPisBfycb7Bn6bKcMeajAVDzhJw?e=Dcavps) 
+Link del video: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EaDY_7OrBVNGsjAXORTlPisBfycb7Bn6bKcMeajAVDzhJw?e=Dcavps) 
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
@@ -294,14 +295,10 @@ Link del video: [Video Evidencia](https://upcedupe-my.sharepoint.com/:v:/g/perso
 | - | - | 
 | /signin| Como ruta default tenemos esta, que a la vez es la pantalla de inicio de sesión | 
 | /signup | En esta ruta se muestra la pantalla de registro de usuario | 
-| /select-rol  | En este endpoint se muestra la pantalla relacionada a la selección de roles | 
 | /finance  | En este endpoint se muestra la pantalla relacionada la vista previa de costos y ganancias del tipo usuario agricultor | 
 | /costs  | En este endpoint se muestra la pantalla relacionada la vista a detalle de los costos generados del tipo usuario agricultor | 
 | /bills  | En este endpoint se muestra la pantalla relacionada la vista a detalle de las ganancias generados del tipo usuario agricultor | 
 | /products  | En este endpoint se muestra la pantalla relacionada la vista previa de los productos del del tipo usuario agricultor | 
-| /product-details  | En este endpoint se muestra la pantalla relacionada la vista a detalle de un producto seleccionado del tipo usuario agricultor | 
-| /farmer-home  | En este endpoint se muestra lo correspondiente a funcionalidades para el rol de agricultor | 
-| /merchant-home  | En este endpoint se muestra lo correspondiente a funcionalidades para el rol de comerciante | 
 | /sales  | Este endpoint corresponde al procedimiento de compra de pedido del tipo de usuario comerciante |
 
 
@@ -335,11 +332,11 @@ De esta manera el avance del Sprint 2 queda desplegado, a continuación se mostr
 
 Adicionalmente, se usó JSONPlaceholder para albergar los datos dentro del archivo "db.json", que durante el desarrollo del sprint se trabajó como "localhost:XXXX", gracias a JSONPlaceholder se podrá realizar el método GET cuando la aplicación esté desplegada. A continuación el link:
 
-Link del JSONPlaceholder: [JSONPlaceholder](https://my-json-server.typicode.com/JorgeGonzales15/AyniDBPrueba) 
+Link del JSONPlaceholder: (https://my-json-server.typicode.com/JorgeGonzales15/AyniDBPrueba) 
 
 Finalmente, se logró desplegar con exito todo el desarrollo trabajado en el Sprint2. A continuación el link:
 
-Link del frontend desplegado: [Netlify](https://ayni-frontend.netlify.app/signin) 
+Link del frontend desplegado: (https://ayni-frontend.netlify.app/signin) 
 
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
@@ -354,6 +351,693 @@ Network:
 ![network sprint2](https://user-images.githubusercontent.com/104078975/270454953-c1cbf6c8-dfbc-4afa-809f-f26872b563df.png)
 ![Network2 srpint2](https://user-images.githubusercontent.com/104078975/270455044-3c869d76-e568-4568-981b-f46ff2f0b0e0.png)
 
+### 5.2.3. Sprint 3
+#### 5.2.3.1. Sprint Planning 3.
+
+El Sprint #3 tiene como fecha de inicio el 10/10/2023 y como meta plantea resolver los errores de la primera versión del frontend y adicionar más vistas para lograr una neuva versión que abarque todas las funcionalidades planteadas por el equipo de desarrollo. Además, desarrollar la primera versión de backend para que la aplicación funcione correctamente.
+
+| Sprint # | 3 | 
+| - | - | 
+| **Sprint Planning Background** | - |
+| Date | 2023 - 10 - 15 |
+| Time | 19:00 PM |
+| Location | Virtual via Google Meet |
+| Prepared By | Gonzales Carrión, Jorge Enrique |
+| Attendees (to planning meeting) | Gonzales Carrión, Jorge Enrique / Espejo Macuri, Paolo Andre / Paucar De La Cruz, Tatiana Medalith / Huaman Cataño, Miguel Ángel / Zarate Castro, Jose Daniel |
+| Sprint 2 - Review Summary | Se realizó un avance de Web Applications |
+| Sprint 2 - Retrospective Summary  | Añadir el enlace a Web Applications mediante el botón Call To Action de la Landing Page. <br> Mejorar el diseño de Web Applications. <br> Corregir la documentación |
+| **Sprint Goal & User Stories** | - |
+| Sprint 3 Goal| Desarrollar la primera versión de Web Services y mejorar Web Applications |
+| Sprint 3 - Velocity | El equipo puede aceptar 35 Story Points|
+| Sprint 3 - Story Points | La suma de los Story Points de los User Sotires que se atenderá es (33)|
+
+#### 5.2.3.2. Sprint Backlog 3.
+
+En el tercer Sprint Backlog, el equipo completó el frontend, actualizó la landing page para que se pueda redirigir a la aplicación web con el botón call-to-action, y desarrolló una primera versión de backend según reglas de negocio definidas. La herramienta utilizada para manejar las tareas de los miembros del equipo fue Trello. Esta herramienta permitió que se pueda dividir todas las user stories y technical stories en tareas. El objetivo principal del sprint es implementar nueva versión de frontend y las principales technical stories referidas al backend.
+
+Link Trello: (https://trello.com/invite/b/afgi3Iby/ATTIb455d07068fc39cdfde8bf1f2eec39d2600FE94F/ayni)
+
+
+<table><tr><th valign="top">Sprint 3</th><th colspan="7" valign="top">Implementar nueva versión de frontend y las principales technical stories referidas al backend</th></tr>
+<tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
+<tr><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Description</td><td valign="top">Estimation (Hours)</td><td valign="top">Assigned To</td><td valign="top"><p>Status </p><p>(To-do / </p><p>InProcess / </p><p>To Review / </p><p>Done)</p></td></tr>
+<tr><td rowspan="2" valign="top">HU-06</td><td rowspan="2" valign="top">Acceder a Calificaciones y Reseñas</td><td valign="top">06\.1</td><td valign="top">Implementar vistas con estilos</td><td valign="top">Realizar los estilos para los componentes creados</td><td valign="top">4</td><td valign="top">Miguel Huaman</td><td valign="top">Done</td></tr>
+<tr><td valign="top">06\.2</td><td valign="top">Implementar calificaciones </td><td valign="top">Realizar los componentes relacionados a las calificaciones</td><td valign="top">4</td><td valign="top">Miguel Huaman</td><td valign="top">Done</td></tr>
+<tr><td rowspan="3" valign="top">HU-05</td><td rowspan="3" valign="top">Seguimiento de Pedidos y Entregas</td><td valign="top">05\.1</td><td valign="top">Implementar vistas con estilos</td><td valign="top">Realizar los estilos para los componentes creados</td><td valign="top">4</td><td valign="top">Paolo Espejo</td><td valign="top">Done</td></tr>
+<tr><td valign="top">05\.2</td><td valign="top">Implementar stepper</td><td valign="top">El stepper consta de 3 pasos y cada uno es de un componente</td><td valign="top">4</td><td valign="top">Paolo Espejo</td><td valign="top">Done</td></tr>
+<tr><td valign="top">05\.3</td><td valign="top">Implementar cards</td><td valign="top">Implementar componentes tipo cards para la visualización de información</td><td valign="top">4</td><td valign="top">Paolo Espejo</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top">HU-09</td><td rowspan="2" valign="top">Atender pedidos</td><td valign="top">09\.1</td><td valign="top">Implementar vistas con estilos</td><td valign="top">Realizar los estilos para los componentes creados</td><td valign="top">4</td><td valign="top">Tatiana Paucar</td><td valign="top">Done</td></tr>
+<tr><td valign="top">09\.2</td><td valign="top">Implementar cards</td><td valign="top">Implementar componentes tipo cards para la visualización de información</td><td valign="top">4</td><td valign="top">Tatiana Paucar</td><td valign="top">Done</td></tr>
+<tr><td valign="top">HU-12</td><td valign="top">Botón Call To Action</td><td valign="top">12\.1</td><td valign="top">Implementar vinculación al botón call to action </td><td valign="top">Realizar la vinculación en HTTP del botón call to action dentro de la landing page </td><td valign="top">2</td><td valign="top">Jose Zarate</td><td valign="top">Done</td></tr>
+<tr><td valign="top">HU-14</td><td valign="top">Sistemas de búsqueda y paginación</td><td valign="top">14\.1</td><td valign="top">Implementar paginación y barras de búsquedas en las secciones de la app web</td><td valign="top">Implementar componentes de paginación y barras de búsquedas en las secciones de la app web</td><td valign="top">4</td><td valign="top">Jorge Gonzales</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top">TS-01</td><td rowspan="2" valign="top"><p>Autenticación, creación y obtención de usuarios</p><p></p><p></p></td><td valign="top">T01.1</td><td valign="top">Implementar la creación de usuarios</td><td valign="top">Desarrollar la creación de usuarios dentro del backend</td><td valign="top">4</td><td valign="top">Jose Zarate</td><td valign="top">Done</td></tr>
+<tr><td valign="top">T02.2</td><td valign="top">Implementar seguridad en los usuarios</td><td valign="top">Desarrollar la implementación de seguridad para el password de los usuarios</td><td valign="top">4</td><td valign="top">Jose Zarate</td><td valign="top">Done</td></tr>
+<tr><td valign="top">TS-02</td><td valign="top"><p>Creación y obtención de cultivos</p><p></p></td><td valign="top">T02.1</td><td valign="top">Implementar la obtención y creación de cultivos</td><td valign="top">Desarrollar la obtención y creación de cultivos dentro del backend</td><td valign="top">4</td><td valign="top">Paolo Espejo</td><td valign="top">Done</td></tr>
+<tr><td valign="top">TS-03</td><td valign="top">Obtención y creación de registros financieros (costos y ganancias)</td><td valign="top">T03.1</td><td valign="top">Implementar la obtención y creación de registros financieros </td><td valign="top">Desarrollar la obtención y creación de registros financieros<br>dentro del backend</td><td valign="top">4</td><td valign="top">Tatiana Paucar</td><td valign="top">Done</td></tr>
+<tr><td valign="top">TS-04</td><td valign="top"><p>Obtención y creación para productos agrícolas</p><p></p><p></p></td><td valign="top">T04.1</td><td valign="top">Implementar la obtención y creación de productos</td><td valign="top">Desarrollar la obtención de productos dentro del backend</td><td valign="top">4</td><td valign="top">Jorge Gonzales</td><td valign="top">Done</td></tr>
+<tr><td valign="top">TS-05</td><td valign="top">Obtención y creación de órdenes de productos de cultivo</td><td valign="top">T05.1</td><td valign="top"><p>Implementar la obtención y  creación de órdenes de productos de cultivo</p><p></p></td><td valign="top">Desarrollar la obtención  y creación de órdenes de productos de cultivo dentro del backend</td><td valign="top">4</td><td valign="top">Miguel Huaman</td><td valign="top">Done</td></tr>
+</table>
+
+
+#### 5.2.3.3. Development Evidence for Sprint Review.
+
+Como parte de las evidencias del sprint review, se demuestran mediante una tabla. Como el sprint #3 abarca adiciones y corecciones dentro del frontend, asimismo, desarrollo de la primera versión de backend, se muestran los commits de ambos repositorios.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| - | - | - | - | - | - |
+| AyniFrontend | feature/orders | dcf13e6 | feat: Added route for orders and updated JSON file | - | 13/10/2023  |
+| AyniFrontend | feature/orders | af2e797 | feat(users): Created model and service for users | - | 13/10/2023  |
+| AyniFrontend | feature/orders | e68a489 | feat(orders): Created model and service for orders | - | 13/10/2023 |
+| AyniFrontend | feature/orders | 938eeb9 | feat(orders): Added order requests component | - | 13/10/2023 |
+| AyniFrontend | feature/orders | e80c0c3 | feat(orders): Added order dialog component | - | 13/10/2023 |
+| AyniFrontend | feature/orders | 0014a4c | feat: added custom pagination | - | 14/10/2023 |
+| AyniFrontend | feature/rates | a80c3c6 | Add files via upload | - | 17/10/2023 |
+| AyniFrontend | feature/rates | 69904a9 | Update app.module.ts | - | 17/10/2023 |
+| AyniFrontend | feature/rates | 16924cf | Update app-routing.module.ts | - | 17/10/2023 |
+| AyniFrontend | feature/rates | 23c8c3e | Update navigation.component.ts | - | 17/10/2023 |
+| AyniFrontend | feature/purchases | e55bf2e | feat: Added cancel dialog component | - | 18/10/2023 |
+| AyniFrontend | feature/purchases | 3e1943b | refactor: Folder changed | - | 18/10/2023 |
+| AyniFrontend | feature/purchases | 53bcb24 | feat: Added purchase card content | - | 18/10/2023 |
+| AyniFrontend | feature/purchases | 5ffc8ac | feat: Added purchases main content component | - | 18/10/2023 |
+| AyniFrontend | feature/purchases | cc82f5c | feat: Added Progress Bar Module and fixed problems | - | 21/10/2023 |
+| AyniBackend | feature/users | 6a85870 | feat(authentication): Added domain objects | - | 28/10/2023 |
+| AyniBackend | feature/users | ca21d8c | feat(authentication): Added web security configuration, repositories and command & query | - | 28/10/2023 |
+| AyniBackend | feature/users | 073f611 | feat(authentication): Added resources and transform classes | - | 28/10/2023 |
+| AyniBackend | feature/users | b960e12 | feat(authentication): Added authcontroller | - | 28/10/2023 |
+| AyniBackend | feature/users | d94e6dc | feat: Added database & JPA configurations and APP properties for JWT auth | - | 28/10/2023 |
+| AyniBackend | feature/transactions | 6edc2d8b | feat(transaction): add Transaction entity with fields and methods | - | 30/10/2023 |
+| AyniBackend | feature/transactions | 1927ae5 | feat(transaction): update Transaction entity with fields and methods | - | 30/10/2023 |
+| AyniBackend | feature/transactions | a80590c | feat(transaction): add Transaction query and command | - | 30/10/2023 |
+| AyniBackend | feature/transactions | a8e766a | feat(transaction): add Transaction service for query and command | - | 30/10/2023 |
+| AyniBackend | feature/transactions | 1dcb815 | chore(transaction): Create TransactionRepository for JPA persistence | - | 30/10/2023 |
+| AyniBackend | feature/transactions | a16b95a | feat(transaction): Create resource classes for transaction handling | - | 30/10/2023 |
+| AyniBackend | feature/transactions | a169446 | feat(transaction): Add resource-to-entity and entity-to-resource assemblers | - | 30/10/2023 |
+| AyniBackend | feature/transactions | 0c1d0c9 | feat(transaction): Implement TransactionController for managing financial transactions | - | 30/10/2023 |
+| AyniBackend | feature/transactions | 54e8934 | chore(entity): Remove some entities | - | 30/10/2023 |
+| AyniBackend | feature/orders | 7796efb | update orders | - | 01/11/2023 |
+| AyniBackend | feature/crops | 7a92d41 | feat: Added open api dependency | - | 01/11/2023 |
+| AyniBackend | feature/crops | 7ea4f82 | feat: Added crop aggregate | - | 01/11/2023 |
+| AyniBackend | feature/crops | d74fcc3 | feat: Added crop queries | - | 01/11/2023 |
+| AyniBackend | feature/crops | 4efa20e | feat: Added crop services | - | 01/11/2023 |
+| AyniBackend | feature/crops | 1ce4ed4 | feat: Added crop services implementation | - | 01/11/2023 |
+| AyniBackend | feature/crops | 7af3698 | feat: Added crop create command | - | 01/11/2023 |
+| AyniBackend | feature/crops | 0c773fb | feat: Added crop repository | - | 01/11/2023 |
+| AyniBackend | feature/crops | 44f2644 | feat: Added crop resources | - | 01/11/2023 |
+| AyniBackend | feature/crops | 1955870 | feat: Added crop resources assembler | - | 01/11/2023 |
+| AyniBackend | feature/crops | 779e24a | feat: Added crop controller | - | 01/11/2023 |
+| AyniBackend | feature/products | 8d0f3ed | feat: Added product entity | - | 01/11/2023 |
+| AyniBackend | feature/products | 58cfde9 | feat: Added product commands and queries | - | 01/11/2023 |
+| AyniBackend | feature/products | 4a282b5 | feat: Added product services | - | 01/11/2023 |
+| AyniBackend | feature/products | 4a282b5 | feat: Added product services | - | 01/11/2023 |
+| AyniBackend | feature/products | 0b34fd4 | feat: Added product service implementation | - | 01/11/2023 |
+| AyniBackend | feature/products | 5d94a97 | feat: Added product repository | - | 01/11/2023 |
+| AyniBackend | feature/products | c65a389 | feat: Added product resource | - | 01/11/2023 |
+| AyniBackend | feature/products | 2a61994 | feat: Added product resource assembler | - | 01/11/2023 |
+| AyniBackend | feature/products | 5724216 | feat: Added product controller | - | 01/11/2023 |
+
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| - | - | - | - | - | - |
+| acceptance-test-opensource  | main | 1c64cba | Acceptance_test_12.feature | - | 22/10/2023 |
+| acceptance-test-opensource  | main | cc93580 | Acceptance_test_13.feature | - | 22/10/2023 |
+| acceptance-test-opensource  | main | d5abf52 | Acceptance_test_14.feature | - | 22/10/2023 |
+| acceptance-test-opensource  | main | 25f8bb8 | Acceptance_test_15.feature | - | 22/10/2023 |
+| acceptance-test-opensource  | main | 340fa4d | Acceptance_test_16.feature | - | 22/10/2023 |
+| acceptance-test-opensource  | main | 1c70628 | Acceptance_test_17.feature | - | 01/11/2023 |
+| acceptance-test-opensource  | main | aab5abd | Acceptance_test_18.feature | - | 01/10/2023 |
+| acceptance-test-opensource  | main | 4dc7e8b | Acceptance_test_19.feature | - | 01/10/2023 |
+| acceptance-test-opensource  | main | aee165b | Acceptance_test_20.feature | - | 01/10/2023 |
+| acceptance-test-opensource  | main | e57f04a | Acceptance_test_21.feature | - | 01/10/2023 |
+
+#### 5.2.3.5. Execution Evidence for Sprint Review.
+
+En el sprint 3 se alcanzó a desarrollar una primera versión del backend y una nueva de frontend de la aplicación web "Ayni". Por lo tanto, se muestran nuevas vistas relevantes a funcionalidades importantes. A continuación se muestran algunas evidencias:
+
+- HU-06:
+  
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/3bab4b52-6a29-480c-8172-42245f49463b)
+
+- HU-05:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/9ebdc7fd-69af-41b0-9b6c-4347d239cd30)
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/76ced74a-ecb3-4f64-8064-e2872ff9687f)
+
+- HU-09:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/cd616c7b-51b5-40a4-b53a-bd61fd5bb75a)
+
+- HU-12:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/2b42778c-0c00-4de5-9b3c-9c41768c395f)
+
+- Backend: 
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/1e5c5cb7-4daf-4d00-ad9b-0ab776d1124a)
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/f53d5a38-10a6-4de4-bd72-50addf84b6e2)
+
+
+
+El producto del desarrollo del presente sprint, está reflejado en el siguiente video, donde se muestra todo lo logrado en este sprint. A continuación el link del video:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/7ab15a2c-cf6e-46c2-b3e9-1d74e9469b00)
+
+
+Link del video: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EQmd9iN-XUZFlTSUv43r9R8BMQFlmJ6z_OfzMRm2Ehdf6g?e=6EZtcH) 
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+En esta sección, se documentará los endpoints de Web Services, en este sprint se logró abarcar gran parte de los endpoints planteados para la aplicación. Sin embargo, todavía queda adicionar más metodos de regla de negocio. Con respecto a la documentación, se usó OpenApi para documentar la interacción de los usuarios con los controllers  El link del repositorio de WebServices: (https://github.com/upc-pre-202302-GreatMinds-SW51/AyniBackend).
+
+Commits relacionados con documentación:
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| - | - | - | - | - | - |
+| AyniBackend | feature/crops | 7a92d41 | feat: Added open api dependency | - | 01/11/2023 |
+| AyniBackend | develop | 22e41ae | docs: added open api configuration bean | - | 02/11/2023 |
+
+| Acciones | Endpoint | Detalles | Enlace | Datos de muestra |
+| - | - | - | - | - |
+| POST | /api/auth/signin | En este endpoint se puede iniciar sesión | http://localhost:8080/swagger-ui/index.html#/Authentication/authenticateUser | username: "Juan" <br> "password: contrasenia" |
+| POST | /api/auth/signup | En este endpoint se puede crear el usuario  | http://localhost:8080/swagger-ui/index.html#/Authentication/registerUser | username: "Juan" <br> email: "Juan@gmail.com" <br> "role: farmer" <br> "password: contrasenia" |
+| POST | /api/v1/transactions  | En este endpoint se puede realizar el registro de una transacción, de tipo costo o gasto, de igual manera obtenerlos, actualizarlos y borrarlos| http://localhost:8080/swagger-ui/index.html#/Transactions/createTransaction |  "costName": "gasolina", "description": "3 galones de gasolina", "type": "costo", "price": 500, "quantity": 3 |
+| GET | /api/v1/transactions  | En este endpoint se puede realizar la obtención de todos los registros de costos o ganancias | http://localhost:8080/swagger-ui/index.html#/Transactions/getAllTransactions | - |
+| GET | /api/v1/transactions/{transationId}  | En este endpoint se puede realizar la obtención de un registros de costos o ganancias por id | http://localhost:8080/swagger-ui/index.html#/Transactions/getTransactionById | transactionId: 1 |
+| PUT | /api/v1/transactions/{transationId}  | En este endpoint se puede realizar la actualización de una transacción de tipo costo o gasto | http://localhost:8080/swagger-ui/index.html#/Transactions/updateTransaction | transaction Id: 1 // "costName": "gasolina", "description": "3 galones de gasolina", "type": "costo", "price": 500, "quantity": 3|
+| DELETE | /api/v1/transactions/{transationId}  | En este endpoint se puede realizar la eliminación de una transacción, de tipo costo o gasto | http://localhost:8080/swagger-ui/index.html#/Transactions/deleteTransaction | transactionId: 1 |
+| POST | api/v1//products  | En este endpoint se puede utilizar para registrar un producto | http://localhost:8080/swagger-ui/index.html#/Product/createProduct |   "name": "Cultivo fresco de manzana", "description": "Manzanas frescas", "distance": "12", "depth": "5 centimetros", "weather": "19 centigrados", "groundType": "buena caldad", "season": "verano", "imageUrl": "string" |
+| GET | api/v1/products  | En este endpoint se puede utilizar para obtener todos los productos | http://localhost:8080/swagger-ui/index.html#/Product/getAllProducts | - |
+| GET | api/v1/products/{productId}  | En este endpoint se puede utilizar para obtener todos un producto por Id | http://localhost:8080/swagger-ui/index.html#/Product/getProductById | productId: 1 |
+| POST | api/v1/crops  | En este endpoint se puede utilizar para registrar un cultivo | http://localhost:8080/swagger-ui/index.html#/Crops/createCrop | "name": "Papa", "undergrowth": true, "fertilize": true, "oxygenate": true, "line": true, "hole": true, "watered": 32, "pestCleaning": 1,"productId": 1 |
+| GET | api/v1/crops  | En este endpoint se puede utilizar para obtener todos los cultivo | http://localhost:8080/swagger-ui/index.html#/Crops/getAllCrops | - |
+| GET | api/v1/crops/{cropId}  | En este endpoint se puede utilizar para un cultivo por Id | http://localhost:8080/swagger-ui/index.html#/Crops/getCropById | cropId: 1 |
+| GET | api/v1/crops/{cropId}   | En este endpoint se puede utilizar para obtener todos los cultivos por id un producto | http://localhost:8080/swagger-ui/index.html#/Crops/getAllCropsByProductId | productId: 1 |
+| POST | api/v1/orders  | En este endpoint se puede utilizar para registrar una orden | http://localhost:8080/swagger-ui/index.html#/Orders/createOrder |   "description": "Papayas muy buenas", "totalPrice": 15, "quantity": 3, "paymentMethod": "mastercard", "status": "On Package", "saleId": 1, "orderedBy": 1, "acceptedBy": 2, "orderedDate": "2023-11-02T13:16:02.798Z" |
+| GET | api/v1/orders  | En este endpoint se puede utilizar para obtener todas las ordenes | http://localhost:8080/swagger-ui/index.html#/Orders/getAllOrders | - |
+| GET | api/v1/orders/{orderId}  | En este endpoint se puede utilizar para obtener una orden por Id | http://localhost:8080/swagger-ui/index.html#/Orders/getOrderById | orderId: 1 |
+| PUT | api/v1/orders/orders/{orderId}  | En este endpoint se puede actualizar una orden por Id | http://localhost:8080/swagger-ui/index.html#/Orders/updateOrder | orderId: 1 |
+| DELETE | api/v1/orders/orders/{orderId}  | En este endpoint se puede eliminar una orden por Id | http://localhost:8080/swagger-ui/index.html#/Orders/deleteOrder | orderId: 1 |
+| POST | api/v1/sales  | En este endpoint se puede utilizar para registrar una venta | http://localhost:8080/swagger-ui/index.html#/Sales/createSale |   "name": "Venta de camote", "description": "buena venta", "unitPrice": 24, "quantity": 2, "imageUrl": "string" |
+| GET | api/v1/sales  | En este endpoint se puede utilizar para obtener todas las ventas | http://localhost:8080/swagger-ui/index.html#/Sales/getAllSales | - |
+| GET | api/v1/sales/{salesId}  | En este endpoint se puede utilizar para obtener una venta por Id | http://localhost:8080/swagger-ui/index.html#/Sales/getSaleById | saleId: 1 |
+
+Capturas de documentación: 
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/6478df6e-33a3-4f45-81cb-0e16214e5ed3)
+
+Registro de una venta:
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/a3ecaf14-280f-4dd7-9cb0-98561748f0e9)
+
+Registro de un producto:
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/a6ed3e07-37e0-4e2c-af54-88fc2f1ba8ce)
+
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+Para realizar el proceso de despliegue de lo desarrollado en el Sprint 3 con respecto a la neuva versión de Web Applications, a continuación se detallará paso a paso el procedimiento del despliegue:
+
+Ejecutamos el comando “ng build” en la ruta de nuestro projecto en angular, nos muestra lo siguiente:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/59453bc9-dac5-4ec4-9a75-7e5d6a3bced2)
+
+Se genera la carpeta dist:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/de612d0d-f8dc-4880-a0bf-fde275b96aa8)
+
+Se añade el archivo “netlify.toml” para que netlify pueda entender las rutas de nuestro programa en angular con la siguiente configuración:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/85f73994-0a0a-44f3-ad92-46e12988be51)
+
+Por último, vamos a netlify a la sección que nos permite desplegar nuestra aplicación manualmente para evitar errores:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/0a454407-893f-4f98-87e0-0148f38ccf95)
+
+Y pasamos la carpeta que se encuentra dentro de la carpeta dist generada en nuestro proyecto:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/7b51f439-869e-42b1-89fb-b72966cd289d)
+
+De esta manera el avance del Sprint 3 queda desplegado
+
+Link de nueva versión de Landing Page: (https://ayni-landingpage.netlify.app/)
+
+Link de nueva versión de frontend: (https://ayni-frontend-open.netlify.app/signin)
+
+Para el despliegue del backend, se usó primero Railway, donde se creó un servicio para el hosting de la base de datos:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/7d19ef8d-0430-402c-995e-9426115fc817)
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/83204b39-8d10-4e59-9f5c-0a93f5f6042e)
+
+
+
+Luego, se usó Zeaburn para el despliegue del backend, primero se crea un espacio de trabajo:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/4ea95978-1a3f-4204-bdd8-1b21940aa217)
+
+
+Posteriormente, se vincula con Github para realizar el deploy y este es el resultado:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/f727dda6-8891-4a2f-adf8-0f55bbba22c0)
+
+Sin embargo, solo da 7 días de prueba para hacer deploys. Por lo tanto, se buscarán mejores alternativas
+
+
+El link es el siguiente: (https://ayni-api.zeabur.app/swagger-ui/index.html#)
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+
+| Alumno | Actividad | 
+| - | - | 
+| Espejo Macuri, Paolo Andre  | Desarrollo de backend, mejora y adición de vistas de frontend | 
+| Gonzales Carrión, Jorge Enrique  | Desarrollo de backend y despliegue | 
+| Huaman Catano, Miguel Angel  | Desarrollo de backend, adición de vistas de frontend | 
+| Paucar De La Cruz, Tatiana Medalith  | Desarrollo de backend, mejora y adición de vistas de frontend | 
+| Zarate Castro, Jose Daniel  | Desarrollo de backend y despliegue frontend| 
+
+
+Repositorio Frontend:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/91c515b6-ac50-47a6-af98-1697531a52e3)
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/054f1a3f-a2df-420e-9c6a-cb77fad4d7cc)
+
+
+Repositorio Backend:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/b29afa00-db8c-4f78-991b-07587fcfa604)
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/5afc0c44-1d04-4a28-af8a-87417f2ee600)
+
+
+
+
+## 5.3. Validation Interviews.
+
+En esta sección, se registra las actividades correspondientes a las entrevistas de validación del proyecto. Estas entrevistas van dirigidas a ambos segmentos objetivos donde se evidencia la interacción con el landing page y con las aplicaciones.
+
+### 5.3.1. Diseño de Entrevistas.
+
+**Segmento Objetivo: Productores que quieren mejorar la calidad de sus ventas**
+- **Presentación del entrevistado**
+  - ¿Cuál es tu nombre?
+  - ¿Qué edad tienes?
+  - ¿Hace cuánto se dedica a la agricultura?
+- **Explicación de los alcances de la demostración**
+  - Landing Page
+  - Prinipales tareas en la aplicación
+- **Navegación a través de la aplicación web**
+  
+  **User Flow: Añadir cultivo y plan de cultivo**
+  - El usuario ingresa a landing page
+  - Busca el botón call to action
+  - Se redirige a la sección de registro de usuarios y llena los campos solicitados
+  - Selecciona su rol 
+  - Se redirige a la sección de Home
+  - Ingresa a la sección "Mis Productos"
+  - Añade un cultivo
+  - Crea un plan de cultivo
+  - Ingresa los campos solicitados en el stepper
+  - Ingresa sus fechas importantes en el calendario
+- **Preguntas principales**
+  - ¿Consideras atractiva la manera en la que el producto Ayni está promocionado en la Landing Page?
+  - ¿Consideras que el landing page ofrece toda la información necesaria para tener un entendimiento adecuado del funcionamento, propósito y funcionalidades ofrecidas por la apliación?
+  - ¿Resulta agradable a la vista la manera en la que la información está presentada?
+  - ¿Qué dispositivo utilizaste para acceder al Landing Page? ¿La página presenta  algún tipo de inconveniente de diseño que impida navegar de manera fluida?
+  - Del 1 al 10 ¿Cómo calificarías el diseño de la Landing Page?
+  - Con respecto a la aplicación, ¿considera que es complicado añadir un cultivo?
+  - ¿Los cultivos que son añadidos contienen lo que necesitas saber sobre ellas para su correcto sembrío? ¿Qué otros apartados le gustaría visualizar?
+  - ¿Qué opina acerca de la distribución de secciones?
+  - ¿Cómo describiría nuestra aplicación web en pocas palabras?
+  - ¿Qué características específicas desea usted que agreguemos a la aplicación web?
+  - ¿Utiliza actualmente una aplicación web para administrar sus sembríos u obtener información sobre sus plantas? De ser así, ¿Qué características logra diferenciar entra esa aplicación y la nuestra?
+  - ¿De todas las características evidenciadas en la aplicación web, cuál cree que debería mejorarse? ¿Por qué?
+  - ¿Considera que el diseño es adecuado?
+
+
+
+**Segmento Objetivo: Comerciantes que quieren mejorar la calidad de sus ventas**
+- **Presentación del entrevistado**
+  - ¿Cuál es tu nombre?
+  - ¿Qué edad tienes?
+  - ¿Hace cuánto se dedica a la venta de productos agrícolas?
+- **Explicación de los alcances de la demostración**
+  - Landing Page
+  - Prinipales tareas en la aplicación
+- **Navegación a través de la aplicación web**
+  
+  **User Flow: Comprar un producto**
+  - El usuario ingresa a landing page
+  - Busca el botón call to action
+  - Se redirige a la sección de registro de usuarios y llena los campos solicitados
+  - Selecciona su rol 
+  - Se redirige a la sección de Home
+  - Ingresa a la sección "Buscar productos"
+  - Selecciona un cultivo
+  - Hace click en el botón "Comprar"
+  - Ingresa los campos solicitados en el stepper
+  - Confirma la compra
+- **Preguntas principales**
+  - ¿Consideras atractiva la manera en la que el producto Ayni está promocionado en la Landing Page?
+  - ¿Consideras que el landing page ofrece toda la información necesaria para tener un entendimiento adecuado del funcionamento, propósito y funcionalidades ofrecidas por la apliación?
+  - ¿Resulta agradable a la vista la manera en la que la información está presentada?
+  - ¿Qué dispositivo utilizaste para acceder al Landing Page? ¿La página presenta  algún tipo de inconveniente de diseño que impida navegar de manera fluida?
+  - Del 1 al 10 ¿Cómo calificarías el diseño de la Landing Page?
+  - Con respecto a la aplicación, ¿considera que es complicado encontrar un cultivo?
+  - ¿Los cultivos que son mostrados contienen lo que necesitas saber sobre ellas para incentivar su compra? ¿Qué otros apartados le gustaría visualizar?
+  - ¿Qué opina acerca de la distribución de secciones?
+  - ¿Cómo describiría nuestra aplicación web en pocas palabras?
+  - ¿Qué características específicas desea usted que agreguemos a la aplicación web?
+  - ¿Utiliza actualmente una aplicación web para administrar sus ventas u obtener información sobre los productos agrícolas? De ser así, ¿Qué características logra diferenciar entra esa aplicación y la nuestra?
+  - ¿De todas las características evidenciadas en la aplicación web, cuál cree que debería mejorarse? ¿Por qué?
+  - ¿Considera que el diseño es adecuado?
+
+
+
+### 5.3.2. Registro de Entrevistas.
+
+** Segmento Objetivo: Productores que quieren mejorar la calidad de sus ventas **
+
+Nombre y apellidos: Lissane Mareni
+
+Edad: 19
+
+Distrito: San Juan de Miraflores - Lima
+
+Url: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/Ef_UGsnZQFlCkeu_tTZTGF8B1DlxtM8i4hIh3PbnOAEOFw?e=PUmGMQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+Inicio: 0:00
+
+Fin: 11:35
+
+Duración: 11:35
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/09e0ddc2-0697-414c-9129-479b27d8701d)
+
+
+Lissane nos brindó su sincera opinión acerca de la landing page y aplicación web, con respecto a la landing page, nos resaltó el diseño atractivo y eficiente de las secciones asimismo con el orden de estas, sin embargo considera que debe tener más relevancia las funcionalidades mostradas incluyendo capturas de pantalla de la aplicación web. Pese a ello, la landing page resultó agradable visualmente para ella, calificándola con un 8 de 10. Por otro lado, con respecto a la aplicación web, no consideró dificil la navegación del flujo de añadir un cultivo, asimismo, está conforme con la distribución de las secciones de la barra de navegación. Sin embargo, cree que se debería mejorar el formulario de añadir un cultivo, donde deberían poner mas datos para el registro. Finalmente, le parecio bueno el diseño de la apliación web, pero sería aún mucho mejor si se mejoraran las observaciones que nos compartió.
+
+
+
+Nombre y apellidos: Jesus Orellana
+
+Edad: 31
+
+Distrito: Chincha - Ica
+
+Url: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/Ef_UGsnZQFlCkeu_tTZTGF8B1DlxtM8i4hIh3PbnOAEOFw?e=PUmGMQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+Inicio: 11:35
+
+Fin: 23:45
+
+Duración: 12 : 10
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/649de3d1-5ffa-4205-98d0-aef514df6e13)
+
+
+Jesús elogia la página web que se le presenta y la considera interesante y beneficiosa para los pequeños productores. Asimismo, él menciona que la aplicación web Ayni es fácil de usar y práctica, especialmente la función para agregar cultivos. Sin embargo, sugiere agregar información adicional, como la especie vegetal y variedad de plantas, y sugiere incorporar imágenes deslizantes para mejorar el diseño. Jesús no utiliza ninguna otra aplicación para administrar sus plantas y no ve ninguna característica específica que deba mejorarse en la aplicación web aparte de lo mencionado anteriormente. En general, está satisfecho con la distribución de las secciones en la aplicación.
+
+
+Nombre y apellidos: Cristel Flores
+
+Edad: 29
+
+Distrito: Chincha - Ica
+
+Url: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/Ef_UGsnZQFlCkeu_tTZTGF8B1DlxtM8i4hIh3PbnOAEOFw?e=PUmGMQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+Inicio: 23:45
+
+Fin: 33:41
+
+Duración: 9 : 56
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/ec1bc4ff-97bb-404e-95eb-306ee36a4e5a)
+
+
+En la entrevista, Cristel Flores menciona que el diseño de la página podría mejorar en términos de tonalidades y tamaño de letra, y se señaló la falta de información detallada sobre los planes de pago. Ella también calificó el diseño de la landing page con un 5 sobre 10 y mencionó que se encontró un problema en la sección de inicio de sesión que solo permitía crear una cuenta nueva en lugar de iniciar sesión. Para la aplicación web, Cristel sugirió simplificar la adición de cultivos y personalizar los campos según el tipo de cultivo. Además, propuso incluir información sobre la fecha de siembra y el potencial de cosecha. Asimismo, sugirió mejorar las notificaciones y la interfaz de usuario. Finalmente, mencionó que no utiliza ninguna aplicación de gestión de agricultura.
+
+** Segmento Objetivo: Comerciantes que quieren mejorar la calidad de sus ventas **
+
+Nombre y apellidos: Andre Luna
+
+Edad: 25
+
+Distrito: Lince - Lima
+
+Url: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/Ef_UGsnZQFlCkeu_tTZTGF8B1DlxtM8i4hIh3PbnOAEOFw?e=PUmGMQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+Inicio: 33:41
+
+Fin: 45:51
+
+Duración: 12:22
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/7eb31de0-e67b-418b-a44c-346ddd6a7cc9)
+
+
+Al analizar la entrevista, Andre nos menciona que las vistas son atracticas y logradas para el propósito de la aplicación que se desea ofrecer, además, le resulta muy facilmente navegar en ella al ser intuitiva y las secciones le parecen bien distribuidas, con respecto a la información brindada acerca de las funcionalidades, considera que es adecuada. No tuvo problemas para abrir la landing page en su dispositivo móvil, debido a ello, calificó la landing page con un 8 de 10. Por otro lado, con respecto a la aplicación web, nos brindó una sugerencia con respecto a la creación de un perfil propio del usuario donde proporcione teléfonos de contacto. De esta manera facilitaria aún más el contacto con el agricultor. De la misma manera, nos dejó sugerencias acerca de la tipografía y de el tamaño de algunos botones. Finalmente, indica que, si bien la aplicación web le parece muy buena, todavia cree que se puede mejorar añadiendo funciones y pulir un poco más las vistas. 
+
+Nombre y apellidos: Favio Onofre
+
+Edad: 21
+
+Distrito: Lince - Lima
+
+Url: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/Ef_UGsnZQFlCkeu_tTZTGF8B1DlxtM8i4hIh3PbnOAEOFw?e=PUmGMQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+Inicio: 44:51
+
+Fin: 55:27
+
+Duración: 09:28
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/19901ea5-adea-4b6e-913f-1d409ec06763)
+
+
+Favio nos proporcionó su tiempo para que visite la landing page y las web applications de Ayni. Asimismo, nos proprocionó su opiniones acerca del diseño de ambas, lo cual le pareció bueno y adecuado, asimismo con la información brindada acerca delas funcionalidades ofrecidas de la aplicación web dentro de  la landing page, resultadole agradable a la vista. Por otro lado, pudo acceder a la alnding page desde su navegador web sin problema, brindandonos su apreciación con 8 puntos de 10. Sin embargo, mencionó que dentro de la landing page hay algunas cosas para mejorar, como el tamaño de los botones y la cantidad de información brindada siendo un poco excedente. Por otro lado, en la aplicación web, mencionó que desea que la información brindada acerca de los cultivos sea más detallada, con secciones de clima o altura. Finalmente, resaltó que la distribución de las secciones es correcta y de igual manera los colores, pues refleja caracteristicas propias de la agricultura brindando un ambiente ameno. 
+
+Nombre y apellidos: Juli Carrión
+
+Edad: 45
+
+Distrito: Surco - Lima
+
+Url: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/Ef_UGsnZQFlCkeu_tTZTGF8B1DlxtM8i4hIh3PbnOAEOFw?e=PUmGMQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+Inicio: 55:27
+
+Fin: 01:03:02
+
+Duración: 11:49
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/1428b3de-2338-464b-91bb-9058567bedc3)
+
+
+Juli nos brindó su sincera opinión acerca de la landing page y aplicación web, con respecto a la landing page, nos felicitó por la distribución y promoción del producto dentro de las secciones, tambien considera que ofrece lo necario en cuando información de funcionalidades pero recomendaría reducir un poco del texto y poner las funcionalidades de manera más específica. Sin embargo, le resultó agradable la navegación por las secciones puntuando con un 8 de 10 la landing page. Por otro lado, con respecto a la aplicación web, le resultó nada complicado encontrar y seleccionar un cultivo para comprar, además la distribución de las secciones es buena dado que resume las funcionalidades que ofrecen. Tambien, consdera que no debe añadirse caracteristicas dado que siente que está completa para sus necesidades como comerciante. Sin embargo, cree que la sección de estado de compra debería mostrar más información. Finalmente, resume la aplicación web como muy buena, intuitiva y efectiva, con un diseño adecuado.
+
+### 5.3.3. Evaluaciones según herísticas.
+
+**UX Heuristics & Principles Evaluation**
+--- 
+
+En esta sección se realizará el reporte de Heurísticas de usabilidad que se ecnotnraron en la realización de la valdiación con posibles usuarios según su segmento.
+
+**UX Heuristics & Principles Evaluation**
+--- 
+
+**Usability – Inclusive Design – Information Architecture**
+
+**CARRERA : Ingeniería de Software**
+
+**CURSO : Desarrollo de Aplicaciones Open Source**
+
+**SECCIÓN : SW51**
+
+**PROFESORES : Todos**
+
+**AUDITOR : Equipo de desarrollo Greatminds ** 
+
+**CLIENTE(S) : Ayni ** 
+
+
+- **SITE o APP A EVALUAR:**
+
+Ayni - Aplicación de gestión agrícola. 
+
+- **TAREAS A EVALUAR:**
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Desktop landing page
+   1. Información y descripción de la aplicación y sus funcionalidades
+   2. Visualización de botón call to action y redirección a web applications
+   3. Header y footer apropiado para la landing page
+1. Web Applications
+   1. Registro de nuevo usuario
+   2. Inicio de sesión de usuario existente
+   3. Botones interactivos y de uso intuitivo
+   4. Creación de cultivos
+   5. Navegación y orientación dentro de las secciones
+   6. Proceso de compra de cultivo
+   7. Visualización de cultivos
+
+- **ESCALA DE SEVERIDAD:**
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+|**Nivel:**|**Descripción**|
+| :- | :- |
+|**1**|<p>Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco </p><p>frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</p>|
+|**2**|<p>Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de </p><p>superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente </p><p>reléase</p>|
+|**3**|<p>Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es </p><p>importante que sean corregidos y se les debe asignar una prioridad alta.</p>|
+|**4**|<p>Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de </p><p>la herramienta. Es imperativo que sea corregido antes del lanzamiento</p>|
+
+
+
+- **TABLA RESUMEN:**
+
+1. **Web Application**
+
+|*#*|*Problema*|*Escala de severidad*|*Heurística/Principio violada(o)*|
+| :-: | :-: | :-: | :-: |
+|*1*|*El formato de diseño elegido para los botones es inconsistente*|*1*|*Usabilidad - Consistencia y estándares*|
+|*2*|*Al estar en una de las secciones, resulta imposible de diferenciar entre estos debido a que la barra de navegación no indica en qué sección se encuentra el usuario*|*1*|*Usabilidad - Reconocer antes que recordar*|
+|*3*|*No existe un apartado de edición de perfil*|*2*|*Usabilidad - Control de usuario y libertad*|
+|*4*|*En el inicio de sesión, la card de contenido no resalta diferencia del fondo*|*1*|*Usabilidad - Diseño estético y minimalista*|
+|*5*|*Inconsistencia en tamaño de tipografía*|*2*|*Usabilidad - Consistencia y estándares*|
+
+2. **Landing page**
+
+|*#*|*Problema*|*Escala de severidad*|*Heurística/Principio violada(o)*|
+| :-: | :-: | :-: | :-: |
+|*1*|*El contenido de funcionalidades no se actualiza periódicamente*|*3*|*Information Architecture - Is it credible?*|
+
+
+
+- **DESCRIPCIÓN DE PROBLEMAS:**
+
+
+
+1. **Web Application**
+
+***PROBLEMA #1:** El formato de diseño elegido para los botones es inconsistente*
+
+***Severidad:** 1*
+
+*Heurística violada: Usabilidad - Consistencia y estándares*
+
+***Problema:***
+Botones en sección "Sign In y Sign Up"
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/9ed0ca37-09d7-45c7-b111-b614739c209e)
+
+
+Botones en sección "Financial Management"
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/a145e2c6-d273-4e4e-9bfc-73b8c11b22f8)
+
+
+*El formato de diseño elegido para los botones “Sign In” es inconsistente a comparación de todas las secciones de la aplicación web. Esto incluye el color y bordes del botón que permite identificarlos. Como consecuencia, esto puede provocar que potencialmente los usuarios se desorienten y no puedan diferenciar el texto de un botón con el cual pueden interactuar.*
+
+***Recomendación:**
+Utilizar el mismo estilo de botones para mostrar más información en todas las secciones, de manera que el usuario se familiarice mejor con la aplicación web.*
+
+***PROBLEMA #2:** Al estar en una de las secciones, resulta imposible de diferenciar entre estos debido a que la barra de navegación no indica en qué sección se encuentra el usuario*
+
+***Severidad:** 1*
+
+*Heurística violada: Usabilidad - Reconocer antes que recordar*
+
+***Problema:***
+
+Barra de navegación:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/cbbfa595-2a68-4619-8a4c-fa66067715cc)
+
+
+*Dentro de las secciones que se ofrecen para ambos roles, no existe ningún indicador resaltante que permita indicar al usuario en qué sección se encuentra, potencialmente provocando que se desubique.*
+
+***Recomendación:**
+Resaltar con un cuadro de color resaltante la sección que se seleccione dentro de la barra de navegación, con la finalidad de orientar al usuario.*
+
+***PROBLEMA #3:** No existe un apartado de edición de perfil*
+
+***Severidad:** 2*
+
+*Heurística violada: Usabilidad - Control de usuario y libertad*
+
+***Problema:***
+
+*Dentro de la barra de navegación no hay un apartado de edición de perfil, esto ocasiona que el usuario no brinde y proporcione datos quepeuden llegar a ser relevantes, como teléfono de contacto entre otros campos.*
+
+***Recomendación:**
+Implementar un boton o apartado para editar perfil de usuario.*
+
+***PROBLEMA #4:** En el inicio de sesión, la card de contenido no resalta diferencia del fondo*
+
+***Severidad:** 1*
+
+*Heurística violada: Usabilidad - Diseño estético y minimalista*
+
+***Problema:***
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/409272f0-0261-4092-bccf-3331e5c190c8)
+
+
+*En la pantalla de login, el contenido dento de la card principal de la página, no es notable visualmente ya que no tiene un color que lo diferencie del fondo principal, por lo que el usuario puede forzar la vista y descontrarse para realizar un inicio de sesión exitoso.*
+
+***Recomendación:**
+Cambiar el color de la card contenedora de los campos de inicio de sesión*
+
+***PROBLEMA #5:** Inconsistencia en tamaño de tipografía *
+
+***Severidad:** 2*
+
+*Heurística violada: Usabilidad - Consistencia y estándares*
+
+***Problema:***
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/ba79cecd-1ba0-489c-a18e-f8eeb0a91a3a)
+
+*En las pantallas de home para ambos roles, existe una incosistencia en el tamaño de la tipografía, lo que ocasiona insatisfacción visual al usuario al momento de navegar por las pantallas de home*
+
+
+***Recomendación:**
+Corregir la tipografía en todas las secciones de un tamaño equivalente*
+
+
+2. **Landing Page**
+
+***PROBLEMA #1:**  El contenido de funcionalidades no se actualiza periodicamente*
+
+***Severidad:** 3*
+
+*Heurística violada: Information Architecture - Is it credible?*
+
+***Problema:***
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/62d39d65-9fa9-4d98-859a-cf2b655faad0)
+
+*En la sección de funcionalidades, algunas de estas ya no se están implementando, por lo que el usuario puede ser confundido al querer usar esas caracteristicas*
+
+***Recomendación:**
+Corregir las funcionalidades mostradas en las listas de la sección*
+
+
+
+## 5.4. Video About-the-Product.
+
+A continuación, se mostrará el Video About the Product, donde se mostrará las carácteristicas de la Landing Page para los segmentos objetivos interesados. De igual manera, la aplicación web será mostrada en su nueva versión del Sprint #3, abarcando muchas más funcionalidades para ser expuestas en este video. Finalmente, también incluye un testimonio de uso realizado en una entrevista de validación:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/582e24d7-4221-4bb3-a38d-39a876d69ce6)
+
+
+Link: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/Echgms5rbepHnsyhy31ZYW8BSf-ggaZUfXAQpmJLpkg_3w?e=tazdiw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19) 
+
+Por último, se agregó una sección con el Video About The Product dentro del landing page:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/a0a9708c-6fae-4642-9a18-880c1433a42e)
+
+
 # Conclusiones
 
 - En conclusión, en este entregable se ha definidio la idea de negocio para el proyecto, asimismo, la problemática que se busca solucionar y a raiz de ello se utilizaron herramientas y artefactos para los puntos de este entregable, tales como: 5W's y 2H's, Lean Ux, Entrevistas, As-Is y To-Be Scenario Mapping, entre otros. Todos estos artefactos sirvieron para identificar las caracteristicas que deben estar presentes en el futuro del desarrollo de la aplicación web para satisfacer a la problematica planteada.
@@ -363,6 +1047,11 @@ Network:
 - Se desarrolló la Landing Page en base al Sprint presentado en esta entrega, donde todos los integrantes del equipo desarrollaron secciones que componen la Landing, de esta manera los usuarios pueden visitar la landing page para posteriormente acceder a la aplicación web.
 
 - Se desarrolló una avance del frontend en base al Sprint presentado en esta entrega, donde todos los integrantes del equipo de desarrollaron features priorizados dentro del producto backlog, se puede hacer un desarrollo del frontend sin importar el backend al usar una fake api.
+
+- Se desarrollo una nueva version de Web Applications en base al Sprint presentado en la entrega TB2, corrigiendo y anadiendo features para una mejor experiencia de usuario y para una mejor conexion con los Web Services.
+
+- Se desarrollo la primera version de Web Services, donde como principal base tenemos la logica de negocio orientada al producto solucion, se implementaron operaciones de features de mantenimiento, sin embargo, se planificaron en algunos features incluir logica de negocio. Por otro lado, la implementacion fue un poco complicada, debido a que se tenia que usar dependencias e inyecciones.
+
 
 # Referencias
 
@@ -381,6 +1070,8 @@ Congreso de la Reública (2020). Boletín Social N°30. Gobierno estima pérdida
 
 # Anexos
 
-Video Exposición TB1: [Microsoft Streams](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EfGXv140UdJAj5qJjl92k4MBiX5R0c1zXJI3MsotH5xepg?e=qk0X0x)
+Video Exposición TB1: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EfGXv140UdJAj5qJjl92k4MBiX5R0c1zXJI3MsotH5xepg?e=qk0X0x)
 
-Video Exposición TP: [Microsoft Streams](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EQPFOrKXordClMuFSr95AvYBJKBR76KKGIh9Pg8WC_oJ-A?e=WruxwM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+Video Exposición TP: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EQPFOrKXordClMuFSr95AvYBJKBR76KKGIh9Pg8WC_oJ-A?e=WruxwM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+Video Exposición TB2: ()

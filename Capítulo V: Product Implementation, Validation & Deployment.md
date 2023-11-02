@@ -64,7 +64,7 @@ Repositorio Frontend: (https://github.com/upc-pre-202302-GreatMinds-SW51/AyniFro
 
 Repositorio de uso para usar el servicio de JSONPlaceholder: (https://github.com/JorgeGonzales15/AyniDBPrueba) 
 
-Repositorio de Backend: ()
+Repositorio de Backend: (https://github.com/upc-pre-202302-GreatMinds-SW51/AyniBackend)
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
@@ -358,10 +358,12 @@ Network:
 ### 5.2.3. Sprint 3
 #### 5.2.3.1. Sprint Planning 3.
 
+El Sprint #3 tiene como fecha de inicio el 10/10/2023 y como meta plantea resolver los errores de la primera versión del frontend y adicionar más vistas para lograr una neuva versión que abarque todas las funcionalidades planteadas por el equipo de desarrollo. Además, desarrollar la primera versión de backend para que la aplicación funcione correctamente.
+
 | Sprint # | 3 | 
 | - | - | 
 | **Sprint Planning Background** | - |
-| Date | 2023 - 10 - 20 |
+| Date | 2023 - 10 - 15 |
 | Time | 19:00 PM |
 | Location | Virtual via Google Meet |
 | Prepared By | Gonzales Carrión, Jorge Enrique |
@@ -374,6 +376,11 @@ Network:
 | Sprint 3 - Story Points | La suma de los Story Points de los User Sotires que se atenderá es (33)|
 
 #### 5.2.3.2. Sprint Backlog 3.
+
+En el tercer Sprint Backlog, el equipo completó el frontend, actualizó la landing page para que se pueda redirigir a la aplicación web con el botón call-to-action, y desarrolló una primera versión de backend según reglas de negocio definidas. La herramienta utilizada para manejar las tareas de los miembros del equipo fue Trello. Esta herramienta permitió que se pueda dividir todas las user stories y technical stories en tareas. El objetivo principal del sprint es implementar nueva versión de frontend y las principales technical stories referidas al backend.
+
+Link Trello: (https://trello.com/invite/b/afgi3Iby/ATTIb455d07068fc39cdfde8bf1f2eec39d2600FE94F/ayni)
+
 
 <table><tr><th valign="top">Sprint 3</th><th colspan="7" valign="top">Implementar nueva versión de frontend y las principales technical stories referidas al backend</th></tr>
 <tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
@@ -398,6 +405,8 @@ Network:
 
 #### 5.2.3.3. Development Evidence for Sprint Review.
 
+Como parte de las evidencias del sprint review, se demuestran mediante una tabla. Como el sprint #3 abarca adiciones y corecciones dentro del frontend, asimismo, desarrollo de la primera versión de backend, se muestran los commits de ambos repositorios.
+
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 | - | - | - | - | - | - |
 | AyniFrontend | feature/orders | dcf13e6 | feat: Added route for orders and updated JSON file | - | 13/10/2023  |
@@ -415,6 +424,44 @@ Network:
 | AyniFrontend | feature/purchases | 53bcb24 | feat: Added purchase card content | - | 18/10/2023 |
 | AyniFrontend | feature/purchases | 5ffc8ac | feat: Added purchases main content component | - | 18/10/2023 |
 | AyniFrontend | feature/purchases | cc82f5c | feat: Added Progress Bar Module and fixed problems | - | 21/10/2023 |
+| AyniBackend | feature/users | 6a85870 | feat(authentication): Added domain objects | - | 28/10/2023 |
+| AyniBackend | feature/users | ca21d8c | feat(authentication): Added web security configuration, repositories and command & query | - | 28/10/2023 |
+| AyniBackend | feature/users | 073f611 | feat(authentication): Added resources and transform classes | - | 28/10/2023 |
+| AyniBackend | feature/users | b960e12 | feat(authentication): Added authcontroller | - | 28/10/2023 |
+| AyniBackend | feature/users | d94e6dc | feat: Added database & JPA configurations and APP properties for JWT auth | - | 28/10/2023 |
+| AyniBackend | feature/transactions | 6edc2d8b | feat(transaction): add Transaction entity with fields and methods | - | 30/10/2023 |
+| AyniBackend | feature/transactions | 1927ae5 | feat(transaction): update Transaction entity with fields and methods | - | 30/10/2023 |
+| AyniBackend | feature/transactions | a80590c | feat(transaction): add Transaction query and command | - | 30/10/2023 |
+| AyniBackend | feature/transactions | a8e766a | feat(transaction): add Transaction service for query and command | - | 30/10/2023 |
+| AyniBackend | feature/transactions | 1dcb815 | chore(transaction): Create TransactionRepository for JPA persistence | - | 30/10/2023 |
+| AyniBackend | feature/transactions | a16b95a | feat(transaction): Create resource classes for transaction handling | - | 30/10/2023 |
+| AyniBackend | feature/transactions | a169446 | feat(transaction): Add resource-to-entity and entity-to-resource assemblers | - | 30/10/2023 |
+| AyniBackend | feature/transactions | 0c1d0c9 | feat(transaction): Implement TransactionController for managing financial transactions | - | 30/10/2023 |
+| AyniBackend | feature/transactions | 54e8934 | chore(entity): Remove some entities | - | 30/10/2023 |
+| AyniBackend | feature/orders | 7796efb | update orders | - | 01/11/2023 |
+| AyniBackend | feature/crops | 7a92d41 | feat: Added open api dependency | - | 01/11/2023 |
+| AyniBackend | feature/crops | 7ea4f82 | feat: Added crop aggregate | - | 01/11/2023 |
+| AyniBackend | feature/crops | d74fcc3 | feat: Added crop queries | - | 01/11/2023 |
+| AyniBackend | feature/crops | 4efa20e | feat: Added crop services | - | 01/11/2023 |
+| AyniBackend | feature/crops | 1ce4ed4 | feat: Added crop services implementation | - | 01/11/2023 |
+| AyniBackend | feature/crops | 7af3698 | feat: Added crop create command | - | 01/11/2023 |
+| AyniBackend | feature/crops | 0c773fb | feat: Added crop repository | - | 01/11/2023 |
+| AyniBackend | feature/crops | 44f2644 | feat: Added crop resources | - | 01/11/2023 |
+| AyniBackend | feature/crops | 1955870 | feat: Added crop resources assembler | - | 01/11/2023 |
+| AyniBackend | feature/crops | 779e24a | feat: Added crop controller | - | 01/11/2023 |
+| AyniBackend | feature/products | 8d0f3ed | feat: Added product entity | - | 01/11/2023 |
+| AyniBackend | feature/products | 58cfde9 | feat: Added product commands and queries | - | 01/11/2023 |
+| AyniBackend | feature/products | 4a282b5 | feat: Added product services | - | 01/11/2023 |
+| AyniBackend | feature/products | 4a282b5 | feat: Added product services | - | 01/11/2023 |
+| AyniBackend | feature/products | 0b34fd4 | feat: Added product service implementation | - | 01/11/2023 |
+| AyniBackend | feature/products | 5d94a97 | feat: Added product repository | - | 01/11/2023 |
+| AyniBackend | feature/products | c65a389 | feat: Added product resource | - | 01/11/2023 |
+| AyniBackend | feature/products | 2a61994 | feat: Added product resource assembler | - | 01/11/2023 |
+| AyniBackend | feature/products | 5724216 | feat: Added product controller | - | 01/11/2023 |
+
+
+
+
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 
@@ -425,26 +472,63 @@ Network:
 | acceptance-test-opensource  | main | d5abf52 | Acceptance_test_14.feature | - | 22/10/2023 |
 | acceptance-test-opensource  | main | 25f8bb8 | Acceptance_test_15.feature | - | 22/10/2023 |
 | acceptance-test-opensource  | main | 340fa4d | Acceptance_test_16.feature | - | 22/10/2023 |
-| acceptance-test-opensource  | main | 42ef576 | Acceptance_test_17.feature | - | 22/10/2023 |
-| acceptance-test-opensource  | main | 8bd179d | Acceptance_test_18.feature | - | 22/10/2023 |
-| acceptance-test-opensource  | main | 2e7324e | Acceptance_test_19.feature | - | 22/10/2023 |
-| acceptance-test-opensource  | main | f53c5ff | Acceptance_test_20.feature | - | 22/10/2023 |
-| acceptance-test-opensource  | main | d068d9e | Acceptance_test_21.feature | - | 22/10/2023 |
-| acceptance-test-opensource  | main | 98e9c8f | Acceptance_test_22.feature | - | 22/10/2023 |
-| acceptance-test-opensource  | main | 4c36856 | Acceptance_test_23.feature | - | 22/10/2023 |
-| acceptance-test-opensource  | main | 040368c | Acceptance_test_24.feature | - | 22/10/2023 |
+| acceptance-test-opensource  | main | 1c70628 | Acceptance_test_17.feature | - | 01/11/2023 |
+| acceptance-test-opensource  | main | aab5abd | Acceptance_test_18.feature | - | 01/10/2023 |
+| acceptance-test-opensource  | main | 4dc7e8b | Acceptance_test_19.feature | - | 01/10/2023 |
+| acceptance-test-opensource  | main | aee165b | Acceptance_test_20.feature | - | 01/10/2023 |
+| acceptance-test-opensource  | main | e57f04a | Acceptance_test_21.feature | - | 01/10/2023 |
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 
-El producto del desarrollo del presente sprint, está reflejado en el siguiente video, donde se muestra todo lo logrado en este sprint. A continuación el link del video:
+En el sprint 3 se alcanzó a desarrollar una primera versión del backend y una nueva de frontend de la aplicación web "Ayni". Por lo tanto, se muestran nuevas vistas relevantes a funcionalidades importantes. A continuación se muestran algunas evidencias:
 
+- HU-06:
+  
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/3bab4b52-6a29-480c-8172-42245f49463b)
+
+- HU-05:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/9ebdc7fd-69af-41b0-9b6c-4347d239cd30)
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/76ced74a-ecb3-4f64-8064-e2872ff9687f)
+
+- HU-09:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/cd616c7b-51b5-40a4-b53a-bd61fd5bb75a)
+
+- HU-12:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/2b42778c-0c00-4de5-9b3c-9c41768c395f)
+
+
+
+El producto del desarrollo del presente sprint, está reflejado en el siguiente video, donde se muestra todo lo logrado en este sprint. A continuación el link del video:
 
 
 Link del video: () 
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
+En esta sección, se documentará los endpoints de Web Services, en este sprint se logró abarcar gran parte de los endpoints planteados para la aplicación. Sin embargo, todavía queda adicionar más metodos de regla de negocio. Con respecto a la documentación, se usó OpenApi para documentar la interacción de los usuarios con los controllers  El link del repositorio de WebServices: (https://github.com/upc-pre-202302-GreatMinds-SW51/AyniBackend).
 
+Commits relacionados con documentación:
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| - | - | - | - | - | - |
+| AyniBackend | feature/crops | 7a92d41 | feat: Added open api dependency | - | 01/11/2023 |
+
+| Acciones | Endpoint | Detalles | Enlace |
+| - | - | - | - | 
+| | /signin| Como ruta default tenemos esta, que a la vez es la pantalla de inicio de sesión | |
+| | /signup | En esta ruta se muestra la pantalla de registro de usuario | |
+| | /select-rol  | En este endpoint se muestra la pantalla relacionada a la selección de roles | |
+| | /finance  | En este endpoint se muestra la pantalla relacionada la vista previa de costos y ganancias del tipo usuario agricultor | |
+| | /costs  | En este endpoint se muestra la pantalla relacionada la vista a detalle de los costos generados del tipo usuario agricultor | |
+| | /bills  | En este endpoint se muestra la pantalla relacionada la vista a detalle de las ganancias generados del tipo usuario agricultor | |
+| | /products  | En este endpoint se muestra la pantalla relacionada la vista previa de los productos del del tipo usuario agricultor | |
+| | /product-details  | En este endpoint se muestra la pantalla relacionada la vista a detalle de un producto seleccionado del tipo usuario agricultor | |
+| | /farmer-home  | En este endpoint se muestra lo correspondiente a funcionalidades para el rol de agricultor | |
+| | /merchant-home  | En este endpoint se muestra lo correspondiente a funcionalidades para el rol de comerciante | |
+| | /sales  | Este endpoint corresponde al procedimiento de compra de pedido del tipo de usuario comerciante | |
 
 
 
@@ -474,9 +558,16 @@ Y pasamos la carpeta que se encuentra dentro de la carpeta dist generada en nues
 
 De esta manera el avance del Sprint 3 queda desplegado:
 
-Link de nueva versión de Landing Page: (https://ayni-landing-page.netlify.app/)
+Link de nueva versión de Landing Page: (https://ayni-landingpage.netlify.app/)
 
 Link de nueva versión de frontend: (https://ayni-frontend-open.netlify.app/signin)
+
+Para el despliegue del backend se usó Railway, primero se creó un servicio para hostear la base de datos:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/2a81fc01-e9c9-4635-977d-b3fd157e6149)
+
+
+
 
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
@@ -908,7 +999,7 @@ Por último, se agregó una sección con el Video About The Product dentro del l
 
 - Se desarrollo la primera version de Web Services, donde como principal base tenemos la logica de negocio orientada al producto solucion, se implementaron operaciones de features de mantenimiento, sin embargo, se planificaron en algunos features incluir logica de negocio. Por otro lado, la implementacion fue un poco complicada, debido a que se tenia que usar dependencias e inyecciones.
 
-  
+
 # Referencias
 
 COMEXPERU (2020). PROBLEMAS DEL SECTOR AGRÍCOLA EXPLICARÍAN LOS MENORES INGRESOS DE LOS PRODUCTORES - Sociedad de Comercio Exterior del Perú. Recuperado de https://www.comexperu.org.pe/articulo/problemas-del-sector-agricola-explicarian-los-menores-ingresos-de-los-productores

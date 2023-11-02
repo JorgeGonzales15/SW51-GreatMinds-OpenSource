@@ -201,7 +201,7 @@ En esta sección se mostrará el desarrollo visual del Landing Page. Para ello, 
 ![wireframe landing1](https://user-images.githubusercontent.com/104078975/265294362-cf7b8b7d-a3c6-4886-a961-17ebea4f9f2f.png) 
 
 
-Link: [Figma](https://www.figma.com/file/YR4NseDMnYS8ke5dmqMcdY/Desktop-landing-page-wireframes-(Copy)?type=design&node-id=0%3A1&mode=design&t=yZiv29XpOE5ltkCs-1)
+Link: (https://www.figma.com/file/YR4NseDMnYS8ke5dmqMcdY/Desktop-landing-page-wireframes-(Copy)?type=design&node-id=0%3A1&mode=design&t=yZiv29XpOE5ltkCs-1)
 
 ### 4.3.2. Landing Page Mock-up.
 
@@ -237,10 +237,6 @@ Finalmente, aquí es un vistazo general a los mockups y wireframes:
 **Pantallas relacionadas a la planfiicación de cultivos:**
 ![wireframe cultivo](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/26aff367-713e-47af-ac40-941afd604609)
 
----
-
-**Pantallas relacionas a la gestión de insumos:**
-![wireframe insumos](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/ed379d33-7bc0-45dc-8499-875fbf9802a4)
 
 ---
 
@@ -268,7 +264,7 @@ Finalmente, aquí es un vistazo general a los mockups y wireframes:
 
 En esta sección, se presentan los wireflows de la aplicación guiándose de las historias de usuario en la herramienta LucidChart.
 
-Link de Lucidchar: [Wireflows LucidChart](https://lucid.app/lucidchart/aa72d3cf-f994-4a82-9ad8-044f3b9fc331/edit?viewport_loc=676%2C-2242%2C15341%2C7356%2C0_0&invitationId=inv_0da86b32-9131-4d2a-9317-1d95207a50e7)
+Link de Lucidchar: (https://lucid.app/lucidchart/aa72d3cf-f994-4a82-9ad8-044f3b9fc331/edit?viewport_loc=676%2C-2242%2C15341%2C7356%2C0_0&invitationId=inv_0da86b32-9131-4d2a-9317-1d95207a50e7)
 
 **Usar Goal:** Como usuario, quiero poder registrarme en la aplicación para acceder a las funcionalidades disponibles.
 
@@ -303,16 +299,6 @@ Link de Lucidchar: [Wireflows LucidChart](https://lucid.app/lucidchart/aa72d3cf-
 
 ![wireflow 3 ld](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/3ac1f604-0b0e-4ff7-95d6-a74cc3888d63)
 
----
-
-**User Goal:** Como agricultor, quiero llevar un registro de los insumos agrícolas utilizados para analizarlo y tomar decisiones de acuerdo a ello.
-
-**Task Flow:**
-- Primero se tiene que seleccionar un producto
-- Luego el usuario da click al botón de “Insumos”
-- Le aparecerá la pantalla de los insumos usados ya registrados en el producto
-
-![wireflow 4 ld](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/92807fa0-63cd-4cd3-aff6-173f1af75702)
 
 ---
 
@@ -407,11 +393,6 @@ En esta sección, se presenta el diseño viusal y de interacción en formato de 
 
 ---
 
-**Pantallas relacionas a la gestión de insumos:**
-![mockup insumos y detalle de producto](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/275a6282-c9df-451a-ba40-29be05ea4545)
-
----
-
 **Pantallas relacionadas a la atención de pedidos:**
 ![mockup atencios de pedidos](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/f19367a9-de9f-447a-9fce-55cd1fac4b12)
 
@@ -437,19 +418,7 @@ En esta sección, se presenta el diseño viusal y de interacción en formato de 
 
 En esta sección, se presentaran los User Flows, donde se mostrarán las rutas Happy y Unhappy que los usuarios pueden tener al momento de usar la aplicación web. Cabe resaltar que los Happy Paths están represetnadas con flechas en color verde y los Unhappy con flechas de color rojo. Se utilizó la herramienta LucidChart.
 
-Link de Lucidchart:[UserFlow Lucidchart](https://lucid.app/lucidchart/edcb2519-faf5-4a02-8d32-e782a99ffa7f/edit?viewport_loc=-781%2C342%2C12102%2C5535%2C0_0&invitationId=inv_78155e1b-bf61-45ea-9bb8-16f59f2af020)
-
-
-**User Goal:** Registrar los insumos agrícolas utilizados en un cultivo
-
-**Task Flow:**
-- Primero se tiene que seleccionar un producto
-- Luego el usuario da click al botón de “Insumos”
-- Le aparecerá la pantalla de los insumos usados ya registrados en el producto
-- Si el usuario desea editar los insumos puede hacerlo mediante inputs
-- Finalmente se le mostrará una pantalla de guardado o una pantalla de eliminación de cultivo si así lo quiere (Unhapy Path)
-
-![userflow1 ld](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/8a65fbfa-9e2b-4f4d-9a15-8a4947ab97cb)
+Link de Lucidchart:(https://lucid.app/lucidchart/edcb2519-faf5-4a02-8d32-e782a99ffa7f/edit?viewport_loc=-781%2C342%2C12102%2C5535%2C0_0&invitationId=inv_78155e1b-bf61-45ea-9bb8-16f59f2af020)
 
 ---
 
@@ -539,9 +508,9 @@ Procuramos que la aplicación web posea una cantidad de secciones a todo momento
 La información presentada se separa por partes, de tal manera que el usuario encuentre lo que desee. Esto se evidencia en los detalles al seleccionar un cultivo.
 
 ![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/d1677ee0-a6ce-494b-b406-d804be366f70)
-Link de video: [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EX4ZpWMosmZPs7NUF4TaAA8BsIw_pJptxIo8rk014lsGKg?e=1m2JAk)
+Link de video: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EX4ZpWMosmZPs7NUF4TaAA8BsIw_pJptxIo8rk014lsGKg?e=1m2JAk)
 
-Link del prototipo: [Figma](https://www.figma.com/proto/tniolYyFGnxJ4QF4BLTZt8/Angular-Material-(Material-3-Design-Component-Figma-Library-For-Angular)-(Community)?type=design&node-id=563-11136&t=zMDrjfTjeys89byq-0&scaling=min-zoom&page-id=6%3A2) 
+Link del prototipo: (https://www.figma.com/proto/tniolYyFGnxJ4QF4BLTZt8/Angular-Material-(Material-3-Design-Component-Figma-Library-For-Angular)-(Community)?type=design&node-id=563-11136&t=zMDrjfTjeys89byq-0&scaling=min-zoom&page-id=6%3A2) 
 ![prototype](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/970fa7d2-d4cd-4890-881a-b485773e922f)
 
 ## 4.6. Domain-Driven Software Architecture.
@@ -581,7 +550,7 @@ En esta sección, se presentarán los diagramas de clases, en las cuales se repr
 
 ![Diagrama de clase](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/421d4185-8842-4a52-a824-c5e57c1ed9ee)
 
-Link del diagrama de clases: [Lucidchart](https://lucid.app/lucidchart/da673808-9900-4ced-8184-01abaa761b59/edit?view_items=CDxqUGDDEZN7&invitationId=inv_b067fe97-c812-4a2d-93cc-f2436025b5db)
+Link del diagrama de clases: (https://lucid.app/lucidchart/da673808-9900-4ced-8184-01abaa761b59/edit?view_items=CDxqUGDDEZN7&invitationId=inv_b067fe97-c812-4a2d-93cc-f2436025b5db)
 
 ### 4.7.2. Class Dictionary.
 
@@ -609,6 +578,8 @@ En esta sección, se definirán las tablas y relaciones necesarias para almacena
 
 En esta sección, se presentará el diagrama de la base de datos, que muestra la estructura y las relaciones entre las tablas. 
 
-![Ayni-2023-09-20_20-58](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/1b9bc309-9286-4b29-9ef8-cbbc110e1223)
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/7c4917ea-57e4-439e-8f6d-d87ec0374362)
 
-Link para visualizar el diagrama de base de datos: [Vertabelo](https://my.vertabelo.com/doc/lh2wueyLIyZXQviphxQgyZACCtfJVtKs)
+
+
+Link para visualizar el diagrama de base de datos: (https://my.vertabelo.com/doc/lh2wueyLIyZXQviphxQgyZACCtfJVtKs)

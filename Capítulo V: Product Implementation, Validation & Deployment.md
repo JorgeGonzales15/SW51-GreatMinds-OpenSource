@@ -518,17 +518,19 @@ Commits relacionados con documentación:
 
 | Acciones | Endpoint | Detalles | Enlace |
 | - | - | - | - | 
-| | /signin| Como ruta default tenemos esta, que a la vez es la pantalla de inicio de sesión | |
-| | /signup | En esta ruta se muestra la pantalla de registro de usuario | |
-| | /select-rol  | En este endpoint se muestra la pantalla relacionada a la selección de roles | |
-| | /finance  | En este endpoint se muestra la pantalla relacionada la vista previa de costos y ganancias del tipo usuario agricultor | |
-| | /costs  | En este endpoint se muestra la pantalla relacionada la vista a detalle de los costos generados del tipo usuario agricultor | |
-| | /bills  | En este endpoint se muestra la pantalla relacionada la vista a detalle de las ganancias generados del tipo usuario agricultor | |
-| | /products  | En este endpoint se muestra la pantalla relacionada la vista previa de los productos del del tipo usuario agricultor | |
-| | /product-details  | En este endpoint se muestra la pantalla relacionada la vista a detalle de un producto seleccionado del tipo usuario agricultor | |
-| | /farmer-home  | En este endpoint se muestra lo correspondiente a funcionalidades para el rol de agricultor | |
-| | /merchant-home  | En este endpoint se muestra lo correspondiente a funcionalidades para el rol de comerciante | |
-| | /sales  | Este endpoint corresponde al procedimiento de compra de pedido del tipo de usuario comerciante | |
+| POST y GET | /signin | En este endpoint se puede iniciar sesión y obtener sus datos | |
+| POST | /signup | En este endpoint se puede crear el usuario  | |
+| POST | /transactions  | En este endpoint se puede realizar el registro de una transacción, de tipo costo o gasto, de igual manera obtenerlos, actualizarlos y borrarlos| |
+| GET | /transactions  | En este endpoint se puede realizar la obtención de un registro de costo o ganancia | |
+| UPDATE | /transactions  | En este endpoint se puede realizar la actualización de una transacción de tipo costo o gasto | |
+| DELETE | /transactions  | En este endpoint se puede realizar la eliminación de una transacción, de tipo costo o gasto | |
+| POST | /products  | En este endpoint se puede utilizar para registrar un producto | |
+| GET | /products  | En este endpoint se puede utilizar para obtener un producto | |
+| POST | /crops  | En este endpoint se puede utilizar para registrar un cultivo | |
+| GET | /crops  | En este endpoint se puede utilizar para obtener un cultivo | |
+| POST | /orders  | En este endpoint se puede utilizar para registrar una orden | |
+| GET | /orders  | En este endpoint se puede utilizar para obtener una orden | |
+
 
 
 

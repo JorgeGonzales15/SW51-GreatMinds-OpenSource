@@ -578,7 +578,8 @@ En esta sección, se definirán las tablas y relaciones necesarias para almacena
 
 En esta sección, se presentará el diagrama de la base de datos, que muestra la estructura y las relaciones entre las tablas. 
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/ee4f6bb4-2732-452b-a074-a3b98807c4c3)
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/7c4917ea-57e4-439e-8f6d-d87ec0374362)
+
 
 
 Link para visualizar el diagrama de base de datos: (https://my.vertabelo.com/doc/lh2wueyLIyZXQviphxQgyZACCtfJVtKs)

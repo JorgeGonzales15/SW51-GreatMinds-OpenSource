@@ -45,8 +45,12 @@ Octubre del 2023
 | 2.13 | 25/09/2023 | Zarate Castro, Jose Daniel | Se realizó la explicación paso a paso del proceso de deployment de lo avanzado en el Sprint 2 |
 | 2.14 | 25/09/2023 | Espejo Macuri, Paolo Andre | Se documentaron los comits realizados y correciones del documento |
 | 3.1 | 23/10/2023 | Espejo Macuri, Paolo Andre | Se documentaron los comits realizados e implementacion de nueva version de web applications |
-| 3.2 | 23/10/2023 | Zarate Castro, Jose Daniel | Se documentaron los comits realizados |
-| 3.3 | 23/10/2023 | Miguel Huaman | Se actualizo el punto Source Code Management y se documentarion commits realizados |
+| 3.2 | 23/10/2023 | Zarate Castro, Jose Daniel | Se documentaron los registros de entrevistas de validación |
+| 3.3 | 23/10/2023 | Zarate Castro, Jose Daniel | Se documentaron los comits realizados |
+| 3.4 | 23/10/2023 | Miguel Huaman | Se actualizo el punto Source Code Management y se documentarion commits realizados |
+| 3.5 | 02/11/2023 | Tatiana Paucar | Se documento el proceso de despliegue para el backend |
+| 3.6 | 02/11/2023 | Jorge Gonzales | Se documentó el uso de documentación OpenApi para el backend, se realizó los videos de evidencia de ejecución y se registraron loscommits realizados |
+| 3.7 | 02/11/2023 | Jorge Gonzales | Se realizó la evaluación según heurísticas |
 ---
 # Project Report Collaboration Insights
 
@@ -72,6 +76,21 @@ Para la elaboración del informe se realizaron actividades tales como:
 - Realizar los puntos correspondientes al Sprint 2, tales como: Development Evidece, Testing Suite Evidence, Execution Evidence, Service Documentacion Evidence, Software Deployment Evidence y Team Collaboration Insights
 
 ![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/b9064105-f970-460b-9483-bdd02a6b5041)
+
+TB2: Se han desarrollado las actividades correspondientes para la entrega TB2 en el siguiente repositorio de Github dentro de la organización del equipo:
+Link de repositorio Github: (https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource).
+
+Para la elaboración del informe se realizaron actividades tales como:
+-Corregir las observaciones brindadas, tales como: corregir el diagrama de base de datos, corregir la nomenclatura
+de los archivos, corregir nomenclatura de componentes del frontend, corregir tablas de user stories.
+- Planificar el alcance y objetivo del Sprint 3
+- Realizar el sprint backlog 3 para lograr el objetivo de implementar una nueva versión de frontend y una
+primera versión de backend
+- Realizar los puntos correspondientes al Sprint 3, tales como: Development Evidece, Testing Suite Evidence,
+Execution Evidence, Software Deployment Evidence y Team Collaboration Insights
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/046b1fe7-1325-4e69-a014-9cbe9dfe6d24)
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/5f94b5fe-2250-4884-bbba-2dad784949fc)
 
 
 ---

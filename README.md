@@ -70,7 +70,9 @@ Para la elaboración del informe se realizaron actividades tales como:
 - Realizar el sprint backlog 2 para lograr el objetivo de implementar frontend
 - Organizar el repositorio del informe por branches de capítulos
 - Realizar los puntos correspondientes al Sprint 2, tales como: Development Evidece, Testing Suite Evidence, Execution Evidence, Service Documentacion Evidence, Software Deployment Evidence y Team Collaboration Insights
-- 
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/b9064105-f970-460b-9483-bdd02a6b5041)
+
 
 ---
 # Contenido 

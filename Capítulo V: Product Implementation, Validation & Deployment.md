@@ -293,13 +293,7 @@ Link del video: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_up
 
 | Endpoint | Detalles |
 | - | - | 
-| /signin| Como ruta default tenemos esta, que a la vez es la pantalla de inicio de sesión | 
-| /signup | En esta ruta se muestra la pantalla de registro de usuario | 
-| /finance  | En este endpoint se muestra la pantalla relacionada la vista previa de costos y ganancias del tipo usuario agricultor | 
-| /costs  | En este endpoint se muestra la pantalla relacionada la vista a detalle de los costos generados del tipo usuario agricultor | 
-| /bills  | En este endpoint se muestra la pantalla relacionada la vista a detalle de las ganancias generados del tipo usuario agricultor | 
-| /products  | En este endpoint se muestra la pantalla relacionada la vista previa de los productos del del tipo usuario agricultor | 
-| /sales  | Este endpoint corresponde al procedimiento de compra de pedido del tipo de usuario comerciante |
+
 
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.

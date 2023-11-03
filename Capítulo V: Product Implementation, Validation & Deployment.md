@@ -293,7 +293,13 @@ Link del video: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_up
 
 | Endpoint | Detalles |
 | - | - | 
-
+| /signin| Como ruta default tenemos esta, que a la vez es la pantalla de inicio de sesión | 
+| /signup | En esta ruta se muestra la pantalla de registro de usuario | 
+| /finance  | En este endpoint se muestra la pantalla relacionada la vista previa de costos y ganancias del tipo usuario agricultor | 
+| /costs  | En este endpoint se muestra la pantalla relacionada la vista a detalle de los costos generados del tipo usuario agricultor | 
+| /bills  | En este endpoint se muestra la pantalla relacionada la vista a detalle de las ganancias generados del tipo usuario agricultor | 
+| /products  | En este endpoint se muestra la pantalla relacionada la vista previa de los productos del del tipo usuario agricultor | 
+| /sales  | Este endpoint corresponde al procedimiento de compra de pedido del tipo de usuario comerciante |
 
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
@@ -488,8 +494,8 @@ En el sprint 3 se alcanzó a desarrollar una primera versión del backend y una 
 
 - Backend: 
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/1e5c5cb7-4daf-4d00-ad9b-0ab776d1124a)
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/f53d5a38-10a6-4de4-bd72-50addf84b6e2)
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/e29952bf-8363-4881-a1d9-3376d20e8700)
+
 
 
 
@@ -520,24 +526,29 @@ Commits relacionados con documentación:
 | GET | /api/v1/transactions/{transationId}  | En este endpoint se puede realizar la obtención de un registros de costos o ganancias por id | http://localhost:8080/swagger-ui/index.html#/Transactions/getTransactionById | transactionId: 1 |
 | PUT | /api/v1/transactions/{transationId}  | En este endpoint se puede realizar la actualización de una transacción de tipo costo o gasto | http://localhost:8080/swagger-ui/index.html#/Transactions/updateTransaction | transaction Id: 1 // "costName": "gasolina", "description": "3 galones de gasolina", "type": "costo", "price": 500, "quantity": 3|
 | DELETE | /api/v1/transactions/{transationId}  | En este endpoint se puede realizar la eliminación de una transacción, de tipo costo o gasto | http://localhost:8080/swagger-ui/index.html#/Transactions/deleteTransaction | transactionId: 1 |
-| POST | api/v1//products  | En este endpoint se puede utilizar para registrar un producto | http://localhost:8080/swagger-ui/index.html#/Product/createProduct |   "name": "Cultivo fresco de manzana", "description": "Manzanas frescas", "distance": "12", "depth": "5 centimetros", "weather": "19 centigrados", "groundType": "buena caldad", "season": "verano", "imageUrl": "string" |
-| GET | api/v1/products  | En este endpoint se puede utilizar para obtener todos los productos | http://localhost:8080/swagger-ui/index.html#/Product/getAllProducts | - |
-| GET | api/v1/products/{productId}  | En este endpoint se puede utilizar para obtener todos un producto por Id | http://localhost:8080/swagger-ui/index.html#/Product/getProductById | productId: 1 |
+| POST | api/v1//products  | En este endpoint se puede utilizar para registrar un producto | http://localhost:8080/swagger-ui/index.html#/Products/createProduct |   "name": "Cultivo fresco de manzana", "description": "Manzanas frescas", "distance": "12", "depth": "5 centimetros", "weather": "19 centigrados", "groundType": "buena caldad", "season": "verano", "imageUrl": "string" |
+| GET | api/v1/products  | En este endpoint se puede utilizar para obtener todos los productos | http://localhost:8080/swagger-ui/index.html#/Products/getAllProducts | - |
+| GET | api/v1/products/{productId}  | En este endpoint se puede utilizar para obtener todos un producto por Id | http://localhost:8080/swagger-ui/index.html#/Products/getProductById | productId: 1 |
+| GET | api/v1/products/{productId}/crops | En este endpoint se puede utilizar para obtener todos los cultivos del producto | http://localhost:8080/swagger-ui/index.html#/Products/getAllCropsByProductId | productId: 1 |
+| GET | api/v1/products/{productId}/crops/{cropId} | En este endpoint se puede utilizar para obtener un cultivo en especifico de un producto en especifico | http://localhost:8080/swagger-ui/index.html#/Products/getCropByProductIdAndCropId | productId: 1, cropId: 1 |
 | POST | api/v1/crops  | En este endpoint se puede utilizar para registrar un cultivo | http://localhost:8080/swagger-ui/index.html#/Crops/createCrop | "name": "Papa", "undergrowth": true, "fertilize": true, "oxygenate": true, "line": true, "hole": true, "watered": 32, "pestCleaning": 1,"productId": 1 |
 | GET | api/v1/crops  | En este endpoint se puede utilizar para obtener todos los cultivo | http://localhost:8080/swagger-ui/index.html#/Crops/getAllCrops | - |
 | GET | api/v1/crops/{cropId}  | En este endpoint se puede utilizar para un cultivo por Id | http://localhost:8080/swagger-ui/index.html#/Crops/getCropById | cropId: 1 |
-| GET | api/v1/crops/{cropId}   | En este endpoint se puede utilizar para obtener todos los cultivos por id un producto | http://localhost:8080/swagger-ui/index.html#/Crops/getAllCropsByProductId | productId: 1 |
 | POST | api/v1/orders  | En este endpoint se puede utilizar para registrar una orden | http://localhost:8080/swagger-ui/index.html#/Orders/createOrder |   "description": "Papayas muy buenas", "totalPrice": 15, "quantity": 3, "paymentMethod": "mastercard", "status": "On Package", "saleId": 1, "orderedBy": 1, "acceptedBy": 2, "orderedDate": "2023-11-02T13:16:02.798Z" |
+| POST | api/v1/orders/{orderId}/qualifications  | En este endpoint se puede utilizar para cambiar el estado de una orden | http://localhost:8080/swagger-ui/index.html#/Orders/qualifyOrder | orderId: 1 |
+| POST | api/v1/orders/{orderId}/finalizations | En este endpoint se puede utilizar para cambiar el estado de una orden | http://localhost:8080/swagger-ui/index.html#/Orders/finalizeOrder | orderId: 1 |
 | GET | api/v1/orders  | En este endpoint se puede utilizar para obtener todas las ordenes | http://localhost:8080/swagger-ui/index.html#/Orders/getAllOrders | - |
 | GET | api/v1/orders/{orderId}  | En este endpoint se puede utilizar para obtener una orden por Id | http://localhost:8080/swagger-ui/index.html#/Orders/getOrderById | orderId: 1 |
-| PUT | api/v1/orders/orders/{orderId}  | En este endpoint se puede actualizar una orden por Id | http://localhost:8080/swagger-ui/index.html#/Orders/updateOrder | orderId: 1 |
-| DELETE | api/v1/orders/orders/{orderId}  | En este endpoint se puede eliminar una orden por Id | http://localhost:8080/swagger-ui/index.html#/Orders/deleteOrder | orderId: 1 |
+| PUT | api/v1/orders{orderId}  | En este endpoint se puede actualizar una orden por Id | http://localhost:8080/swagger-ui/index.html#/Orders/updateOrder | orderId: 1 |
+| DELETE | api/v1/orders/{orderId}  | En este endpoint se puede eliminar una orden por Id | http://localhost:8080/swagger-ui/index.html#/Orders/deleteOrder | orderId: 1 |
 | POST | api/v1/sales  | En este endpoint se puede utilizar para registrar una venta | http://localhost:8080/swagger-ui/index.html#/Sales/createSale |   "name": "Venta de camote", "description": "buena venta", "unitPrice": 24, "quantity": 2, "imageUrl": "string" |
 | GET | api/v1/sales  | En este endpoint se puede utilizar para obtener todas las ventas | http://localhost:8080/swagger-ui/index.html#/Sales/getAllSales | - |
 | GET | api/v1/sales/{salesId}  | En este endpoint se puede utilizar para obtener una venta por Id | http://localhost:8080/swagger-ui/index.html#/Sales/getSaleById | saleId: 1 |
+| GET | api/v1/sales/{salesId}/orders/{orderId}  | En este endpoint se puede utilizar para obtener una venta por Id en especifico vinculado a una orden por Id en especifico | http://localhost:8080/swagger-ui/index.html#/Sales/getOrderBySaleIdAndOrderId | saleId: 1, orderId: 1 |
 
 Capturas de documentación: 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/6478df6e-33a3-4f45-81cb-0e16214e5ed3)
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/dd20e070-e5d9-4e4e-adcb-94844cc0306b)
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/93a12b61-d9e7-4413-a26b-7e208aea0188)
 
 Registro de una venta:
 ![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/a3ecaf14-280f-4dd7-9cb0-98561748f0e9)
@@ -572,28 +583,32 @@ Y pasamos la carpeta que se encuentra dentro de la carpeta dist generada en nues
 
 De esta manera el avance del Sprint 3 queda desplegado
 
-Link de nueva versión de Landing Page: (https://ayni-landingpage.netlify.app/)
+Link de nueva versión de Landing Page: (https://ayni-landing-page-en.netlify.app/)
 
 Link de nueva versión de frontend: (https://ayni-frontend-open.netlify.app/signin)
 
 Para el despliegue del backend, se usó primero Railway, donde se creó un servicio para el hosting de la base de datos:
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/7d19ef8d-0430-402c-995e-9426115fc817)
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/83204b39-8d10-4e59-9f5c-0a93f5f6042e)
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/3d0be4c7-c43c-4118-ab22-2a12326cb21c)
 
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/4118ae25-dd34-42e0-be46-9c81ed28d9b4)
 
+Link de base de datos: (https://railway.app/project/781f3e33-7e5c-4896-9802-32175ce32926/service/a7820df3-55e5-46f5-89b7-053902225105)
 
 Luego, se usó Zeaburn para el despliegue del backend, primero se crea un espacio de trabajo:
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/4ea95978-1a3f-4204-bdd8-1b21940aa217)
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/48b2b442-60c2-4faf-8fed-bcf35910e529)
 
 
 Posteriormente, se vincula con Github para realizar el deploy y este es el resultado:
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/f727dda6-8891-4a2f-adf8-0f55bbba22c0)
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/47892f19-bc27-4d30-8f42-60166e22f131)
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/28dc074c-36d6-439b-9d1e-6c2cc072a6d4)
+
+Como se puede observar, cada vez que se haga un push a la rama master, se realiza un build nuevo para que se apliquen los cambios realizados en el proyecto.
 
 Sin embargo, solo da 7 días de prueba para hacer deploys. Por lo tanto, se buscarán mejores alternativas
-
 
 El link es el siguiente: (https://ayni-api.zeabur.app/swagger-ui/index.html#)
 
@@ -1068,4 +1083,4 @@ Video Exposición TB1: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211
 
 Video Exposición TP: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EQPFOrKXordClMuFSr95AvYBJKBR76KKGIh9Pg8WC_oJ-A?e=WruxwM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
-Video Exposición TB2: ()
+Video Exposición TB2: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EROzWQRXTARGlUSPcyhqVnEBMrkDVFGmj15QiT0DEUbJIA?e=S2DCNl&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)

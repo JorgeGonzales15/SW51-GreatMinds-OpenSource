@@ -1,4 +1,4 @@
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/2a15e307-881a-42c7-bf62-184a7a80a494)# Capítulo V: Product Implementation, Validation & Deployment
+# Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1. Software Configuration Management.
 ### 5.1.1. Software Development Environment Configuration.
@@ -634,28 +634,6 @@ Repositorio Backend:
 
 ![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/b29afa00-db8c-4f78-991b-07587fcfa604)
 ![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/5afc0c44-1d04-4a28-af8a-87417f2ee600)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ### 5.2.4. Sprint 4
 #### 5.2.4.1. Sprint Planning 4.

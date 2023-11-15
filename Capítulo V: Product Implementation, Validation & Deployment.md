@@ -635,6 +635,233 @@ Repositorio Backend:
 ![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/b29afa00-db8c-4f78-991b-07587fcfa604)
 ![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/5afc0c44-1d04-4a28-af8a-87417f2ee600)
 
+### 5.2.4. Sprint 4
+#### 5.2.4.1. Sprint Planning 4.
+
+El Sprint #4 tiene como fecha de inicio el 11/11/2023 y como meta plantea resolver los errores de la versión previa del frontend y adicionar más vistas para lograr versión final que abarque todas las funcionalidades planteadas por el equipo de desarrollo. Además, desarrollar la versión final del backend para que sea utlizada como servicio en el frontend.
+
+| Sprint # | 4 | 
+| - | - | 
+| **Sprint Planning Background** | - |
+| Date | 2023 - 11 - 11 |
+| Time | 17:00 PM |
+| Location | Virtual via Google Meet |
+| Prepared By | Gonzales Carrión, Jorge Enrique |
+| Attendees (to planning meeting) | Gonzales Carrión, Jorge Enrique / Espejo Macuri, Paolo Andre / Paucar De La Cruz, Tatiana Medalith / Huaman Cataño, Miguel Ángel / Zarate Castro, Jose Daniel |
+| Sprint 3 - Review Summary | Se realizó un avance de Web Applications |
+| Sprint 3 - Retrospective Summary  |       |
+| **Sprint Goal & User Stories** | - |
+| Sprint 4 Goal| Implementar versión final y levantar observaciones de web applications y versión final de web services acorde con las Technical Stories y User Stories planteadas |
+| Sprint 4 - Velocity | El equipo puede aceptar XX Story Points|
+| Sprint 4 - Story Points | La suma de los Story Points de los User Sotires que se atenderá es (XX)|
+
+#### 5.2.4.2. Sprint Backlog 4.
+
+En el cuarto Sprint Backlog, el equipo complementó el frontend con correcciones en las vistas, asimismo se implementó el backend como servicio para que sea usado con el frontend. Con respecto al backend, se realizaron algunas reglas de negocio para que sean utilizadas en las funciones del frontend de una mejor manera. El objetivo principal del sprint es implementar versión final y levantar observaciones de web applications y versión final de web services acorde con las Technical Stories y User Stories planteadas.
+
+Link Trello: (https://trello.com/invite/b/afgi3Iby/ATTIb455d07068fc39cdfde8bf1f2eec39d2600FE94F/ayni)
+
+<table><tr><th valign="top">Sprint 4</th><th colspan="7" valign="top">Implementar versión final y levantar observaciones de web applications y versión final de web services acorde con las Technical Stories y User Stories planteadas</th></tr>
+<tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
+<tr><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Description</td><td valign="top">Estimation (Hours)</td><td valign="top">Assigned To</td><td valign="top"><p>Status </p><p>(To-do / </p><p>InProcess / </p><p>To Review / </p><p>Done)</p></td></tr>
+<tr><td rowspan="2" valign="top">TS-06</td><td rowspan="2" valign="top"><p>Seguridad y encriptación para la creación de usuarios</p><p></p><p></p></td><td valign="top">T01.1</td><td valign="top">Implementar JWT para la autorización de usuarios</td><td valign="top">Desarrollar métodos y clases para handlers y tokens para la implementación de JWT</td><td valign="top">4</td><td valign="top">Jose Zarate</td><td valign="top">Done</td></tr>
+<tr><td valign="top">T02.2</td><td valign="top">Documentar características de autorización Bearer</td><td valign="top">Realizar la documentación relacionada a Bearer </td><td valign="top">1</td><td valign="top">Jose Zarate</td><td valign="top">Done</td></tr>
+<tr><td valign="top">TS-07</td><td valign="top"><p>Obtención de un cultivo en específico </p><p></p></td><td valign="top">T07.1</td><td valign="top">Implementar la obtención de un cultivo en específico</td><td valign="top">Desarrollar la obtención de un cultivo en específico por su id con la operación RESTful API (GET)  </td><td valign="top">4</td><td valign="top">Miguel Huaman</td><td valign="top">Done</td></tr>
+<tr><td rowspan="3" valign="top">TS-08</td><td rowspan="3" valign="top">Obtención de productos en venta relacionados a cultivos</td><td valign="top">T08.1</td><td valign="top">Implementar la obtención de un producto en específico</td><td valign="top">Desarrollar la obtención de un producto en específico por su id con la operación RESTful API (GET) </td><td valign="top">4</td><td valign="top">Jorge Gonzales</td><td valign="top">Done</td></tr>
+<tr><td valign="top">T08.2</td><td valign="top">Implementar la obtención de todos los cultivos ligados a un producto</td><td valign="top">Desarrollar la obtención de todos los cultivos ligados a un producto en específico por su id con la operación RESTful API (GET) </td><td valign="top">4</td><td valign="top">Jorge Gonzales</td><td valign="top">Done</td></tr>
+<tr><td valign="top">T08.3</td><td valign="top">Implementar la obtención de un cultivo en específico de un producto en específico</td><td valign="top">Desarrollar la obtención de un cultivo en específico por su id de un producto ligado a él en específico por su id con la operación RESTful API (GET) </td><td valign="top">4</td><td valign="top">Jorge Gonzales</td><td valign="top">Done</td></tr>
+<tr><td rowspan="3" valign="top">TS-09</td><td rowspan="2" valign="top"><p>Obtención y creación de ventas (sales)</p><p></p><p></p></td><td valign="top">T09.1</td><td valign="top">Implementar la obtención y creación de ventas</td><td valign="top">Desarrollar la obtención de ventas dentro del backend con la operación RESTful API (GET) y la creación de una venta con  la operación RESTful API (POST) </td><td valign="top">4</td><td valign="top">Tatiana Paucar</td><td valign="top">Done</td></tr>
+<tr><td valign="top">T09.2</td><td valign="top">Implementar la obtención de una venta en específico</td><td valign="top">Desarrollar la obtención de una venta en específico por su id con la operación RESTful API (GET) </td><td valign="top">4</td><td valign="top">Tatiana Paucar</td><td valign="top"></td></tr>
+<tr><td valign="top"></td><td valign="top">T09.3</td><td valign="top">Implementar la obtención de una venta en específico ligada a una orden en específico</td><td valign="top">Desarrollar la obtención de un venta en específico por su id de una orden ligada a él en específico por su id con la operación RESTful API (GET) </td><td valign="top">4</td><td valign="top">Paolo Espejo</td><td valign="top"></td></tr>
+<tr><td valign="top">TS-10</td><td valign="top">Cambiar estado de órdenes (orders) </td><td valign="top">T10.1</td><td valign="top"><p>Implementar el cambio de estado de una orden</p><p></p></td><td valign="top">Desarrollar el cambio de estado de una orden mediante la operación RESTful API (POST)  </td><td valign="top">4</td><td valign="top">Paolo Espejo</td><td valign="top">Done</td></tr>
+</table>
+
+
+
+#### 5.2.4.3. Development Evidence for Sprint Review.
+
+Como parte de las evidencias del sprint review, se demuestran mediante una tabla. Como el sprint #4 abarca adiciones y corecciones dentro del frontend, asimismo, desarrollo de la primera versión de backend, se muestran los commits de ambos repositorios.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| - | - | - | - | - | - |
+| AyniBackend | develop | 5e5529c | fix: Fixed transaction problems | - | 14/11/2023  |
+| AyniBackend | develop | 7b2aff1 | feat: Add cors configuration | - | 14/11/2023  |
+
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| - | - | - | - | - | - |
+| acceptance-test-opensource  | main | ad869c8 | Acceptance_test_22.feature | - | 15/11/2023 |
+| acceptance-test-opensource  | main | 8e17033 | Acceptance_test_23.feature | - | 15/11/2023 |
+| acceptance-test-opensource  | main | 7e16f90 | Acceptance_test_24.feature | - | 15/11/2023 |
+| acceptance-test-opensource  | main | 957a19c | Acceptance_test_25.feature | - | 15/11/2023 |
+| acceptance-test-opensource  | main | 4b6432d | Acceptance_test_26.feature | - | 15/11/2023 |
+
+
+
+#### 5.2.4.5. Execution Evidence for Sprint Review.
+
+En el sprint 3 se alcanzó a desarrollar una primera versión del backend y una nueva de frontend de la aplicación web "Ayni". Por lo tanto, se muestran nuevas vistas relevantes a funcionalidades importantes. A continuación se muestran algunas evidencias:
+
+- TS-06:
+  
+
+
+- TS-07:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/69d06e11-3634-47f8-9479-ead709f314c2)
+
+
+- TS-08:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/b2e5eb34-f6fe-4f3d-8b41-5836b3367999)
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/36d9ab49-f2ce-43a3-93b8-e98db5bc7bd9)
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/46bb3517-a3ae-4ed2-a663-8e25deade98d)
+
+
+- TS-09:
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/df6bfca4-b30c-43a9-af1d-5dffa217c141)
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/823e468e-3b94-4a2e-946a-9618b9dc266d)
+
+
+
+- TS-10: 
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/3288f819-a037-4cf6-85a1-c6c3bcbc352c)
+
+
+El producto del desarrollo del presente sprint, está reflejado en el siguiente video, donde se muestra todo lo logrado en este sprint. A continuación el link del video:
+
+
+Link del video: () 
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+En esta sección, se documentará los endpoints de Web Services, en este sprint se logró abarcar gran parte de los endpoints planteados para la aplicación. Sin embargo, todavía queda adicionar más metodos de regla de negocio. Con respecto a la documentación, se usó OpenApi para documentar la interacción de los usuarios con los controllers  El link del repositorio de WebServices: (https://github.com/upc-pre-202302-GreatMinds-SW51/AyniBackend).
+
+Commits relacionados con documentación:
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| - | - | - | - | - | - |
+| AyniBackend | develop | 7b2aff1 | feat: Add cors configuration | - | 14/11/2023  |
+
+| Acciones | Endpoint | Detalles | Enlace | Datos de muestra |
+| - | - | - | - | - |
+| POST | /api/auth/signin | En este endpoint se puede iniciar sesión | http://localhost:8080/swagger-ui/index.html#/Authentication/authenticateUser | username: "Juan" <br> "password: contrasenia" |
+| POST | /api/auth/signup | En este endpoint se puede crear el usuario  | http://localhost:8080/swagger-ui/index.html#/Authentication/registerUser | username: "Juan" <br> email: "Juan@gmail.com" <br> "role: farmer" <br> "password: contrasenia" |
+| POST | /api/v1/transactions  | En este endpoint se puede realizar el registro de una transacción, de tipo costo o gasto, de igual manera obtenerlos, actualizarlos y borrarlos| http://localhost:8080/swagger-ui/index.html#/Transactions/createTransaction |  "costName": "gasolina", "description": "3 galones de gasolina", "type": "costo", "price": 500, "quantity": 3 |
+| GET | /api/v1/transactions  | En este endpoint se puede realizar la obtención de todos los registros de costos o ganancias | http://localhost:8080/swagger-ui/index.html#/Transactions/getAllTransactions | - |
+| GET | /api/v1/transactions/{transationId}  | En este endpoint se puede realizar la obtención de un registros de costos o ganancias por id | http://localhost:8080/swagger-ui/index.html#/Transactions/getTransactionById | transactionId: 1 |
+| PUT | /api/v1/transactions/{transationId}  | En este endpoint se puede realizar la actualización de una transacción de tipo costo o gasto | http://localhost:8080/swagger-ui/index.html#/Transactions/updateTransaction | transaction Id: 1 // "costName": "gasolina", "description": "3 galones de gasolina", "type": "costo", "price": 500, "quantity": 3|
+| DELETE | /api/v1/transactions/{transationId}  | En este endpoint se puede realizar la eliminación de una transacción, de tipo costo o gasto | http://localhost:8080/swagger-ui/index.html#/Transactions/deleteTransaction | transactionId: 1 |
+| POST | api/v1//products  | En este endpoint se puede utilizar para registrar un producto | http://localhost:8080/swagger-ui/index.html#/Products/createProduct |   "name": "Cultivo fresco de manzana", "description": "Manzanas frescas", "distance": "12", "depth": "5 centimetros", "weather": "19 centigrados", "groundType": "buena caldad", "season": "verano", "imageUrl": "string" |
+| GET | api/v1/products  | En este endpoint se puede utilizar para obtener todos los productos | http://localhost:8080/swagger-ui/index.html#/Products/getAllProducts | - |
+| GET | api/v1/products/{productId}  | En este endpoint se puede utilizar para obtener todos un producto por Id | http://localhost:8080/swagger-ui/index.html#/Products/getProductById | productId: 1 |
+| GET | api/v1/products/{productId}/crops | En este endpoint se puede utilizar para obtener todos los cultivos del producto | http://localhost:8080/swagger-ui/index.html#/Products/getAllCropsByProductId | productId: 1 |
+| GET | api/v1/products/{productId}/crops/{cropId} | En este endpoint se puede utilizar para obtener un cultivo en especifico de un producto en especifico | http://localhost:8080/swagger-ui/index.html#/Products/getCropByProductIdAndCropId | productId: 1, cropId: 1 |
+| POST | api/v1/crops  | En este endpoint se puede utilizar para registrar un cultivo | http://localhost:8080/swagger-ui/index.html#/Crops/createCrop | "name": "Papa", "undergrowth": true, "fertilize": true, "oxygenate": true, "line": true, "hole": true, "watered": 32, "pestCleaning": 1,"productId": 1 |
+| GET | api/v1/crops  | En este endpoint se puede utilizar para obtener todos los cultivo | http://localhost:8080/swagger-ui/index.html#/Crops/getAllCrops | - |
+| GET | api/v1/crops/{cropId}  | En este endpoint se puede utilizar para un cultivo por Id | http://localhost:8080/swagger-ui/index.html#/Crops/getCropById | cropId: 1 |
+| POST | api/v1/orders  | En este endpoint se puede utilizar para registrar una orden | http://localhost:8080/swagger-ui/index.html#/Orders/createOrder |   "description": "Papayas muy buenas", "totalPrice": 15, "quantity": 3, "paymentMethod": "mastercard", "status": "On Package", "saleId": 1, "orderedBy": 1, "acceptedBy": 2, "orderedDate": "2023-11-02T13:16:02.798Z" |
+| POST | api/v1/orders/{orderId}/qualifications  | En este endpoint se puede utilizar para cambiar el estado de una orden | http://localhost:8080/swagger-ui/index.html#/Orders/qualifyOrder | orderId: 1 |
+| POST | api/v1/orders/{orderId}/finalizations | En este endpoint se puede utilizar para cambiar el estado de una orden | http://localhost:8080/swagger-ui/index.html#/Orders/finalizeOrder | orderId: 1 |
+| GET | api/v1/orders  | En este endpoint se puede utilizar para obtener todas las ordenes | http://localhost:8080/swagger-ui/index.html#/Orders/getAllOrders | - |
+| GET | api/v1/orders/{orderId}  | En este endpoint se puede utilizar para obtener una orden por Id | http://localhost:8080/swagger-ui/index.html#/Orders/getOrderById | orderId: 1 |
+| PUT | api/v1/orders{orderId}  | En este endpoint se puede actualizar una orden por Id | http://localhost:8080/swagger-ui/index.html#/Orders/updateOrder | orderId: 1 |
+| DELETE | api/v1/orders/{orderId}  | En este endpoint se puede eliminar una orden por Id | http://localhost:8080/swagger-ui/index.html#/Orders/deleteOrder | orderId: 1 |
+| POST | api/v1/sales  | En este endpoint se puede utilizar para registrar una venta | http://localhost:8080/swagger-ui/index.html#/Sales/createSale |   "name": "Venta de camote", "description": "buena venta", "unitPrice": 24, "quantity": 2, "imageUrl": "string" |
+| GET | api/v1/sales  | En este endpoint se puede utilizar para obtener todas las ventas | http://localhost:8080/swagger-ui/index.html#/Sales/getAllSales | - |
+| GET | api/v1/sales/{salesId}  | En este endpoint se puede utilizar para obtener una venta por Id | http://localhost:8080/swagger-ui/index.html#/Sales/getSaleById | saleId: 1 |
+| GET | api/v1/sales/{salesId}/orders/{orderId}  | En este endpoint se puede utilizar para obtener una venta por Id en especifico vinculado a una orden por Id en especifico | http://localhost:8080/swagger-ui/index.html#/Sales/getOrderBySaleIdAndOrderId | saleId: 1, orderId: 1 |
+
+Capturas de documentación: 
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/dd20e070-e5d9-4e4e-adcb-94844cc0306b)
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/93a12b61-d9e7-4413-a26b-7e208aea0188)
+
+Registro de una venta:
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/a3ecaf14-280f-4dd7-9cb0-98561748f0e9)
+
+Registro de un producto:
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/a6ed3e07-37e0-4e2c-af54-88fc2f1ba8ce)
+
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+Para realizar el proceso de despliegue de lo desarrollado en el Sprint 3 con respecto a la neuva versión de Web Applications, a continuación se detallará paso a paso el procedimiento del despliegue:
+
+Ejecutamos el comando “ng build” en la ruta de nuestro projecto en angular, nos muestra lo siguiente:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/59453bc9-dac5-4ec4-9a75-7e5d6a3bced2)
+
+Se genera la carpeta dist:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/de612d0d-f8dc-4880-a0bf-fde275b96aa8)
+
+Se añade el archivo “netlify.toml” para que netlify pueda entender las rutas de nuestro programa en angular con la siguiente configuración:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/85f73994-0a0a-44f3-ad92-46e12988be51)
+
+Por último, vamos a netlify a la sección que nos permite desplegar nuestra aplicación manualmente para evitar errores:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/0a454407-893f-4f98-87e0-0148f38ccf95)
+
+Y pasamos la carpeta que se encuentra dentro de la carpeta dist generada en nuestro proyecto:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/7b51f439-869e-42b1-89fb-b72966cd289d)
+
+De esta manera el avance del Sprint 3 queda desplegado
+
+Link de nueva versión de Landing Page: (https://ayni-landing-page-en.netlify.app/)
+
+Link de nueva versión de frontend: ()
+
+Para el despliegue del backend, se usó primero Railway, donde se creó un servicio para el hosting de la base de datos:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/3d0be4c7-c43c-4118-ab22-2a12326cb21c)
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/4118ae25-dd34-42e0-be46-9c81ed28d9b4)
+
+Link de base de datos: (https://railway.app/project/781f3e33-7e5c-4896-9802-32175ce32926/service/a7820df3-55e5-46f5-89b7-053902225105)
+
+Luego, se usó Zeaburn para el despliegue del backend, primero se crea un espacio de trabajo:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/48b2b442-60c2-4faf-8fed-bcf35910e529)
+
+
+Posteriormente, se vincula con Github para realizar el deploy y este es el resultado:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/47892f19-bc27-4d30-8f42-60166e22f131)
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/28dc074c-36d6-439b-9d1e-6c2cc072a6d4)
+
+Como se puede observar, cada vez que se haga un push a la rama master, se realiza un build nuevo para que se apliquen los cambios realizados en el proyecto.
+
+Sin embargo, solo da 7 días de prueba para hacer deploys. Por lo tanto, se buscarán mejores alternativas
+
+El link es el siguiente: (https://ayni-api.zeabur.app/swagger-ui/index.html#)
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+
+| Alumno | Actividad | 
+| - | - | 
+| Espejo Macuri, Paolo Andre  | | 
+| Gonzales Carrión, Jorge Enrique  |  | 
+| Huaman Catano, Miguel Angel  |  | 
+| Paucar De La Cruz, Tatiana Medalith  |  | 
+| Zarate Castro, Jose Daniel  |  | 
+
+
+Repositorio Frontend:
+
+
+
+
+Repositorio Backend:
+
+
+
+
 
 
 

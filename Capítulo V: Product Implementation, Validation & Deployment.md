@@ -686,6 +686,22 @@ Como parte de las evidencias del sprint review, se demuestran mediante una tabla
 | - | - | - | - | - | - |
 | AyniBackend | develop | 5e5529c | fix: Fixed transaction problems | - | 14/11/2023  |
 | AyniBackend | develop | 7b2aff1 | feat: Add cors configuration | - | 14/11/2023  |
+| AyniBackend | feature/authentication | ed54352 | feat(User): Added lombok getters and setters, and attributes createdAt and updatedAt. | - | 17/11/2023  |
+| AyniBackend | feature/authentication | e9d92c1 | feat(User): Added new functions to commands and query services contract and implementations | - | 17/11/2023  |
+| AyniBackend | feature/authentication | e9d92c1 | feat(UserCommand): Added new commands. | - | 17/11/2023  |
+| AyniBackend | feature/authentication | 874ba03 | feat(authentication): Added token service. | - | 17/11/2023  |
+| AyniBackend | feature/authentication | f3d625a | feat(authentication): Added UserDetailsImpl ,UserDetailsServiceImpl, TokenBuilder and UnauthorizedHandler | - | 17/11/2023  |
+| AyniBackend | feature/authentication | f3f73ec | feat(User): Added Users Controller and updated resources and transform objects. | - | 17/11/2023  |
+| AyniBackend | feature/authentication | 925f27e | feat: Update Open Api Config and Dependencies. | - | 17/11/2023  |
+| AyniBackend | feature/authentication | 2ac959d | feat: Update application.properties | - | 17/11/2023  |
+| AyniBackend | feature/authentication | 22392d0 | chore: Deleting deprecated files. | - | 17/11/2023  |
+| AyniBackend | feature/authentication | fe059a6 | fix: fix auth controller and update database | - | 17/11/2023  |
+| AyniBackend | feature/authentication | 97338a5 | fix: fix cors | - | 18/11/2023  |
+| AyniBackend | feature/authentication | d2bb162 | fix(auth): Update WebSecurityConfiguration.java | - | 18/11/2023  |
+| AyniBackend | develop | 905bb4a | feat: Added rate entity | - | 18/11/2023  |
+| AyniBackend | develop | 7732dd2 | chore: Changed database | - | 18/11/2023  |
+
+
 
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review.
@@ -702,32 +718,43 @@ Como parte de las evidencias del sprint review, se demuestran mediante una tabla
 
 #### 5.2.4.5. Execution Evidence for Sprint Review.
 
-En el sprint 3 se alcanzó a desarrollar una primera versión del backend y una nueva de frontend de la aplicación web "Ayni". Por lo tanto, se muestran nuevas vistas relevantes a funcionalidades importantes. A continuación se muestran algunas evidencias:
+En el sprint 4 se alcanzó a desarrollar la ultima versión del backend y frontend de la aplicación web "Ayni". Por lo tanto, se muestran nuevas vistas y endpoints relevantes a funcionalidades. A continuación se muestran algunas evidencias:
 
-- TS-06:
-  
+- TS-06 (Seguriad y encriptación para la creación de usuarios)
 
+  Endpoints de authentication:
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/02b2bf20-3f5b-484e-bdff-9a59b35a0f78)
 
-- TS-07:
+  Creación de usuario:
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/d65fb185-ffa3-46e7-91d9-90555cd6303a)
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/899a31b5-921e-4cdb-a2dc-d7ceaea30e2c)
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/69d06e11-3634-47f8-9479-ead709f314c2)
-
-
-- TS-08:
-
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/b2e5eb34-f6fe-4f3d-8b41-5836b3367999)
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/36d9ab49-f2ce-43a3-93b8-e98db5bc7bd9)
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/46bb3517-a3ae-4ed2-a663-8e25deade98d)
+  Inicio de sesión de usuario:
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/870f9d75-d8a9-4e96-8efa-a7901ea34c89)
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/b18daecd-43cb-4bae-ac71-9d810d3be0ae)
 
 
-- TS-09:
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/df6bfca4-b30c-43a9-af1d-5dffa217c141)
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/823e468e-3b94-4a2e-946a-9618b9dc266d)
+- TS-07 (Obtención de un cultivo en específico):
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/7160e933-56bb-4e34-9bbb-b72c91dc0ede)
 
 
 
-- TS-10: 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/3288f819-a037-4cf6-85a1-c6c3bcbc352c)
+- TS-08 (Obtención de productos en venta relacionados a un cultivo):
+  ![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/995c193f-a42a-4460-9383-eb3c03ce806c)
+
+
+
+
+- TS-09 ( Obtención y creación de ventas (sales) )
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/36dc50f9-5cf9-48c8-8cfc-cf4d2c16ff75)
+
+
+
+
+- TS-10 (Cambiar de estado a las ordenes):
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/e85e2d44-990c-4bd5-8252-4b6c252e5951)
+
+
 
 
 El producto del desarrollo del presente sprint, está reflejado en el siguiente video, donde se muestra todo lo logrado en este sprint. A continuación el link del video:
@@ -744,11 +771,15 @@ Commits relacionados con documentación:
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 | - | - | - | - | - | - |
 | AyniBackend | develop | 7b2aff1 | feat: Add cors configuration | - | 14/11/2023  |
+| AyniBackend | feature/authentication | 925f27e | feat: Update Open Api Config and Dependencies. | - | 17/11/2023  |
+
 
 | Acciones | Endpoint | Detalles | Enlace | Datos de muestra |
 | - | - | - | - | - |
-| POST | /api/auth/signin | En este endpoint se puede iniciar sesión | http://localhost:8080/swagger-ui/index.html#/Authentication/authenticateUser | username: "Juan" <br> "password: contrasenia" |
-| POST | /api/auth/signup | En este endpoint se puede crear el usuario  | http://localhost:8080/swagger-ui/index.html#/Authentication/registerUser | username: "Juan" <br> email: "Juan@gmail.com" <br> "role: farmer" <br> "password: contrasenia" |
+| POST | /api/v1/auth/signin | En este endpoint se puede iniciar sesión | http://localhost:8080/swagger-ui/index.html#/Authentication/authenticateUser | username: "Juan" <br> "password: contrasenia" |
+| POST | /api/v1/auth/signup | En este endpoint se puede crear el usuario  | http://localhost:8080/swagger-ui/index.html#/Authentication/registerUser | username: "Juan" <br> email: "Juan@gmail.com" <br> "role: farmer" <br> "password: contrasenia" |
+| GET | /api/v1/users  | En este endpoint se puede realizar la obtención de todos los usuarios registrados | http://localhost:8080/swagger-ui/index.html#/Users/getAllUsers | - |
+| GET | /api/v1/users/{userId}  | En este endpoint se puede realizar la obtención de un usuario por id | http://localhost:8080/swagger-ui/index.html#/User/getUserById | userId: 1 |
 | POST | /api/v1/transactions  | En este endpoint se puede realizar el registro de una transacción, de tipo costo o gasto, de igual manera obtenerlos, actualizarlos y borrarlos| http://localhost:8080/swagger-ui/index.html#/Transactions/createTransaction |  "costName": "gasolina", "description": "3 galones de gasolina", "type": "costo", "price": 500, "quantity": 3 |
 | GET | /api/v1/transactions  | En este endpoint se puede realizar la obtención de todos los registros de costos o ganancias | http://localhost:8080/swagger-ui/index.html#/Transactions/getAllTransactions | - |
 | GET | /api/v1/transactions/{transationId}  | En este endpoint se puede realizar la obtención de un registros de costos o ganancias por id | http://localhost:8080/swagger-ui/index.html#/Transactions/getTransactionById | transactionId: 1 |
@@ -769,23 +800,25 @@ Commits relacionados con documentación:
 | GET | api/v1/orders/{orderId}  | En este endpoint se puede utilizar para obtener una orden por Id | http://localhost:8080/swagger-ui/index.html#/Orders/getOrderById | orderId: 1 |
 | PUT | api/v1/orders{orderId}  | En este endpoint se puede actualizar una orden por Id | http://localhost:8080/swagger-ui/index.html#/Orders/updateOrder | orderId: 1 |
 | DELETE | api/v1/orders/{orderId}  | En este endpoint se puede eliminar una orden por Id | http://localhost:8080/swagger-ui/index.html#/Orders/deleteOrder | orderId: 1 |
-| POST | api/v1/sales  | En este endpoint se puede utilizar para registrar una venta | http://localhost:8080/swagger-ui/index.html#/Sales/createSale |   "name": "Venta de camote", "description": "buena venta", "unitPrice": 24, "quantity": 2, "imageUrl": "string" |
+| POST | api/v1/sales  | En este endpoint se puede utilizar para registrar una venta | http://localhost:8080/swagger-ui/index.html#/Sales/createSale |   "name": "Venta de camote", "description": "buena venta", "unitPrice": 24, "quantity": 2, "imageUrl": "https://www.gob.mx/cms/uploads/article/main_image/20333/camote1.jpg" |
 | GET | api/v1/sales  | En este endpoint se puede utilizar para obtener todas las ventas | http://localhost:8080/swagger-ui/index.html#/Sales/getAllSales | - |
 | GET | api/v1/sales/{salesId}  | En este endpoint se puede utilizar para obtener una venta por Id | http://localhost:8080/swagger-ui/index.html#/Sales/getSaleById | saleId: 1 |
 | GET | api/v1/sales/{salesId}/orders/{orderId}  | En este endpoint se puede utilizar para obtener una venta por Id en especifico vinculado a una orden por Id en especifico | http://localhost:8080/swagger-ui/index.html#/Sales/getOrderBySaleIdAndOrderId | saleId: 1, orderId: 1 |
+| POST | api/v1/rates  | En este endpoint se puede utilizar para crear una calificación de un producto | http://localhost:8080/swagger-ui/index.html#/Rates/createRate | "rate": 5, "date": "25-09-2023","productId": 1, "userId": 1 |
+| GET | api/v1/rates  | En este endpoint se puede utilizar para obtener todas las calificaciones | http://localhost:8080/swagger-ui/index.html#/Rates/getAllRates | - |
+| GET | api/v1/rates/{ratesId}  | En este endpoint se puede utilizar para obtener una calificación por Id | http://localhost:8080/swagger-ui/index.html#/Rates/getRateById | rateId: 1 |
 
 Capturas de documentación: 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/dd20e070-e5d9-4e4e-adcb-94844cc0306b)
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/93a12b61-d9e7-4413-a26b-7e208aea0188)
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/91069519-c04f-4f2d-b726-35df343fef84)
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/4487cdb6-f865-4de8-a58a-91570325cbde)
+
 
 Registro de una venta:
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/a3ecaf14-280f-4dd7-9cb0-98561748f0e9)
-
-Registro de un producto:
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/a6ed3e07-37e0-4e2c-af54-88fc2f1ba8ce)
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/732c89ca-b384-48b8-b39f-300464f482c7)
 
 
-#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review.
 
 Para realizar el proceso de despliegue de lo desarrollado en el Sprint 3 con respecto a la neuva versión de Web Applications, a continuación se detallará paso a paso el procedimiento del despliegue:
 
@@ -809,9 +842,9 @@ Y pasamos la carpeta que se encuentra dentro de la carpeta dist generada en nues
 
 ![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/7b51f439-869e-42b1-89fb-b72966cd289d)
 
-De esta manera el avance del Sprint 3 queda desplegado
+De esta manera el avance del Sprint 4 queda desplegado
 
-Link de nueva versión de Landing Page: (https://ayni-landing-page-en.netlify.app/)
+Link de nueva versión de Landing Page: ()
 
 Link de nueva versión de frontend: ()
 
@@ -840,16 +873,16 @@ Sin embargo, solo da 7 días de prueba para hacer deploys. Por lo tanto, se busc
 
 El link es el siguiente: (https://ayni-api.zeabur.app/swagger-ui/index.html#)
 
-#### 5.2.3.8. Team Collaboration Insights during Sprint.
+#### 5.2.4.8. Team Collaboration Insights during Sprint.
 
 
 | Alumno | Actividad | 
 | - | - | 
-| Espejo Macuri, Paolo Andre  | | 
-| Gonzales Carrión, Jorge Enrique  |  | 
-| Huaman Catano, Miguel Angel  |  | 
-| Paucar De La Cruz, Tatiana Medalith  |  | 
-| Zarate Castro, Jose Daniel  |  | 
+| Espejo Macuri, Paolo Andre  | Desarrollo de frontend y backend | 
+| Gonzales Carrión, Jorge Enrique  | Desarrollo de frontend y backend | 
+| Huaman Catano, Miguel Angel  | Desarrollo de backend | 
+| Paucar De La Cruz, Tatiana Medalith  | Desarrollo de frontend y backend | 
+| Zarate Castro, Jose Daniel  | Desarrollo de frontend y backend | 
 
 
 Repositorio Frontend:
@@ -858,7 +891,9 @@ Repositorio Frontend:
 
 
 Repositorio Backend:
+A continuación mostramos todos los commits con respecto a la contribución del backend, dado que la mayoria de Technical Stories y User Stories fueron abordadas en la TB2, se muestran los commits realizados desde esa entrega adicionando con la entrega del TF.
 
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/9bad7d2a-710b-4f0c-9bf3-4dc812d16516)
 
 
 

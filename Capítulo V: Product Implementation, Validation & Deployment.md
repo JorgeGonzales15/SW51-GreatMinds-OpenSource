@@ -652,8 +652,8 @@ El Sprint #4 tiene como fecha de inicio el 11/11/2023 y como meta plantea resolv
 | Sprint 3 - Retrospective Summary  |       |
 | **Sprint Goal & User Stories** | - |
 | Sprint 4 Goal| Implementar versión final y levantar observaciones de web applications y versión final de web services acorde con las Technical Stories y User Stories planteadas |
-| Sprint 4 - Velocity | El equipo puede aceptar XX Story Points|
-| Sprint 4 - Story Points | La suma de los Story Points de los User Sotires que se atenderá es (XX)|
+| Sprint 4 - Velocity | El equipo puede aceptar 20 Story Points|
+| Sprint 4 - Story Points | La suma de los Story Points de los User Sotires que se atenderá es (19)|
 
 #### 5.2.4.2. Sprint Backlog 4.
 
@@ -686,6 +686,7 @@ Como parte de las evidencias del sprint review, se demuestran mediante una tabla
 | - | - | - | - | - | - |
 | AyniBackend | develop | 5e5529c | fix: Fixed transaction problems | - | 14/11/2023  |
 | AyniBackend | develop | 7b2aff1 | feat: Add cors configuration | - | 14/11/2023  |
+| AyniFrontend | develop | 41cc7fa | fix: Fixed errors | - | 14/11/2023  |
 | AyniBackend | feature/authentication | ed54352 | feat(User): Added lombok getters and setters, and attributes createdAt and updatedAt. | - | 17/11/2023  |
 | AyniBackend | feature/authentication | e9d92c1 | feat(User): Added new functions to commands and query services contract and implementations | - | 17/11/2023  |
 | AyniBackend | feature/authentication | e9d92c1 | feat(UserCommand): Added new commands. | - | 17/11/2023  |
@@ -696,11 +697,20 @@ Como parte de las evidencias del sprint review, se demuestran mediante una tabla
 | AyniBackend | feature/authentication | 2ac959d | feat: Update application.properties | - | 17/11/2023  |
 | AyniBackend | feature/authentication | 22392d0 | chore: Deleting deprecated files. | - | 17/11/2023  |
 | AyniBackend | feature/authentication | fe059a6 | fix: fix auth controller and update database | - | 17/11/2023  |
+| AyniFrontend | develop | 9daf1af | fix: Fixed errors | - | 17/11/2023  |
+| AyniFrontend | develop | d607713 | feat(auth): Added token storage. | - | 17/11/2023  |
+| AyniFrontend | develop | 6f18c55 | feat(auth): Added token storage. | - | 17/11/2023  |
+| AyniFrontend | develop | b551db9 | feat(auth): Added AuthInterceptor.ts | - | 17/11/2023  |
+| AyniFrontend | develop | 6b380dc | fix(services): Updated base path for services | - | 17/11/2023  |
+| AyniFrontend | develop | 01e2af4 | fix(farmer): Updated farmer and select-rol components. | - | 17/11/2023  |
+| AyniFrontend | develop | 77e7aa4 | fix(merchant): Updated merchant component | - | 17/11/2023  |
+| AyniFrontend | develop | e13d313 | fix(auth): Updated auth components. | - | 17/11/2023  |
+| AyniFrontend | develop | 8ffb07e | fix(services): Updated base path for services. | - | 17/11/2023  |
+| AyniFrontend | develop | 333a7bd | fix: fix bugs with services | - | 17/11/2023  |
 | AyniBackend | feature/authentication | 97338a5 | fix: fix cors | - | 18/11/2023  |
 | AyniBackend | feature/authentication | d2bb162 | fix(auth): Update WebSecurityConfiguration.java | - | 18/11/2023  |
 | AyniBackend | develop | 905bb4a | feat: Added rate entity | - | 18/11/2023  |
 | AyniBackend | develop | 7732dd2 | chore: Changed database | - | 18/11/2023  |
-
 
 
 
@@ -740,7 +750,7 @@ En el sprint 4 se alcanzó a desarrollar la ultima versión del backend y fronte
 
 
 - TS-08 (Obtención de productos en venta relacionados a un cultivo):
-  ![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/995c193f-a42a-4460-9383-eb3c03ce806c)
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/995c193f-a42a-4460-9383-eb3c03ce806c)
 
 
 
@@ -849,29 +859,25 @@ Link de nueva versión de Landing Page: ()
 Link de nueva versión de frontend: ()
 
 Para el despliegue del backend, se usó primero Railway, donde se creó un servicio para el hosting de la base de datos:
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/166c9673-a656-42d9-a15f-a7eaeda60b8f)
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/4fa26e5f-2493-44a5-a47b-f1999d2f9b5e)
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/3d0be4c7-c43c-4118-ab22-2a12326cb21c)
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/4118ae25-dd34-42e0-be46-9c81ed28d9b4)
-
-Link de base de datos: (https://railway.app/project/781f3e33-7e5c-4896-9802-32175ce32926/service/a7820df3-55e5-46f5-89b7-053902225105)
+Link de base de datos: (https://railway.app/project/fdae3739-fb24-4303-8569-441190ff133c)
 
 Luego, se usó Zeaburn para el despliegue del backend, primero se crea un espacio de trabajo:
-
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/48b2b442-60c2-4faf-8fed-bcf35910e529)
-
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/31a139f1-37cc-4f38-b28b-ab99cff2b1d0)
 
 Posteriormente, se vincula con Github para realizar el deploy y este es el resultado:
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/47892f19-bc27-4d30-8f42-60166e22f131)
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/2a2c9a97-5fa1-4cb6-ae81-a9f19dae0edc)
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/28dc074c-36d6-439b-9d1e-6c2cc072a6d4)
 
 Como se puede observar, cada vez que se haga un push a la rama master, se realiza un build nuevo para que se apliquen los cambios realizados en el proyecto.
 
 Sin embargo, solo da 7 días de prueba para hacer deploys. Por lo tanto, se buscarán mejores alternativas
 
-El link es el siguiente: (https://ayni-api.zeabur.app/swagger-ui/index.html#)
+El link es el siguiente: (https://ayni-api-test.zeabur.app/swagger-ui/index.html#)
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint.
 
@@ -894,9 +900,6 @@ Repositorio Backend:
 A continuación mostramos todos los commits con respecto a la contribución del backend, dado que la mayoria de Technical Stories y User Stories fueron abordadas en la TB2, se muestran los commits realizados desde esa entrega adicionando con la entrega del TF.
 
 ![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/9bad7d2a-710b-4f0c-9bf3-4dc812d16516)
-
-
-
 
 
 
@@ -1304,9 +1307,10 @@ A continuación, se mostrará el Video About the Product, donde se mostrará las
 
 Link: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/Echgms5rbepHnsyhy31ZYW8BSf-ggaZUfXAQpmJLpkg_3w?e=tazdiw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19) 
 
-Por último, se agregó una sección con el Video About The Product dentro del landing page:
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/a0a9708c-6fae-4642-9a18-880c1433a42e)
+Finalmente, se realizó una nueva versión del Video About The Product, donde se mostrará a totalidad las funcionalidades de la aplicación web como resultado del Sprint #4. A continuación el link del video:
+
+Link:
 
 
 # Conclusiones
@@ -1322,6 +1326,8 @@ Por último, se agregó una sección con el Video About The Product dentro del l
 - Se desarrollo una nueva version de Web Applications en base al Sprint presentado en la entrega TB2, corrigiendo y anadiendo features para una mejor experiencia de usuario y para una mejor conexion con los Web Services.
 
 - Se desarrollo la primera version de Web Services, donde como principal base tenemos la logica de negocio orientada al producto solucion, se implementaron operaciones de features de mantenimiento, sin embargo, se planificaron en algunos features incluir logica de negocio. Por otro lado, la implementacion fue un poco complicada, debido a que se tenia que usar dependencias e inyecciones.
+
+- En conclusión, el proyecto de desarrollo de la aplicación web, con un frontend en Angular y un backend en Java, implementado mediante metodologías ágiles, ha demostrado la eficacia de la colaboración dentro de un equipo multidisciplinario de desarrollo de software. La combinación de tecnologías modernas, enfoques ágiles y la diversidad de habilidades en el equipo permitió alcanzar los objetivos establecidos de manera eficiente. La aplicación resultante no solo cumple con los requisitos funcionales, sino que también refleja la adaptabilidad del equipo frente a los cambios y la capacidad para enfrentar desafíos de manera colaborativa. Este proyecto no solo ha mejorado nuestras habilidades técnicas, sino que también ha fortalecido la importancia de la comunicación, la flexibilidad y la iteración continua en el proceso de desarrollo de software. En resumen, la experiencia adquirida a lo largo de este proyecto destaca la efectividad de la combinación de tecnologías de vanguardia y metodologías ágiles en la creación exitosa de aplicaciones web robustas y funcionales.
 
 
 # Referencias

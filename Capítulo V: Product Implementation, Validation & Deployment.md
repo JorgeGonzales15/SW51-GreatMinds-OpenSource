@@ -1379,11 +1379,12 @@ A continuación, se mostrará el Video About the Team, donde se relata en voz en
 Link: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EbkzzmlLil1Mt0T0Xu1XmhkBoba7XcaDEOFrP2nIWuR3fA?e=K4sRnW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19) 
 
 
-Finalmente, se realizó una nueva versión del Video About The Team, donde se actualizará la retrospectiva con respecto al Sprint #4 y se adicionará el resumen de tareas del sprint #4. A continuación el link del video:
+Finalmente, se realizó una nueva versión del Video About The Team, donde se actualizará la retrospectiva con respecto al Sprint 4 y se adicionará el resumen de tareas del sprint 4. A continuación el link del video:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/bbb08973-97a1-4d8b-b39c-167d52eee3d0)
 
 
-
-Link: ()
+Link: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EeTNdVyXTh1Kra1Knyck_tIB7c1uBw6JMdB_sPRG8jF5og?e=yCIwHe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 # Conclusiones

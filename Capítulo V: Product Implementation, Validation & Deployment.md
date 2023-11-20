@@ -733,7 +733,8 @@ Como parte de las evidencias del sprint review, se demuestran mediante una tabla
 A continuación se muestra los features relacionados a las technical y user stories:
 
 Este feature está relacionado a la Technical Story #6
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/337639e9-e37c-4712-840b-588e63e4dc55)
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/89dd607d-beb5-43b7-935d-7d40230aa4bb)
+
 
 Este feature está relacionado a la Technical Story #7
 ![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/aff3290d-39c4-4e34-9a58-159cbb69e521)

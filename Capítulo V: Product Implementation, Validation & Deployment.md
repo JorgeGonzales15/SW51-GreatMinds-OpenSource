@@ -905,9 +905,9 @@ Y pasamos la carpeta que se encuentra dentro de la carpeta dist generada en nues
 
 De esta manera el avance del Sprint 4 queda desplegado
 
-Link de nueva versión de Landing Page: ()
+Link de nueva versión de Landing Page: (https://ayni-landing-page-es.netlify.app)
 
-Link de nueva versión de frontend: (https://ayni-web-app.netlify.app/)
+Link de nueva versión de frontend: (https://ayni-web-app.netlify.app)
 
 Para el despliegue del backend, se usó primero Railway, donde se creó un servicio para el hosting de la base de datos:
 ![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/166c9673-a656-42d9-a15f-a7eaeda60b8f)

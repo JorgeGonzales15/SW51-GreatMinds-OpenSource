@@ -606,6 +606,7 @@ Posteriormente, se vincula con Github para realizar el deploy y este es el resul
 
 ![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/28dc074c-36d6-439b-9d1e-6c2cc072a6d4)
 
+
 Como se puede observar, cada vez que se haga un push a la rama master, se realiza un build nuevo para que se apliquen los cambios realizados en el proyecto.
 
 Sin embargo, solo da 7 días de prueba para hacer deploys. Por lo tanto, se buscarán mejores alternativas
@@ -1432,3 +1433,4 @@ Video Exposición TF: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118
 Video About the Team (Sprint 4): https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EeTNdVyXTh1Kra1Knyck_tIB7c1uBw6JMdB_sPRG8jF5og?e=Q7MUjz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 Video About the product (Sprint 4): https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EQSk9OOAoklOpWKUBSAHzBgBr3601RYb6MocpL8xReV2WQ?e=QysXis&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+

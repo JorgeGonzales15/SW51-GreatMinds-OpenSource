@@ -711,7 +711,13 @@ Como parte de las evidencias del sprint review, se demuestran mediante una tabla
 | AyniBackend | feature/authentication | d2bb162 | fix(auth): Update WebSecurityConfiguration.java | - | 18/11/2023  |
 | AyniBackend | develop | 905bb4a | feat: Added rate entity | - | 18/11/2023  |
 | AyniBackend | develop | 7732dd2 | chore: Changed database | - | 18/11/2023  |
-
+| AyniBackend | develop | 79d9655 | chore: Added user controller | - | 19/11/2023  |
+| AyniFrontend | feature/rates_imp | 0c825ee | fix: Fixed bugs that affect the flow | - | 19/11/2023  |
+| AyniFrontend | feature/rates_imp | 373a109 | feat: Added external service implementation | - | 19/11/2023  |
+| AyniFrontend | feature/rates_imp | a1bafc6 | fix: fixed dialogs and content cards | - | 19/11/2023  |
+| AyniFrontend | feature/rates_imp | d6c76d8 | fix: fixed tags and stepper content | - | 19/11/2023  |
+| AyniFrontend | feature/rates_imp | 502081e | fix: Fixed bugs | - | 19/11/2023  |
+| AyniFrontend | feature/rates_imp | e1ac0db | fix: fixed tags | - | 19/11/2023  |
 
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review.
@@ -724,6 +730,50 @@ Como parte de las evidencias del sprint review, se demuestran mediante una tabla
 | acceptance-test-opensource  | main | 957a19c | Acceptance_test_25.feature | - | 15/11/2023 |
 | acceptance-test-opensource  | main | 4b6432d | Acceptance_test_26.feature | - | 15/11/2023 |
 
+A continuación se muestra los features relacionados a las technical y user stories:
+
+Este feature está relacionado a la Technical Story #6
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/337639e9-e37c-4712-840b-588e63e4dc55)
+
+Este feature está relacionado a la Technical Story #7
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/aff3290d-39c4-4e34-9a58-159cbb69e521)
+
+Este feature está relacionado a la Technical Story #8
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/4e25853d-1f40-4188-b01f-0ee02251b8ef)
+
+Este feature está relacionado a la Technical Story #9
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/9c700eab-0237-48fc-a51c-cfcbbae43329)
+
+Este feature está relacionado a la Technical Story #10
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/2b34b6bb-7ab5-48ec-bd6a-475e9c4b1747)
+
+
+A continuación se muestra los archivos .spec.ts creados del frontend usando Angular de componentes importantes: 
+
+
+Componente de ventas:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/9f78331a-4a4c-43b0-8352-b04d4036390c)
+
+Componente de compra de productos:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/7bb50a9f-6f39-4672-a1e5-d1dc975ad590)
+
+Componente de contenido de productos:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/8882b09d-6411-40c2-93e9-d38d42256227)
+
+Componente principal de tabla de finanzas:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/22829b8d-2b8e-4a81-aed8-23a1ab2c6745)
+
+Componente de calificaciones:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/50054528-8c90-49e7-b54f-f1b7d317202c)
+
+Modelo de cultivos:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/7ca3a953-0d8f-4ddf-ae49-176c42c2d17a)
 
 
 #### 5.2.4.5. Execution Evidence for Sprint Review.
@@ -856,7 +906,7 @@ De esta manera el avance del Sprint 4 queda desplegado
 
 Link de nueva versión de Landing Page: ()
 
-Link de nueva versión de frontend: ()
+Link de nueva versión de frontend: (https://ayni-web-app.netlify.app/)
 
 Para el despliegue del backend, se usó primero Railway, donde se creó un servicio para el hosting de la base de datos:
 ![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/166c9673-a656-42d9-a15f-a7eaeda60b8f)
@@ -899,10 +949,11 @@ Repositorio Frontend:
 
 
 Repositorio Backend:
-A continuación mostramos todos los commits con respecto a la contribución del backend, dado que la mayoria de Technical Stories y User Stories fueron abordadas en la TB2, se muestran los commits realizados desde esa entrega adicionando con la entrega del TF.
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/9bad7d2a-710b-4f0c-9bf3-4dc812d16516)
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/0c3ef582-d35a-45c0-a5f4-3fe701f6b592)
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/1927e291-6da9-493b-92ca-479b584cfdf8)
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/846d10cd-172c-4703-b370-f42a6ce325de)
+
 
 
 
@@ -1313,7 +1364,25 @@ Link: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/E
 
 Finalmente, se realizó una nueva versión del Video About The Product, donde se mostrará a totalidad las funcionalidades de la aplicación web como resultado del Sprint #4. A continuación el link del video:
 
-Link:
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/230db99a-26b0-45d5-9f22-39764eb77d27)
+
+Link: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EQSk9OOAoklOpWKUBSAHzBgBr3601RYb6MocpL8xReV2WQ?e=NhCrP8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+## 5.5. Video About-the-Team.
+
+A continuación, se mostrará el Video About the Team, donde se relata en voz en off la retrospectiva del grupo con respecto al ciclo de vida del proyecto de software realizado. Además, cada integrante del equipo de desarrollo resume sus tareas realizadas durante el ciclo de vida del proyecto de software. A continuación el link del video:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/04bc9c9f-3eb0-4711-9e49-b79341ce5a4c)
+
+
+Link: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EbkzzmlLil1Mt0T0Xu1XmhkBoba7XcaDEOFrP2nIWuR3fA?e=K4sRnW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19) 
+
+
+Finalmente, se realizó una nueva versión del Video About The Team, donde se actualizará la retrospectiva con respecto al Sprint #4 y se adicionará el resumen de tareas del sprint #4. A continuación el link del video:
+
+
+
+Link: ()
 
 
 # Conclusiones

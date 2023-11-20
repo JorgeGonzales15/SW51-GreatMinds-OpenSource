@@ -664,8 +664,8 @@ Link Trello: (https://trello.com/invite/b/afgi3Iby/ATTIb455d07068fc39cdfde8bf1f2
 <table><tr><th valign="top">Sprint 4</th><th colspan="7" valign="top">Implementar versión final y levantar observaciones de web applications y versión final de web services acorde con las Technical Stories y User Stories planteadas</th></tr>
 <tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
 <tr><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Description</td><td valign="top">Estimation (Hours)</td><td valign="top">Assigned To</td><td valign="top"><p>Status </p><p>(To-do / </p><p>InProcess / </p><p>To Review / </p><p>Done)</p></td></tr>
-<tr><td rowspan="2" valign="top">TS-06</td><td rowspan="2" valign="top"><p>Seguridad y encriptación para la creación de usuarios</p><p></p><p></p></td><td valign="top">T01.1</td><td valign="top">Implementar JWT para la autorización de usuarios</td><td valign="top">Desarrollar métodos y clases para handlers y tokens para la implementación de JWT</td><td valign="top">4</td><td valign="top">Jose Zarate</td><td valign="top">Done</td></tr>
-<tr><td valign="top">T02.2</td><td valign="top">Documentar características de autorización Bearer</td><td valign="top">Realizar la documentación relacionada a Bearer </td><td valign="top">1</td><td valign="top">Jose Zarate</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top">TS-06</td><td rowspan="2" valign="top"><p>Seguridad y encriptación para la creación de usuarios</p><p></p><p></p></td><td valign="top">T06.1</td><td valign="top">Implementar JWT para la autorización de usuarios</td><td valign="top">Desarrollar métodos y clases para handlers y tokens para la implementación de JWT</td><td valign="top">4</td><td valign="top">Jose Zarate</td><td valign="top">Done</td></tr>
+<tr><td valign="top">T06.2</td><td valign="top">Documentar características de autorización Bearer</td><td valign="top">Realizar la documentación relacionada a Bearer </td><td valign="top">1</td><td valign="top">Jose Zarate</td><td valign="top">Done</td></tr>
 <tr><td valign="top">TS-07</td><td valign="top"><p>Obtención de un cultivo en específico </p><p></p></td><td valign="top">T07.1</td><td valign="top">Implementar la obtención de un cultivo en específico</td><td valign="top">Desarrollar la obtención de un cultivo en específico por su id con la operación RESTful API (GET)  </td><td valign="top">4</td><td valign="top">Miguel Huaman</td><td valign="top">Done</td></tr>
 <tr><td rowspan="3" valign="top">TS-08</td><td rowspan="3" valign="top">Obtención de productos en venta relacionados a cultivos</td><td valign="top">T08.1</td><td valign="top">Implementar la obtención de un producto en específico</td><td valign="top">Desarrollar la obtención de un producto en específico por su id con la operación RESTful API (GET) </td><td valign="top">4</td><td valign="top">Jorge Gonzales</td><td valign="top">Done</td></tr>
 <tr><td valign="top">T08.2</td><td valign="top">Implementar la obtención de todos los cultivos ligados a un producto</td><td valign="top">Desarrollar la obtención de todos los cultivos ligados a un producto en específico por su id con la operación RESTful API (GET) </td><td valign="top">4</td><td valign="top">Jorge Gonzales</td><td valign="top">Done</td></tr>
@@ -770,7 +770,7 @@ En el sprint 4 se alcanzó a desarrollar la ultima versión del backend y fronte
 El producto del desarrollo del presente sprint, está reflejado en el siguiente video, donde se muestra todo lo logrado en este sprint. A continuación el link del video:
 
 
-Link del video: () 
+Link del video: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EfP2qBfYF0dBvyIwQjN_qAcBdRcTugJ0D6NK3T3k23VlXg?e=71od8y&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19) 
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 
@@ -893,6 +893,8 @@ El link es el siguiente: (https://ayni-api-test.zeabur.app/swagger-ui/index.html
 
 Repositorio Frontend:
 
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/c3b07ad2-ff4c-4a31-aee5-4855a9288a86)
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/bc145608-0781-4de9-8ac5-e9c246a1cb17)
 
 
 
@@ -900,6 +902,7 @@ Repositorio Backend:
 A continuación mostramos todos los commits con respecto a la contribución del backend, dado que la mayoria de Technical Stories y User Stories fueron abordadas en la TB2, se muestran los commits realizados desde esa entrega adicionando con la entrega del TF.
 
 ![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/9bad7d2a-710b-4f0c-9bf3-4dc812d16516)
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/0c3ef582-d35a-45c0-a5f4-3fe701f6b592)
 
 
 

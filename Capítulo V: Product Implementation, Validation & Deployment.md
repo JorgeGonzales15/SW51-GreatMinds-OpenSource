@@ -606,6 +606,9 @@ Posteriormente, se vincula con Github para realizar el deploy y este es el resul
 
 ![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/28dc074c-36d6-439b-9d1e-6c2cc072a6d4)
 
+Como se puede observar, cada vez que se haga un push a la rama master, se realiza un build nuevo para que se apliquen los cambios realizados en el proyecto.
+
+Sin embargo, solo da 7 días de prueba para hacer deploys. Por lo tanto, se buscarán mejores alternativas
 
 Como se puede observar, cada vez que se haga un push a la rama master, se realiza un build nuevo para que se apliquen los cambios realizados en el proyecto.
 
@@ -655,6 +658,8 @@ El Sprint #4 tiene como fecha de inicio el 11/11/2023 y como meta plantea resolv
 | Sprint 4 Goal| Implementar versión final y levantar observaciones de web applications y versión final de web services acorde con las Technical Stories y User Stories planteadas |
 | Sprint 4 - Velocity | El equipo puede aceptar 20 Story Points|
 | Sprint 4 - Story Points | La suma de los Story Points de los User Sotires que se atenderá es (19)|
+
+
 
 #### 5.2.4.2. Sprint Backlog 4.
 
@@ -721,6 +726,7 @@ Como parte de las evidencias del sprint review, se demuestran mediante una tabla
 | AyniFrontend | feature/rates_imp | e1ac0db | fix: fixed tags | - | 19/11/2023  |
 
 
+
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review.
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
@@ -730,6 +736,7 @@ Como parte de las evidencias del sprint review, se demuestran mediante una tabla
 | acceptance-test-opensource  | main | 7e16f90 | Acceptance_test_24.feature | - | 15/11/2023 |
 | acceptance-test-opensource  | main | 957a19c | Acceptance_test_25.feature | - | 15/11/2023 |
 | acceptance-test-opensource  | main | 4b6432d | Acceptance_test_26.feature | - | 15/11/2023 |
+
 
 A continuación se muestra los features relacionados a las technical y user stories:
 
@@ -778,7 +785,9 @@ Modelo de cultivos:
 ![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/7ca3a953-0d8f-4ddf-ae49-176c42c2d17a)
 
 
+
 #### 5.2.4.5. Execution Evidence for Sprint Review.
+
 
 En el sprint 4 se alcanzó a desarrollar la ultima versión del backend y frontend de la aplicación web "Ayni". Por lo tanto, se muestran nuevas vistas y endpoints relevantes a funcionalidades. A continuación se muestran algunas evidencias:
 
@@ -817,12 +826,41 @@ En el sprint 4 se alcanzó a desarrollar la ultima versión del backend y fronte
 ![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/e85e2d44-990c-4bd5-8252-4b6c252e5951)
 
 
+En el sprint 3 se alcanzó a desarrollar una primera versión del backend y una nueva de frontend de la aplicación web "Ayni". Por lo tanto, se muestran nuevas vistas relevantes a funcionalidades importantes. A continuación se muestran algunas evidencias:
+
+- TS-06:
+  
+
+
+- TS-07:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/69d06e11-3634-47f8-9479-ead709f314c2)
+
+
+- TS-08:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/b2e5eb34-f6fe-4f3d-8b41-5836b3367999)
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/36d9ab49-f2ce-43a3-93b8-e98db5bc7bd9)
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/46bb3517-a3ae-4ed2-a663-8e25deade98d)
+
+
+- TS-09:
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/df6bfca4-b30c-43a9-af1d-5dffa217c141)
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/823e468e-3b94-4a2e-946a-9618b9dc266d)
+
+
+
+- TS-10: 
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/3288f819-a037-4cf6-85a1-c6c3bcbc352c)
+
 
 
 El producto del desarrollo del presente sprint, está reflejado en el siguiente video, donde se muestra todo lo logrado en este sprint. A continuación el link del video:
 
 
+
 Link del video: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EfP2qBfYF0dBvyIwQjN_qAcBdRcTugJ0D6NK3T3k23VlXg?e=71od8y&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19) 
+
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 
@@ -842,6 +880,12 @@ Commits relacionados con documentación:
 | POST | /api/v1/auth/signup | En este endpoint se puede crear el usuario  | http://localhost:8080/swagger-ui/index.html#/Authentication/registerUser | username: "Juan" <br> email: "Juan@gmail.com" <br> "role: farmer" <br> "password: contrasenia" |
 | GET | /api/v1/users  | En este endpoint se puede realizar la obtención de todos los usuarios registrados | http://localhost:8080/swagger-ui/index.html#/Users/getAllUsers | - |
 | GET | /api/v1/users/{userId}  | En este endpoint se puede realizar la obtención de un usuario por id | http://localhost:8080/swagger-ui/index.html#/User/getUserById | userId: 1 |
+
+
+| Acciones | Endpoint | Detalles | Enlace | Datos de muestra |
+| - | - | - | - | - |
+| POST | /api/auth/signin | En este endpoint se puede iniciar sesión | http://localhost:8080/swagger-ui/index.html#/Authentication/authenticateUser | username: "Juan" <br> "password: contrasenia" |
+| POST | /api/auth/signup | En este endpoint se puede crear el usuario  | http://localhost:8080/swagger-ui/index.html#/Authentication/registerUser | username: "Juan" <br> email: "Juan@gmail.com" <br> "role: farmer" <br> "password: contrasenia" |
 | POST | /api/v1/transactions  | En este endpoint se puede realizar el registro de una transacción, de tipo costo o gasto, de igual manera obtenerlos, actualizarlos y borrarlos| http://localhost:8080/swagger-ui/index.html#/Transactions/createTransaction |  "costName": "gasolina", "description": "3 galones de gasolina", "type": "costo", "price": 500, "quantity": 3 |
 | GET | /api/v1/transactions  | En este endpoint se puede realizar la obtención de todos los registros de costos o ganancias | http://localhost:8080/swagger-ui/index.html#/Transactions/getAllTransactions | - |
 | GET | /api/v1/transactions/{transationId}  | En este endpoint se puede realizar la obtención de un registros de costos o ganancias por id | http://localhost:8080/swagger-ui/index.html#/Transactions/getTransactionById | transactionId: 1 |
@@ -881,6 +925,23 @@ Registro de una venta:
 
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+| POST | api/v1/sales  | En este endpoint se puede utilizar para registrar una venta | http://localhost:8080/swagger-ui/index.html#/Sales/createSale |   "name": "Venta de camote", "description": "buena venta", "unitPrice": 24, "quantity": 2, "imageUrl": "string" |
+| GET | api/v1/sales  | En este endpoint se puede utilizar para obtener todas las ventas | http://localhost:8080/swagger-ui/index.html#/Sales/getAllSales | - |
+| GET | api/v1/sales/{salesId}  | En este endpoint se puede utilizar para obtener una venta por Id | http://localhost:8080/swagger-ui/index.html#/Sales/getSaleById | saleId: 1 |
+| GET | api/v1/sales/{salesId}/orders/{orderId}  | En este endpoint se puede utilizar para obtener una venta por Id en especifico vinculado a una orden por Id en especifico | http://localhost:8080/swagger-ui/index.html#/Sales/getOrderBySaleIdAndOrderId | saleId: 1, orderId: 1 |
+
+Capturas de documentación: 
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/dd20e070-e5d9-4e4e-adcb-94844cc0306b)
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/93a12b61-d9e7-4413-a26b-7e208aea0188)
+
+Registro de una venta:
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/a3ecaf14-280f-4dd7-9cb0-98561748f0e9)
+
+Registro de un producto:
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/a6ed3e07-37e0-4e2c-af54-88fc2f1ba8ce)
+
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
 Para realizar el proceso de despliegue de lo desarrollado en el Sprint 3 con respecto a la neuva versión de Web Applications, a continuación se detallará paso a paso el procedimiento del despliegue:
 
@@ -904,6 +965,7 @@ Y pasamos la carpeta que se encuentra dentro de la carpeta dist generada en nues
 
 ![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/7b51f439-869e-42b1-89fb-b72966cd289d)
 
+
 De esta manera el avance del Sprint 4 queda desplegado
 
 Link de nueva versión de Landing Page: (https://ayni-landing-page-es.netlify.app)
@@ -924,18 +986,46 @@ Posteriormente, se vincula con Github para realizar el deploy y este es el resul
 
 ![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/2a2c9a97-5fa1-4cb6-ae81-a9f19dae0edc)
 
+De esta manera el avance del Sprint 3 queda desplegado
+
+Link de nueva versión de Landing Page: (https://ayni-landing-page-en.netlify.app/)
+
+Link de nueva versión de frontend: ()
+
+Para el despliegue del backend, se usó primero Railway, donde se creó un servicio para el hosting de la base de datos:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/3d0be4c7-c43c-4118-ab22-2a12326cb21c)
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/4118ae25-dd34-42e0-be46-9c81ed28d9b4)
+
+Link de base de datos: (https://railway.app/project/781f3e33-7e5c-4896-9802-32175ce32926/service/a7820df3-55e5-46f5-89b7-053902225105)
+
+Luego, se usó Zeaburn para el despliegue del backend, primero se crea un espacio de trabajo:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/48b2b442-60c2-4faf-8fed-bcf35910e529)
+
+
+Posteriormente, se vincula con Github para realizar el deploy y este es el resultado:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/47892f19-bc27-4d30-8f42-60166e22f131)
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/28dc074c-36d6-439b-9d1e-6c2cc072a6d4)
 
 Como se puede observar, cada vez que se haga un push a la rama master, se realiza un build nuevo para que se apliquen los cambios realizados en el proyecto.
 
 Sin embargo, solo da 7 días de prueba para hacer deploys. Por lo tanto, se buscarán mejores alternativas
+
 
 El link es el siguiente: (https://ayni-api-test.zeabur.app/swagger-ui/index.html#)
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint.
 
 
+
+
 | Alumno | Actividad | 
 | - | - | 
+
 | Espejo Macuri, Paolo Andre  | Desarrollo de frontend y backend | 
 | Gonzales Carrión, Jorge Enrique  | Desarrollo de frontend y backend | 
 | Huaman Catano, Miguel Angel  | Desarrollo de backend | 
@@ -943,18 +1033,18 @@ El link es el siguiente: (https://ayni-api-test.zeabur.app/swagger-ui/index.html
 | Zarate Castro, Jose Daniel  | Desarrollo de frontend y backend | 
 
 
-Repositorio Frontend:
 
+Repositorio Frontend:
 ![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/c3b07ad2-ff4c-4a31-aee5-4855a9288a86)
 ![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/bc145608-0781-4de9-8ac5-e9c246a1cb17)
 
 
 
+
 Repositorio Backend:
-
-
 ![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/1927e291-6da9-493b-92ca-479b584cfdf8)
 ![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/846d10cd-172c-4703-b370-f42a6ce325de)
+
 
 
 
@@ -1249,7 +1339,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 1. **Web Application**
 
-***PROBLEMA #1:** El formato de diseño elegido para los botones es inconsistente*
+***PROBLEMA 1:** El formato de diseño elegido para los botones es inconsistente*
 
 ***Severidad:** 1*
 
@@ -1271,7 +1361,7 @@ Botones en sección "Financial Management"
 ***Recomendación:**
 Utilizar el mismo estilo de botones para mostrar más información en todas las secciones, de manera que el usuario se familiarice mejor con la aplicación web.*
 
-***PROBLEMA #2:** Al estar en una de las secciones, resulta imposible de diferenciar entre estos debido a que la barra de navegación no indica en qué sección se encuentra el usuario*
+***PROBLEMA 2:** Al estar en una de las secciones, resulta imposible de diferenciar entre estos debido a que la barra de navegación no indica en qué sección se encuentra el usuario*
 
 ***Severidad:** 1*
 
@@ -1289,7 +1379,7 @@ Barra de navegación:
 ***Recomendación:**
 Resaltar con un cuadro de color resaltante la sección que se seleccione dentro de la barra de navegación, con la finalidad de orientar al usuario.*
 
-***PROBLEMA #3:** No existe un apartado de edición de perfil*
+***PROBLEMA 3:** No existe un apartado de edición de perfil*
 
 ***Severidad:** 2*
 
@@ -1302,7 +1392,7 @@ Resaltar con un cuadro de color resaltante la sección que se seleccione dentro 
 ***Recomendación:**
 Implementar un boton o apartado para editar perfil de usuario.*
 
-***PROBLEMA #4:** En el inicio de sesión, la card de contenido no resalta diferencia del fondo*
+***PROBLEMA 4:** En el inicio de sesión, la card de contenido no resalta diferencia del fondo*
 
 ***Severidad:** 1*
 
@@ -1318,7 +1408,7 @@ Implementar un boton o apartado para editar perfil de usuario.*
 ***Recomendación:**
 Cambiar el color de la card contenedora de los campos de inicio de sesión*
 
-***PROBLEMA #5:** Inconsistencia en tamaño de tipografía *
+***PROBLEMA 5:** Inconsistencia en tamaño de tipografía *
 
 ***Severidad:** 2*
 
@@ -1337,7 +1427,7 @@ Corregir la tipografía en todas las secciones de un tamaño equivalente*
 
 2. **Landing Page**
 
-***PROBLEMA #1:**  El contenido de funcionalidades no se actualiza periodicamente*
+***PROBLEMA 1:**  El contenido de funcionalidades no se actualiza periodicamente*
 
 ***Severidad:** 3*
 

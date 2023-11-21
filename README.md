@@ -107,6 +107,7 @@ Para la elaboración del informe se realizaron actividades tales como:
 - Realizar los puntos correspondientes al Sprint 4, tales como: Development Evidece, Testing Suite Evidence,
 Execution Evidence, Software Deployment Evidence y Team Collaboration Insights
 
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/9ba55856-238b-4716-80c9-dd0e535f16ed)
 
 
 

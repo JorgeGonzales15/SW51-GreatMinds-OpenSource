@@ -516,29 +516,34 @@ Link del prototipo: (https://www.figma.com/proto/tniolYyFGnxJ4QF4BLTZt8/Angular-
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
 
-![structurizr-85725-Contexto](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/1a0fcaff-d404-4492-b1e3-d162f79bfbcb)
+![structurizr-85725-Contexto](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/cfd030ff-66a0-427e-ae25-7ef234b9d13d)
+
 
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
-![structurizr-85725-Contenedores](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/8a05b6fd-3add-490a-b2af-f42cefc88285)
+![structurizr-85725-Contenedores](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/28da382e-aaf9-4368-ae06-4bddc47700d6)
+
+
 
 ### 4.6.3. Software Architecture Components Diagrams.
 
 Authentication Context:
-![authentication context](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/cd4f351e-2ec7-4540-9286-51eb25ac3781)
+![structurizr-85725-Componente](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/9ba9ee73-ace9-4152-8b96-628faf4971d0)
 
-Planification Context:
-![planification context](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/08eab9bb-6305-4076-8434-cce03fdbb389)
-
-Shopping Context:
-![Shopping context](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/3327d4cf-c7b1-4f0c-ae42-4c74da4fcfb4)
 
 Finance Context:
-![Finance context](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/a3cb977a-e23e-447e-9c29-7c85a3013a43)
+![structurizr-85725-Componente2](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/016068cc-5f0b-4a24-8780-7876f2648ce3)
 
-Rates Context:
-![Rates context](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/2bdd2692-2dd2-4d89-98fb-adf60e1e7e7c)
+
+Shopping Context:
+![structurizr-85725-Componente4](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/ecf4acb6-5bf4-4485-a8bc-14c3e5fbc13d)
+
+
+Management Context:
+![structurizr-85725-Componente3](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/c132dc8b-76a2-406b-822f-069bf1ff8fe9)
+
+
 
 ## 4.7. Software Object-Oriented Design.
 
@@ -578,7 +583,8 @@ En esta sección, se definirán las tablas y relaciones necesarias para almacena
 
 En esta sección, se presentará el diagrama de la base de datos, que muestra la estructura y las relaciones entre las tablas. 
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/7c4917ea-57e4-439e-8f6d-d87ec0374362)
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/11a96c0e-5fed-4204-b2be-08a84bdde5f3)
+
 
 
 

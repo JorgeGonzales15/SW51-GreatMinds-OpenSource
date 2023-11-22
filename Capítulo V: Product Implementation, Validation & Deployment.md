@@ -756,19 +756,24 @@ Finalmente, las pruebas unitarias son ejecutadas y tuvieron exito:
 A continuación se muestra los features relacionados a las technical y user stories:
 
 Este feature está relacionado a la Technical Story #6
+
 ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284334754-89dd607d-beb5-43b7-935d-7d40230aa4bb.png)
 
 
 Este feature está relacionado a la Technical Story #7
+
 ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284319171-aff3290d-39c4-4e34-9a58-159cbb69e521.png)
 
 Este feature está relacionado a la Technical Story #8
+
 ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284319284-4e25853d-1f40-4188-b01f-0ee02251b8ef.png)
 
 Este feature está relacionado a la Technical Story #9
+
 ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284319448-9c700eab-0237-48fc-a51c-cfcbbae43329.png)
 
 Este feature está relacionado a la Technical Story #10
+
 ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284319866-2b34b6bb-7ab5-48ec-bd6a-475e9c4b1747.png)
 
 
@@ -808,14 +813,17 @@ En el sprint 4 se alcanzó a desarrollar la ultima versión del backend y fronte
 - TS-06 (Seguriad y encriptación para la creación de usuarios)
 
 Endpoints de authentication:
+
 ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284427843-3e7f2077-92d7-4c71-9a5e-5b4e34eb345f.png)
 
 Creación de usuario:
+
 ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284427890-14ff8f05-7758-4e0d-a458-02a00868402b.png)
 
 ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284427989-0739dafe-bd4a-4674-b301-a1fd59f60247.png)
 
 Inicio de sesión de usuario:
+
 ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284428016-708f64bf-93fd-4976-ae2c-426cf0133359.png)
 
 
@@ -942,6 +950,7 @@ Link de nueva versión de Landing Page: (https://ayni-landing-page-es.netlify.ap
 Link de nueva versión de frontend: (https://ayni-web-app.netlify.app)
 
 Para el despliegue del backend, se usó primero Railway, donde se creó un servicio para el hosting de la base de datos:
+
 ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284024893-166c9673-a656-42d9-a15f-a7eaeda60b8f.png)
 
 ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284024899-4fa26e5f-2493-44a5-a47b-f1999d2f9b5e.png)
@@ -950,6 +959,7 @@ Para el despliegue del backend, se usó primero Railway, donde se creó un servi
 Link de base de datos: (https://railway.app/project/fdae3739-fb24-4303-8569-441190ff133c)
 
 Luego, se usó Zeaburn para el despliegue del backend, primero se crea un espacio de trabajo:
+
 ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284024946-31a139f1-37cc-4f38-b28b-ab99cff2b1d0.png)
 
 Posteriormente, se vincula con Github para realizar el deploy y este es el resultado:
@@ -983,6 +993,7 @@ Repositorio Frontend:
 ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284096132-bc145608-0781-4de9-8ac5-e9c246a1cb17.png)
 
 Repositorio Backend:
+
 ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284317990-1927e291-6da9-493b-92ca-479b584cfdf8.png)
 
 

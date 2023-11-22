@@ -681,7 +681,7 @@ Link Trello: (https://trello.com/invite/b/afgi3Iby/ATTIb455d07068fc39cdfde8bf1f2
 
 #### 5.2.4.3. Development Evidence for Sprint Review.
 
-Como parte de las evidencias del sprint review, se demuestran mediante una tabla. Como el sprint #4 abarca adiciones y corecciones dentro del frontend, asimismo, desarrollo de la primera versión de backend, se muestran los commits de ambos repositorios.
+Como parte de las evidencias del sprint review, se demuestran mediante una tabla. Como el sprint #4 abarca la versión final de frontend, asimismo, desarrollo de la versión final de backend, se muestran los commits de ambos repositorios.
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 | - | - | - | - | - | - |
@@ -719,9 +719,15 @@ Como parte de las evidencias del sprint review, se demuestran mediante una tabla
 | AyniFrontend | feature/rates_imp | d6c76d8 | fix: fixed tags and stepper content | - | 19/11/2023  |
 | AyniFrontend | feature/rates_imp | 502081e | fix: Fixed bugs | - | 19/11/2023  |
 | AyniFrontend | feature/rates_imp | e1ac0db | fix: fixed tags | - | 19/11/2023  |
-
+| Ayni_LandingPageOfficial | develop | f380866 | feat: Update landing page. | - | 22/11/2023  |
+| Ayni_LandingPageOfficial | develop | f9757d9 | Update index.html | - | 22/11/2023  |
+| Ayni_LandingPageOfficial | develop | c74d947 | Update about the team section | - | 22/11/2023  |
+| Ayni_LandingPageOfficial | develop | 3b4590b | Update index.html | - | 22/11/2023  |
+| Ayni_LandingPageOfficial | develop | e4b26c5 | Update script.js | - | 22/11/2023  |
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review.
+
+En esta sección, se mostrarán las evidencias correspondientes a testing, para el Sprint 4 se realizaron pruebas unitarias para validar el funcionamiento de los endpoints. Además, de mostrar los features relacionados a los Terchnical Stories abordados en este Sprint. 
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 | - | - | - | - | - | - |
@@ -730,6 +736,22 @@ Como parte de las evidencias del sprint review, se demuestran mediante una tabla
 | acceptance-test-opensource  | main | 7e16f90 | Acceptance_test_24.feature | - | 15/11/2023 |
 | acceptance-test-opensource  | main | 957a19c | Acceptance_test_25.feature | - | 15/11/2023 |
 | acceptance-test-opensource  | main | 4b6432d | Acceptance_test_26.feature | - | 15/11/2023 |
+| AyniBackend  | develop | 7dc00d2 | feat: Added tests | - | 22/11/2023 |
+
+A continuación se muestran capturas de 2 pruebas unitarias realizadas en el proyecto de Web Services:
+
+- Esta prueba es para confirmar que se cambió el estado de una orden a calificado:
+
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/285027274-864b203b-b2f7-4b49-84cc-9ebc38a4450b.png)
+
+
+- Esta prueba es para confirmar que se cambió el estado de una orden a finalizado:
+
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/285027405-1bf03910-1e0d-4953-9f21-e15c477fa68b.png)
+
+Finalmente, las pruebas unitarias son ejecutadas y tuvieron exito:
+
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/285027791-96b643ab-6285-41ec-92ba-3bef87bc4fe9.png)
 
 A continuación se muestra los features relacionados a las technical y user stories:
 
@@ -751,7 +773,6 @@ Este feature está relacionado a la Technical Story #10
 
 
 A continuación se muestra los archivos .spec.ts creados del frontend usando Angular de componentes importantes: 
-
 
 Componente de ventas:
 
@@ -776,6 +797,8 @@ Componente de calificaciones:
 Modelo de cultivos:
 
 ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284322869-7ca3a953-0d8f-4ddf-ae49-176c42c2d17a.png)
+
+
 
 
 #### 5.2.4.5. Execution Evidence for Sprint Review.
@@ -855,12 +878,12 @@ Commits relacionados con documentación:
 | GET | /api/v1/transactions/{transationId}  | En este endpoint se puede realizar la obtención de un registros de costos o ganancias por id | http://localhost:8080/swagger-ui/index.html#/Transactions/getTransactionById | transactionId: 1 |
 | PUT | /api/v1/transactions/{transationId}  | En este endpoint se puede realizar la actualización de una transacción de tipo costo o gasto | http://localhost:8080/swagger-ui/index.html#/Transactions/updateTransaction | transaction Id: 1 // "costName": "gasolina", "description": "3 galones de gasolina", "type": "costo", "price": 500, "quantity": 3|
 | DELETE | /api/v1/transactions/{transationId}  | En este endpoint se puede realizar la eliminación de una transacción, de tipo costo o gasto | http://localhost:8080/swagger-ui/index.html#/Transactions/deleteTransaction | transactionId: 1 |
-| POST | api/v1//products  | En este endpoint se puede utilizar para registrar un producto | http://localhost:8080/swagger-ui/index.html#/Products/createProduct |   "name": "Cultivo fresco de manzana", "description": "Manzanas frescas", "distance": "12", "depth": "5 centimetros", "weather": "19 centigrados", "groundType": "buena caldad", "season": "verano", "imageUrl": "string" |
+| POST | api/v1/products  | En este endpoint se puede utilizar para registrar un producto | http://localhost:8080/swagger-ui/index.html#/Products/createProduct | "name": "Zanahoria","description": "Rica zanahora","recommendedCultivationDistance": "12","recommendedCultivationDepth": "2","recommendedGrowingClimate": "Templado","recommendedSoilType": "Arenoso","recommendedGrowingSeason": "Otoño","imageUrl": "imagen","userId": 1 |
 | GET | api/v1/products  | En este endpoint se puede utilizar para obtener todos los productos | http://localhost:8080/swagger-ui/index.html#/Products/getAllProducts | - |
 | GET | api/v1/products/{productId}  | En este endpoint se puede utilizar para obtener todos un producto por Id | http://localhost:8080/swagger-ui/index.html#/Products/getProductById | productId: 1 |
 | GET | api/v1/products/{productId}/crops | En este endpoint se puede utilizar para obtener todos los cultivos del producto | http://localhost:8080/swagger-ui/index.html#/Products/getAllCropsByProductId | productId: 1 |
 | GET | api/v1/products/{productId}/crops/{cropId} | En este endpoint se puede utilizar para obtener un cultivo en especifico de un producto en especifico | http://localhost:8080/swagger-ui/index.html#/Products/getCropByProductIdAndCropId | productId: 1, cropId: 1 |
-| POST | api/v1/crops  | En este endpoint se puede utilizar para registrar un cultivo | http://localhost:8080/swagger-ui/index.html#/Crops/createCrop | "name": "Papa", "undergrowth": true, "fertilize": true, "oxygenate": true, "line": true, "hole": true, "watered": 32, "pestCleaning": 1,"productId": 1 |
+| POST | api/v1/crops  | En este endpoint se puede utilizar para registrar un cultivo | http://localhost:8080/swagger-ui/index.html#/Crops/createCrop | "name": "Papa","pickUpWeed": true,"fertilizeCrop": true,"oxygenateCrop": false,"makeCropLine": true,"makeCropHole": true,"wateringDays": 12,"pestCleanupDays": 3,"productId": 1,"userId": 1 |
 | GET | api/v1/crops  | En este endpoint se puede utilizar para obtener todos los cultivo | http://localhost:8080/swagger-ui/index.html#/Crops/getAllCrops | - |
 | GET | api/v1/crops/{cropId}  | En este endpoint se puede utilizar para un cultivo por Id | http://localhost:8080/swagger-ui/index.html#/Crops/getCropById | cropId: 1 |
 | POST | api/v1/orders  | En este endpoint se puede utilizar para registrar una orden | http://localhost:8080/swagger-ui/index.html#/Orders/createOrder |   "description": "Papayas muy buenas", "totalPrice": 15, "quantity": 3, "paymentMethod": "mastercard", "status": "On Package", "saleId": 1, "orderedBy": 1, "acceptedBy": 2, "orderedDate": "2023-11-02T13:16:02.798Z" |
@@ -958,8 +981,9 @@ Las actividades para el presente Sprint se repartieron en base a la priorizació
 Repositorio Frontend:
 
 
+![Captura de pantalla 2023-11-22 123908](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/285026016-8e2457b8-9191-4051-beed-0262256ef4ae.png)
 
-![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284096096-c3b07ad2-ff4c-4a31-aee5-4855a9288a86.png)
+
 
 ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284096132-bc145608-0781-4de9-8ac5-e9c246a1cb17.png)
 
@@ -972,6 +996,10 @@ Repositorio Backend:
 
 ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284318078-846d10cd-172c-4703-b370-f42a6ce325de.png)
 
+
+Repositorio Landing Page:
+
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/285025766-4314a8ef-24fe-4c71-9e5c-228ac22a99dd.png)
 
 
 

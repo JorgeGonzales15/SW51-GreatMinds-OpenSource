@@ -60,28 +60,17 @@ Noviembre del 2023
 ---
 # Project Report Collaboration Insights
 
-TB1: Se han desarrollado las actividades correspondientes para la entrega TB1 en el siguiente repositorio de Github dentro de la organización del equipo:
-Link de repositorio Github: (https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource)
-
-Para la elaboración del informe se realizaron actividades tales como: 
-- Redactar y graficar en formato Markdown los puntos designados al integrante y posteriormente realizar commits para que el avance se guarde. 
-- Elaborar los artefactos en las herramientas indicadas y posteriormente obtener el enlace de imagen mediante "Issues" dentro del repositorio del informe
-- Se realizaron reuniones para coordinar el avance de los puntos del informe, además comunicar los avances del Sprint 1 correspondiente a la Landing Page
-- Se realizaron branches dentro del repositorio del informe para separar el README.md principal en capitulos.
-
-![commitsinformeopen](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/1665e68a-849a-4c87-887e-a5d7e17d6b6c)
-
-TP: Se han desarrollado las actividades correspondientes para la entrega TP en el siguiente repositorio de Guthub dentro de la organización del equipo:
-Link de repositorio Github: (https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource)
+TF: Se han desarrollado las actividades correspondientes para la entrega TF en el siguiente repositorio de Github dentro de la organización del equipo:
+Link de repositorio Github: (https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource).
 
 Para la elaboración del informe se realizaron actividades tales como:
-- Corregir las observaciones brindadas, tales como: definir la problemática mejor, agregar métricas a los hypothesis statements, añadir dispositivos y canales de distribución al resumen de entrevistas y user persona, mejorar el User Task Matrix, agregar technicals user stories y más escenarios, priorizar el product backlog, mejorar el diagrama de componentes por bounded context, mejorar las nomenclaturas dentro del modelo de diagrama de base de datos.
-- Planificar el alcance y objetivo del Sprint 2
-- Realizar el sprint backlog 2 para lograr el objetivo de implementar frontend
-- Organizar el repositorio del informe por branches de capítulos
-- Realizar los puntos correspondientes al Sprint 2, tales como: Development Evidece, Testing Suite Evidence, Execution Evidence, Service Documentacion Evidence, Software Deployment Evidence y Team Collaboration Insights
+-Corregir las observaciones brindadas, tales como: actualizar artefactos de arquitectura de software y diseño acorde con la estructura actual de Web Services y Web Application, documentar testing, documentar Video About-the-Team
+- Planificar el alcance y objetivo del Sprint 4
+- Realizar el sprint backlog 4 para lograr el objetivo de implementar la versión final de Web Apps y Web Services
+- Realizar los puntos correspondientes al Sprint 4, tales como: Development Evidece, Testing Suite Evidence,
+Execution Evidence, Software Deployment Evidence y Team Collaboration Insights
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/b9064105-f970-460b-9483-bdd02a6b5041)
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/9ba55856-238b-4716-80c9-dd0e535f16ed)
 
 TB2: Se han desarrollado las actividades correspondientes para la entrega TB2 en el siguiente repositorio de Github dentro de la organización del equipo:
 Link de repositorio Github: (https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource).
@@ -98,18 +87,28 @@ Execution Evidence, Software Deployment Evidence y Team Collaboration Insights
 ![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/046b1fe7-1325-4e69-a014-9cbe9dfe6d24)
 ![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/5f94b5fe-2250-4884-bbba-2dad784949fc)
 
-
-TF: Se han desarrollado las actividades correspondientes para la entrega TF en el siguiente repositorio de Github dentro de la organización del equipo:
-Link de repositorio Github: (https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource).
+TP: Se han desarrollado las actividades correspondientes para la entrega TP en el siguiente repositorio de Guthub dentro de la organización del equipo:
+Link de repositorio Github: (https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource)
 
 Para la elaboración del informe se realizaron actividades tales como:
--Corregir las observaciones brindadas, tales como: actualizar artefactos de arquitectura de software y diseño acorde con la estructura actual de Web Services y Web Application, documentar testing, documentar Video About-the-Team
-- Planificar el alcance y objetivo del Sprint 4
-- Realizar el sprint backlog 4 para lograr el objetivo de implementar la versión final de Web Apps y Web Services
-- Realizar los puntos correspondientes al Sprint 4, tales como: Development Evidece, Testing Suite Evidence,
-Execution Evidence, Software Deployment Evidence y Team Collaboration Insights
+- Corregir las observaciones brindadas, tales como: definir la problemática mejor, agregar métricas a los hypothesis statements, añadir dispositivos y canales de distribución al resumen de entrevistas y user persona, mejorar el User Task Matrix, agregar technicals user stories y más escenarios, priorizar el product backlog, mejorar el diagrama de componentes por bounded context, mejorar las nomenclaturas dentro del modelo de diagrama de base de datos.
+- Planificar el alcance y objetivo del Sprint 2
+- Realizar el sprint backlog 2 para lograr el objetivo de implementar frontend
+- Organizar el repositorio del informe por branches de capítulos
+- Realizar los puntos correspondientes al Sprint 2, tales como: Development Evidece, Testing Suite Evidence, Execution Evidence, Service Documentacion Evidence, Software Deployment Evidence y Team Collaboration Insights
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/9ba55856-238b-4716-80c9-dd0e535f16ed)
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/b9064105-f970-460b-9483-bdd02a6b5041)
+
+TB1: Se han desarrollado las actividades correspondientes para la entrega TB1 en el siguiente repositorio de Github dentro de la organización del equipo:
+Link de repositorio Github: (https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource)
+
+Para la elaboración del informe se realizaron actividades tales como: 
+- Redactar y graficar en formato Markdown los puntos designados al integrante y posteriormente realizar commits para que el avance se guarde. 
+- Elaborar los artefactos en las herramientas indicadas y posteriormente obtener el enlace de imagen mediante "Issues" dentro del repositorio del informe
+- Se realizaron reuniones para coordinar el avance de los puntos del informe, además comunicar los avances del Sprint 1 correspondiente a la Landing Page
+- Se realizaron branches dentro del repositorio del informe para separar el README.md principal en capitulos.
+
+![commitsinformeopen](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/1665e68a-849a-4c87-887e-a5d7e17d6b6c)
 
 
 ---
@@ -228,7 +227,6 @@ Execution Evidence, Software Deployment Evidence y Team Collaboration Insights
     - [5.3.2. Registro de Entrevistas](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/blob/chapter-5/Cap%C3%ADtulo%20V:%20Product%20Implementation%2C%20Validation%20%26%20Deployment.md#532-registro-de-entrevistas)
     - [5.3.3. Evaluaciones según heurísticas](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/blob/chapter-5/Cap%C3%ADtulo%20V:%20Product%20Implementation%2C%20Validation%20%26%20Deployment.md#533-evaluaciones-seg%C3%BAn-her%C3%ADsticas)
 - [5.4. Video About-the-Product](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/blob/chapter-5/Cap%C3%ADtulo%20V:%20Product%20Implementation%2C%20Validation%20%26%20Deployment.md#54-video-about-the-product)
-- [5.5. Video About-the-Team](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/blob/chapter-5/Cap%C3%ADtulo%20V:%20Product%20Implementation%2C%20Validation%20%26%20Deployment.md#55-video-about-the-team)
 
 
 ## [Conclusiones](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/blob/develop/Cap%C3%ADtulo%20V:%20Product%20Implementation%2C%20Validation%20%26%20Deployment.md#conclusiones)

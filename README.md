@@ -56,6 +56,7 @@ Noviembre del 2023
 | 4.3 | 19/10/2023 | Paucar de la Cruz, Tatiana | Se realizó la documentación de los despliegues para la landing page, frontend y backend |
 | 4.4 | 19/10/2023 | Espejo Macuri, Paolo Andre | Se documentó los commits realizados en el tf |
 | 4.5 | 20/10/2023 | Huaman Catano | Se realizaron conclusiones |
+
 ---
 # Project Report Collaboration Insights
 
@@ -97,6 +98,7 @@ Execution Evidence, Software Deployment Evidence y Team Collaboration Insights
 ![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/046b1fe7-1325-4e69-a014-9cbe9dfe6d24)
 ![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/5f94b5fe-2250-4884-bbba-2dad784949fc)
 
+
 TF: Se han desarrollado las actividades correspondientes para la entrega TF en el siguiente repositorio de Github dentro de la organización del equipo:
 Link de repositorio Github: (https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource).
 
@@ -107,9 +109,7 @@ Para la elaboración del informe se realizaron actividades tales como:
 - Realizar los puntos correspondientes al Sprint 4, tales como: Development Evidece, Testing Suite Evidence,
 Execution Evidence, Software Deployment Evidence y Team Collaboration Insights
 
-
-
-
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/9ba55856-238b-4716-80c9-dd0e535f16ed)
 
 
 ---

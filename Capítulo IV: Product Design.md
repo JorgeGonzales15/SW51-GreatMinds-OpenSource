@@ -528,20 +528,24 @@ Link del prototipo: (https://www.figma.com/proto/tniolYyFGnxJ4QF4BLTZt8/Angular-
 
 ### 4.6.3. Software Architecture Components Diagrams.
 
-Authentication Context:
-![structurizr-85725-Componente](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/9ba9ee73-ace9-4152-8b96-628faf4971d0)
+IAM Context:
+![structurizr-85725-Componente (1)](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/285030967-60a9a7b9-f81b-42f7-9082-7b85c6f66481.png)
+
 
 
 Finance Context:
-![structurizr-85725-Componente2](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/016068cc-5f0b-4a24-8780-7876f2648ce3)
+![structurizr-85725-Componente2 (1)](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/285031003-0f7a7d20-12d8-42d8-ad95-0ab2cf230b29.png)
+
 
 
 Shopping Context:
-![structurizr-85725-Componente4](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/ecf4acb6-5bf4-4485-a8bc-14c3e5fbc13d)
+![structurizr-85725-Componente4 (1)](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/285030895-87c0231b-ccc4-4bf3-891a-6e338c6ba0d7.png)
+
 
 
 Management Context:
-![structurizr-85725-Componente3](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/c132dc8b-76a2-406b-822f-069bf1ff8fe9)
+![structurizr-85725-Componente3 (1)](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/285030939-1aec6e71-da9c-4d30-97e8-d6b87d773ebd.png)
+
 
 
 
@@ -583,7 +587,8 @@ En esta sección, se definirán las tablas y relaciones necesarias para almacena
 
 En esta sección, se presentará el diagrama de la base de datos, que muestra la estructura y las relaciones entre las tablas. 
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/11a96c0e-5fed-4204-b2be-08a84bdde5f3)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/285032073-76ec644b-18e4-43a2-bfa5-0860838ef3f6.png)
+
 
 
 

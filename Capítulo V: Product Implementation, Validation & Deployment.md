@@ -681,7 +681,7 @@ Link Trello: (https://trello.com/invite/b/afgi3Iby/ATTIb455d07068fc39cdfde8bf1f2
 
 #### 5.2.4.3. Development Evidence for Sprint Review.
 
-Como parte de las evidencias del sprint review, se demuestran mediante una tabla. Como el sprint #4 abarca adiciones y corecciones dentro del frontend, asimismo, desarrollo de la primera versión de backend, se muestran los commits de ambos repositorios.
+Como parte de las evidencias del sprint review, se demuestran mediante una tabla. Como el sprint #4 abarca la versión final de frontend, asimismo, desarrollo de la versión final de backend, se muestran los commits de ambos repositorios.
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 | - | - | - | - | - | - |
@@ -719,9 +719,15 @@ Como parte de las evidencias del sprint review, se demuestran mediante una tabla
 | AyniFrontend | feature/rates_imp | d6c76d8 | fix: fixed tags and stepper content | - | 19/11/2023  |
 | AyniFrontend | feature/rates_imp | 502081e | fix: Fixed bugs | - | 19/11/2023  |
 | AyniFrontend | feature/rates_imp | e1ac0db | fix: fixed tags | - | 19/11/2023  |
-
+| Ayni_LandingPageOfficial | develop | f380866 | feat: Update landing page. | - | 22/11/2023  |
+| Ayni_LandingPageOfficial | develop | f9757d9 | Update index.html | - | 22/11/2023  |
+| Ayni_LandingPageOfficial | develop | c74d947 | Update about the team section | - | 22/11/2023  |
+| Ayni_LandingPageOfficial | develop | 3b4590b | Update index.html | - | 22/11/2023  |
+| Ayni_LandingPageOfficial | develop | e4b26c5 | Update script.js | - | 22/11/2023  |
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review.
+
+En esta sección, se mostrarán las evidencias correspondientes a testing, para el Sprint 4 se realizaron pruebas unitarias para validar el funcionamiento de los endpoints. Además, de mostrar los features relacionados a los Terchnical Stories abordados en este Sprint. 
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 | - | - | - | - | - | - |
@@ -730,52 +736,74 @@ Como parte de las evidencias del sprint review, se demuestran mediante una tabla
 | acceptance-test-opensource  | main | 7e16f90 | Acceptance_test_24.feature | - | 15/11/2023 |
 | acceptance-test-opensource  | main | 957a19c | Acceptance_test_25.feature | - | 15/11/2023 |
 | acceptance-test-opensource  | main | 4b6432d | Acceptance_test_26.feature | - | 15/11/2023 |
+| AyniBackend  | develop | 7dc00d2 | feat: Added tests | - | 22/11/2023 |
+
+A continuación se muestran capturas de 2 pruebas unitarias realizadas en el proyecto de Web Services:
+
+- Esta prueba es para confirmar que se cambió el estado de una orden a calificado:
+
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/285027274-864b203b-b2f7-4b49-84cc-9ebc38a4450b.png)
+
+
+- Esta prueba es para confirmar que se cambió el estado de una orden a finalizado:
+
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/285027405-1bf03910-1e0d-4953-9f21-e15c477fa68b.png)
+
+Finalmente, las pruebas unitarias son ejecutadas y tuvieron exito:
+
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/285027791-96b643ab-6285-41ec-92ba-3bef87bc4fe9.png)
 
 A continuación se muestra los features relacionados a las technical y user stories:
 
 Este feature está relacionado a la Technical Story #6
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/89dd607d-beb5-43b7-935d-7d40230aa4bb)
+
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284334754-89dd607d-beb5-43b7-935d-7d40230aa4bb.png)
 
 
 Este feature está relacionado a la Technical Story #7
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/aff3290d-39c4-4e34-9a58-159cbb69e521)
+
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284319171-aff3290d-39c4-4e34-9a58-159cbb69e521.png)
 
 Este feature está relacionado a la Technical Story #8
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/4e25853d-1f40-4188-b01f-0ee02251b8ef)
+
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284319284-4e25853d-1f40-4188-b01f-0ee02251b8ef.png)
 
 Este feature está relacionado a la Technical Story #9
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/9c700eab-0237-48fc-a51c-cfcbbae43329)
+
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284319448-9c700eab-0237-48fc-a51c-cfcbbae43329.png)
 
 Este feature está relacionado a la Technical Story #10
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/2b34b6bb-7ab5-48ec-bd6a-475e9c4b1747)
+
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284319866-2b34b6bb-7ab5-48ec-bd6a-475e9c4b1747.png)
 
 
 A continuación se muestra los archivos .spec.ts creados del frontend usando Angular de componentes importantes: 
 
-
 Componente de ventas:
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/9f78331a-4a4c-43b0-8352-b04d4036390c)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284322054-9f78331a-4a4c-43b0-8352-b04d4036390c.png)
 
 Componente de compra de productos:
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/7bb50a9f-6f39-4672-a1e5-d1dc975ad590)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284321935-7bb50a9f-6f39-4672-a1e5-d1dc975ad590.png)
 
 Componente de contenido de productos:
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/8882b09d-6411-40c2-93e9-d38d42256227)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284322279-8882b09d-6411-40c2-93e9-d38d42256227.png)
 
 Componente principal de tabla de finanzas:
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/22829b8d-2b8e-4a81-aed8-23a1ab2c6745)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284322449-22829b8d-2b8e-4a81-aed8-23a1ab2c6745.png)
 
 Componente de calificaciones:
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/50054528-8c90-49e7-b54f-f1b7d317202c)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284322611-50054528-8c90-49e7-b54f-f1b7d317202c.png)
 
 Modelo de cultivos:
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/7ca3a953-0d8f-4ddf-ae49-176c42c2d17a)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284322869-7ca3a953-0d8f-4ddf-ae49-176c42c2d17a.png)
+
+
 
 
 #### 5.2.4.5. Execution Evidence for Sprint Review.
@@ -784,37 +812,48 @@ En el sprint 4 se alcanzó a desarrollar la ultima versión del backend y fronte
 
 - TS-06 (Seguriad y encriptación para la creación de usuarios)
 
-  Endpoints de authentication:
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/02b2bf20-3f5b-484e-bdff-9a59b35a0f78)
+Endpoints de authentication:
 
-  Creación de usuario:
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/d65fb185-ffa3-46e7-91d9-90555cd6303a)
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/899a31b5-921e-4cdb-a2dc-d7ceaea30e2c)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284427843-3e7f2077-92d7-4c71-9a5e-5b4e34eb345f.png)
 
-  Inicio de sesión de usuario:
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/870f9d75-d8a9-4e96-8efa-a7901ea34c89)
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/b18daecd-43cb-4bae-ac71-9d810d3be0ae)
+Creación de usuario:
+
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284427890-14ff8f05-7758-4e0d-a458-02a00868402b.png)
+
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284427989-0739dafe-bd4a-4674-b301-a1fd59f60247.png)
+
+Inicio de sesión de usuario:
+
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284428016-708f64bf-93fd-4976-ae2c-426cf0133359.png)
+
+
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284428132-baf469fb-5567-4d99-a8e9-f4de9dd556cc.png)
 
 
 - TS-07 (Obtención de un cultivo en específico):
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/7160e933-56bb-4e34-9bbb-b72c91dc0ede)
+
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284428202-c9cc265d-b7ce-4b7b-a0c3-d0f82efb0f9a.png)
 
 
 
 - TS-08 (Obtención de productos en venta relacionados a un cultivo):
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/995c193f-a42a-4460-9383-eb3c03ce806c)
+
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284428242-0fad0863-b96e-452e-9cb0-3028d6b4cb23.png)
 
 
 
 
 - TS-09 ( Obtención y creación de ventas (sales) )
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/36dc50f9-5cf9-48c8-8cfc-cf4d2c16ff75)
+
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284428288-e528b0b8-86ab-4115-b214-e5494876a3fb.png)
+
 
 
 
 
 - TS-10 (Cambiar de estado a las ordenes):
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/e85e2d44-990c-4bd5-8252-4b6c252e5951)
+
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284428350-2d6cf8db-3a41-4e31-b9ba-c69c741d9250.png)
 
 
 
@@ -838,21 +877,19 @@ Commits relacionados con documentación:
 
 | Acciones | Endpoint | Detalles | Enlace | Datos de muestra |
 | - | - | - | - | - |
-| POST | /api/v1/auth/signin | En este endpoint se puede iniciar sesión | http://localhost:8080/swagger-ui/index.html#/Authentication/authenticateUser | username: "Juan" <br> "password: contrasenia" |
-| POST | /api/v1/auth/signup | En este endpoint se puede crear el usuario  | http://localhost:8080/swagger-ui/index.html#/Authentication/registerUser | username: "Juan" <br> email: "Juan@gmail.com" <br> "role: farmer" <br> "password: contrasenia" |
-| GET | /api/v1/users  | En este endpoint se puede realizar la obtención de todos los usuarios registrados | http://localhost:8080/swagger-ui/index.html#/Users/getAllUsers | - |
-| GET | /api/v1/users/{userId}  | En este endpoint se puede realizar la obtención de un usuario por id | http://localhost:8080/swagger-ui/index.html#/User/getUserById | userId: 1 |
+| POST | /api/auth/signin | En este endpoint se puede iniciar sesión | http://localhost:8080/swagger-ui/index.html#/Authentication/authenticateUser | username: "Juan" <br> "password: contrasenia" |
+| POST | /api/auth/signup | En este endpoint se puede crear el usuario  | http://localhost:8080/swagger-ui/index.html#/Authentication/registerUser | username: "Juan" <br> email: "Juan@gmail.com" <br> "role: farmer" <br> "password: contrasenia" |
 | POST | /api/v1/transactions  | En este endpoint se puede realizar el registro de una transacción, de tipo costo o gasto, de igual manera obtenerlos, actualizarlos y borrarlos| http://localhost:8080/swagger-ui/index.html#/Transactions/createTransaction |  "costName": "gasolina", "description": "3 galones de gasolina", "type": "costo", "price": 500, "quantity": 3 |
 | GET | /api/v1/transactions  | En este endpoint se puede realizar la obtención de todos los registros de costos o ganancias | http://localhost:8080/swagger-ui/index.html#/Transactions/getAllTransactions | - |
 | GET | /api/v1/transactions/{transationId}  | En este endpoint se puede realizar la obtención de un registros de costos o ganancias por id | http://localhost:8080/swagger-ui/index.html#/Transactions/getTransactionById | transactionId: 1 |
 | PUT | /api/v1/transactions/{transationId}  | En este endpoint se puede realizar la actualización de una transacción de tipo costo o gasto | http://localhost:8080/swagger-ui/index.html#/Transactions/updateTransaction | transaction Id: 1 // "costName": "gasolina", "description": "3 galones de gasolina", "type": "costo", "price": 500, "quantity": 3|
 | DELETE | /api/v1/transactions/{transationId}  | En este endpoint se puede realizar la eliminación de una transacción, de tipo costo o gasto | http://localhost:8080/swagger-ui/index.html#/Transactions/deleteTransaction | transactionId: 1 |
-| POST | api/v1//products  | En este endpoint se puede utilizar para registrar un producto | http://localhost:8080/swagger-ui/index.html#/Products/createProduct |   "name": "Cultivo fresco de manzana", "description": "Manzanas frescas", "distance": "12", "depth": "5 centimetros", "weather": "19 centigrados", "groundType": "buena caldad", "season": "verano", "imageUrl": "string" |
+| POST | api/v1/products  | En este endpoint se puede utilizar para registrar un producto | http://localhost:8080/swagger-ui/index.html#/Products/createProduct | "name": "Zanahoria","description": "Rica zanahora","recommendedCultivationDistance": "12","recommendedCultivationDepth": "2","recommendedGrowingClimate": "Templado","recommendedSoilType": "Arenoso","recommendedGrowingSeason": "Otoño","imageUrl": "imagen","userId": 1 |
 | GET | api/v1/products  | En este endpoint se puede utilizar para obtener todos los productos | http://localhost:8080/swagger-ui/index.html#/Products/getAllProducts | - |
 | GET | api/v1/products/{productId}  | En este endpoint se puede utilizar para obtener todos un producto por Id | http://localhost:8080/swagger-ui/index.html#/Products/getProductById | productId: 1 |
 | GET | api/v1/products/{productId}/crops | En este endpoint se puede utilizar para obtener todos los cultivos del producto | http://localhost:8080/swagger-ui/index.html#/Products/getAllCropsByProductId | productId: 1 |
 | GET | api/v1/products/{productId}/crops/{cropId} | En este endpoint se puede utilizar para obtener un cultivo en especifico de un producto en especifico | http://localhost:8080/swagger-ui/index.html#/Products/getCropByProductIdAndCropId | productId: 1, cropId: 1 |
-| POST | api/v1/crops  | En este endpoint se puede utilizar para registrar un cultivo | http://localhost:8080/swagger-ui/index.html#/Crops/createCrop | "name": "Papa", "undergrowth": true, "fertilize": true, "oxygenate": true, "line": true, "hole": true, "watered": 32, "pestCleaning": 1,"productId": 1 |
+| POST | api/v1/crops  | En este endpoint se puede utilizar para registrar un cultivo | http://localhost:8080/swagger-ui/index.html#/Crops/createCrop | "name": "Papa","pickUpWeed": true,"fertilizeCrop": true,"oxygenateCrop": false,"makeCropLine": true,"makeCropHole": true,"wateringDays": 12,"pestCleanupDays": 3,"productId": 1,"userId": 1 |
 | GET | api/v1/crops  | En este endpoint se puede utilizar para obtener todos los cultivo | http://localhost:8080/swagger-ui/index.html#/Crops/getAllCrops | - |
 | GET | api/v1/crops/{cropId}  | En este endpoint se puede utilizar para un cultivo por Id | http://localhost:8080/swagger-ui/index.html#/Crops/getCropById | cropId: 1 |
 | POST | api/v1/orders  | En este endpoint se puede utilizar para registrar una orden | http://localhost:8080/swagger-ui/index.html#/Orders/createOrder |   "description": "Papayas muy buenas", "totalPrice": 15, "quantity": 3, "paymentMethod": "mastercard", "status": "On Package", "saleId": 1, "orderedBy": 1, "acceptedBy": 2, "orderedDate": "2023-11-02T13:16:02.798Z" |
@@ -872,12 +909,14 @@ Commits relacionados con documentación:
 
 Capturas de documentación: 
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/91069519-c04f-4f2d-b726-35df343fef84)
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/4487cdb6-f865-4de8-a58a-91570325cbde)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284428390-6e4a1109-2181-4ebf-b796-c0e09d9e535c.png)
+
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284428491-714c12b6-52f1-4438-9d08-bdf4fc289a7d.png)
 
 
 Registro de una venta:
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/732c89ca-b384-48b8-b39f-300464f482c7)
+
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284428534-edd4a4fd-4945-4099-9bd1-3ceb4c1db7a4.png)
 
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review.
@@ -886,23 +925,23 @@ Para realizar el proceso de despliegue de lo desarrollado en el Sprint 3 con res
 
 Ejecutamos el comando “ng build” en la ruta de nuestro projecto en angular, nos muestra lo siguiente:
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/59453bc9-dac5-4ec4-9a75-7e5d6a3bced2)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/270755538-59453bc9-dac5-4ec4-9a75-7e5d6a3bced2.png)
 
 Se genera la carpeta dist:
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/de612d0d-f8dc-4880-a0bf-fde275b96aa8)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/270755685-de612d0d-f8dc-4880-a0bf-fde275b96aa8.png)
 
 Se añade el archivo “netlify.toml” para que netlify pueda entender las rutas de nuestro programa en angular con la siguiente configuración:
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/85f73994-0a0a-44f3-ad92-46e12988be51)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/270755847-85f73994-0a0a-44f3-ad92-46e12988be51.png)
 
 Por último, vamos a netlify a la sección que nos permite desplegar nuestra aplicación manualmente para evitar errores:
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/0a454407-893f-4f98-87e0-0148f38ccf95)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/270755966-0a454407-893f-4f98-87e0-0148f38ccf95.png)
 
 Y pasamos la carpeta que se encuentra dentro de la carpeta dist generada en nuestro proyecto:
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/7b51f439-869e-42b1-89fb-b72966cd289d)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/270756120-7b51f439-869e-42b1-89fb-b72966cd289d.png)
 
 De esta manera el avance del Sprint 4 queda desplegado
 
@@ -911,28 +950,32 @@ Link de nueva versión de Landing Page: (https://ayni-landing-page-es.netlify.ap
 Link de nueva versión de frontend: (https://ayni-web-app.netlify.app)
 
 Para el despliegue del backend, se usó primero Railway, donde se creó un servicio para el hosting de la base de datos:
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/166c9673-a656-42d9-a15f-a7eaeda60b8f)
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/4fa26e5f-2493-44a5-a47b-f1999d2f9b5e)
+
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284024893-166c9673-a656-42d9-a15f-a7eaeda60b8f.png)
+
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284024899-4fa26e5f-2493-44a5-a47b-f1999d2f9b5e.png)
 
 
 Link de base de datos: (https://railway.app/project/fdae3739-fb24-4303-8569-441190ff133c)
 
 Luego, se usó Zeaburn para el despliegue del backend, primero se crea un espacio de trabajo:
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/31a139f1-37cc-4f38-b28b-ab99cff2b1d0)
+
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284024946-31a139f1-37cc-4f38-b28b-ab99cff2b1d0.png)
 
 Posteriormente, se vincula con Github para realizar el deploy y este es el resultado:
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/2a2c9a97-5fa1-4cb6-ae81-a9f19dae0edc)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284024961-2a2c9a97-5fa1-4cb6-ae81-a9f19dae0edc.png)
 
 
 Como se puede observar, cada vez que se haga un push a la rama master, se realiza un build nuevo para que se apliquen los cambios realizados en el proyecto.
 
-Sin embargo, solo da 7 días de prueba para realizar despliegues. Por lo tanto, se buscarán mejores alternativas
+Sin embargo, solo da 7 días de prueba para hacer deploys. Por lo tanto, se buscarán mejores alternativas
 
 El link es el siguiente: (https://ayni-api-test.zeabur.app/swagger-ui/index.html#)
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint.
 
+Las actividades para el presente Sprint se repartieron en base a la priorización de historias de usuario dentro del producto backlog referidas a las funcionalidades principales de la aplicación web y web services, para ello, se realizaron primero branches por features abordados dentro del sprint 4 para que cada integrante trabaje en esas branches y luego realice el push para ver los cambios. De esta manera, el desarrollo del frontend y backend fue organizada y eficiente. A continuación, se mostrarán las evidencias de los commits:
 
 | Alumno | Actividad | 
 | - | - | 
@@ -945,17 +988,20 @@ El link es el siguiente: (https://ayni-api-test.zeabur.app/swagger-ui/index.html
 
 Repositorio Frontend:
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/c3b07ad2-ff4c-4a31-aee5-4855a9288a86)
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/bc145608-0781-4de9-8ac5-e9c246a1cb17)
+![Captura de pantalla 2023-11-22 123908](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/285026016-8e2457b8-9191-4051-beed-0262256ef4ae.png)
 
-
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284096132-bc145608-0781-4de9-8ac5-e9c246a1cb17.png)
 
 Repositorio Backend:
 
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284317990-1927e291-6da9-493b-92ca-479b584cfdf8.png)
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/1927e291-6da9-493b-92ca-479b584cfdf8)
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/846d10cd-172c-4703-b370-f42a6ce325de)
 
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284318078-846d10cd-172c-4703-b370-f42a6ce325de.png)
+
+Repositorio Landing Page:
+
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/285025766-4314a8ef-24fe-4c71-9e5c-228ac22a99dd.png)
 
 
 
@@ -1059,7 +1105,7 @@ Fin: 11:35
 
 Duración: 11:35
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/09e0ddc2-0697-414c-9129-479b27d8701d)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/278846433-09e0ddc2-0697-414c-9129-479b27d8701d.png)
 
 
 Lissane nos brindó su sincera opinión acerca de la landing page y aplicación web, con respecto a la landing page, nos resaltó el diseño atractivo y eficiente de las secciones asimismo con el orden de estas, sin embargo considera que debe tener más relevancia las funcionalidades mostradas incluyendo capturas de pantalla de la aplicación web. Pese a ello, la landing page resultó agradable visualmente para ella, calificándola con un 8 de 10. Por otro lado, con respecto a la aplicación web, no consideró dificil la navegación del flujo de añadir un cultivo, asimismo, está conforme con la distribución de las secciones de la barra de navegación. Sin embargo, cree que se debería mejorar el formulario de añadir un cultivo, donde deberían poner mas datos para el registro. Finalmente, le parecio bueno el diseño de la apliación web, pero sería aún mucho mejor si se mejoraran las observaciones que nos compartió.
@@ -1080,7 +1126,7 @@ Fin: 23:45
 
 Duración: 12 : 10
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/649de3d1-5ffa-4205-98d0-aef514df6e13)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/278846448-649de3d1-5ffa-4205-98d0-aef514df6e13.png)
 
 
 Jesús elogia la página web que se le presenta y la considera interesante y beneficiosa para los pequeños productores. Asimismo, él menciona que la aplicación web Ayni es fácil de usar y práctica, especialmente la función para agregar cultivos. Sin embargo, sugiere agregar información adicional, como la especie vegetal y variedad de plantas, y sugiere incorporar imágenes deslizantes para mejorar el diseño. Jesús no utiliza ninguna otra aplicación para administrar sus plantas y no ve ninguna característica específica que deba mejorarse en la aplicación web aparte de lo mencionado anteriormente. En general, está satisfecho con la distribución de las secciones en la aplicación.
@@ -1100,7 +1146,7 @@ Fin: 33:41
 
 Duración: 9 : 56
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/ec1bc4ff-97bb-404e-95eb-306ee36a4e5a)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/278846465-ec1bc4ff-97bb-404e-95eb-306ee36a4e5a.png)
 
 
 En la entrevista, Cristel Flores menciona que el diseño de la página podría mejorar en términos de tonalidades y tamaño de letra, y se señaló la falta de información detallada sobre los planes de pago. Ella también calificó el diseño de la landing page con un 5 sobre 10 y mencionó que se encontró un problema en la sección de inicio de sesión que solo permitía crear una cuenta nueva en lugar de iniciar sesión. Para la aplicación web, Cristel sugirió simplificar la adición de cultivos y personalizar los campos según el tipo de cultivo. Además, propuso incluir información sobre la fecha de siembra y el potencial de cosecha. Asimismo, sugirió mejorar las notificaciones y la interfaz de usuario. Finalmente, mencionó que no utiliza ninguna aplicación de gestión de agricultura.
@@ -1121,7 +1167,7 @@ Fin: 45:51
 
 Duración: 12:22
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/7eb31de0-e67b-418b-a44c-346ddd6a7cc9)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/278846481-7eb31de0-e67b-418b-a44c-346ddd6a7cc9.png)
 
 
 Al analizar la entrevista, Andre nos menciona que las vistas son atracticas y logradas para el propósito de la aplicación que se desea ofrecer, además, le resulta muy facilmente navegar en ella al ser intuitiva y las secciones le parecen bien distribuidas, con respecto a la información brindada acerca de las funcionalidades, considera que es adecuada. No tuvo problemas para abrir la landing page en su dispositivo móvil, debido a ello, calificó la landing page con un 8 de 10. Por otro lado, con respecto a la aplicación web, nos brindó una sugerencia con respecto a la creación de un perfil propio del usuario donde proporcione teléfonos de contacto. De esta manera facilitaria aún más el contacto con el agricultor. De la misma manera, nos dejó sugerencias acerca de la tipografía y de el tamaño de algunos botones. Finalmente, indica que, si bien la aplicación web le parece muy buena, todavia cree que se puede mejorar añadiendo funciones y pulir un poco más las vistas. 
@@ -1140,7 +1186,7 @@ Fin: 55:27
 
 Duración: 09:28
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/19901ea5-adea-4b6e-913f-1d409ec06763)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/278846488-19901ea5-adea-4b6e-913f-1d409ec06763.png)
 
 
 Favio nos proporcionó su tiempo para que visite la landing page y las web applications de Ayni. Asimismo, nos proprocionó su opiniones acerca del diseño de ambas, lo cual le pareció bueno y adecuado, asimismo con la información brindada acerca delas funcionalidades ofrecidas de la aplicación web dentro de  la landing page, resultadole agradable a la vista. Por otro lado, pudo acceder a la alnding page desde su navegador web sin problema, brindandonos su apreciación con 8 puntos de 10. Sin embargo, mencionó que dentro de la landing page hay algunas cosas para mejorar, como el tamaño de los botones y la cantidad de información brindada siendo un poco excedente. Por otro lado, en la aplicación web, mencionó que desea que la información brindada acerca de los cultivos sea más detallada, con secciones de clima o altura. Finalmente, resaltó que la distribución de las secciones es correcta y de igual manera los colores, pues refleja caracteristicas propias de la agricultura brindando un ambiente ameno. 
@@ -1159,20 +1205,16 @@ Fin: 01:03:02
 
 Duración: 11:49
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/1428b3de-2338-464b-91bb-9058567bedc3)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/278846496-1428b3de-2338-464b-91bb-9058567bedc3.png)
 
 
 Juli nos brindó su sincera opinión acerca de la landing page y aplicación web, con respecto a la landing page, nos felicitó por la distribución y promoción del producto dentro de las secciones, tambien considera que ofrece lo necario en cuando información de funcionalidades pero recomendaría reducir un poco del texto y poner las funcionalidades de manera más específica. Sin embargo, le resultó agradable la navegación por las secciones puntuando con un 8 de 10 la landing page. Por otro lado, con respecto a la aplicación web, le resultó nada complicado encontrar y seleccionar un cultivo para comprar, además la distribución de las secciones es buena dado que resume las funcionalidades que ofrecen. Tambien, consdera que no debe añadirse caracteristicas dado que siente que está completa para sus necesidades como comerciante. Sin embargo, cree que la sección de estado de compra debería mostrar más información. Finalmente, resume la aplicación web como muy buena, intuitiva y efectiva, con un diseño adecuado.
 
 ### 5.3.3. Evaluaciones según herísticas.
 
-**UX Heuristics & Principles Evaluation**
---- 
+UX Heuristics & Principles Evaluation
 
 En esta sección se realizará el reporte de Heurísticas de usabilidad que se ecnotnraron en la realización de la valdiación con posibles usuarios según su segmento.
-
-**UX Heuristics & Principles Evaluation**
---- 
 
 **Usability – Inclusive Design – Information Architecture**
 
@@ -1201,7 +1243,7 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
    1. Información y descripción de la aplicación y sus funcionalidades
    2. Visualización de botón call to action y redirección a web applications
    3. Header y footer apropiado para la landing page
-1. Web Applications
+2. Web Applications
    1. Registro de nuevo usuario
    2. Inicio de sesión de usuario existente
    3. Botones interactivos y de uso intuitivo
@@ -1249,7 +1291,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 1. **Web Application**
 
-***PROBLEMA 1:** El formato de diseño elegido para los botones es inconsistente*
+***PROBLEMA #1:** El formato de diseño elegido para los botones es inconsistente*
 
 ***Severidad:** 1*
 
@@ -1258,12 +1300,12 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 ***Problema:***
 Botones en sección "Sign In y Sign Up"
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/9ed0ca37-09d7-45c7-b111-b614739c209e)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/278846713-9ed0ca37-09d7-45c7-b111-b614739c209e.png)
 
 
 Botones en sección "Financial Management"
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/a145e2c6-d273-4e4e-9bfc-73b8c11b22f8)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/278846724-a145e2c6-d273-4e4e-9bfc-73b8c11b22f8.png)
 
 
 *El formato de diseño elegido para los botones “Sign In” es inconsistente a comparación de todas las secciones de la aplicación web. Esto incluye el color y bordes del botón que permite identificarlos. Como consecuencia, esto puede provocar que potencialmente los usuarios se desorienten y no puedan diferenciar el texto de un botón con el cual pueden interactuar.*
@@ -1271,7 +1313,7 @@ Botones en sección "Financial Management"
 ***Recomendación:**
 Utilizar el mismo estilo de botones para mostrar más información en todas las secciones, de manera que el usuario se familiarice mejor con la aplicación web.*
 
-***PROBLEMA 2:** Al estar en una de las secciones, resulta imposible de diferenciar entre estos debido a que la barra de navegación no indica en qué sección se encuentra el usuario*
+***PROBLEMA #2:** Al estar en una de las secciones, resulta imposible de diferenciar entre estos debido a que la barra de navegación no indica en qué sección se encuentra el usuario*
 
 ***Severidad:** 1*
 
@@ -1281,7 +1323,7 @@ Utilizar el mismo estilo de botones para mostrar más información en todas las 
 
 Barra de navegación:
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/cbbfa595-2a68-4619-8a4c-fa66067715cc)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/277204700-cbbfa595-2a68-4619-8a4c-fa66067715cc.png)
 
 
 *Dentro de las secciones que se ofrecen para ambos roles, no existe ningún indicador resaltante que permita indicar al usuario en qué sección se encuentra, potencialmente provocando que se desubique.*
@@ -1289,7 +1331,7 @@ Barra de navegación:
 ***Recomendación:**
 Resaltar con un cuadro de color resaltante la sección que se seleccione dentro de la barra de navegación, con la finalidad de orientar al usuario.*
 
-***PROBLEMA 3:** No existe un apartado de edición de perfil*
+***PROBLEMA #3:** No existe un apartado de edición de perfil*
 
 ***Severidad:** 2*
 
@@ -1302,7 +1344,7 @@ Resaltar con un cuadro de color resaltante la sección que se seleccione dentro 
 ***Recomendación:**
 Implementar un boton o apartado para editar perfil de usuario.*
 
-***PROBLEMA 4:** En el inicio de sesión, la card de contenido no resalta diferencia del fondo*
+***PROBLEMA #4:** En el inicio de sesión, la card de contenido no resalta diferencia del fondo*
 
 ***Severidad:** 1*
 
@@ -1310,7 +1352,7 @@ Implementar un boton o apartado para editar perfil de usuario.*
 
 ***Problema:***
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/409272f0-0261-4092-bccf-3331e5c190c8)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/277204363-409272f0-0261-4092-bccf-3331e5c190c8.png)
 
 
 *En la pantalla de login, el contenido dento de la card principal de la página, no es notable visualmente ya que no tiene un color que lo diferencie del fondo principal, por lo que el usuario puede forzar la vista y descontrarse para realizar un inicio de sesión exitoso.*
@@ -1318,7 +1360,7 @@ Implementar un boton o apartado para editar perfil de usuario.*
 ***Recomendación:**
 Cambiar el color de la card contenedora de los campos de inicio de sesión*
 
-***PROBLEMA 5:** Inconsistencia en tamaño de tipografía *
+***PROBLEMA #5:** Inconsistencia en tamaño de tipografía *
 
 ***Severidad:** 2*
 
@@ -1326,7 +1368,7 @@ Cambiar el color de la card contenedora de los campos de inicio de sesión*
 
 ***Problema:***
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/ba79cecd-1ba0-489c-a18e-f8eeb0a91a3a)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/277205109-ba79cecd-1ba0-489c-a18e-f8eeb0a91a3a.png)
 
 *En las pantallas de home para ambos roles, existe una incosistencia en el tamaño de la tipografía, lo que ocasiona insatisfacción visual al usuario al momento de navegar por las pantallas de home*
 
@@ -1335,9 +1377,9 @@ Cambiar el color de la card contenedora de los campos de inicio de sesión*
 Corregir la tipografía en todas las secciones de un tamaño equivalente*
 
 
-2. **Landing Page**
+1. **Landing Page**
 
-***PROBLEMA 1:**  El contenido de funcionalidades no se actualiza periodicamente*
+***PROBLEMA #1:**  El contenido de funcionalidades no se actualiza periodicamente*
 
 ***Severidad:** 3*
 
@@ -1345,7 +1387,7 @@ Corregir la tipografía en todas las secciones de un tamaño equivalente*
 
 ***Problema:***
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/62d39d65-9fa9-4d98-859a-cf2b655faad0)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/277208099-62d39d65-9fa9-4d98-859a-cf2b655faad0.png)
 
 *En la sección de funcionalidades, algunas de estas ya no se están implementando, por lo que el usuario puede ser confundido al querer usar esas caracteristicas*
 
@@ -1358,7 +1400,7 @@ Corregir las funcionalidades mostradas en las listas de la sección*
 
 A continuación, se mostrará el Video About the Product, donde se mostrará las carácteristicas de la Landing Page para los segmentos objetivos interesados. De igual manera, la aplicación web será mostrada en su nueva versión del Sprint #3, abarcando muchas más funcionalidades para ser expuestas en este video. Finalmente, también incluye un testimonio de uso realizado en una entrevista de validación:
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/582e24d7-4221-4bb3-a38d-39a876d69ce6)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/278846579-582e24d7-4221-4bb3-a38d-39a876d69ce6.png)
 
 
 Link: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/Echgms5rbepHnsyhy31ZYW8BSf-ggaZUfXAQpmJLpkg_3w?e=tazdiw&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19) 
@@ -1366,26 +1408,12 @@ Link: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/E
 
 Finalmente, se realizó una nueva versión del Video About The Product, donde se mostrará a totalidad las funcionalidades de la aplicación web como resultado del Sprint #4. A continuación el link del video:
 
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/230db99a-26b0-45d5-9f22-39764eb77d27)
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284323869-230db99a-26b0-45d5-9f22-39764eb77d27.png)
 
 Link: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EQSk9OOAoklOpWKUBSAHzBgBr3601RYb6MocpL8xReV2WQ?e=NhCrP8&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
-## 5.5. Video About-the-Team.
-
-A continuación, se mostrará el Video About the Team, donde se relata en voz en off la retrospectiva del grupo con respecto al ciclo de vida del proyecto de software realizado. Además, cada integrante del equipo de desarrollo resume sus tareas realizadas durante el ciclo de vida del proyecto de software. A continuación el link del video:
-
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/04bc9c9f-3eb0-4711-9e49-b79341ce5a4c)
 
 
-Link: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EbkzzmlLil1Mt0T0Xu1XmhkBoba7XcaDEOFrP2nIWuR3fA?e=K4sRnW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19) 
-
-
-Finalmente, se realizó una nueva versión del Video About The Team, donde se actualizará la retrospectiva con respecto al Sprint 4 y se adicionará el resumen de tareas del sprint 4. A continuación el link del video:
-
-![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/bbb08973-97a1-4d8b-b39c-167d52eee3d0)
-
-
-Link: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EeTNdVyXTh1Kra1Knyck_tIB7c1uBw6JMdB_sPRG8jF5og?e=yCIwHe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 # Conclusiones
@@ -1403,6 +1431,21 @@ Link: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/E
 - Se desarrollo la primera version de Web Services, donde como principal base tenemos la logica de negocio orientada al producto solucion, se implementaron operaciones de features de mantenimiento, sin embargo, se planificaron en algunos features incluir logica de negocio. Por otro lado, la implementacion fue un poco complicada, debido a que se tenia que usar dependencias e inyecciones.
 
 - En conclusión, el proyecto de desarrollo de la aplicación web, con un frontend en Angular y un backend en Java, implementado mediante metodologías ágiles, ha demostrado la eficacia de la colaboración dentro de un equipo multidisciplinario de desarrollo de software. La combinación de tecnologías modernas, enfoques ágiles y la diversidad de habilidades en el equipo permitió alcanzar los objetivos establecidos de manera eficiente. La aplicación resultante no solo cumple con los requisitos funcionales, sino que también refleja la adaptabilidad del equipo frente a los cambios y la capacidad para enfrentar desafíos de manera colaborativa. Este proyecto no solo ha mejorado nuestras habilidades técnicas, sino que también ha fortalecido la importancia de la comunicación, la flexibilidad y la iteración continua en el proceso de desarrollo de software. En resumen, la experiencia adquirida a lo largo de este proyecto destaca la efectividad de la combinación de tecnologías de vanguardia y metodologías ágiles en la creación exitosa de aplicaciones web robustas y funcionales.
+
+- A continuación, se mostrará el Video About the Team, donde se relata en voz en off la retrospectiva del grupo con respecto al ciclo de vida del proyecto de software realizado. Además, cada integrante del equipo de desarrollo resume sus tareas realizadas durante el ciclo de vida del proyecto de software. A continuación el link del video:
+
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284324945-04bc9c9f-3eb0-4711-9e49-b79341ce5a4c.png)
+
+
+Link: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EbkzzmlLil1Mt0T0Xu1XmhkBoba7XcaDEOFrP2nIWuR3fA?e=K4sRnW&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19) 
+
+
+Finalmente, se realizó una nueva versión del Video About The Team, donde se actualizará la retrospectiva con respecto al Sprint 4 y se adicionará el resumen de tareas del sprint 4. A continuación el link del video:
+
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284408492-bbb08973-97a1-4d8b-b39c-167d52eee3d0.png)
+
+
+Link: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EeTNdVyXTh1Kra1Knyck_tIB7c1uBw6JMdB_sPRG8jF5og?e=yCIwHe&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 # Referencias

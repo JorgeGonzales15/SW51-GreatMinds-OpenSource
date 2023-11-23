@@ -855,10 +855,12 @@ Inicio de sesión de usuario:
 
 ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284428350-2d6cf8db-3a41-4e31-b9ba-c69c741d9250.png)
 
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/dd5a3e25-4f6f-474d-b9ca-f1c7fe87fa52)
 
 
 
 El producto del desarrollo del presente sprint, está reflejado en el siguiente video, donde se muestra todo lo logrado en este sprint. A continuación el link del video:
+
 
 
 Link del video: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EfP2qBfYF0dBvyIwQjN_qAcBdRcTugJ0D6NK3T3k23VlXg?e=71od8y&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19) 

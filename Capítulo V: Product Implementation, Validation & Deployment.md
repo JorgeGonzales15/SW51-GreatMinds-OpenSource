@@ -860,6 +860,7 @@ Inicio de sesión de usuario:
 
 El producto del desarrollo del presente sprint, está reflejado en el siguiente video, donde se muestra todo lo logrado en este sprint. A continuación el link del video:
 
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/285086750-3f48f4e6-a113-4108-ade3-6efeee180c15.png)
 
 Link del video: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EfP2qBfYF0dBvyIwQjN_qAcBdRcTugJ0D6NK3T3k23VlXg?e=71od8y&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19) 
 
